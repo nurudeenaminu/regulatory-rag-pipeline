@@ -1,0 +1,372 @@
+[
+  {
+    "chunk_id": "2025_23693_0",
+    "text": "TITLE: Transparency in Coverage\nDOCUMENT NUMBER: 2025-23693\nTYPE: Proposed Rule\nAGENCY: Treasury Department, Internal Revenue Service, Labor Department, Employee Benefits Security Administration, Health and Human Services Department\nPUBLISHED: 2025-12-23\nEFFECTIVE: None\nCITATION: 90 FR 60432\nACTION: Proposed rule.\n============================================================\n\nABSTRACT:\nThese proposed rules set forth proposed requirements that would amend the regulations under the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code regarding price transparency reporting requirements for non-grandfathered group health plans and health insurance issuers offering non-grandfathered group and individual health insurance coverage. Specifically, these proposed rules would improve the standardization, accuracy, and accessibility of public pricing disclosures in line with the goals of the Executive Order 14221. With respect to the in-network rate and out-of-network allowed amount machine-readable files, these proposed rules would achieve these goals by adding new contextual files and additional data elements like product type, network name, and enrollment counts; changing the reporting level for aggregation of data; removing in-network rates for unlikely provider-to-service mappings; increasing the reporting period and lowering the claims threshold for out-of-network historical data; and reducing the reporting cadence. These",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_23693_1",
+    "text": "rk rates for unlikely provider-to-service mappings; increasing the reporting period and lowering the claims threshold for out-of-network historical data; and reducing the reporting cadence. These proposed rules would also improve the findability of all of the publicly disclosed machine- readable files required under the Transparency in Coverage rules, including the prescription drug file, by requiring a text file and footer with website URLs and contact information for the files. These proposed rules would also require pricing information that is made available through an online consumer tool and paper (upon request), to also be made available by phone, and establish that the satisfaction of such requirement also satisfies the requirements of section 114 of the No Surprises Act (including for grandfathered group health plans and health insurance issuers offering grandfathered group and individual health insurance coverage that are not otherwise subject to these proposed rules).\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_23693_2",
+    "text": "Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 37,
+    "char_count": 621
+  },
+  {
+    "chunk_id": "2025_23693_3",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of the Treasury</h6>\n<h6 class=\"sub-agency\">Internal Revenue Service</h6>\n<ol>\n<li>26 CFR Part 54</li>\n<li>[REG-107111-25]</li>\n<li>RIN 1545-BQ55</li>\n</ol>\n<h6 class=\"agency\">Department of Labor</h6>\n<h6 class=\"sub-agency\">Employee Benefits Security Administration</h6>\n<ol>\n<li>29 CFR Part 2590</li>\n<li>RIN 1210-AC30</li>\n</ol>\n<h6 class=\"agency\">Department of Health and Human Services</h6>\n<ol>\n<li>45 CFR Part 147</li>\n<li>[CMS-9882-P]</li>\n<li>RIN 0938-AV64</li>\n</ol>\n</div>\n</div></div>\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60432\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60432)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60432\" data-page=\"60432\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"60432\">Internal Revenue Service, Department of the Treasury; Employee Benefits Security Administration, Department of Labor; Centers for Medicare &amp; Medicaid Services, Department of Health and Human Services.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"60432\">Proposed rule.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_23693_4",
+    "text": "nt of Health and Human Services.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"60432\">Proposed rule.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"60432\">These proposed rules set forth proposed requirements that would amend the regulations under the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code regarding price transparency reporting requirements for non-grandfathered group health plans and health insurance issuers offering non-grandfathered group and individual health insurance coverage. Specifically, these proposed rules would improve the standardization, accuracy, and accessibility of public pricing disclosures in line with the goals of the <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>. With respect to the in-network rate and out-of-network allowed amount machine-readable files, these proposed rules would achieve these goals by adding new contextual files and additional data elements like product type, network name, and enrollment counts; changing the reporting level for aggregation of data; removing in-network rates for unlikely provider-to-service mappings; increasing the reporting period and lowering the claims threshold for out-of-network historical data; and reducing the reporting cadence. These proposed rules would also improve the findability of all of the publicly disclosed machine-readable files required",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_23693_5",
+    "text": "old for out-of-network historical data; and reducing the reporting cadence. These proposed rules would also improve the findability of all of the publicly disclosed machine-readable files required under the Transparency in Coverage rules, including the prescription drug file, by requiring a text file and footer with website URLs and contact information for the files. These proposed rules would also require pricing information that is made available through an online consumer tool and paper (upon request), to also be made available by phone, and establish that the satisfaction of such requirement also satisfies the requirements of section 114 of the No Surprises Act (including for grandfathered group health plans and health insurance issuers offering grandfathered group and individual health insurance coverage that are not otherwise subject to these proposed rules).</p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"60432\">To be assured consideration, comments must be received at one of the addresses provided below by February 23, 2026.</p>\n </div>\n<div id=\"addresses\">\n <h1 id=\"h-5\">ADDRESSES:</h1>\n <p id=\"p-5\" data-page=\"60432\">Written comments may be submitted to the addresses specified below. Any comment that is submitted will be shared among the Department of the Treasury, the Department of Labor, the Department of Health and Human Services (the Departments), and the Office of Personnel Management. Please do not submit duplicates.</p>\n <p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_23693_6",
+    "text": "artment of the Treasury, the Department of Labor, the Department of Health and Human Services (the Departments), and the Office of Personnel Management. Please do not submit duplicates.</p>\n <p id=\"p-6\" data-page=\"60432\">Comments will be made available to the public. Warning: Do not include any personally identifiable information (such as name, address, or other contact information) or confidential business information that you do not want publicly disclosed. Comments are posted on the internet exactly as received and can be retrieved by most internet search engines. No deletions, modifications, or redactions will be made to the comments received, as they are public records. Comments may be submitted anonymously.</p>\n <p id=\"p-7\" data-page=\"60432\">In commenting, please refer to file code CMS-9882-P. Because of staff and resource limitations, the Departments cannot accept comments by facsimile (FAX) transmission.</p>\n <p id=\"p-8\" data-page=\"60432\">Comments, including mass comment submissions, must be submitted in one of the following three ways (please choose only one of the ways listed):</p>\n <p id=\"p-9\" data-page=\"60432\">\n 1. \n <em>Electronically.</em>\n You may submit electronic comments on this regulation to \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.regulations.gov</a>.</em>\n Follow the &ldquo;Submit a comment&rdquo; instructions.\n </p>\n <p id=\"p-10\" data-page=\"60432\">\n 2. \n <em>By regular mail.</em>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_23693_7",
+    "text": "lank\" rel=\"noopener noreferrer\">http://www.regulations.gov</a>.</em>\n Follow the &ldquo;Submit a comment&rdquo; instructions.\n </p>\n <p id=\"p-10\" data-page=\"60432\">\n 2. \n <em>By regular mail.</em>\n You may mail written comments to the following address ONLY: Centers for Medicare &amp; Medicaid Services, Department of Health and Human Services, Attention: CMS-9882-P, P.O. Box 8016, Baltimore, MD 21244-8016.\n </p>\n <p id=\"p-11\" data-page=\"60432\">Please allow sufficient time for mailed comments to be received before the close of the comment period.</p>\n <p id=\"p-12\" data-page=\"60432\">\n 3. \n <em>By express or overnight mail.</em>\n You may send written comments to the following address ONLY: Centers for Medicare &amp; Medicaid Services, Department of Health and Human Services, Attention: CMS-9882-P, Mail Stop C4-26-05, 7500 Security Boulevard, Baltimore, MD 21244-1850.\n </p>\n <p id=\"p-13\" data-page=\"60432\">\n For information on viewing public comments, see the beginning of the \n <strong class=\"minor-caps\">SUPPLEMENTARY INFORMATION</strong>\n section.\n </p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-6\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-14\" data-page=\"60432\">Kendra May or Jeremy Rotner, Centers for Medicare and Medicaid Services, (301) 492-4293.</p>\n <p id=\"p-15\" data-page=\"60432\">Elizabeth Schumacher or Sharon Aguirre, Employee Benefits Security Administration, (202) 693-8335.</p>\n <p id=\"p-16\" data-page=\"60432\">Alexander Krupnick, Internal Revenue",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_23693_8",
+    "text": "=\"p-15\" data-page=\"60432\">Elizabeth Schumacher or Sharon Aguirre, Employee Benefits Security Administration, (202) 693-8335.</p>\n <p id=\"p-16\" data-page=\"60432\">Alexander Krupnick, Internal Revenue Service, Department of the Treasury, (202) 317-5500.</p>\n <p id=\"p-17\" data-page=\"60432\">\n Individuals interested in obtaining information from the Department of Labor (DOL) concerning employment-based health coverage laws may call the Employee Benefits Security Administration (EBSA) Toll-Free Hotline at 1-866-444-EBSA (3272) or visit the DOL's website (\n <em><a href=\"http://www.dol.gov/agencies/ebsa\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.dol.gov/&#8203;agencies/&#8203;ebsa</a></em>). In addition, information from the Department of Health and Human Services (HHS) on private health insurance coverage and coverage provided by non-Federal governmental group health plans can be found on the Centers for Medicare &amp; Medicaid Services (CMS) website (\n <em><a href=\"http://www.cms.gov/marketplace\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.cms.gov/&#8203;marketplace</a></em>), information on health care reform can be found at \n <em><a href=\"http://www.healthcare.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.healthcare.gov</a>,</em>\n and information on surprise medical bills can be found at \n <em><a href=\"http://www.cms.gov/nosurprises\" class=\"external\" target=\"_blank\" rel=\"noopener",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 37,
+    "char_count": 1473
+  },
+  {
+    "chunk_id": "2025_23693_9",
+    "text": "thcare.gov</a>,</em>\n and information on surprise medical bills can be found at \n <em><a href=\"http://www.cms.gov/nosurprises\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.cms.gov/&#8203;nosurprises</a>.</em></p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-7\">SUPPLEMENTARY INFORMATION:</h1>\n <p id=\"p-18\" data-page=\"60432\"></p>\n <p id=\"p-19\" data-page=\"60432\">\n <em>Inspection of Public Comments:</em>\n All comments received before the close of the comment period are available for viewing by the public, including any personally identifiable or confidential business information that is included in a comment. The Departments post all comments received before the close of the comment period on the following website as soon as possible after they have been received: \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.regulations.gov</a>.</em>\n Follow the search instructions on that website to view public comments. The Departments will not post on \n <em>Regulations.gov</em>\n public comments that make threats to individuals or institutions or suggest that the commenter will take actions to harm an individual. The Departments continue to encourage individuals not to submit duplicative comments. The \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60433\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 9,
+    "total_chunks": 37,
+    "char_count": 1448
+  },
+  {
+    "chunk_id": "2025_23693_10",
+    "text": "nts. The \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60433\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60433)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60433\" data-page=\"60433\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n Departments will post acceptable comments from multiple unique commenters even if the content is identical or nearly identical to other comments. The Departments encourage commenters to include supporting facts, research, and evidence in their comments. When doing so, commenters are encouraged to provide citations to the materials referenced, including active hyperlinks. Likewise, commenters who reference materials that have not been published are encouraged to upload relevant data collection instruments, data sets, and detailed findings as a part of their comment. Providing such citations and documentation will assist the Departments in analyzing the comments.\n </p>\n <p id=\"p-20\" data-page=\"60433\">\n <em>Plain Language Summary:</em>\n In accordance with <a href=\"https://www.govinfo.gov/link/uscode/5/553\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">5 U.S.C. 553(b)(4)</a>, a plain language summary of this rule may be found at \n <em><a href=\"https://www.regulations.gov/\" class=\"external\" target=\"_blank\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 10,
+    "total_chunks": 37,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "2025_23693_11",
+    "text": "lank\" rel=\"noopener noreferrer\">5 U.S.C. 553(b)(4)</a>, a plain language summary of this rule may be found at \n <em><a href=\"https://www.regulations.gov/\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov/&#8203;</a>.</em></p>\n <h2 id=\"h-8\">I. Executive Summary</h2>\n <h3 id=\"h-9\">A. Purpose</h3>\n <p id=\"p-21\" data-page=\"60433\">\n The Departments of Labor, Health and Human Services (HHS), and the Treasury (collectively, the Departments) issued proposed requirements in the 2019 Transparency in Coverage proposed rules (2019 proposed rules)&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-1-p60433\" id=\"citation-1-p60433\">1</a>] </sup>\n \n and finalized the rules in 2020 (the 2020 final rules).<sup>[<a class=\"footnote-reference\" href=\"#footnote-2-p60433\" id=\"citation-2-p60433\">2</a>] </sup>\n \n The rules aimed to provide consumers with price and benefit information that would enable them to better evaluate health care options and make cost-conscious decisions; reduce surprises in consumers' out-of-pocket costs for health care services; create a competitive dynamic that would begin to narrow price differences for the same services in the same health care markets; foster innovation by providing industry the information necessary to support informed, price-conscious consumers in the health care market; and, over time, potentially lower overall health care costs.<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p60433\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 11,
+    "total_chunks": 37,
+    "char_count": 1481
+  },
+  {
+    "chunk_id": "2025_23693_12",
+    "text": "ormed, price-conscious consumers in the health care market; and, over time, potentially lower overall health care costs.<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p60433\" id=\"citation-3-p60433\">3</a>] </sup>\n \n </p>\n \n \n \n <p id=\"p-25\" data-page=\"60433\">The public disclosures made pursuant to the 2020 final rules led to the release of an enormous amount of previously hidden pricing data. However, post-implementation, the Departments continue to receive feedback from users of the machine-readable files emphasizing the need to address certain gaps in reporting and shrink file size by reducing duplication and removing unnecessary data. Since the finalization of the 2020 final rules, the Departments have also received feedback from many interested parties about the myriad ways in which plans and issuers contract with providers for items and services that impact the usability of the data disclosed under the rules.</p>\n <p id=\"p-26\" data-page=\"60433\">\n On February 25, 2025, President Trump issued <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>, &ldquo;Making America Healthy Again by Empowering Patients With Clear, Accurate, and Actionable Healthcare Pricing Information&rdquo; (<a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>).<sup>[<a class=\"footnote-reference\" href=\"#footnote-4-p60433\" id=\"citation-4-p60433\">4</a>] </sup>\n \n Among other things, <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a> directs the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 12,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_23693_13",
+    "text": "<a class=\"footnote-reference\" href=\"#footnote-4-p60433\" id=\"citation-4-p60433\">4</a>] </sup>\n \n Among other things, <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a> directs the Departments to take all necessary and appropriate action, including issuing proposed regulatory action to promote more transparency in health care pricing information. In line with the goals of <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>, the Departments propose several amendments to the 2020 final rules to improve the standardization, accuracy, and accessibility of pricing information.\n </p>\n \n <p id=\"p-28\" data-page=\"60433\">\n Based on internal assessment and external feedback from interested parties, the Departments have identified three main barriers to fully achieving the goals of the 2020 final rules: inaccessibility due to the size of the machine-readable files, ambiguity regarding some of the data disclosures due to a lack of contextual information alongside the raw data, and misalignment with the &ldquo;2019 Medicare and Medicaid Programs: CY 2020 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates. Price Transparency Requirements for Hospitals To Make Standard Charges Public&rdquo; rule&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-5-p60433\" id=\"citation-5-p60433\">5</a>] </sup>\n \n (2019 Hospital Price Transparency rule) that makes comparing data",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 13,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_23693_14",
+    "text": "Public&rdquo; rule&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-5-p60433\" id=\"citation-5-p60433\">5</a>] </sup>\n \n (2019 Hospital Price Transparency rule) that makes comparing data across disclosures challenging.\n </p>\n \n <p id=\"p-30\" data-page=\"60433\">\n The Departments understand that the large size of many of the required machine-readable files, particularly the in-network rate machine-readable file (In-network Rate File), is the most prominent challenge with working with the machine-readable files. Academics and researchers,<sup>[<a class=\"footnote-reference\" href=\"#footnote-6-p60433\" id=\"citation-6-p60433\">6</a>] </sup>\n \n data engineers,<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p60433\" id=\"citation-7-p60433\">7</a>] </sup>\n \n health plans and health insurance issuers,<sup>[<a class=\"footnote-reference\" href=\"#footnote-8-p60433\" id=\"citation-8-p60433\">8</a>] </sup>\n \n and members of Congress&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-9-p60433\" id=\"citation-9-p60433\">9</a>] </sup>\n \n have stated that these large file sizes create several problems for file users seeking to open and analyze the files, as well as for health plans and health insurance issuers reporting that amount of data. For file users, the amount of data to sift through monthly requires significant resources and time. Smaller datasets are easier to analyze and cheaper to maintain. For plans and issuers, large files have large data storage, maintenance, and bandwidth",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 14,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_23693_15",
+    "text": "onthly requires significant resources and time. Smaller datasets are easier to analyze and cheaper to maintain. For plans and issuers, large files have large data storage, maintenance, and bandwidth costs. The amount of data being generated monthly can also lead to increased errors in the files, making it difficult for plans and issuers to ensure they are compliant with the disclosure requirements and for file users to be confident in the integrity of the data being reported. Reducing the collective burden from large file sizes and making it easier for all users to work with the data in the machine-readable files are among the driving goals of these proposed rules.\n </p>\n \n \n \n \n <p id=\"p-36\" data-page=\"60433\">\n With the 2020 final rules, the Departments expected the public disclosure of pricing information related to health care items and services to help both uninsured and insured individuals in their health care and health coverage purchasing decisions. As stated in the preamble to the 2020 final rules, research indicates that having access to pricing information can increase consumers' overall satisfaction and provide opportunities for education and engagement on health care pricing.<sup>[<a class=\"footnote-reference\" href=\"#footnote-10-p60433\" id=\"citation-10-p60433\">10</a>] </sup>\n \n </p>\n \n <p id=\"p-38\" data-page=\"60433\">\n Price transparency enables consumers to evaluate health care options and make cost-conscious decisions, allowing for the possibility of a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 15,
+    "total_chunks": 37,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2025_23693_16",
+    "text": "</sup>\n \n </p>\n \n <p id=\"p-38\" data-page=\"60433\">\n Price transparency enables consumers to evaluate health care options and make cost-conscious decisions, allowing for the possibility of a competitive dynamic that may narrow price dispersion for the same items and services in the same health care markets and put downward pressure on prices and potentially lower overall health care costs.<sup>[<a class=\"footnote-reference\" href=\"#footnote-11-p60433\" id=\"citation-11-p60433\">11</a>] </sup>\n \n Since the publication of the 2020 final rules, researchers have continued to analyze price transparency in health care with the benefit of access to the data provided largely by the machine-readable files.\n </p>\n \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60434\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60434)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60434\" data-page=\"60434\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n <p id=\"p-40\" data-page=\"60434\">\n Some researchers have identified significant potential cost-savings across the health insurance landscape through greater use of the machine-readable file data.<sup>[<a class=\"footnote-reference\" href=\"#footnote-12-p60434\" id=\"citation-12-p60434\">12</a>] </sup>\n \n Recent discussions extol the potential benefits",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 16,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_23693_17",
+    "text": "greater use of the machine-readable file data.<sup>[<a class=\"footnote-reference\" href=\"#footnote-12-p60434\" id=\"citation-12-p60434\">12</a>] </sup>\n \n Recent discussions extol the potential benefits of price transparency, echoing the reasons the Departments emphasized in the 2020 final rules. These include effects on the demand for health care by &ldquo;guiding patients to lower-priced providers&rdquo; and to the supply side by &ldquo;promot[ing] price competition among providers,&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-13-p60434\" id=\"citation-13-p60434\">13</a>] </sup>\n \n as well as benefits to employers to &ldquo;redesign health benefits and inform purchasing decisions.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-14-p60434\" id=\"citation-14-p60434\">14</a>] </sup>\n \n One analysis emphasized a range of benefits, from &ldquo;optimizing current contracts&rdquo; to &ldquo;increasing the accuracy of performance assumptions, market analysis, and strategic value.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-15-p60434\" id=\"citation-15-p60434\">15</a>] </sup>\n \n Early analyses of the potential financial and economic impacts of the 2020 final rules show promise for fulfilling the goals the Departments articulated in the 2020 final rules of &ldquo;facilitating a market-driven heath care system by giving consumers of health care services data that will enable consumers to make fully informed, cost-conscious decisions",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 17,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_23693_18",
+    "text": "20 final rules of &ldquo;facilitating a market-driven heath care system by giving consumers of health care services data that will enable consumers to make fully informed, cost-conscious decisions when choosing health care.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-16-p60434\" id=\"citation-16-p60434\">16</a>] </sup>\n \n </p>\n \n \n \n \n \n <p id=\"p-47\" data-page=\"60434\">\n While the machine-readable file requirements of the 2020 final rules and the 2019 Hospital Price Transparency rule do not require the exact same disclosures, they have similar goals and some overlapping data. Therefore, it can be useful to review studies of hospital machine-readable files for lessons learned and outcomes that may translate to the plan and issuer machine-readable file disclosures. One study using hospital data found that &ldquo;choosing plans from the largest insurer in the local market is more likely to result in lower negotiated rates than from other plans,&rdquo; which can lead to reduced costs for the &ldquo;growing number of self-insured employers engaged in direct contracts with hospitals.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-17-p60434\" id=\"citation-17-p60434\">17</a>] </sup>\n \n One county government used hospital data in this manner to reduce its health costs by over 40 percent.<sup>[<a class=\"footnote-reference\" href=\"#footnote-18-p60434\" id=\"citation-18-p60434\">18</a>] </sup>\n \n Tools allowing comparison of the hospital data recently",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 18,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2025_23693_19",
+    "text": "s health costs by over 40 percent.<sup>[<a class=\"footnote-reference\" href=\"#footnote-18-p60434\" id=\"citation-18-p60434\">18</a>] </sup>\n \n Tools allowing comparison of the hospital data recently began populating the internet. The Departments are also aware of app developers conducting similar analyses of the data from plan and issuer disclosures and offering them to consumers (both individuals and employers). The Departments expect that continued analyses and development of consumer-facing tools and services will result in similar savings opportunities achieved from studying the hospital machine-readable files.\n </p>\n \n \n <p id=\"p-50\" data-page=\"60434\">However, the success of these analyses and the effectiveness of consumer-facing tools depend on the usability of the machine-readable files. Large file sizes, lack of clarity, and data of limited use hamper efforts to build tools that can be brought to market. These proposed changes, if finalized, would contribute to making the files easier to digest and analyze, reduce challenges for existing tool developers, and open the market to additional tool and app developers.</p>\n <p id=\"p-51\" data-page=\"60434\">\n The Departments seek to address the limitations of the machine-readable files through these proposed rules as well as through updates to the machine-readable file form and manner requirements as detailed in technical implementation guidance. As a first step towards addressing these limitations, on May 22, 2025, the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 19,
+    "total_chunks": 37,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2025_23693_20",
+    "text": "dates to the machine-readable file form and manner requirements as detailed in technical implementation guidance. As a first step towards addressing these limitations, on May 22, 2025, the Departments announced in FAQs Part 70 the intention to release schema version 2.0 (Schema 2.0), which will implement revised technical requirements for the In-network Rate File and out-of-network allowed amounts and billed charges machine-readable file (Allowed Amount File).<sup>[<a class=\"footnote-reference\" href=\"#footnote-19-p60434\" id=\"citation-19-p60434\">19</a>] </sup>\n \n However, the Departments also recognize that more substantive requirements are needed to clarify the data being published and to give users more confidence in the data. Feedback from interested parties demonstrates that, while the raw data from the machine-readable files presents valuable information and opportunities for analysis, additional contextual information is needed to supplement the in-network rates and out-of-network allowed amounts and billed charges disclosed in the machine-readable files. Additional contextual information would allow users to understand changes in pricing over time, promote more accurate reporting, and make pricing information more meaningful and accessible overall. Therefore, the Departments are issuing these proposed rules as a next step to addressing these concerns.\n </p>\n \n <p id=\"p-53\" data-page=\"60434\">\n The disclosure requirements under the Transparency in Coverage rules",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 20,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2025_23693_21",
+    "text": "s are issuing these proposed rules as a next step to addressing these concerns.\n </p>\n \n <p id=\"p-53\" data-page=\"60434\">\n The disclosure requirements under the Transparency in Coverage rules represent just one prong in a multipronged approach to promote greater transparency and understanding of costs and pricing in the health care and the health insurance market. The 2020 final rules must be viewed within the context of other regulatory and statutory changes, such as the Hospital Price Transparency initiative, as well as Title I of Division BB of the Consolidated Appropriations Act, 2021 (CAA), also known as the No Surprises Act, and its consumer protections against surprise billing, its requirements for a good faith estimate, advanced explanation of benefits, and more accurate provider directories. With respect to the Hospital Price Transparency and the Transparency in Coverage initiatives in particular, section 3(b) of <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a> instructed the Departments to &ldquo;issue updated guidance or proposed regulatory action ensuring pricing information is standardized and easily comparable across hospitals and health plans.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-20-p60434\" id=\"citation-20-p60434\">20</a>] </sup>\n \n The Departments received encouraging feedback that &ldquo;commercial prices disclosed in the TiC [Transparency in Coverage] data are mostly comparable to those disclosed by hospitals",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 21,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_23693_22",
+    "text": "</a>] </sup>\n \n The Departments received encouraging feedback that &ldquo;commercial prices disclosed in the TiC [Transparency in Coverage] data are mostly comparable to those disclosed by hospitals in compliance with the hospital price transparency rule and to Marketscan [sic] claims data.&rdquo;&thinsp;\n <sup>[<a class=\"footnote-reference\" href=\"#footnote-21-p60434\" id=\"citation-21-p60434\">21</a>] </sup>\n \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60435\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60435)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60435\" data-page=\"60435\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n However, other interested parties have noted that, despite the consistency of the raw data across hospital and plan and issuer machine-readable files, there are other challenges in comparing the information between the two sets of machine-readable files.<sup>[<a class=\"footnote-reference\" href=\"#footnote-22-p60435\" id=\"citation-22-p60435\">22</a>] </sup>\n \n Therefore, the Departments intend in these proposed rules, along with Schema 2.0, to help align the Hospital Price Transparency reporting requirements and the 2020 final rules, as well as to fulfill the directive under <a href=\"/executive-order/14221\" class=\"eo\">Executive Order",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 22,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_23693_23",
+    "text": "help align the Hospital Price Transparency reporting requirements and the 2020 final rules, as well as to fulfill the directive under <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>.\n </p>\n \n \n \n <p id=\"p-57\" data-page=\"60435\">\n Additionally, to better inform a response to <a href=\"/executive-order/14221\" class=\"eo\">Executive Order 14221</a>, on June 2, 2025, the Departments published a Request for Information (RFI) seeking the public's input on ways to effectively implement or amend the prescription drug machine-readable file requirement in the 2020 final rules.<sup>[<a class=\"footnote-reference\" href=\"#footnote-23-p60435\" id=\"citation-23-p60435\">23</a>] </sup>\n \n </p>\n \n <p id=\"p-59\" data-page=\"60435\">Building off of the 2020 final rules, the Departments propose these rules pursuant to the authority under Section 2715A of the Public Health Service (PHS) Act, incorporated into section 715 of the Employee Retirement Income Security Act (ERISA) and section 9815 of the Internal Revenue Code (Code), which provide that non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage must comply with section 1311(e)(3) of the Patient Protection and Affordable Care Act (Affordable Care Act). This section of the Affordable Care Act addresses transparency in health coverage and imposes certain reporting and disclosure requirements on health plans that are seeking certification as",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 23,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2025_23693_24",
+    "text": "This section of the Affordable Care Act addresses transparency in health coverage and imposes certain reporting and disclosure requirements on health plans that are seeking certification as qualified health plans (QHPs) that may be offered on an Exchange (as defined by section 1311(b)(1) of the Affordable Care Act).</p>\n <p id=\"p-60\" data-page=\"60435\">The Departments also propose these rules pursuant to the authority under the No Surprises Act, which amended chapter 100 of the Code, Part 7 of ERISA, and title XXVII of the PHS Act. Among other protections, the No Surprises Act provides Federal protections against surprise billing by limiting out-of-network cost sharing and prohibiting balance billing in many of the circumstances in which surprise bills most frequently arise. Section 114 of the No Surprises Act added Code section 9819, ERISA section 719, and PHS Act section 2799A-4, which require plans and issuers to offer price comparison guidance by telephone and make a &ldquo;price comparison tool&rdquo; available on the plan's or issuer's website.</p>\n <h3 id=\"h-10\">B. Summary of the Major Provisions</h3>\n <h4 id=\"h-11\">1. Transparency in Coverage&mdash;Definitions</h4>\n <p id=\"p-61\" data-page=\"60435\">The 2020 final rules include definitions at <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A1(a)(2); 29 CFR&thinsp;2590.715-2715A1(a)(2); and <a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 24,
+    "total_chunks": 37,
+    "char_count": 1475
+  },
+  {
+    "chunk_id": "2025_23693_25",
+    "text": "rrent/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A1(a)(2); 29 CFR&thinsp;2590.715-2715A1(a)(2); and <a href=\"https://www.ecfr.gov/current/title-45/section-147.210#p-147.210(a)(2)\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.210(a)(2)</a>. These proposed rules, if finalized, would add a definition of the term health insurance market for purposes of amendments to <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A3(b)(1)(ii), 29 CFR&thinsp;2590.715-2715A3(b)(1)(ii), and <a href=\"https://www.ecfr.gov/current/title-45/section-147.212#p-147.212(b)(1)(ii)\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.212(b)(1)(ii)</a> that would require group health plans and health insurance issuers offering group or individual health insurance coverage to make an out-of-network allowed amount machine-readable file available for each health insurance market in which the plan or issuer offers a plan or coverage. Under <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A1 and <a href=\"https://www.ecfr.gov/current/title-45/section-147.210\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.210</a>, the Departments propose to redesignate",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 25,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2025_23693_26",
+    "text": "a>A1 and <a href=\"https://www.ecfr.gov/current/title-45/section-147.210\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.210</a>, the Departments propose to redesignate paragraphs (a)(2)(xi) through (xxii) as paragraphs (a)(2)(xii) through (xxiii), respectively, and add a new paragraph (a)(2)(xi) with the new definition. Under 29 CFR&thinsp;2590.715-2715A1, the Departments propose to redesignate paragraphs (a)(2)(x) through (xxi) as paragraphs (a)(2)(xi) through (xxii) and add a new paragraph (a)(2)(x) with the new definition.</p>\n <h4 id=\"h-12\">2. Transparency in Coverage&mdash;Required Disclosures to Participants, Beneficiaries, or Enrollees</h4>\n <p id=\"p-62\" data-page=\"60435\">The 2020 final rules at <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A2; 29 CFR&thinsp;2590.715-2715A2; and <a href=\"https://www.ecfr.gov/current/title-45/section-147.211\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.211</a> require non-grandfathered group health plans and health insurance issuers offering non-grandfathered coverage in the group and individual markets to make cost-sharing information available to participants, beneficiaries, and enrollees through an internet-based self-service tool (self-service tool), and in paper form, upon request.</p>\n <p id=\"p-63\" data-page=\"60435\">The Departments propose to amend paragraph",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 26,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2025_23693_27",
+    "text": "and enrollees through an internet-based self-service tool (self-service tool), and in paper form, upon request.</p>\n <p id=\"p-63\" data-page=\"60435\">The Departments propose to amend paragraph (b)(1)(vii)(A) of this section to require the disclaimer, described in that paragraph, to state that the cost-sharing information does not account for potential additional amounts in situations where applicable State and Federal law allow out-of-network providers to balance bill participants, beneficiaries, and enrollees. This proposed amendment reflects the existence of the Federal balance billing protections set forth in the No Surprises Act, which was not in effect when (b)(1)(vii)(A) was finalized in the 2020 final rules. The Departments also propose to clarify that the disclaimer is not required if the State in which the item or service was furnished prohibits all out-of-network providers from balance billing for all items and services payable by the plan or issuer.</p>\n <p id=\"p-64\" data-page=\"60435\">\n In addition, the Departments propose to add a new paragraph at (b)(2)(iii) under this section to require plans and issuers to make available to participants, beneficiaries, and enrollees the cost-sharing estimates and other disclosures required under paragraph (b)(1) via a telephone number to implement requirements under section 9819 of the Code, section 719 of ERISA, and PHS Act Section 2799A-4, as added by section 114 of the No Surprises Act.<sup>[<a class=\"footnote-reference\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 27,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2025_23693_28",
+    "text": "r to implement requirements under section 9819 of the Code, section 719 of ERISA, and PHS Act Section 2799A-4, as added by section 114 of the No Surprises Act.<sup>[<a class=\"footnote-reference\" href=\"#footnote-24-p60435\" id=\"citation-24-p60435\">24</a>] </sup>\n \n The Departments propose to require a telephone number through which a consumer may seek customer assistance which would be required to be the same number that Code section 9816(e), ERISA section 716(e), and PHS Act section 2799A-1(e), as added by section 107 of the No Surprises Act requires be indicated on any physical or electronic plan or insurance identification card issued to a participant, beneficiary, or enrollee. The Departments also propose to redesignate paragraph (b)(2)(ii)(D) as new paragraph (b)(2)(iv) and amend redesignated paragraph (b)(2)(iv) to remove phone as an alternative means by which a participant, beneficiary, or enrollee can request the disclosures required under paragraph (b)(1).\n </p>\n \n <p id=\"p-66\" data-page=\"60435\">\n The Departments also propose to add a new paragraph (c)(7) stating that plans and issuers satisfy the requirements set forth in Code section 9819, ERISA section 719, and PHS Act section 2799A-4 regarding the price comparison tool by providing the information to participants, beneficiaries, and enrollees set forth in paragraph (b)(1) as amended in accordance with the method and format requirements set forth in paragraph (b)(2), as amended.<sup>[<a class=\"footnote-reference\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 28,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_23693_29",
+    "text": "ficiaries, and enrollees set forth in paragraph (b)(1) as amended in accordance with the method and format requirements set forth in paragraph (b)(2), as amended.<sup>[<a class=\"footnote-reference\" href=\"#footnote-25-p60435\" id=\"citation-25-p60435\">25</a>] </sup>\n \n </p>\n \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60436\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60436)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60436\" data-page=\"60436\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n <h4 id=\"h-13\">3. Transparency in Coverage&mdash;Requirements for Public Disclosure</h4>\n <p id=\"p-68\" data-page=\"60436\">The Transparency in Coverage final rules at <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A3; 29 CFR&thinsp;2590.715-2715A3; and <a href=\"https://www.ecfr.gov/current/title-45/section-147.212\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.212</a> require non-grandfathered group health plans and health insurance issuers offering non-grandfathered group and individual health insurance coverage to disclose on a public website, in the format of machine-readable files, information regarding in-network provider rates for",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 29,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_23693_30",
+    "text": "ring non-grandfathered group and individual health insurance coverage to disclose on a public website, in the format of machine-readable files, information regarding in-network provider rates for covered items and services, out-of-network allowed amounts and billed charges for covered items and services, and negotiated rates and historical net prices for covered prescription drugs.</p>\n <p id=\"p-69\" data-page=\"60436\">The Departments propose a number of amendments that would apply to the disclosure of information required under paragraphs (b)(1) and (b)(2). First, the Departments propose to amend the introductory paragraph of (b) to reference new requirements for the public disclosure of contextual information and to redesignate paragraphs (b)(2) through (b)(3) as paragraphs (b)(3) through (b)(4), respectively, and add a new paragraph (b)(2) describing the proposed contextual information disclosure requirements for the In-network Rate File. The Departments also propose to add two new paragraphs, (b)(2)(iv) and (b)(3)(iii), to help users more easily locate the public disclosures made pursuant to these proposed rules by requiring plans and issuers to post a plain text file in a .txt format (Text File) in the root folder of the plan or issuer's website and a specific internet domain as a link in the footer on the home page of the plan's or issuer's website. The Departments are also considering a standardized file format for all machine-readable files. The Departments also",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 30,
+    "total_chunks": 37,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2025_23693_31",
+    "text": "as a link in the footer on the home page of the plan's or issuer's website. The Departments are also considering a standardized file format for all machine-readable files. The Departments also propose to amend the required information at redesignated paragraph (b)(1)(i)(B) and paragraph (b)(1)(ii)(A) to remove the requirement to report a specific number of digits of the Health Insurance Oversight System (HIOS) identifier (ID) that are required for each coverage option and to add a requirement to disclose the product type associated with the plan or policy in the In-network Rate Files and the Allowed Amount Files. The Departments also propose to amend the special rules to prevent unnecessary duplication in current paragraph (b)(4) by redesignating paragraph (b)(4)(i) as paragraph (b)(5)(i), redesignating paragraph (b)(4)(ii) as paragraph (b)(5)(ii), redesignating paragraph (b)(4)(iii) as paragraph (b)(5)(iv), and adding paragraph (b)(5)(iii). In new paragraph (b)(5)(iii), the Departments propose to permit self-insured group health plans under certain circumstances to allow another party, such as a service provider, with which they have an agreement as described in paragraph (b)(5)(ii), to make available in a single In-network Rate File as required under paragraph (b)(1)(i), the information required under paragraph (b)(1)(i) for more than one plan, insurance policy, or contract (including those offered by different plan sponsors with which the other party has an agreement) and",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 31,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_23693_32",
+    "text": "formation required under paragraph (b)(1)(i) for more than one plan, insurance policy, or contract (including those offered by different plan sponsors with which the other party has an agreement) and across different health insurance markets. The Departments also propose to amend newly redesignated paragraph (b)(5)(iv) to permit self-insured group health plans under certain circumstances to allow another party with which they have an agreement to aggregate the Allowed Amount Files required under paragraph (b)(1)(ii) for more than one self-insured group health plan, including those offered by different plan sponsors.</p>\n <p id=\"p-70\" data-page=\"60436\">Finally, the Departments propose to amend newly redesignated paragraph (b)(4) by adding new paragraphs to specify the timing requirements for each machine-readable file required as proposed under these rules. As related to the public disclosures generally, proposed paragraph (b)(4)(i) would amend the required reporting frequency for the In-network Rate and Allowed Amount Files under paragraphs (b)(1)(i) and (b)(1)(ii) from monthly to quarterly but would not propose any changes to the monthly reporting frequency for the prescription drug file required under paragraph (b)(1)(iii). Newly redesignated paragraph (b)(4)(vi) proposes to require the Text File proposed under new paragraph (b)(2)(iv) to be posted beginning on the first day of the calendar-year quarter following the applicability date under paragraph (c)(1) and updated",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 32,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_23693_33",
+    "text": "quire the Text File proposed under new paragraph (b)(2)(iv) to be posted beginning on the first day of the calendar-year quarter following the applicability date under paragraph (c)(1) and updated and posted as soon as practicable but no later than 7 calendar days following a change in any of the information required under redesignated paragraph b)(2)(iv).</p>\n <p id=\"p-71\" data-page=\"60436\">The amendments contained in these proposed rules generally modify requirements related to the In-network Rate Files and the Allowed Amount Files. However, several proposed amendments would amend requirements related to the prescription drug machine-readable files, specifically: the requirement that plans and issuers must include a Text File in the root folder of a plan's or issuer's website as described in proposed paragraphs (b)(2)(iv) (section III.C.7.d. of this preamble) and the requirements related to the method and format for disclosing information to the public as described in proposed redesignated paragraph (b)(3) (section III.C.9. of this preamble). The Departments note in each applicable section when a proposal would modify requirements related to the prescription drug machine-readable files.</p>\n <h4 id=\"h-14\">4. Public Disclosure of In-Network Rates</h4>\n <p id=\"p-72\" data-page=\"60436\">With respect to the disclosure of in-network rates specifically, to reduce duplicate in-network rate data, the Departments propose to amend <a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 33,
+    "total_chunks": 37,
+    "char_count": 1447
+  },
+  {
+    "chunk_id": "2025_23693_34",
+    "text": "436\">With respect to the disclosure of in-network rates specifically, to reduce duplicate in-network rate data, the Departments propose to amend <a href=\"https://www.ecfr.gov/current/title-26/section-54.9815-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">26 CFR 54.9815-2715</a>A3(b)(1)(i), <a href=\"https://www.ecfr.gov/current/title-29/section-2590.715-2715\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">29 CFR 2590.715-2715</a>A3(b)(1)(i), and <a href=\"https://www.ecfr.gov/current/title-45/section-147.212#p-147.212(b)(1)(i)\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 147.212(b)(1)(i)</a> to require plans and issuers to make an In-network Rate File available for each provider network maintained or contracted by the plan or issuer. As part of this proposal, the Departments propose to redesignate paragraphs (b)(1)(i)(A) through (C) as paragraphs (b)(1)(i)(B) through (D), respectively, and add a new paragraph (b)(1)(i)(A) requiring each In-network Rate File to include the common provider network name for which negotiated rate information is included in that file.</p>\n <p id=\"p-73\" data-page=\"60436\">\n The Departments also propose to amend redesignated paragraph (b)(1)(i)(D)(\n <em>1</em>) to require in-network rates to be reflected as a dollar amount except for contractual arrangements under which plans and issuers agree to pay an in-network provider a percentage of billed charges and are not able to assign a dollar",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 34,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_23693_35",
+    "text": "e reflected as a dollar amount except for contractual arrangements under which plans and issuers agree to pay an in-network provider a percentage of billed charges and are not able to assign a dollar amount to an item or service prior to a bill being generated. The Departments also propose to add new paragraph (b)(1)(i)(E), requiring each In-network Rate File to include current enrollment totals, as of the date the file is posted, for each plan or coverage option offered by a plan or issuer that uses that file's provider network.\n </p>\n <p id=\"p-74\" data-page=\"60436\">\n The Departments also propose in new paragraph (b)(1)(i)(F) to require plans and issuers to exclude any provider and their negotiated rate (provider-rate combination) for an item or service, if the provider is unlikely to be reimbursed for the item or service given that provider's area of specialty, according to the plan's or issuer's internal provider taxonomy used during the claims adjudication process. The Departments also propose to amend newly redesignated paragraph (b)(1)(i)(D)(\n <em>2</em>) to account for this proposed required exclusion.\n </p>\n <p id=\"p-75\" data-page=\"60436\">\n The Departments also propose to require plans and issuers to post several contextual machine-readable files under new paragraph (b)(2) that would help file users better understand the public \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60437\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 35,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_23693_36",
+    "text": ") that would help file users better understand the public \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"60437\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 60437)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-60437\" data-page=\"60437\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n disclosures required in the In-network Rate Files under paragraph (b)(1)(i). This proposal would mean plans and issuers would be required to prepare new contextual files for each In-network Rate File prepared pursuant to these proposed rules. In particular, the Departments propose to require a change-log file (&ldquo;Change-log File&rdquo;) at new paragraph (b)(2)(i), which would identify any changes made to the required information described in paragraph (b)(1)(i) in the In-network Rate File sin",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_23693",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 36,
+    "total_chunks": 37,
+    "char_count": 1004
+  }
+]

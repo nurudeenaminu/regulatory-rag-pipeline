@@ -1,0 +1,12 @@
+[
+  {
+    "chunk_id": "Betadine_2_warnings_0",
+    "text": "DRUG: Betadine\n============================================================\n\n## WARNINGS\nWarnings For external use only\n\n## DOSAGE_AND_ADMINISTRATION\nDirections clean the affected area spray a small amount of the product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first\n\n## INDICATIONS_AND_USAGE\nUses First aid to help prevent infection in minor cuts scrapes burns",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Betadine_2_warnings",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "char_count": 411
+  }
+]

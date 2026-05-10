@@ -1,0 +1,862 @@
+[
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_0",
+    "text": "EX-10.1\n\n3\n\naqb-20260407xex10_1.htm\n\nEX-10.1\n\n Ex10.1 Form of Securities Exchange Agreement\n \n\nExhibit 10.1",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 86,
+    "char_count": 107
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_1",
+    "text": "This \nExchange Agreement\n (this “\nAgreement\n”) is dated as of \nApril \n7\n, 202\n6\n \nbetween \nAquaBounty Technologies, Inc\n.\n, a Delaware corporation (the “\nCompany\n”), and the purchaser identified on \nAnnex A\n hereto (\neach, \nincluding its successors and assigns, the “\nInvestor\n”\n)\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "AGREEMENT",
+    "chunk_index": 1,
+    "total_chunks": 86,
+    "char_count": 282
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_2",
+    "text": ",  \nthe Investor\n is a holder of a senior note\n in the principal amount set forth on \nAnnex A\n hereto\n  (\nthe\n  “\nSenior Note\n,” together with the other senior notes issued by the Company, the “\nSenior Notes\n”\n) issued by the Company pursuant to a\n Note Purchase Agreement, dated October 28, 2025, by and among the Company and the original holders of the \nSenior \nNotes (\ncollectively, \nthe “\nInvestors\n”), as amended, modified, or supplemented from time to time in accordance with its terms (the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "WHEREAS",
+    "chunk_index": 2,
+    "total_chunks": 86,
+    "char_count": 498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_3",
+    "text": ", (i) the Company wishes to offer for sale \nto the Investors \nup to an aggregate of $5,000,000 in \nPreferred Stock (the “\nOffering\n”), designated as “Series A Convertible Preferred Stock”\n \n(the “\nSeries A Preferred Stock\n”)\n,\n and (ii) as part of the Offering, \nthe Investor wishes to exchange the Senior Note in order to purchase from the Company the amount of shares of \nSeries A Preferred Stock\n set forth on \nAnnex A\n hereto (the “\nShares\n”), and the Company wishes to sell the Shares to the Investor in exchange for the \ndelivery and cancellation of the Senior Note\n, upon the terms and conditions stated in this Agreement.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "WHEREAS",
+    "chunk_index": 3,
+    "total_chunks": 86,
+    "char_count": 629
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_4",
+    "text": ", the Company and Investor are executing and delivering this Agreement in reliance upon an exemption from securities registration requirements of the Securities Act of 1933, as amended, afforded by the provisions of Section 4(a)(2) and/or Rule 506(b) of Regulation D promulgated thereunder by the U.S. Securities and Exchange Commission\n.\n\nNOW, THEREFORE\n, in consideration of the mutual covenants contained in this Agreement, and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Company and Investor agree as follows:",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "WHEREAS",
+    "chunk_index": 4,
+    "total_chunks": 86,
+    "char_count": 575
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_5",
+    "text": "Definitions\n. In addition to the terms defined elsewhere in this Agreement\n,  \nthe following terms have the meanings set forth in this Agreement.\n\n“\n$\n” means United States Dollars.\n\n“\nAction\n”  \nmeans any \naction, suit, inquiry, notice of violation, proceeding or investigation pending or, to the knowledge of the Company, threatened against or affecting the Company, or any of its properties, before or by any court, arbitrator, governmental or administrative agency or regulatory authority (federal, state, county, local or foreign)\n.\n\n“\nAffiliate\n” means any Person that, directly or indirectly through one or more intermediaries, controls or is controlled by or is under common control with a Person, as such terms are used in and construed under Rule 405 under the Securities Act.\n\n“\nBoard of Directors\n” means the board of directors of the Company.\n\n \n \n\n“\nBusiness Day\n” means any day except Saturday, Sunday, any day which is a federal legal holiday in the United States or any day on which banking institutions in the State of New York are authorized or required by law or other governmental action to close. If the last or appointed day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then such action may be taken or such right may be exercised on the next succeeding Business Day.\n\n“\nClosing\n” means the closing of the purchase and sale of the \nShares\n pursuant to Section 2.01.\n\n“\nClosing Date\n” means the date",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 1.01",
+    "chunk_index": 5,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_6",
+    "text": "h right may be exercised on the next succeeding Business Day.\n\n“\nClosing\n” means the closing of the purchase and sale of the \nShares\n pursuant to Section 2.01.\n\n“\nClosing Date\n” means the date hereof. \n\n“\nCommon Stock\n” means the common stock of the Company, par value $0.001 per share, and any other class of securities into which such securities may hereafter be reclassified or changed.\n\n“",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 1.01",
+    "chunk_index": 6,
+    "total_chunks": 86,
+    "char_count": 392
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_7",
+    "text": "” means that certain default waiver letter to be entered into by the Company and the Investors in respect of \ncertain compliance or remedial measures taken by Nasdaq \nin respect of the Common Stock in light of certain information that the Company included in its Form 10-K for the fiscal year ended December 31, 2025, which was filed on March 31, 2026\n.\n\n“\nExchange Act\n” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.\n\n“\nGAAP\n” means U.S. generally accepted accounting principles consistently applied.\n\n“\nGovernmental Entity\n” means any national, federal, state, county, municipal, local or foreign government, or any political subdivision, court, body, agency or regulatory authority thereof, and any person exercising executive, legislative, judicial, regulatory, taxing or administrative functions of or pertaining to any of the foregoing.\n\n“\nLaw\n” means any law, statute, common law, rule, code, executive order, directive, ordinance, regulation, order, statutory guidance, regulatory code of practice, permit or term or condition thereof, binding action or other requirement issued, entered, enforced or applied by any Governmental Entity.\n\n“\nLiens\n” shall mean a lien, charge, security interest, encumbrance, right of first refusal, preemptive right or other\n similar\n restriction or adverse claim of a third party.\n\n“",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Default Waiver Letter",
+    "chunk_index": 7,
+    "total_chunks": 86,
+    "char_count": 1387
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_8",
+    "text": "”  \nshall mean any events, changes or developments that, individually or in the aggregate, have a material adverse effect on the business, financial condition or results of operations of the Company and its Subsidiaries\n as currently conducted\n, taken as a whole, other than any event, change or development resulting from or arising out of the following: (a) events, changes or developments generally affecting the economy, the financial or securities markets, or political, legislative or regulatory conditions, in each case in the United States or elsewhere in the world, (b) events, changes or developments in the industries in which the Company or any of its Subsidiaries conducts its business, (c) any adoption, implementation, promulgation, repeal, modification, reinterpretation or proposal of (i) any Law by a Governmental \n\n \n\n2\n\n \n\nEntity or (ii) rule or regulation by a market administrator, (d) any changes in GAAP or accounting standards or interpretations thereof, (e) earthquakes, any weather-related or other force majeure event or natural disasters, pandemics or outbreak or escalation of hostilities or acts of war or terrorism, (f) the announcement or the existence of, compliance with or performance under, this Agreement or the transactions contemplated hereby (it being understood and agreed that the exception in this clause (f) shall not apply with respect to any representation or warranty that is intended to address the consequences of the execution, delivery or",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Material Adverse Effect",
+    "chunk_index": 8,
+    "total_chunks": 86,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_9",
+    "text": "ood and agreed that the exception in this clause (f) shall not apply with respect to any representation or warranty that is intended to address the consequences of the execution, delivery or performance of this Agreement or the consummation of the transactions contemplated hereby), (g) any taking of any action at the request of the \nInvestor\n, (h) any failure by the Company to meet any financial projections or forecasts or estimates of revenues, earnings or other financial metrics for any period (provided that the exception in this clause (h) shall not prevent or otherwise affect a determination that any event, change, effect or development underlying such failure has resulted in a Material Adverse Effect so long as it is not otherwise excluded by this definition) or (i) any changes in the share price or trading volume of the Company’s Common Stock or in the Company’s credit rating (provided that the exception in this clause (i) shall not prevent or otherwise affect a determination that any event, change, effect or development underlying such change has resulted in a Material Adverse Effect so long as it is not otherwise excluded by this definition); except, in each case with respect to subclauses (a) through (e), to the extent that such event, change or development disproportionately affects the Company and its Subsidiaries, taken as a whole, relative to other similarly situated companies in the industries in which the Company and its Subsidiaries conduct their",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Material Adverse Effect",
+    "chunk_index": 9,
+    "total_chunks": 86,
+    "char_count": 1486
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_10",
+    "text": "ately affects the Company and its Subsidiaries, taken as a whole, relative to other similarly situated companies in the industries in which the Company and its Subsidiaries conduct their business.\n\n“\nNasdaq\n” means The \nNasdaq \nStock Market LLC.\n\n“\nPerson\n” means an individual or corporation, partnership, trust, incorporated or un-incorporated association, joint-venture, limited liability company, joint-stock company, government (or an agency or subdivision thereof) or other entity of any kind.\n\n“\nPlacement Agent\n” means \nUnivest Securities, LLC\n.\n\n“\nPreferred\n Stock\n” means the preferred stock of the Company, par value $0.01 per share, and any other class of securities into which such securities may hereafter be reclassified or changed.\n\n“\nProceeding\n” means an action, claim, suit, investigation or proceeding (including, without limitation, an informal investigation or partial proceeding, such as a deposition), whether commenced or threatened.\n\n“\nSEC\n” means the United States Securities and Exchange Commission.\n\n“\nSEC Reports\n”\n means collectively all reports, schedules, forms, statements and other documents required to be filed by the Company under the Securities Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) thereof, since January 1, 2024 (including the exhibits thereto and documents incorporated by reference therein).\n\n“\nSecurities Act\n” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.\n\n \n\n3\n\n \n\n“",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Material Adverse Effect",
+    "chunk_index": 10,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_11",
+    "text": "exhibits thereto and documents incorporated by reference therein).\n\n“\nSecurities Act\n” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.\n\n \n\n3\n\n \n\n“",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Material Adverse Effect",
+    "chunk_index": 11,
+    "total_chunks": 86,
+    "char_count": 198
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_12",
+    "text": "” means the securities (or “blue sky”) rules, regulations, or other similar laws of a particular state.\n\n“\nSubsidiary\n”\n means any individual or entity the Company wholly\n \nowns or controls, or in which the Company, directly or indirectly, owns a majority of the voting stock or similar voting interest, in each case that is or would be disclosable pursuant to Item 601(b)(21) of Regulation S-K promulgated under the Securities Act\n.\n\n“\nTransaction Documents\n” means this Agreement\n and\n all appendices, exhibits and schedules hereto and thereto and any other documents or agreements executed in connection with the transactions contemplated hereunder.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "State Securities Laws",
+    "chunk_index": 12,
+    "total_chunks": 86,
+    "char_count": 652
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_13",
+    "text": "Closing\n.  \n\n (a)\n\nOn the Closing Date, upon the terms and subject to the conditions set forth herein, substantially concurrent with the execution and delivery of this Agreement by the parties hereto, the\n Investor agrees to purchase, and the \nCompany agrees to sell, \nthe Shares in exchange for the consideration listed in",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 2.01",
+    "chunk_index": 13,
+    "total_chunks": 86,
+    "char_count": 323
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_14",
+    "text": ".  \n\n (b)\n\nThe Company and the Investor agree that on the Closing Date, notwithstanding any provision\ns of the Note Purchase Agreement or the Senior Note to the contrary, the principal amount of the Senior Note and any and all interest accrued thereon shall be exchanged in its entirety for the Shares and the Senior Note shall be deemed paid in full and cancelled, shall have no further force or effect and shall not be re-issued, assigned or re-sold.\n The Company and the Investor further agree that the exchange ratio in respect of the amount of Shares to be issued to the Investor will \nbe \ndetermined by reference to the closing sale price of the Common Stock on Nasdaq for the \ntrading day immediately preceding the Closing Date, as more fully set forth on \nAnnex A\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 2.01(b)",
+    "chunk_index": 14,
+    "total_chunks": 86,
+    "char_count": 773
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_15",
+    "text": "Closing Deliverables\n.\n\n (a)\n\nBy Investor\n. On or prior to the Closing Date, \nthe \nInvestor shall deliver or cause to be delivered to the Company the following:\n\n (i)\n\nthis Agreement\n,\n duly executed by \nthe \nInvestor;\n\n (ii)\n\nthe Senior Note for cancellation\n;\n and\n\n (iii)\n\nthe Default Waiver Letter\n, duly executed by \nthe \nInvestor\n, if applicable. \n\n (b)\n\nBy the Company\n. On or prior to the Closing Date, the Company shall deliver or cause to be delivered to\n the\n Investor:\n\n \n\n4\n\n \n\n (i)\n\nthis Agreement, duly executed by an authorized officer of behalf of the Company;\n\n (ii)\n\nreasonable evidence of the issuance of the Shares\n;\n\n (iii)\n\nreasonable evidence of the \nfiling of the Certificate of Designations with respect to the Shares with the \nSecretary of State of the State of Delaware\n;\n and\n\n (iv)\n\nan officer’s certificate of the Company certifying the Company’s: (A) good standing certificate in its state of incorporation\n \nand (\nB\n) resolutions of \nthe\n Board of Directors approving and authorizing the execution, delivery and performance of the Transaction Documents and the transactions contemplated thereby.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 2.02",
+    "chunk_index": 15,
+    "total_chunks": 86,
+    "char_count": 1128
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_16",
+    "text": "Closing Conditions\n.\n\n (a)\n\nThe obligations of the Company hereunder in connection with the Closing are subject to the following conditions being met:\n\n (i)\n\nthe accuracy in all material respects on the Closing Date of Investor’s representations and warranties contained herein;\n\n (ii)\n\nall obligations, covenants and agreements of \nthe \nInvestor required to be performed at or prior to the Closing Date shall have been performed; and\n\n (iii)\n\nthe delivery by \nthe \nInvestor of the items set forth in",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 2.03",
+    "chunk_index": 16,
+    "total_chunks": 86,
+    "char_count": 500
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_17",
+    "text": "of this Agreement.\n\n (b)\n\nThe obligations of Investor hereunder in connection with the Closing are subject to the following conditions being met (it being understood that the Company may waive any of the conditions for any Closing hereafter):\n\n (i)\n\nthe accuracy in all material respects (or, to the extent representations or warranties are qualified by materiality or Material Adverse Effect, in all respects) when made and on the Closing Date of the representations and warranties of the Company contained herein (unless as of a specific date therein in which case they shall be accurate as of such date);\n\n (ii)\n\nall obligations, covenants and agreements of the Company required to be performed at or prior to the Closing Date shall have been performed;\n and\n\n (iii)\n\nthe delivery by the Company of the items set forth in",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 2.02(a)",
+    "chunk_index": 17,
+    "total_chunks": 86,
+    "char_count": 824
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_18",
+    "text": "Representations and Warranties of the Company\n.\n The Company hereby represents and warrants to Investor that, except as set forth in extant SEC Reports, the following representations are true and complete as of the date hereof.\n\n (a)\n\nOrganization and Qualification\n.\n \nEach of the Company and its Subsidiaries has been duly incorporated and is validly existing as a corporation in good standing under the Laws of the jurisdiction in which it is chartered or organized with full corporate power and authority to own or lease, as the case may be, and to operate its properties and conduct its business, and to execute and deliver this Agreement. Each of the Company and its Subsidiaries is duly qualified to do business as a foreign corporation and is in good standing under the Laws of each jurisdiction which requires such qualification. The Company has no Subsidiaries except for Aqua Bounty Farms Chile Limitada, an entity organized in Chile, AquaBounty Farms, Inc., a Delaware corporation, AquaBounty Farms Indiana LLC, a Delaware limited liability company\n,\n and AquaBounty Farms Ohio LLC, an Ohio limited liability company.\n\n (b)\n\nAuthorization; Enforcement\n.\n\n (i)\n\nThis Agreement has been duly authorized, executed and delivered by the Company, and constitutes the legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization or similar Laws relating to or",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.01",
+    "chunk_index": 18,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_19",
+    "text": "ligation of the Company, enforceable against the Company in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization or similar Laws relating to or affecting the enforcement of creditors’ rights generally and (ii) as limited by equitable principles generally.\n\n (ii)\n\nThe Shares have been duly and validly authorized and, when issued and delivered to and paid for by the \nInvestor\n pursuant to this Agreement, will be validly issued, fully paid and nonassessable and not subject to any Liens.  The issuance and sale of the Shares will not obligate the Company or any Subsidiary to issue shares of Common Stock\n, Preferred Stock\n or other securities to any Person.  \n\n (c)\n\nNo Conflicts\n.  \nNeither the \nissuance of the \nShares\n, nor the consummation of any of the other transactions herein contemplated nor the fulfillment of the terms hereof, will conflict with, result in a breach or violation of, or imposition of any Lien upon any property or assets of the Company or its Subsidiaries pursuant to, (i) the charter or by-laws of the Company or its Subsidiaries, (ii) the terms of any indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other agreement, obligation, condition, covenant or instrument to which the Company or its Subsidiaries are a party or bound or to which its property is subject, or (iii) any Law applicable to the Company or its Subsidiaries of any court, regulatory body, administrative agency,",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.01",
+    "chunk_index": 19,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_20",
+    "text": "ny or its Subsidiaries are a party or bound or to which its property is subject, or (iii) any Law applicable to the Company or its Subsidiaries of any court, regulatory body, administrative agency, governmental body, arbitrator or other authority having jurisdiction over the Company, its Subsidiaries or any of their properties.\n\n (d)\n\nFilings, Consents and Approvals\n.  \nNo consent, approval, authorization, filing with or order of any court or governmental agency or body is required in connection with the transactions contemplated herein, except \nfor any post-Closing filings \nas may be required under \n\n \n\n6\n\n \n\nthe Securities Act\n or\n \nthe \nblue sky Laws of any jurisdiction in connection with the purchase of the \nShares\n \nby the \nInvestor\n,  \nor \ncompliance with any required filings pursuant to the Exchange Act or the rules of the SEC or Nasdaq.\n\n (e)\n\nCapitalization\n.  \nAs of the date hereof, the authorized capital stock of the Company consists of \n80\n,000,000 shares of capital stock\n, of which 75,000,000 is\n designated as Common Stock, $0.001 par value per share\n,\n and 5,000,000 is designated as \nP\nreferred \nS\ntock, $0.01 par value per share\n.  As of \nMarch\n 31, 202\n6\n: (i) \n5,147,204 \nshares of Common Stock were issued and outstanding; (ii) \n37,594\n shares of Common Stock were issuable (and such number was reserved for issuance) upon exercise or vesting of Common Stock-based awards outstanding as of such date\n,\n (iii) prefunded warrants to purchase 67,706 shares of Common",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.01",
+    "chunk_index": 20,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_21",
+    "text": "issuable (and such number was reserved for issuance) upon exercise or vesting of Common Stock-based awards outstanding as of such date\n,\n (iii) prefunded warrants to purchase 67,706 shares of Common Stock were outstanding\n \nand \n(i\nv\n) no shares of \nP\nreferred \nS\ntock were outstanding\n.\n    \nThe outstanding shares of Common Stock have been duly and validly authorized and issued and are fully paid and nonassessable\n. No \nPerson has any right of first refusal, preemptive right, right of participation, or any similar right to participate in the transactions contemplated by the Transaction Documents\n, and t\nhe issuance and sale of the \nShares\n will not obligate the Company or any Subsidiary to issue Common Stock\n, Preferred Stock\n or other securities to any Person and will not result in a right of any holder of Company securities to adjust the exercise, conversion, exchange or reset price under any of such securities\n. Except \nas set forth \nabove \nand except for any shares of Common Stock that are issuable upon exercise or vesting of Common Stock-based awards granted pursuant to the Company’s 2006 or 2016 equity incentive plans (collectively, the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.01",
+    "chunk_index": 21,
+    "total_chunks": 86,
+    "char_count": 1162
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_22",
+    "text": "”) since \nDecember\n 31\n, 2025, no options, warrants or other rights to purchase, agreements or other obligations to issue, or rights to convert any obligations into or exchange any securities for, shares of capital stock of or ownership interests in the Company are outstanding.  There are no stockholder agreements, voting agreements or other similar agreements with respect to the Company’s capital stock to which the Company is a party or, to the knowledge of the Company, between or among any of the Company’s stockholders\n\n (f)\n\nSEC Reports; Financial Statements\n.  \n\n (i)\n\nThe Company has filed all SEC Reports since January 1, 2024 on a timely basis or has received a valid extension of such time of filing and has filed any such SEC Reports before the expiration of any such extension.\n\n (ii)\n\nAs of their respective dates, the SEC Reports complied in all material respects with the requirements of the Securities Act and the Exchange Act, as applicable, and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.\n\n (iii)\n\nThe financial statements of the Company included in the SEC Reports comply in all material respects with applicable accounting requirements and the rules and regulations of the \nSEC \nwith respect thereto as in effect at the time of",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 22,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_23",
+    "text": "included in the SEC Reports comply in all material respects with applicable accounting requirements and the rules and regulations of the \nSEC \nwith respect thereto as in effect at the time of filing. Such financial statements have been prepared in accordance with GAAP, except as may be otherwise specified in such financial statements or the notes thereto and except that unaudited financial statements may not contain all footnotes required by GAAP, and fairly \n\n \n\n7\n\n \n\npresent in all material respects the financial position of the Company and its consolidated Subsidiaries as of and for the dates thereof and the results of operations and cash flows for the periods then ended, subject, in the case of unaudited statements, to normal, immaterial, year-end audit adjustments.\n\n (iv)\n\nThe Company maintains a system of internal controls, including, but not limited to, disclosure controls and procedures, internal controls over accounting matters and financial reporting, and legal and regulatory compliance controls (collectively, “\nInternal Controls\n”) that comply with applicable securities laws and are sufficient to provide reasonable assurances that (\nA\n) transactions are executed in accordance with management’s general or specific authorizations, (\nB\n) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain accountability for assets, (\nC\n) access to assets is permitted only in accordance with management’s general",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 23,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_24",
+    "text": "ssary to permit preparation of financial statements in conformity with GAAP and to maintain accountability for assets, (\nC\n) access to assets is permitted only in accordance with management’s general or specific authorization, and (\nD\n) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences.  Except as described in the SEC \nReports\n or as reported to the Audit Committee\n, the Company has not publicly disclosed (x) a significant deficiency, material weakness, change in Internal Controls or fraud involving management or other employees who have a significant role in Internal Controls, (y) any violation of, or failure to comply with, applicable securities laws, or (z) any matter which, if determined adversely, would have a Material Adverse Effect.\n\n (g)\n\nUndisclosed Liabilities\n.  \nThe Company has no liabilities or obligations (accrued, absolute, contingent or otherwise), other than liabilities or obligations (i) reflected on the most recent balance sheet of the Company included in the SEC Reports, (ii) incurred in the ordinary course of business since the date of the most recent balance sheet of the Company included in the SEC Reports, (iii) incurred in connection with this Agreement, (iv) incurred pursuant to contracts binding on the Company (other than those resulting from a breach thereof) or (v) that would not, individually or in the aggregate, reasonably be",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 24,
+    "total_chunks": 86,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_25",
+    "text": "Agreement, (iv) incurred pursuant to contracts binding on the Company (other than those resulting from a breach thereof) or (v) that would not, individually or in the aggregate, reasonably be expected to result in a Material Adverse Effect or prevent the consummation of the transactions contemplated hereby.\n\n (h)\n\nMaterial Changes\n.  \nSince the date of the most recent balance sheet included within the SEC Reports, (i) \nthere has been no event, occurrence or development that has had or that could reasonably be expected to result in a Material Adverse Effect\n, (ii) the Company has not incurred any liabilities (contingent or otherwise) other than (A) trade payables and accrued expenses incurred in the ordinary course of business consistent with past practice and (B) liabilities not required to be reflected in the Company’s financial statements pursuant to GAAP or disclosed in filings made with the \nSEC\n, (iii) the Company has not altered its method of accounting, (iv) the Company has not declared or made any dividend or distribution of cash or other property to its stockholders or purchased, redeemed or made any agreements to purchase or redeem any shares of its capital stock and (v) the Company has not issued any equity securities to any officer, director or Affiliate, except pursuant to the Equity Incentive Plans. The Company does not have pending before the \nSEC\n any request for confidential treatment of information. \n \nExcept for the \ntransactions \ncontemplated by this",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 25,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_26",
+    "text": "ant to the Equity Incentive Plans. The Company does not have pending before the \nSEC\n any request for confidential treatment of information. \n \nExcept for the \ntransactions \ncontemplated by this Agreement\n, including the issuance of the \nShares\n, and \nany other \ntransactions \nor \nShare\n issuances contemplated \nas of the Closing Date\n, no event, liability, fact, circumstance, occurrence or development has occurred or exists with respect to the Company or its \nSignificant \nSubsidiaries \n(as such term is defined in Rule 1-02(w) of Regulation S-X)\n \nor their respective \n\n \n\n8\n\n \n\nbusinesses, prospects, properties, operations, assets or financial condition that would be required to be disclosed by the Company under applicable securities laws at the time this representation is made or deemed made that has not been publicly disclosed at least one (1)\n Business \nDay prior to the date that this representation is made.\n\n (i)\n\nLitigation\n.  \nExcept as disclosed in the SEC Reports, neither the Company nor any of its directors or officers is engaged in any litigation, administrative, mediation or arbitration proceedings or other proceedings or hearings before any Governmental Entity and is not the subject of any investigation, inquiry or enforcement proceedings by any Governmental Entity that could be reasonably expected to have a Material Adverse Effect. No such proceeding, investigation or inquiry is pending or, to the Company’s actual knowledge, threatened against the Company, and, to",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 26,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_27",
+    "text": "could be reasonably expected to have a Material Adverse Effect. No such proceeding, investigation or inquiry is pending or, to the Company’s actual knowledge, threatened against the Company, and, to the Company’s actual knowledge, there are no circumstances likely to give rise to any such proceedings.\n\n (j)\n\nEmployment Matters\n.  \nTo the Company’s actual knowledge, no executive officer of the Company or any Subsidiary is, or is now expected to be, in violation of any material term of any employment contract, confidentiality, disclosure or proprietary information agreement or non-competition agreement, or any other contract or agreement or any restrictive covenant in favor of any third party, and the continued employment of each such executive officer does not subject the Company or any of its Subsidiaries to any liability with respect to any of the foregoing matters. The Company and its Subsidiaries are in compliance with all U.S. federal, state, local and foreign Laws relating to employment and employment practices, terms and conditions of employment and wages and hours, except where the failure to be in compliance could not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect\n.\n\n (k)\n\nCompliance\n.  \nNeither the Company nor any Subsidiary: (i) is in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse of time or both, would result in a default by the Company or any Subsidiary",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 27,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_28",
+    "text": "(i) is in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse of time or both, would result in a default by the Company or any Subsidiary under), nor has the Company or any Subsidiary received notice of a claim that it is in default under or that it is in violation of, any indenture, loan or credit agreement or any other agreement or instrument to which it is a party or by which it or any of its properties is bound (whether or not such default or violation has been waived), (ii) is in violation of any judgment, decree or order of any court, arbitrator or other governmental authority or (iii) is or has been in violation of any statute, rule, ordinance or regulation of any governmental authority, except in each case as could not have or reasonably be expected to result in a Material Adverse Effect.\n\n (l)\n\nRegulatory Permits\n. The Company possesses all certificates, authorizations and permits issued by the appropriate federal, state, local or foreign regulatory authorities necessary to conduct its business, except where the failure to possess such permits could not reasonably be expected to result in a Material Adverse Effect.\n\n (m)\n\nTitle to Assets\n.  \nThe Company and its Subsidiaries have good and marketable title in fee simple to all real property owned by them and good and marketable title in all personal property owned by them that is material to the business of the Company and the Subsidiaries, in each case free",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 28,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_29",
+    "text": "simple to all real property owned by them and good and marketable title in all personal property owned by them that is material to the business of the Company and the Subsidiaries, in each case free and clear of all Liens, except for (i) Liens as do not materially affect the value of such property and do not materially interfere with the use made and proposed to be made of such property by the Company and the Subsidiaries and (ii) Liens for the payment of \n\n \n\n9\n\n \n\nfederal, state or other taxes, for which appropriate reserves have been made therefor in accordance with GAAP and, the payment of which is neither delinquent nor subject to penalties. Any real property and facilities held under lease by the Company and the Subsidiaries are held by them under valid, subsisting and enforceable leases with which the Company and the Subsidiaries are in compliance.\n\n (n)\n\nListing and Maintenance Requirements\n.  The Common Stock is registered pursuant to Section 12(b) or 12(g) of the Exchange Act, and the Company has taken no action designed to, or which to its knowledge is likely to have the effect of, terminating the registration of the Common Stock under the Exchange Act nor has the Company received any notification that the \nSEC\n is contemplating terminating such registration. Except as disclosed in the SEC Reports, the Company has not, in the 12 months preceding the date hereof, received notice from Nasdaq to the effect that the Company is not in compliance with the listing or",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 29,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_30",
+    "text": "s disclosed in the SEC Reports, the Company has not, in the 12 months preceding the date hereof, received notice from Nasdaq to the effect that the Company is not in compliance with the listing or maintenance requirements of Nasdaq.\n\n (o)\n\nIntellectual Property\n. (i) The Company has, or has rights to use, all patents, patent applications, trademarks, trademark applications, service marks, trade names, trade secrets, inventions, copyrights, licenses and other intellectual property rights and similar rights as necessary or material for use in connection with its business and which the failure to so have could reasonably be expected to have a Material Adverse Effect (collectively, the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Equity Incentive Plans",
+    "chunk_index": 30,
+    "total_chunks": 86,
+    "char_count": 692
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_31",
+    "text": "”); (ii)\n \nthe Company has not received a notice (written or otherwise) that any of the Intellectual Property Rights violates or infringes upon the intellectual property rights of any other Person; \nand \n(iii)\n \nall Intellectual Property Rights are enforceable by the Company, and there is no existing infringement by any other Person of any of the Intellectual Property Rights, except where the failure to be so enforceable or for such infringements as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.\n\n (p)\n\nEnvironmental Laws\n.  \nThe Company and its Subsidiaries (i) are in compliance with all applicable Laws relating to pollution or protection of human health or the environment (including ambient air, surface water, groundwater, land surface or subsurface strata), including laws relating to emissions, discharges, releases or threatened releases of chemicals, pollutants, contaminants, or toxic or hazardous substances or wastes (collectively, “\nHazardous Materials\n”) into the environment, or otherwise relating to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of Hazardous Materials, as well as all authorizations, codes, decrees, demands, or demand letters, injunctions, judgments, licenses, notices or notice letters, orders, permits or plans issued, entered, promulgated or approved thereunder (“\nEnvironmental Laws\n”); (ii) have received all permits licenses or other approvals",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Intellectual Property Rights",
+    "chunk_index": 31,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_32",
+    "text": "licenses, notices or notice letters, orders, permits or plans issued, entered, promulgated or approved thereunder (“\nEnvironmental Laws\n”); (ii) have received all permits licenses or other approvals required of them under applicable Environmental Laws to conduct their respective businesses; and (iii) are in compliance with all terms and conditions of any such permit, license or approval where in each clause (i), (ii) and (iii), the failure to so comply could be reasonably expected to have, individually or in the aggregate, a Material Adverse Effect.\n\n (q)\n\nTransactions with Officers, Directors and Employees\n.  \nExcept as disclosed in the SEC Reports, since January 1, 2024, (i) none of the officers or directors of the Company or any Subsidiary has been and (ii) to the Company’s actual knowledge, none of the employees of the Company or any Subsidiary is presently, a party to any transaction with the Company or any Subsidiary (other than for services as employees, officers and directors), including any contract, \n\n \n\n10\n\n \n\nagreement or other arrangement providing for the furnishing of services to or by, providing for rental of real or personal property to or from, providing for the borrowing of money from or lending of money to or otherwise requiring payments to or from any officer, director or such employee or, to the Company’s actual knowledge, any entity in which any officer, director, or any such employee has a substantial interest or is an officer, director, trustee,",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Intellectual Property Rights",
+    "chunk_index": 32,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_33",
+    "text": "r, director or such employee or, to the Company’s actual knowledge, any entity in which any officer, director, or any such employee has a substantial interest or is an officer, director, trustee, stockholder, member or partner, in each case in excess of $120,000 other than for (i) payment of salary or consulting fees for services rendered, (ii) reimbursement for expenses incurred on behalf of the Company and (iii) other employee benefits, including stock option agreements under the Equity Incentive Plans.\n\n (r)\n\nPrivate Placement\n; No General Solicitation\n.  \nAssuming the accuracy of the \nInvestor’s\n representations and warranties set forth in Section 3.\n0\n2, no registration under the Securities Act is required for the offer and sale of the \nShares\n \nby the Company to the \nInvestor \nas contemplated by this Agreement.  Neither the Company nor any Person acting on behalf of the Company has offered or sold any of the \nShares\n offered\n to the Investor or any shares of \nPreferred Stock\n offered to any of the other Investors\n \nby any form of general solicitation or general advertising. The Company has offered the \nShares\n \nfor sale only to the \nInvestor \nand certain other “accredited investors” within the meaning of Rule 501 under the Securities Act.\n\n (s)\n\nInvestment Company\n. The Company is not, and is not an Affiliate of, and immediately after receipt of payment for the \nShares\n will not be or be an Affiliate of, an ‘investment company’ within the meaning of the Investment",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Intellectual Property Rights",
+    "chunk_index": 33,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_34",
+    "text": "pany is not, and is not an Affiliate of, and immediately after receipt of payment for the \nShares\n will not be or be an Affiliate of, an ‘investment company’ within the meaning of the Investment Company Act of 1940, as amended. The Company shall conduct its business in a manner so that it will not be an “investment company” subject to registration under the Investment Company Act of 1940, as amended.\n\n (t)",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Intellectual Property Rights",
+    "chunk_index": 34,
+    "total_chunks": 86,
+    "char_count": 409
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_35",
+    "text": ".  \nAssuming the accuracy of the \nInvestor’s \nrepresentations and warranties set forth in Section 3.\n0\n2, neither the Company, nor any of its affiliates, nor any Person acting on its or their behalf has, directly or indirectly, made any offers or sales of any security or solicited any offers to buy any security, under circumstances that would cause this offering of the\n Shares\n \nto be integrated with prior offerings by the Company for purposes of (i) the Securities Act which would require the registration of any such securities under the Securities Act or (ii) any applicable shareholder approval provisions of Nasdaq\n.\n\n (u)\n\nSolvency\n.  \nBased on the consolidated financial condition of the Company as of the Closing Date, after giving effect to the receipt by the Company of the proceeds from the sale of the \nother shares of \nPreferred Stock\n of the Company to other Investors as of the Closing Date\n \n(i) the fair saleable value of the Company’s assets exceeds the amount that will be required to be paid on or in respect of the Company’s existing debts and other liabilities (including known contingent liabilities) as they mature, (ii) the Company’s assets do not constitute unreasonably small capital to carry on its business as now conducted and as proposed to be conducted including its capital needs taking into account the particular capital requirements of the business conducted by the Company, consolidated and projected capital requirements and capital availability thereof,",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "No Integrated Offering",
+    "chunk_index": 35,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_36",
+    "text": "ts capital needs taking into account the particular capital requirements of the business conducted by the Company, consolidated and projected capital requirements and capital availability thereof, and (iii) the current cash flow of the Company, together with the proceeds the Company would receive, were it to liquidate all of its assets, after taking into account all anticipated uses of the cash, would be sufficient to pay all amounts on or in respect of its liabilities when such amounts are required to be paid. The Company does not intend to incur debts beyond its ability to pay such debts as they mature (taking into account the timing and amounts of cash to be payable on or in respect of its debt). \n\n \n\n11\n\n \n\n (v)\n\nTax Status\n.  \nThe Company has (i) paid all material federal, state, local and foreign taxes required to be paid through the date hereof, except (A) any such taxes being contested in good faith and for which adequate reserves have been established in accordance with applicable accounting requirements or (B) if a failure to pay such taxes would not reasonably be expected to have a Material Adverse Effect, and (ii) filed all material tax returns required to be filed through the date hereof, in each case except for (x) those returns for which a request for extension has been filed or (y) any failure to file that would not reasonably be expected to have a Material Adverse Effect; and there is no tax deficiency that has been asserted against the Company, except where",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "No Integrated Offering",
+    "chunk_index": 36,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_37",
+    "text": "been filed or (y) any failure to file that would not reasonably be expected to have a Material Adverse Effect; and there is no tax deficiency that has been asserted against the Company, except where such deficiencies, individually or in the aggregate, would not reasonably be expected to have a Material Adverse Effect\n.\n\n (w)\n\nInsurance\n.  \nThe Company and its Subsidiaries are insured by insurers of recognized financial responsibility against such losses and risks and in such amounts as\n the Company reasonably believes to be \nprudent and customary in the businesses in which the Company and the Subsidiaries are engaged, including, but not limited to, directors and officers insurance coverage. \nT\nhe Company \nhas no reason to believe that it will not be able to renew the Company’s and its Subsidiaries’ \nexisting insurance coverage as and when such coverage expires or to obtain similar coverage from similar insurers as may be necessary to continue its business \nat a cost that would not materially and adversely affect the condition, financial or otherwise, business or operations of the Company, taken as a whole\n.\n\n (x)\n\nNo Disqualification\n.  \n None of the Company, any of its predecessors, any affiliated issuer, any director or executive officer, or any officer of the Company participating in the transactions hereunder is a Person of the type described in Rule 506(d) of Regulation D under the Securities Act that would disqualify the Company from engaging in a transaction pursuant",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "No Integrated Offering",
+    "chunk_index": 37,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_38",
+    "text": "ating in the transactions hereunder is a Person of the type described in Rule 506(d) of Regulation D under the Securities Act that would disqualify the Company from engaging in a transaction pursuant to Rule 506 of Regulation D under the Securities Act.\n\n (y)",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "No Integrated Offering",
+    "chunk_index": 38,
+    "total_chunks": 86,
+    "char_count": 259
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_39",
+    "text": ".  \nNeither the Company nor any Subsidiary, nor to the knowledge of the Company or any Subsidiary, any agent or other person acting on behalf of the Company or any Subsidiary, has (i) directly or indirectly, used any funds for unlawful contributions, gifts, entertainment or other unlawful expenses related to foreign or domestic political activity, (ii) made any unlawful payment to foreign or domestic government officials or employees or to any foreign or domestic political parties or campaigns from corporate funds, (iii) failed to disclose fully any contribution made by the Company or any Subsidiary (or made by any person acting on its behalf of which the Company is aware) which is in violation of law or (iv) violated in any material respect any provision of Foreign Corrupt Practices Act of 1977, as amended\n.\n\n (z)\n\nOffice of Foreign Assets Control\n.  \nNeither the Company nor any Subsidiary nor, to the Company’s knowledge, any director, officer, agent, employee or affiliate of the Company or any Subsidiary is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department.\n\n (aa)\n\nU.S. Real Property Holding Corporation\n.  \nThe Company is not and has never been a U.S. real property holding corporation within the meaning of Section 897 of the Internal Revenue Code of 1986, as amended, and the Company shall so certify upon \nInvestor’s \nrequest\n.\n\n \n\n12\n\n \n\n (bb)",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Foreign Corrupt Practices",
+    "chunk_index": 39,
+    "total_chunks": 86,
+    "char_count": 1442
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_40",
+    "text": ". Neither the Company nor any of its Affiliates is subject to the Bank Holding Company Act of 1956, as amended (“\nBHCA\n”) and to regulation by the Board of Governors of the Federal Reserve System (“\nFederal Reserve\n”). Neither the Company nor any of its Affiliates owns or controls, directly or indirectly, five percent (5%) or more of the outstanding shares of any class of voting securities or twenty-five percent (25%) or more of the total equity of a bank or any entity that is subject to the BHCA and to regulation by the Federal Reserve. Neither the Company nor any of its Affiliates exercises a controlling influence over the management or policies of a bank or any entity that is subject to the BHCA and to regulation by the Federal Reserve.\n\n (cc)\n\nMoney Laundering\n. The operations of the Company are and have been conducted at all times in compliance with applicable financial record-keeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as amended, applicable money laundering statutes and applicable rules and regulations thereunder (collectively, the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Bank Holding Company Act",
+    "chunk_index": 40,
+    "total_chunks": 86,
+    "char_count": 1111
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_41",
+    "text": "”), and no Action or Proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Company with respect to the Money Laundering Laws is pending or, to the knowledge of the Company, threatened.\n\n (dd)\n\nRepresentations\n. The representations and warranties of the Company contained in this Agreement, and the certificate(s) furnished or to be furnished to the Investor at the Closing, when taken as a whole, do not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements contained herein or therein not misleading in light of the circumstances under which they were made. The Company acknowledges and agrees that the representations contained in section 3.02 shall not modify, amend or affect the Investor’s right to rely on the Company’s representations and warranties contained in this \nS\nection 3.01 or elsewhere in this Agreement or any representations and warranties contained in any other Transaction Document, or any other document or instrument executed and/or delivered in connection with this Agreement or the consummation of the transactions contemplated hereby.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Money Laundering Laws",
+    "chunk_index": 41,
+    "total_chunks": 86,
+    "char_count": 1183
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_42",
+    "text": "Representations and Warranties of the Investor\n.\n\nThe Investor hereby represents and warrants as of the date hereof and as of the Closing Date to the Company as follows (unless as of a specific date therein, in which case they shall be accurate as of such date):\n\n (a)\n\nAuthority\n.  \nThe \nInvestor \nhas all requisite legal and corporate or other power and capacity and has taken all requisite corporate or other action to execute and deliver this Agreement, to purchase the \nShares \nand to carry out and perform all of its obligations under this Agreement\n.  This \nAgreement constitutes the legal, valid and binding obligation of the \nInvestor\n, enforceable against the \nInvestor \nin accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization or similar Laws relating to or affecting the enforcement of creditors’ rights generally and (ii) as limited by equitable principles generally.\n\n (b)\n\nOwn Account\n.  \nThe \nInvestor \nis \nacquiring \nthe \nShares \nfor its own account, for investment purposes only, \nnot for other Persons, \nand not with a present view to, or for, resale, distribution or fractionalization thereof, in whole or in part (within the meaning of the Securities \n\n \n\n13\n\n \n\nAct) in violation of the Securities Act. The \nInvestor \nunderstands that its acquisition of the \nShares \nhas not been registered under the Securities Act or registered or qualified under any state securities Law in reliance on specific exemptions therefrom, which",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 42,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_43",
+    "text": "that its acquisition of the \nShares \nhas not been registered under the Securities Act or registered or qualified under any state securities Law in reliance on specific exemptions therefrom, which exemptions may depend upon, among other things, the bona fide nature of the \nInvestor’s \ninvestment intent as expressed herein. The \nInvestor \nwill not, directly or indirectly, offer, sell, pledge, transfer or otherwise dispose of (or solicit any offers to buy, purchase or otherwise acquire or take a pledge of) the \nShares \nexcept in compliance with the Securities Act and the rules and regulations promulgated thereunder\n.\n\n (c)\n\nInvestor Status\n.  \nThe Investor is and, at the time the Investor was offered the Shares, was: (i) an “accredited investor” as defined in Rule 501(a) of the Securities Act or (ii) a “qualified institutional buyer” as defined in Rule 144A(a) under the Securities Act. The \nI\nnvestor is aware of the Company’s business affairs and financial condition and has had access to and has acquired sufficient information about the Company to reach an informed and knowledgeable decision to acquire the Shares. The Investor has such knowledge, sophistication, and experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment in, and to protect its own interests in connection with the purchase of, the Shares. The Investor acknowledges that it has had the opportunity to review the Company’s filings with the",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 43,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_44",
+    "text": "investment in, and to protect its own interests in connection with the purchase of, the Shares. The Investor acknowledges that it has had the opportunity to review the Company’s filings with the SEC, including the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, filed on March 31, 2026 (the “\n2025 Form 10-K\n”) as well as the description of the Company’s securities included in the 2025 Form 10-K as Exhibit 4.3, and\n, further,\n that it has\n \n(\nA\n)\n been made aware that \nthe Company intends to use \nany proceeds from the Offering for general corporate working capital purposes and that the Company will have broad discretion in respect of such use of proceeds, (\nB\n)\n \nreviewed the information related to the Offering provided by the Company to the Investor and has \nbeen afforded \nthe opportunity to ask such questions as it has deemed necessary of, and to receive answers from, representatives of the Company concerning the terms and conditions of the \nOffering\n and the merits and risks of investing in the \nShares\n and \n(\nC\n)\n been afforded\n the opportunity to obtain such additional information that the Company possesses or can acquire without unreasonable effort or expense that is necessary to make an informed investment decision with respect to the investment. Neither the Investor nor the Investor’s investment managers, if any, have been furnished any offering memorandum or similar disclosure document by the Company or any of its Affiliates, associates, or",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 44,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_45",
+    "text": "Neither the Investor nor the Investor’s investment managers, if any, have been furnished any offering memorandum or similar disclosure document by the Company or any of its Affiliates, associates, or agents other than the Transaction Documents, and the agreements referenced therein.  The Investor understands that no United States federal or state agency or any other Governmental Entity has passed upon or made any recommendation or endorsement of the Shares.\n\n (d)\n\nNo \nGeneral Solicitation\n.  \nThe Investor represents and acknowledges that the issuance of the Shares arises from the private conver\nsion\n of the \nSenior \nNote, and that neither the original acquisition of the \nSenior Note\n nor the conversion thereof was effected by means of any form of general solicitation or general advertising within the meaning of Regulation D under the Securities Act. The Investor has not taken and will not take any action that would cause the issuance of the Shares to fail to qualify for an exemption from registration under Section 4(a)(2) of the Securities Act or Rule 506(b) of Regulation D.\n\n (e)\n\nRestrictions on Transfer\n.\n The Investor acknowledges that the\n \nShares are “restricted securities” within the meaning of Rule 144 under the Securities Act and may not be sold, transferred or otherwise disposed of except pursuant to an effective registration statement or \n\n \n\n14\n\n \n\nan available exemption from registration, and then only in compliance with applicable federal and state securities",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 45,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_46",
+    "text": "disposed of except pursuant to an effective registration statement or \n\n \n\n14\n\n \n\nan available exemption from registration, and then only in compliance with applicable federal and state securities laws.\n \n\n (f)\n\nLegends\n. The Investor understands that the Shares, including on the books of the Company’s transfer agent, may bear one or both of the following legends:\n\n (i)\n\nA legend substantially similar to: “THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED.” \n\n (ii)\n\nAny legend required by the securities laws of any state to the extent such laws are applicable to the Shares represented by so legended.\n\n (g)\n\nUnderwriter Status\n.\n The Investor acknowledges that, depending on the facts and circumstances at the time of any resale or distribution of the \nShares\n, including any resale pursuant to a resale registration statement, the Investor may be deemed to be an “underwriter” within the meaning of Section 2(a)(11) of the Securities Act. The Investor further acknowledges that no representation has been made by the Company that any resale of the \nShares\n will not",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 46,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_47",
+    "text": "rwriter” within the meaning of Section 2(a)(11) of the Securities Act. The Investor further acknowledges that no representation has been made by the Company that any resale of the \nShares\n will not result in the Investor being deemed an underwriter.\n \n\n (h)\n\nMinimum Price\n.\n The Investor acknowledges and agrees that the \nShares\n are being issued at a price per share that is not less than the “Minimum Price” within the meaning of Nasdaq Rule 5635(d), determined in accordance with applicable Nasdaq rules, and that the Investor has not relied on the Company to determine or opine on the applicability of Nasdaq Rule 5635(d) or whether stockholder approval is required in connection with the issuance of the \nShares\n.\n\n (i)\n\nChange\n \nof\n \nControl\n.  \nThe Investor acknowledges that Nasdaq Rule 5635(b) may require stockholder approval if a transaction results in a change of control of the Company, including where a single investor or a group of investors acting together acquires 20% or more of the Company’s outstanding Common Stock and becomes the largest stockholder, or otherwise obtains the ability to control or meaningfully influence management or policies of the Company. The Investor represents and warrants that, immediately following the issuance of \nPreferred Stock\n in the Offering,\n the Investor (together with any other Person whose beneficial ownership would be aggregated with the Investor’s pursuant to Section 13(d) or Section 16 of the Exchange Act and the rules and",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 47,
+    "total_chunks": 86,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_48",
+    "text": "the Investor (together with any other Person whose beneficial ownership would be aggregated with the Investor’s pursuant to Section 13(d) or Section 16 of the Exchange Act and the rules and regulations promulgated thereunder, including any “group” of which the Investor is a member) will not beneficially own or have voting power over more than 19.99% of the outstanding shares of the Common Stock.\n \nThe Investor further represents that, as of immediately following such issuance, the Investor will not, alone or together with any other Person, have any other indicia of control over the Company or the ability to meaningfully influence the management or policies of the Company, whether through ownership, voting power, contractual arrangements, \n\n \n\n15\n\n \n\nunderstandings, or otherwise, in a manner that would reasonably be expected to constitute a change of control for purposes of Nasdaq Rule 5635(b) or applicable federal securities laws.\n\n (j)\n\nGroup Status\n. The Investor represents that it is acquiring the Shares for investment purposes only and is not acting, and does not intend to act, as part of a “group” (within the meaning of Section 13(d) of the Exchange Act) with any other holder of the Company’s securities. \n\n (k)\n\nNo Indirect Primary; No Conduit\n.  \nThe Investor represents and acknowledges that it is acquiring the \nShares\n for its own account for investment purposes only and not with a view to, or for the purpose of, distributing such \nS\nhares on behalf of the Company.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 48,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_49",
+    "text": "d acknowledges that it is acquiring the \nShares\n for its own account for investment purposes only and not with a view to, or for the purpose of, distributing such \nS\nhares on behalf of the Company. The Investor is not acquiring the \nShares\n on behalf of, or as a conduit for, the Company and has no agreement, arrangement or understanding, directly or indirectly, with the Company or any other Person regarding the timing, manner or terms of any resale of the \nShares\n that would cause any such resale to be deemed an offering by or on behalf of the Company. The Investor\n covenants \nthat it will not take any action, including coordination with other investors or disproportionate resale activity, that would reasonably be expected to\n reasonably\n cause any resale of the \nShares\n to be deemed an indirect primary offering or otherwise an offering by or on behalf of the Company.\n \n\n (l)\n\nNo Advice; Non-Reliance\n.  \nThe Investor understands that nothing in this Agreement or any materials presented\n, or in any communications (whether written or oral) from the Company,\n to the Investor in connection with the purchase and sale of the Shares constitutes legal, tax or investment advice. The Investor has consulted such legal, tax and investment advisors and made such investigations as the Investor, in its sole discretion, has deemed necessary or appropriate in connection with its acquisition of the Shares. The Investor hereby acknowledges and agrees that it has independently evaluated the",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 49,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_50",
+    "text": ", in its sole discretion, has deemed necessary or appropriate in connection with its acquisition of the Shares. The Investor hereby acknowledges and agrees that it has independently evaluated the merits of its decision to purchase the Shares.\n\n (m)",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 3.02",
+    "chunk_index": 50,
+    "total_chunks": 86,
+    "char_count": 248
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_51",
+    "text": ".\n    \nThe Investor represents that it is not a Person of the type described in Rule 506(d) of Regulation D under the Securities Act that would disqualify the Company from engaging in a transaction pursuant to Rule 506 of Regulation D under the Securities Act.\n\n (n)\n\nSpeculative Nature of Investment;  Risk Factors.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "No Disqualifying Events",
+    "chunk_index": 51,
+    "total_chunks": 86,
+    "char_count": 316
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_52",
+    "text": "SHARES\n INVOLVES A HIGH DEGREE OF RISK. \nThe Investor acknowledges that: \n(i) any projections, forecasts or estimates as may have been provided to the Investor\n by the Company in connection with the Offering\n are purely speculative and cannot be relied upon to indicate actual results that may be obtained through this investment; any such projections, forecasts and estimates are based upon assumptions\n that Company management deemed to be reasonable at the time such projections, forecasts or estimates were made but\n which are subject to change and which are beyond the control of the Company or its management, (ii) \nthe tax effects which may be expected by this investment are not susceptible to absolute prediction, and new developments and rules of the Internal Revenue Service, audit adjustment, court decisions or legislative changes may have an adverse effect on one or more of the tax consequences of this investment, \n(iii) \nthe Investor has reviewed the risk factors and other information related to the Offering provided by the Company to the Investor\n and\n (i\nv\n)\n \nthe Investor has been advised to consult with his own advisor regarding legal matters and tax consequences involving this investment. The \nShares\n offered hereby are highly speculative and involve a high \n\n \n\n16\n\n \n\ndegree of risk and\n the\n Investor should only purchase these securities if\n the\n Investor can afford to lose their entire investment.\n\n (o)\n\nMoney Laundering\n.  \nThe operations of the Investor are and",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "THE INVESTOR UNDERSTANDS THAT AN INVESTMENT IN THE",
+    "chunk_index": 52,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_53",
+    "text": "gree of risk and\n the\n Investor should only purchase these securities if\n the\n Investor can afford to lose their entire investment.\n\n (o)\n\nMoney Laundering\n.  \nThe operations of the Investor are and have been conducted at all times in compliance with Money Laundering Laws, and no Action or Proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Investor with respect to the Money Laundering Laws is pending or, to the knowledge of the Investor, threatened.\n\nThe Company acknowledges and agrees that the representations contained in Section 3.02 shall not modify, amend or affect the Investor’s right to rely on the Company’s representations and warranties contained in this Agreement\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "THE INVESTOR UNDERSTANDS THAT AN INVESTMENT IN THE",
+    "chunk_index": 53,
+    "total_chunks": 86,
+    "char_count": 739
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_54",
+    "text": "Transfer\n.\n\n (a)\n\nThe Shares may only be disposed of in compliance with state and federal securities laws. In connection with any transfer of Shares other than pursuant to an effective registration statement, the Company may require the transferor thereof to provide to the Company an opinion of counsel selected by the transferor and reasonably acceptable to the Company, the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of such transferred Shares under the Securities Act. The Shares may not be sold or transferred by the Investor without the written consent of the Company, which shall not be unreasonably withheld. As a condition of such sale or transfer, any such transferee shall agree in writing to be bound by the terms of this Agreement and shall have the rights of the Investor under this Agreement.\n\n (b)\n\nThe Investor agrees to the imprinting, so long as is required by this",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.01",
+    "chunk_index": 54,
+    "total_chunks": 86,
+    "char_count": 989
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_55",
+    "text": ", of a legend on any of the Shares in the following form:\n\nTHIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.01",
+    "chunk_index": 55,
+    "total_chunks": 86,
+    "char_count": 282
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_56",
+    "text": "”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS. THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN SECURED BY SUCH SECURITIES.\n\n (c)\n\nThe Investor agrees that it will sell Shares only pursuant to the Securities Act, including any applicable prospectus delivery requirements, or an exemption therefrom, and that if Shares are sold pursuant to a registration statement, they will be sold in compliance with the plan of distribution set forth therein, and acknowledges that the removal of the restrictive legend \n\n \n\n17\n\n \n\nfrom certificates representing Shares as set forth in this",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "SECURITIES ACT",
+    "chunk_index": 56,
+    "total_chunks": 86,
+    "char_count": 887
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_57",
+    "text": "Integration\n. The Company shall not sell, offer for sale, or solicit offers to buy or otherwise negotiate in respect of any security (as defined in Section 2 of the Securities Act) that would be integrated with the offer or sale of the \nShares\n to the Investor in a manner that would require the registration under the Securities Act of the sale of the \nShares\n to the Investor.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.02",
+    "chunk_index": 57,
+    "total_chunks": 86,
+    "char_count": 378
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_58",
+    "text": "Publicity\n. The Company and the Investor shall consult with each other in issuing any other press releases with respect to the transactions contemplated hereby, and neither the Company nor the Investor shall issue any such press release nor otherwise make any such public statement without the prior consent of the Company with respect to any press release of the Investor, or without the prior consent of the Investor with respect to any press release of the Company mentioning the Investor, which consent shall not unreasonably be withheld or delayed, except if such disclosure is required by law, in which case the disclosing party shall promptly provide the other party with prior notice of such public statement or communication.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.03",
+    "chunk_index": 58,
+    "total_chunks": 86,
+    "char_count": 734
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_59",
+    "text": "Indemnification of Investor\n.  \n\n (a)\n\nThe Company shall indemnify, reimburse and hold harmless the Investor and its partners, members, shareholders, officers, directors, employees and agents (and any other persons with other titles that have similar functions) \nand each Person, if any, who controls the Investor within the meaning of Section 15 of the Securities Act or Section 20 the Exchange Act \n(collectively, “\nIndemnitees\n”) from and against any and all losses, claims, liabilities, damages, penalties, suits, costs and expenses, of any kind or nature, (including fees relating to the cost of investigating and defending any of the foregoing) imposed on, incurred by or asserted against such Indemnitee in any way related to or arising from or alleged to arise from: (i) any breach of any of the representations, warranties, covenants or agreements made by the Company in this Agreement or in the other Transaction Documents and (ii) any action instituted against such Indemnitee in any capacity, or any of them or their respective Affiliates, by any stockholder of the Company who is not an Affiliate of such Indemnitee, with respect to any of the transactions contemplated by the Transaction Documents (unless such action is based upon a breach of such Indemnitee’s representations, warranties or covenants under the Transaction Documents or any agreements or understandings such Indemnitee may have with any such stockholder or any violations by such Indemnitee of state or federal",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.04",
+    "chunk_index": 59,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_60",
+    "text": "ies or covenants under the Transaction Documents or any agreements or understandings such Indemnitee may have with any such stockholder or any violations by such Indemnitee of state or federal securities laws or any conduct by such Indemnitee which results from the gross negligence or willful misconduct of the Indemnitee as determined by a final, nonappealable decision of a court of competent jurisdiction).\n\n (b)\n\nPromptly after receipt by any Indemnitee of a notice of a claim or the beginning of any action in respect of which indemnity is to be sought against an indemnifying Person pursuant to this Section 4.0\n4\n, such Indemnitee shall notify the indemnifying Person in writing of such claim or of the commencement of such action, and, subject to the provisions hereinafter stated, in case any such action shall be brought against an Indemnitee and such indemnifying Person shall have been notified thereof, such indemnifying Person shall be entitled to participate therein, and, to the extent that it shall wish, to assume the defense thereof, with counsel reasonably satisfactory to such Indemnitee. After notice from the indemnifying Person to such Indemnitee of its election to assume the defense thereof, such indemnifying Person shall not \n\n \n\n18\n\n \n\nbe liable to such Indemnitee for any legal expenses subsequently incurred by such Indemnitee in connection with the defense thereof; provided, however, that if there exists or shall exist a conflict of interest that would make it",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.04",
+    "chunk_index": 60,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_61",
+    "text": "ny legal expenses subsequently incurred by such Indemnitee in connection with the defense thereof; provided, however, that if there exists or shall exist a conflict of interest that would make it inappropriate in the reasonable judgment of the Indemnitee for the same counsel to represent both the Indemnitee and such indemnifying Person or any affiliate or associate thereof, the Indemnitee shall be entitled to retain its own counsel at the expense of such indemnifying Person; provided further, that no indemnifying Person shall be responsible for the fees and expense of more than one separate counsel for all indemnified parties. The indemnifying party shall not settle an action without the consent of the indemnified party, which consent shall not be unreasonably withheld.\n\n (c)\n\nIf after proper notice of a claim or the commencement of any action against \nan Indemnitee\n, the indemnifying party does not choose to participate, then the \nIndemnitee \nshall assume the defense thereof and upon written notice by the \nIndemnitee \nrequesting advance payment of a stated amount for its reasonable defense costs and expenses, the indemnifying party shall advance payment for such reasonable defense costs and expenses (the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.04",
+    "chunk_index": 61,
+    "total_chunks": 86,
+    "char_count": 1226
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_62",
+    "text": "”) to the \nIndemnitee\n. If the \nIndemnitee\n’s actual defense costs and expenses exceed the amount of the Advance Indemnification Payment, then upon written request by the \nIndemnitee\n, the indemnifying party shall reimburse the \nIndemnitee\n for such difference; if the Advance Indemnification Payment exceeds the \nIndemnitee\n’s actual costs and expenses, the \nIndemnitee\n shall promptly remit payment of such difference to the indemnifying party.\n\n (d)\n\nIf the indemnification provided for in this Section \n4.0\n4\n is held by a court of competent jurisdiction to be unavailable to an \nIndemnitee \nwith respect to any losses, claims, damages or liabilities referred to herein, the indemnifying party, in lieu of indemnifying such \nIndemnitee \nthereunder, shall to the extent permitted by applicable Law contribute to the amount paid or payable by such \nIndemnitee\n as a result of such loss, claim, damage or liability in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and of the \nIndemnitee\n on the other, as well as any other relevant equitable considerations.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Advance Indemnification Payment",
+    "chunk_index": 62,
+    "total_chunks": 86,
+    "char_count": 1118
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_63",
+    "text": ". The Company shall, by 5:30 p.m. (New York City time) on the fourth \nBusiness \nDay following the date hereof, file a Current Report on Form 8-K disclosing the material terms of the transactions contemplated hereby (the “\nForm 8-K\n”\n)\n.  \nFrom and after the filing of the Form 8-K, the \nInvestor \nshall not be in possession of any material, non-public information received from the Company or any of its officers, directors or employees that is not disclosed in the Form 8-K\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Securities Laws Disclosure",
+    "chunk_index": 63,
+    "total_chunks": 86,
+    "char_count": 476
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_64",
+    "text": "Non-Public Information\n. Except with respect to the material terms and conditions of the transactions contemplated by the Transaction Documents (collectively, “\nNon-Public Information\n”), the Company covenants and agrees that neither it nor any other Person acting on its behalf has provided or made available to the \nInvestor\n, the Placement Agent or any of \nthe Investor\n’s or Placement Agent’s agents or counsel with any information that the Company believes constitutes material non-public information\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.06",
+    "chunk_index": 64,
+    "total_chunks": 86,
+    "char_count": 507
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_65",
+    "text": "Right of First Refusal\n.  \nFor a period of eighteen (18) months following the date of this Agreement\n, unless \nthe Company\n shall have first delivered to the Investor at least two (2) Business Days prior to entering into any definitive agreement with respect to a proposed debt or equity financing (a “\nContemplated Financing\n”) written notice describing the \n\n \n\n19\n\n \n\nContemplated Financing (a “\nROFR Notice\n”), including the terms and conditions thereof, identity of the proposed investor(s) or financing parties and proposed definitive documentation to be entered into in connection therewith, and providing the Investor an option during the two (2) Business Day period following delivery of such notice to purchase the securities being offered or otherwise participate in the Contemplated Financing on the same terms as other investors in the Contemplated Financing, the Company will not conduct or complete any such Contemplated Financing. In the event the terms and conditions of a Contemplated Financing are amended in any material respect after delivery of the ROFR Notice to the Investor concerning the Contemplated Financing, the Company shall deliver a new ROFR Notice to the Investor describing the amended terms and conditions of the Contemplated Financing and the Investor thereafter shall have an option during the two (2) Business Day period following delivery of such new ROFR Notice to purchase its pro rata share of the securities being offered or otherwise participate on the",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.07",
+    "chunk_index": 65,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_66",
+    "text": "shall have an option during the two (2) Business Day period following delivery of such new ROFR Notice to purchase its pro rata share of the securities being offered or otherwise participate on the same terms as contemplated by such amended Contemplated Financing.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 4.07",
+    "chunk_index": 66,
+    "total_chunks": 86,
+    "char_count": 264
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_67",
+    "text": "Fees and Expenses\n. The Company shall bear its own expenses incurred in connection with its negotiation, preparation, execution, delivery and performance of the Transaction Documents, including, without limitation, reasonable attorneys’ and consultants’ fees and expenses, fees relating to any amendments or modifications of the Transaction Documents or any consents or waivers of provisions in the Transaction Documents, fees for the preparation of opinions of counsel, escrow fees, and costs of \nany \nrestructuring \nof \nthe transactions contemplated by the Transaction Documents.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.01",
+    "chunk_index": 67,
+    "total_chunks": 86,
+    "char_count": 581
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_68",
+    "text": "Entire Agreement\n. The Transaction Documents, together with the exhibits and schedules thereto, contain the entire understanding of the parties with respect to the subject matter hereof and supersede all prior agreements and understandings, oral or written, with respect to such matters, which the parties acknowledge have been merged into such documents, exhibits and schedules.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.02",
+    "chunk_index": 68,
+    "total_chunks": 86,
+    "char_count": 379
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_69",
+    "text": "Notices\n.  \n \nAny and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective upon actual receipt via mail, courier or confirmed email by the party to whom such notice is required to be given. The address for such notices and communications shall be as set forth on the signature pages attached hereto\n \nor to such other persons or addresses as may be designated in writing by the party to receive such notice.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.03",
+    "chunk_index": 69,
+    "total_chunks": 86,
+    "char_count": 511
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_70",
+    "text": "Amendments; Waivers\n. No provision of this Agreement may be waived, modified, supplemented, or amended except in a written instrument signed, in the case of an amendment, by the Company and the Investor or, in the case of a waiver, by the party against whom enforcement of any such waived provision is sought. No waiver of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner impair the exercise of any such right.\n\n \n\n20",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.04",
+    "chunk_index": 70,
+    "total_chunks": 86,
+    "char_count": 708
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_71",
+    "text": "Successors and Assigns\n. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and permitted assigns. The Company may not assign this Agreement or any rights or obligations hereunder without the prior written consent of the Investor (other than by merger). The Investor may assign any or all of its rights under this Agreement to any Person to whom the Investor assigns or transfers any \nShares\n, provided that such transfer complies with all applicable federal and State Securities Laws\n and that Investor obtains the prior written consent of the Company (which consent shall not be required with respect to any assignment effected by merger).",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.05",
+    "chunk_index": 71,
+    "total_chunks": 86,
+    "char_count": 688
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_72",
+    "text": "No Third-Party Beneficiaries\n.  \nThis Agreement is intended for the benefit of the parties hereto and their respective permitted successors and assigns.  Except for the Placement Agent, who shall be a third party beneficiary of the representations, warranties and covenants of the Company and of the \nInvestor \nin this Agreement, this Agreement is not for the benefit of, nor may any provision hereof be enforced by, any other Person.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.06",
+    "chunk_index": 72,
+    "total_chunks": 86,
+    "char_count": 434
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_73",
+    "text": "Governing Law\n.  \nAll questions concerning the construction, validity, enforcement and interpretation of the Transaction Documents shall be governed by and construed and enforced in accordance with the internal Laws of the State of New York, without regard to the principles of conflicts of law thereof. Each party agrees that all legal proceedings concerning the interpretations, enforcement and defense of the transactions contemplated by this Agreement and any other Transaction Documents (whether brought against a party hereto or its respective affiliates, directors, officers, shareholders, employees or agents) shall be commenced exclusively in the state and federal courts sitting in the State of New York. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the State of New York for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of any of the Transaction Documents), and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper or is an inconvenient venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.07",
+    "chunk_index": 73,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_74",
+    "text": "onvenient venue for such proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any other manner permitted by Law. If either party shall commence an action or proceeding to enforce any provisions of the Transaction Documents, then the prevailing party in such action or proceeding shall be reimbursed by the other party for its reasonable attorneys’ fees and other costs and expenses incurred with the investigation, preparation and prosecution of such action or proceeding\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.07",
+    "chunk_index": 74,
+    "total_chunks": 86,
+    "char_count": 956
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_75",
+    "text": "Execution\n. This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party, it being understood that both parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission or by e-mail delivery of a “.pdf” format data file, such signature shall create a valid and binding obligation of the party executing (or on whose \n\n \n\n21\n\n \n\nbehalf such signature is executed) with the same force and effect as if such facsimile or “.pdf” signature page was an original thereof.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.08",
+    "chunk_index": 75,
+    "total_chunks": 86,
+    "char_count": 702
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_76",
+    "text": "Severability\n. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.09",
+    "chunk_index": 76,
+    "total_chunks": 86,
+    "char_count": 851
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_77",
+    "text": "Replacement of \nShares\n. If any certificate or instrument evidencing any \nShares \nis mutilated, lost, stolen or destroyed, the Company shall issue or cause to be issued in exchange and substitution for and upon cancellation thereof (in the case of mutilation), or in lieu of and substitution therefor, a new certificate or instrument, but only upon receipt of evidence reasonably satisfactory to the Company of such loss, theft or destruction. The applicant for a new certificate or instrument under such circumstances shall also pay any reasonable third-party costs (including customary indemnity) associated with the issuance of such replacement \nShares\n.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.10",
+    "chunk_index": 77,
+    "total_chunks": 86,
+    "char_count": 657
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_78",
+    "text": "Remedies\n. In addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages, each of the Investor and the Company will be entitled to seek specific performance under the Transaction Documents. The parties agree that monetary damages may not be adequate compensation for any loss incurred by reason of any breach of obligations contained in the Transaction Documents and hereby agree to waive and not to assert in any action for specific performance of any such obligation the defense that a remedy at law would be adequate.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.11",
+    "chunk_index": 78,
+    "total_chunks": 86,
+    "char_count": 576
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_79",
+    "text": "Construction\n. The parties agree that each of them and/or their respective counsel has reviewed and had an opportunity to revise the Transaction Documents and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved against the drafting party shall not be employed in the interpretation of the Transaction Documents or any amendments hereto.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.12",
+    "chunk_index": 79,
+    "total_chunks": 86,
+    "char_count": 382
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_80",
+    "text": "Headings\n. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof.",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Section 5.13",
+    "chunk_index": 80,
+    "total_chunks": 86,
+    "char_count": 172
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_81",
+    "text": ". IN ANY ACTION, SUIT, OR PROCEEDING IN ANY JURISDICTION BROUGHT BY ANY PARTY AGAINST ANY OTHER PARTY, THE PARTIES EACH KNOWINGLY AND INTENTIONALLY, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, HEREBY ABSOLUTELY, UNCONDITIONALLY, IRREVOCABLY AND EXPRESSLY WAIVES FOREVER TRIAL BY JURY.\n\n[SIGNATURE PAGES FOLLOW]\n\n﻿\n\n  \n \n\n \n\n22",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "WAIVER OF JURY TRIAL",
+    "chunk_index": 81,
+    "total_chunks": 86,
+    "char_count": 334
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_82",
+    "text": ", the parties hereto have caused this \nExchange\n Agreement to be duly executed by their respective authorized signatories as of the date below.\n\n﻿\n\nAQUABOUNTY TECHNOLOGIES, INC.\nBy:\n      \nName: \nDavid A. Frank\nTitle:",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "IN WITNESS WHEREOF",
+    "chunk_index": 82,
+    "total_chunks": 86,
+    "char_count": 217
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_83",
+    "text": "Address for Notice:\n\nAquaBounty Technologies, Inc.\n\n233 Ayer Road, Suite 4\n\nHarvard, Massachusetts 01451\nAttention: David A. Frank\n\nEmail: \ndfrank@aquabounty.com\n\nWith a copy to (which shall not constitute notice):\n\nFBT Gibbons\n LLP\n\n325 West Main Street, Suite 301\n\nLexington, Kentucky 40507\n\nAttention: Jeff Hallos\n\nE-mail:  jhallos@fbt\ngibbons\n.com\n\n﻿\n\nINVESTOR:\nThe Investor executing the Signature Page in the form \nattached\n hereto as \nAnnex A\n and delivering the same to the Company or its agents shall be deemed to have executed this Agreement and agreed to the terms hereof.\n\n﻿\n\n  \n \n\n \n\n  \n\n  \n\n  \n\n  \n\n \n\n \n\nAnnex A",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "Interim Chief Executive Officer",
+    "chunk_index": 83,
+    "total_chunks": 86,
+    "char_count": 626
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_84",
+    "text": "Investor Counterpart Signature Page\n\nThe undersigned, desiring to: (i) enter into this \nExchange\n Agreement dated as of \nApril \n7\n, 2026\n (the “\nAgreement\n”), with \nAquaBounty Technologies\n, Inc., a Delaware corporation (the “\nCompany\n”), in or substantially in the form furnished to the undersigned and (ii) purchase the \nShares\n as set forth below, hereby agrees to purchase such \nShares\n from the Company as of the Closing and further agrees to join the Agreement as a party thereto, with all the rights and privileges appertaining thereto, and to be bound in all respects by the terms and conditions thereof. \nThe undersigned specifically acknowledges having read the representations in this Agreement’s section entitled “Representations and Warranties of the Investor”, and hereby represents that the statements contained therein are complete and accurate with respect to the undersigned as the Investor. \n\n﻿",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "EXCHANGE AGREEMENT",
+    "chunk_index": 84,
+    "total_chunks": 86,
+    "char_count": 913
+  },
+  {
+    "chunk_id": "1603978_0001603978_26_000036_aqb-20260407xex10_1_85",
+    "text": ":\n[___________________]\nBy:\nName:  \nTitle:  \n\nAddress for Notice:\n\n[•]\n\nWith a copy to (which shall not constitute notice):\n\n[•]\n\nAttention: [•]\n\nE-mail:  [•]\n\n  \n\n﻿\n\n  \n\n \n\nExhibit\n  A\n\n \n\nSenior Note Principal Amount:\n\n$[•]\n\nSenior Note Total Amount (Including Interest):\n\n$[•]\n\nExchange Ratio:\n\n[•]\n\nShares Issued to Investor\n:\n\n[•]\n\n﻿\n\n0147620.0810887   4931-6404-0605v4\n\n \n\nExhibit\n  A",
+    "source": "SEC_EDGAR",
+    "document_name": "1603978_0001603978_26_000036_aqb-20260407xex10_1",
+    "section": "INVESTOR",
+    "chunk_index": 85,
+    "total_chunks": 86,
+    "char_count": 390
+  }
+]

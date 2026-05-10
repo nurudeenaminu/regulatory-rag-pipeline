@@ -1,0 +1,352 @@
+[
+  {
+    "chunk_id": "2024_30983_0",
+    "text": "TITLE: HIPAA Security Rule To Strengthen the Cybersecurity of Electronic Protected Health Information\nDOCUMENT NUMBER: 2024-30983\nTYPE: Proposed Rule\nAGENCY: Health and Human Services Department, \nPUBLISHED: 2025-01-06\nEFFECTIVE: None\nCITATION: 90 FR 898\nACTION: Notice of proposed rulemaking; notice of Tribal consultation.\n============================================================\n\nABSTRACT:\nThe Department of Health and Human Services (HHS or \"Department\") is issuing this notice of proposed rulemaking (NPRM) to solicit comment on its proposal to modify the Security Standards for the Protection of Electronic Protected Health Information (\"Security Rule\") under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH Act). The proposed modifications would revise existing standards to better protect the confidentiality, integrity, and availability of electronic protected health information (ePHI). The proposals in this NPRM would increase the cybersecurity for ePHI by revising the Security Rule to address: changes in the environment in which health care is provided; significant increases in breaches and cyberattacks; common deficiencies the Office for Civil Rights has observed in investigations into Security Rule compliance by covered entities and their business associates (collectively, \"regulated entities\"); other cybersecurity guidelines, best practices, methodologies,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 35,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_30983_1",
+    "text": "in investigations into Security Rule compliance by covered entities and their business associates (collectively, \"regulated entities\"); other cybersecurity guidelines, best practices, methodologies, procedures, and processes; and court decisions that affect enforcement of the Security Rule.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 35,
+    "char_count": 1221
+  },
+  {
+    "chunk_id": "2024_30983_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Health and Human Services</h6>\n<h6 class=\"sub-agency\">Office of the Secretary</h6>\n<ol>\n<li>45 CFR Parts 160 and 164</li>\n<li>RIN 0945-AA22</li>\n</ol>\n</div>\n</div></div>\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"898\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 898)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-898\" data-page=\"898\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"898\">Office for Civil Rights (OCR), Office of the Secretary, Department of Health and Human Services.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"898\">Notice of proposed rulemaking; notice of Tribal consultation.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"898\">The Department of Health and Human Services (HHS or &ldquo;Department&rdquo;) is issuing this notice of proposed rulemaking (NPRM) to solicit comment on its proposal to modify the Security Standards for the Protection of Electronic Protected Health Information (&ldquo;Security Rule&rdquo;) under the Health Insurance Portability and Accountability Act of 1996 (HIPAA)",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 35,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_30983_3",
+    "text": "dify the Security Standards for the Protection of Electronic Protected Health Information (&ldquo;Security Rule&rdquo;) under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH Act). The proposed modifications would revise existing standards to better protect the confidentiality, integrity, and availability of electronic protected health information (ePHI). The proposals in this NPRM would increase the cybersecurity for ePHI by revising the Security Rule to address: changes in the environment in which health care is provided; significant increases in breaches and cyberattacks; common deficiencies the Office for Civil Rights has observed in investigations into Security Rule compliance by covered entities and their business associates (collectively, &ldquo;regulated entities&rdquo;); other cybersecurity guidelines, best practices, methodologies, procedures, and processes; and court decisions that affect enforcement of the Security Rule.</p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"898\"></p>\n <p id=\"p-5\" data-page=\"898\">\n <em>Comments:</em>\n Submit comments on or before March 7, 2025.\n </p>\n <p id=\"p-6\" data-page=\"898\">\n <em>Meeting:</em>\n Pursuant to <a href=\"/executive-order/13175\" class=\"eo\">Executive Order 13175</a>, Consultation and Coordination with Indian Tribal Governments, the Department of Health and Human Services' Tribal",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 35,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_30983_4",
+    "text": "Pursuant to <a href=\"/executive-order/13175\" class=\"eo\">Executive Order 13175</a>, Consultation and Coordination with Indian Tribal Governments, the Department of Health and Human Services' Tribal Consultation Policy, and the Department's Plan for Implementing <a href=\"/executive-order/13175\" class=\"eo\">Executive Order 13175</a>, the Office for Civil Rights solicits input from Tribal officials as the Department develops the modifications to the HIPAA Security Rule at <a href=\"https://www.ecfr.gov/current/title-45/part-160\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR part 160</a> and subparts A and C of <a href=\"https://www.ecfr.gov/current/title-45/part-164\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR part 164</a>. The Tribal consultation meeting will be held on February 6, 2025, at 2 p.m. to 3:30 p.m. eastern time.\n </p>\n </div>\n<div id=\"addresses\">\n <h1 id=\"h-5\">ADDRESSES:</h1>\n <p id=\"p-7\" data-page=\"898\">You may submit comments, identified by RIN Number 0945-AA22, by any of the following methods. Please do not submit duplicate comments.</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-8\" data-page=\"898\">\n<em>Federal eRulemaking Portal:</em>\n You may submit electronic comments at \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n by searching for the Docket ID number HHS-OCR-0945-AA22. Follow the instructions at \n <em><a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 35,
+    "char_count": 1478
+  },
+  {
+    "chunk_id": "2024_30983_5",
+    "text": "ernal\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n by searching for the Docket ID number HHS-OCR-0945-AA22. Follow the instructions at \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n for submitting electronic comments. Attachments should be in Microsoft Word or Portable Document Format (PDF).\n </li>\n <li id=\"p-9\" data-page=\"898\">\n<em>Regular, Express, or Overnight Mail:</em>\n You may mail written comments to the following address only: U.S. Department of Health and Human Services, Office for Civil Rights, Attention: HIPAA Security Rule NPRM, Hubert H. Humphrey Building, Room 509F, 200 Independence Avenue SW, Washington, DC 20201. Please allow sufficient time for mailed comments to be timely received in the event of delivery or security delays.\n </li>\n </ul>\n \n <p id=\"p-10\" data-page=\"898\">Please note that comments submitted by fax or email and those submitted after the comment period will not be accepted.</p>\n <p id=\"p-11\" data-page=\"898\">\n <em>Inspection of Public Comments:</em>\n All comments received by the accepted methods and due date specified above may be posted without change to content to \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a>,</em>\n which may include personal information provided about the commenter, and such posting may occur after the closing",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_6",
+    "text": "al\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a>,</em>\n which may include personal information provided about the commenter, and such posting may occur after the closing of the comment period. However, the Department may redact certain non-substantive content from comments or attachments to comments before posting, including: threats, hate speech, profanity, sensitive health information, graphic images, promotional materials, copyrighted materials, or individually identifiable information about a third-party individual other than the commenter. In addition, comments or material designated as confidential or not to be disclosed to the public will not be accepted. Comments may be redacted or rejected as described above without notice to the commenter, and the Department will not consider in rulemaking any redacted or rejected content that would not be made available to the public as part of the administrative record.\n </p>\n <p id=\"p-12\" data-page=\"898\">\n <em>Docket:</em>\n For complete access to background documents, the plain-language summary of the proposed rule of not more than 100 words in length required by the Providing Accountability Through Transparency Act of 2023, or posted comments, go to \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n and search for Docket ID number HHS-OCR-0945-AA22.\n </p>\n <p id=\"p-13\" data-page=\"898\">\n <em>Tribal consultation",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_7",
+    "text": "rnal\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n and search for Docket ID number HHS-OCR-0945-AA22.\n </p>\n <p id=\"p-13\" data-page=\"898\">\n <em>Tribal consultation meeting:</em>\n To participate in the Tribal consultation meeting, you must register in advance at \n <em><a href=\"https://hhsgov.zoomgov.com/meeting/register/vJItdOyhrjgoHxJWMDxozrxT98yXyCO3lks\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://hhsgov.zoomgov.com/&#8203;meeting/&#8203;register/&#8203;vJItdOyhrjgoHxJWMDxozrxT98yXyCO3lks</a>.</em></p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-6\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-14\" data-page=\"898\">\n Marissa Gordon-Nguyen at (202) 240-3110 or (800) 537-7697 (TDD), or by email at \n <em><a href=\"mailto:OCRPrivacy@hhs.gov\" class=\"email\">OCRPrivacy@hhs.gov</a>.</em></p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-7\">SUPPLEMENTARY INFORMATION:</h1>\n <p id=\"p-15\" data-page=\"898\">The discussion below includes an Executive Summary, a description of relevant statutory and regulatory authority and history, the justification for this proposed regulation, a section-by-section description of the proposed modifications, and a regulatory impact analysis and other required regulatory analyses. The Department solicits public comment on all aspects of the proposed rule. The Department requests that persons commenting on the provisions of the proposed rule label their discussion of any",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_8",
+    "text": "yses. The Department solicits public comment on all aspects of the proposed rule. The Department requests that persons commenting on the provisions of the proposed rule label their discussion of any particular provision or topic with a citation to the section of the proposed rule being addressed and identify the particular request for comment being addressed, if applicable.</p>\n <h2 id=\"h-8\">Table of Contents</h2>\n \n <p class=\"flush-paragraph flush-paragraph-2\" id=\"p-16\" data-page=\"898\">I. Executive Summary</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-17\" data-page=\"898\">A. Overview</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-18\" data-page=\"898\">B. Applicability</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-19\" data-page=\"898\">C. Table of Abbreviations/Commonly Used Acronyms in This Document</p>\n <p class=\"flush-paragraph flush-paragraph-2\" id=\"p-20\" data-page=\"898\">II. Statutory Authority and Regulatory History</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-21\" data-page=\"898\">A. Statutory Authority and History</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-22\" data-page=\"898\">1. Health Insurance Portability and Accountability Act of 1996 (HIPAA)</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-23\" data-page=\"898\">2. Health Information Technology for Economic and Clinical Health (HITECH) Act</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-24\" data-page=\"898\">B. Regulatory History</p>\n <p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 35,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2024_30983_9",
+    "text": "898\">2. Health Information Technology for Economic and Clinical Health (HITECH) Act</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-24\" data-page=\"898\">B. Regulatory History</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-25\" data-page=\"898\">1. 1998 Security Rule Notice of Proposed Rulemaking</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-26\" data-page=\"898\">2. 2003 Final Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-27\" data-page=\"898\">3. 2009 Delegation of Authority</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-28\" data-page=\"898\">4. 2013 Omnibus Rulemaking</p>\n <p class=\"flush-paragraph flush-paragraph-2\" id=\"p-29\" data-page=\"898\">III. Justification for This Proposed Rulemaking</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-30\" data-page=\"898\">A. Strong Security Standards Are Essential to Protecting the Confidentiality, Integrity, and Availability of ePHI and Ensuring Quality and Efficiency in the Health Care System</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-31\" data-page=\"898\">B. The Health Care Environment Has Changed Since the Security Rule Was Last Revised and Will Continue To Evolve</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-32\" data-page=\"898\">C. Regulated Entities' Compliance With the Requirements of the Security Rule Is Inconsistent</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-33\" data-page=\"898\">D. It Is Reasonable and Appropriate To Strengthen the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 9,
+    "total_chunks": 35,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_30983_10",
+    "text": "iance With the Requirements of the Security Rule Is Inconsistent</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-33\" data-page=\"898\">D. It Is Reasonable and Appropriate To Strengthen the Security Rule To Address the Changes in the Health Care Environment and Clarify the Compliance Obligations of Regulated Entities</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-34\" data-page=\"898\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 10,
+    "total_chunks": 35,
+    "char_count": 404
+  },
+  {
+    "chunk_id": "2024_30983_11",
+    "text": "<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"899\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 899)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-899\" data-page=\"899\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n Safeguards Would Evolve To Address Changes in the Health Care Environment\n </p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-35\" data-page=\"899\">2. NCVHS Believes That the Security Standards Evolve To Address Changes in the Health Care Environment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-36\" data-page=\"899\">3. A Strengthened Security Rule Would Continue To Be Flexible and Scalable While Providing Regulated Entities With Greater Clarity</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-37\" data-page=\"899\">4. Small and Rural Health Care Providers Must Implement Strong Security Measures To Provide Efficient and Effective Health Care</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-38\" data-page=\"899\">5. A Strengthened Security Rule Is Critical to an Efficient and Effective Health Care System</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-39\" data-page=\"899\">E. The Secretary Must Develop Standards for the Security of ePHI Because None Have Been Developed by an ANSI-Accredited Standard Setting",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 11,
+    "total_chunks": 35,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_30983_12",
+    "text": "aragraph flush-paragraph-1-2\" id=\"p-39\" data-page=\"899\">E. The Secretary Must Develop Standards for the Security of ePHI Because None Have Been Developed by an ANSI-Accredited Standard Setting Organization</p>\n <p class=\"flush-paragraph flush-paragraph-2\" id=\"p-40\" data-page=\"899\">IV. Section-by-Section Description of the Proposed Amendments to the Security Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-41\" data-page=\"899\">A. Section 160.103&mdash;Definitions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-42\" data-page=\"899\">1. Current Provision</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-43\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-44\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-45\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-46\" data-page=\"899\">B. Section 164.304&mdash;Definitions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-47\" data-page=\"899\">1. Clarifying the Definition of &ldquo;Access&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-48\" data-page=\"899\">2. Clarifying the Definition of &ldquo;Administrative Safeguards&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-49\" data-page=\"899\">3. Clarifying the Definition of &ldquo;Authentication&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-50\" data-page=\"899\">4. Clarifying",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 12,
+    "total_chunks": 35,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_30983_13",
+    "text": "sh-paragraph-1-2\" id=\"p-49\" data-page=\"899\">3. Clarifying the Definition of &ldquo;Authentication&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-50\" data-page=\"899\">4. Clarifying the Definition of &ldquo;Availability&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-51\" data-page=\"899\">5. Clarifying the Definition of &ldquo;Confidentiality&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-52\" data-page=\"899\">6. Adding Definitions of &ldquo;Deploy&rdquo; and &ldquo;Implement&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-53\" data-page=\"899\">7. Adding a Definition of &ldquo;Electronic Information System&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-54\" data-page=\"899\">8. Modifying the Definition of &ldquo;Information System&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-55\" data-page=\"899\">9. Modifying the Definition of &ldquo;Malicious software&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-56\" data-page=\"899\">10. Adding a Definition of &ldquo;Multi-factor Authentication&rdquo; (MFA)</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-57\" data-page=\"899\">11. Clarifying the Definition of &ldquo;Password&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-58\" data-page=\"899\">12. Clarifying the Definition of &ldquo;Physical Safeguards&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-59\" data-page=\"899\">13. Adding a Definition",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 13,
+    "total_chunks": 35,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_30983_14",
+    "text": "1-2\" id=\"p-58\" data-page=\"899\">12. Clarifying the Definition of &ldquo;Physical Safeguards&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-59\" data-page=\"899\">13. Adding a Definition of &ldquo;Relevant Electronic Information System&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-60\" data-page=\"899\">14. Adding a Definition of &ldquo;Risk&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-61\" data-page=\"899\">15. Clarifying the Definitions of &ldquo;Security or Security Measures&rdquo; and &ldquo;Security Incident&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-62\" data-page=\"899\">16. Adding Definitions of &ldquo;Technical Controls&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-63\" data-page=\"899\">17. Modifying the Definition of &ldquo;Technical Safeguards&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-64\" data-page=\"899\">18. Adding a Definition of &ldquo;Technology Asset&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-65\" data-page=\"899\">19. Adding a Definition of &ldquo;Threat&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-66\" data-page=\"899\">20. Clarifying the Definition of &ldquo;User&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-67\" data-page=\"899\">21. Adding a Definition of &ldquo;Vulnerability&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-68\" data-page=\"899\">22. Clarifying the Definition of",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 14,
+    "total_chunks": 35,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2024_30983_15",
+    "text": "=\"p-67\" data-page=\"899\">21. Adding a Definition of &ldquo;Vulnerability&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-68\" data-page=\"899\">22. Clarifying the Definition of &ldquo;Workstation&rdquo;</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-69\" data-page=\"899\">23. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-70\" data-page=\"899\">C. Section 164.306&mdash;Security Standards: General Rules</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-71\" data-page=\"899\">1. Current Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-72\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-73\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-74\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-75\" data-page=\"899\">D. Section 164.308&mdash;Administrative Safeguards</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-76\" data-page=\"899\">1. Current Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-77\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-78\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-79\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-80\" data-page=\"899\">E. Section 164.310&mdash;Physical Safeguards</p>\n <p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 15,
+    "total_chunks": 35,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_30983_16",
+    "text": "h-paragraph-1-2\" id=\"p-79\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-80\" data-page=\"899\">E. Section 164.310&mdash;Physical Safeguards</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-81\" data-page=\"899\">1. Current Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-82\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-83\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-84\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-85\" data-page=\"899\">F. Section 164.312&mdash;Technical Safeguards</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-86\" data-page=\"899\">1. Current Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-87\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-88\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-89\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-90\" data-page=\"899\">G. Section 164.314&mdash;Organizational Requirements</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-91\" data-page=\"899\">1. Section 164.314(a)(1)&mdash;Standard: Business Associate Contracts or Other Arrangements</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-92\" data-page=\"899\">2. Section",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 16,
+    "total_chunks": 35,
+    "char_count": 1484
+  },
+  {
+    "chunk_id": "2024_30983_17",
+    "text": "99\">1. Section 164.314(a)(1)&mdash;Standard: Business Associate Contracts or Other Arrangements</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-92\" data-page=\"899\">2. Section 164.314(b)(1)&mdash;Standard: Requirements for Group Health Plans</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-93\" data-page=\"899\">3. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-94\" data-page=\"899\">H. Section 164.316&mdash;Documentation Requirements</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-95\" data-page=\"899\">1. Current Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-96\" data-page=\"899\">2. Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-97\" data-page=\"899\">3. Proposals</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-98\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-99\" data-page=\"899\">I. Section 164.318&mdash;Transition Provisions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-100\" data-page=\"899\">1. Current Provisions and Issues To Address</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-101\" data-page=\"899\">2. Proposal</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-102\" data-page=\"899\">3. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-103\" data-page=\"899\">J. Section 164.320&mdash;Severability</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-104\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 17,
+    "total_chunks": 35,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_30983_18",
+    "text": "t for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-103\" data-page=\"899\">J. Section 164.320&mdash;Severability</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-104\" data-page=\"899\">K. New and Emerging Technologies Request for Information</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-105\" data-page=\"899\">1. Quantum Computing</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-106\" data-page=\"899\">2. Artificial Intelligence (AI)</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-107\" data-page=\"899\">3. Virtual and Augmented Reality (VR and AR)</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-108\" data-page=\"899\">4. Request for Comment</p>\n <p class=\"flush-paragraph flush-paragraph-2\" id=\"p-109\" data-page=\"899\">V. Regulatory Impact Analysis</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-110\" data-page=\"899\">A. <a href=\"/executive-order/12866\" class=\"eo\">Executive Order 12866</a> and Related Executive Orders on Regulatory Review</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-111\" data-page=\"899\">1. Summary of Costs and Benefits</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-112\" data-page=\"899\">2. Baseline Conditions</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-113\" data-page=\"899\">3. Costs of the Proposed Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-114\" data-page=\"899\">4. Benefits of the Proposed Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 18,
+    "total_chunks": 35,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_30983_19",
+    "text": "\"899\">3. Costs of the Proposed Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-114\" data-page=\"899\">4. Benefits of the Proposed Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-115\" data-page=\"899\">5. Comparison of Benefits and Costs</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-116\" data-page=\"899\">B. Regulatory Alternatives to the Proposed Rule</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-117\" data-page=\"899\">C. Regulatory Flexibility Act&mdash;Small Entity Analysis</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-118\" data-page=\"899\">D. <a href=\"/executive-order/13132\" class=\"eo\">Executive Order 13132</a>&mdash;Federalism</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-119\" data-page=\"899\">E. Assessment of Federal Regulation and Policies on Families</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-120\" data-page=\"899\">F. Paperwork Reduction Act of 1995</p>\n <p class=\"flush-paragraph flush-paragraph-1-2\" id=\"p-121\" data-page=\"899\">1. Explanation of Estimated Annualized Burden Hours</p>\n \n <h2 id=\"h-9\">I. Executive Summary</h2>\n <h3 id=\"h-10\">A. Overview</h3>\n <p id=\"p-122\" data-page=\"899\">\n In this notice of proposed rulemaking (NPRM), the Department of Health and Human Services (HHS or &ldquo;Department&rdquo;) proposes modifications to the Security Standards for the Protection of Electronic Protected Health Information (&ldquo;Security Rule&rdquo;), issued pursuant to section 262(a) of the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 19,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_20",
+    "text": "artment&rdquo;) proposes modifications to the Security Standards for the Protection of Electronic Protected Health Information (&ldquo;Security Rule&rdquo;), issued pursuant to section 262(a) of the Administrative Simplification provisions of title II, subtitle F, of the Health Insurance Portability and Accountability Act of 1996 (HIPAA).<sup>[<a class=\"footnote-reference\" href=\"#footnote-1-p899\" id=\"citation-1-p899\">1</a>] </sup>\n \n The Security Rule&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-2-p899\" id=\"citation-2-p899\">2</a>] </sup>\n \n is one of several rules, collectively known as the HIPAA Rules,<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p899\" id=\"citation-3-p899\">3</a>] </sup>\n \n that protect the privacy and security of individuals' protected health information&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-4-p899\" id=\"citation-4-p899\">4</a>] </sup>\n \n (PHI), which is individually identifiable health information&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-5-p899\" id=\"citation-5-p899\">5</a>] </sup>\n \n (IIHI) transmitted by or maintained in electronic media or any other form or medium, with certain exceptions.<sup>[<a class=\"footnote-reference\" href=\"#footnote-6-p899\" id=\"citation-6-p899\">6</a>] </sup>\n \n The Security Rule applies only to electronic PHI (ePHI), which is IIHI that is transmitted by or maintained in electronic media.<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p899\" id=\"citation-7-p899\">7</a>]",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 20,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_21",
+    "text": "applies only to electronic PHI (ePHI), which is IIHI that is transmitted by or maintained in electronic media.<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p899\" id=\"citation-7-p899\">7</a>] </sup>\n \n </p>\n \n \n \n \n \n \n \n <p id=\"p-130\" data-page=\"899\">\n The Security Rule was initially published in 2003 and most recently revised in 2013.<sup>[<a class=\"footnote-reference\" href=\"#footnote-8-p899\" id=\"citation-8-p899\">8</a>] </sup>\n \n Since its publication, there have been significant changes to the environment in which health care is provided and how the health care industry operates. Today, cybersecurity is a concern that touches nearly every facet of modern health care, certainly more than it did in 2003 or even 2013. \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"900\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 900)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-900\" data-page=\"900\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n Almost every stage of modern health care relies on stable and secure computer and network technologies, including, but not limited to, the following: appointment scheduling, prescription orders, telehealth visits, medical devices, patient records, medical and pharmacy claims submissions and billing, insurance coverage",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 21,
+    "total_chunks": 35,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2024_30983_22",
+    "text": "ed to, the following: appointment scheduling, prescription orders, telehealth visits, medical devices, patient records, medical and pharmacy claims submissions and billing, insurance coverage verifications, payroll, facilities access and management, internal and external communications, and clinician resources. These tools and technologies are an integral part of the modern health care system, but they also present opportunities for bad actors to cause harm through hacking, ransomware, and other means. Covered entities and business associates (collectively, &ldquo;regulated entities&rdquo;) may also experience malfunctions and inadvertent errors that threaten the confidentiality, integrity, or availability of ePHI. Thus, cyberattacks, malfunctions, and inadvertent errors can negatively affect the provision of health care, as well as the efficiency and effectiveness of the health care system.\n </p>\n \n <p id=\"p-132\" data-page=\"900\">\n As discussed in greater detail below, in recent years, there has been an alarming growth in the number of breaches affecting 500 or more individuals reported to the Department, the overall number of individuals affected by such breaches, and the rampant escalation of cyberattacks using hacking and ransomware. The Department is concerned by the increasing numbers of breaches and other cybersecurity incidents experienced by regulated entities. We&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-9-p900\" id=\"citation-9-p900\">9</a>] </sup>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 22,
+    "total_chunks": 35,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_30983_23",
+    "text": "ng numbers of breaches and other cybersecurity incidents experienced by regulated entities. We&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-9-p900\" id=\"citation-9-p900\">9</a>] </sup>\n \n are also increasingly concerned by the upward trend in the numbers of individuals affected by such incidents and the magnitude of the potential harms from such incidents.<sup>[<a class=\"footnote-reference\" href=\"#footnote-10-p900\" id=\"citation-10-p900\">10</a>] </sup>\n \n </p>\n \n \n <p id=\"p-135\" data-page=\"900\">\n In recognition of those potential harms and the health care sector's importance to the economy and security of the U.S., the President has designated &ldquo;Healthcare and Public Health&rdquo; as a critical infrastructure sector&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-11-p900\" id=\"citation-11-p900\">11</a>] </sup>\n \n and the Department as the Sector Risk Management Agency (SRMA).<sup>[<a class=\"footnote-reference\" href=\"#footnote-12-p900\" id=\"citation-12-p900\">12</a>] </sup>\n \n In addition, to address concerns about the increasing level of cybercrime, the President has charged Federal agencies with &ldquo;establishing and implementing minimum requirements for risk management&rdquo; and robustly enforcing those requirements and Federal laws to help manage that risk.<sup>[<a class=\"footnote-reference\" href=\"#footnote-13-p900\" id=\"citation-13-p900\">13</a>] </sup>\n \n We believe that a comprehensive and updated Security Rule is critical to accomplishing these",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 23,
+    "total_chunks": 35,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_30983_24",
+    "text": "risk.<sup>[<a class=\"footnote-reference\" href=\"#footnote-13-p900\" id=\"citation-13-p900\">13</a>] </sup>\n \n We believe that a comprehensive and updated Security Rule is critical to accomplishing these directives and to the Department's effectiveness as the SRMA for the Healthcare and Public Health sector.\n </p>\n \n \n \n <p id=\"p-139\" data-page=\"900\">\n In further recognition of these concerns, States have promulgated or are in the process of promulgating regulations that would require the adoption of certain standards or measures for the protection of sensitive information, such as PHI.<sup>[<a class=\"footnote-reference\" href=\"#footnote-14-p900\" id=\"citation-14-p900\">14</a>] </sup>\n \n While these proposed regulations may contain helpful guidance for regulated entities, none specifically focus on ensuring the security of ePHI and the information systems that create, receive, maintain, or transmit ePHI. Additionally, a patchwork of State-specific laws may create difficulties for regulated entities that are located or operate in multiple States. Several entities, including Federal agencies, have published and maintained guidelines, best practices, methodologies, procedures, and processes for protecting the security of sensitive information, including PHI. Some examples of these resources include the National Institute of Standards and Technology's (NIST's) &ldquo;Cybersecurity Framework,&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-15-p900\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 24,
+    "total_chunks": 35,
+    "char_count": 1477
+  },
+  {
+    "chunk_id": "2024_30983_25",
+    "text": "s include the National Institute of Standards and Technology's (NIST's) &ldquo;Cybersecurity Framework,&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-15-p900\" id=\"citation-15-p900\">15</a>] </sup>\n \n the HHS 405(d) Program's &ldquo;Health Industry Cybersecurity Practices: Managing Threats and Protecting Patients,&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-16-p900\" id=\"citation-16-p900\">16</a>] </sup>\n \n the Federal Trade Commission's (FTC's) &ldquo;Start with Security: A Guide for Business,&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-17-p900\" id=\"citation-17-p900\">17</a>] </sup>\n \n and the Department's &ldquo;Cybersecurity Performance Goals&rdquo; (CPGs).<sup>[<a class=\"footnote-reference\" href=\"#footnote-18-p900\" id=\"citation-18-p900\">18</a>] </sup>\n \n We believe that the proliferation of such documents in recent years has been helpful, and we have considered them in the development of this NPRM. However, in light of the increasing number and sophistication of cybersecurity incidents, we do not believe that these documents are sufficiently instructive for regulated entities to help improve their compliance with the Security Rule.\n </p>\n \n \n \n \n \n <p id=\"p-145\" data-page=\"900\">\n Under its statutory authority to administer and enforce the HIPAA Rules, the Department modifies the HIPAA Rules as needed, but does not modify a standard or implementation specification more than once every 12 months.<sup>[<a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 25,
+    "total_chunks": 35,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2024_30983_26",
+    "text": "ister and enforce the HIPAA Rules, the Department modifies the HIPAA Rules as needed, but does not modify a standard or implementation specification more than once every 12 months.<sup>[<a class=\"footnote-reference\" href=\"#footnote-19-p900\" id=\"citation-19-p900\">19</a>] </sup>\n \n The Department makes the determination that such modifications may be needed using information it receives on an ongoing basis&mdash;from the Department's Federal advisory committee on HIPAA, the public, regulated entities, media reports, and its own analysis of the state of privacy and security for IIHI. As referenced above, and discussed in greater detail below, while the Department believes that the Security Rule generally continues to accomplish the goals of HIPAA,<sup>[<a class=\"footnote-reference\" href=\"#footnote-20-p900\" id=\"citation-20-p900\">20</a>] </sup>\n \n we believe that it would be appropriate to consider modifying the Security Rule to address the following:\n </p>\n \n \n \n <ul class=\"bullets\" >\n <li id=\"p-148\" data-page=\"900\">Significant changes in technology.</li>\n <li id=\"p-149\" data-page=\"900\">Changes in breach trends and cyberattacks.</li>\n <li id=\"p-150\" data-page=\"900\">HHS' Office for Civil Rights' (OCR's) enforcement experience.</li>\n <li id=\"p-151\" data-page=\"900\">Other guidelines, best practices, methodologies, procedures, and processes for protecting ePHI.</li>\n <li id=\"p-152\" data-page=\"900\">Court decisions that affect enforcement of the Security Rule.</li>\n </ul>\n \n <h3",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 26,
+    "total_chunks": 35,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_30983_27",
+    "text": "t practices, methodologies, procedures, and processes for protecting ePHI.</li>\n <li id=\"p-152\" data-page=\"900\">Court decisions that affect enforcement of the Security Rule.</li>\n </ul>\n \n <h3 id=\"h-11\">B. Applicability</h3>\n <p id=\"p-153\" data-page=\"900\">\n The effective date of a final rule would be 60 days after publication.<sup>[<a class=\"footnote-reference\" href=\"#footnote-21-p900\" id=\"citation-21-p900\">21</a>] </sup>\n \n Regulated entities would have until the &ldquo;compliance date&rdquo; to establish and implement policies, procedures, and practices to achieve compliance with any new or modified standards. \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"901\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 901)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-901\" data-page=\"901\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n Regulated entities would be permitted to comply earlier than the compliance date, but the Department would not take action against them for noncompliance with the proposed changes that occurs before the compliance date. Except as otherwise provided, <a href=\"https://www.ecfr.gov/current/title-45/section-160.105\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 160.105</a> provides that regulated entities must comply",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 27,
+    "total_chunks": 35,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_30983_28",
+    "text": "vided, <a href=\"https://www.ecfr.gov/current/title-45/section-160.105\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 160.105</a> provides that regulated entities must comply with the applicable new or modified standards or implementation specifications no later than 180 days from the effective date of any such change. The Department has previously noted that the 180-day general compliance period for new or modified standards would not apply where a different compliance period is provided in the regulation for one or more provisions.<sup>[<a class=\"footnote-reference\" href=\"#footnote-22-p901\" id=\"citation-22-p901\">22</a>] </sup>\n \n However, the compliance period cannot be less than the statutory minimum of 180 days.<sup>[<a class=\"footnote-reference\" href=\"#footnote-23-p901\" id=\"citation-23-p901\">23</a>] </sup>\n \n </p>\n \n \n \n <p id=\"p-157\" data-page=\"901\">While we recognize that we are proposing to substantially revise the regulatory text, the Department believes that most of the existing Security Rule's obligations for regulated entities would not be substantially changed by the proposed modifications. Instead, the proposed modifications would explicitly codify those activities that are critical to protecting the security of ePHI as requirements and provide greater detail for such requirements in the regulatory text. For example, regulated entities are already required to conduct an accurate and thorough risk analysis. While not specified in the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 28,
+    "total_chunks": 35,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_30983_29",
+    "text": "e greater detail for such requirements in the regulatory text. For example, regulated entities are already required to conduct an accurate and thorough risk analysis. While not specified in the regulatory text of the Security Rule, an accurate and thorough risk analysis requires a regulated entity to perform an inventory of its technology assets, determine how ePHI moves through its information systems, and identify the locations within its information systems (or components thereof) where ePHI may be created, received, maintained, or transmitted. Applying such an approach protects ePHI across all phases of the data lifecycle consistent with the purpose of the Security Rule. The proposals to require a regulated entity to inventory its technology assets and map the movement of ePHI through its information systems would illuminate considerations to be included in the regulated entity's risk analysis.</p>\n <p id=\"p-158\" data-page=\"901\">\n As another example, implementing a mechanism to encrypt ePHI is an addressable implementation specification under the standard for access control at <a href=\"https://www.ecfr.gov/current/title-45/section-164.312#p-164.312(a)(2)(iv)\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 164.312(a)(2)(iv)</a>. Under the existing Security Rule, a regulated entity must assess whether encryption is a reasonable and appropriate safeguard in its environment, when analyzed with reference to its likely contribution to protecting ePHI,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 29,
+    "total_chunks": 35,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_30983_30",
+    "text": "ty Rule, a regulated entity must assess whether encryption is a reasonable and appropriate safeguard in its environment, when analyzed with reference to its likely contribution to protecting ePHI, and implement encryption if reasonable and appropriate.<sup>[<a class=\"footnote-reference\" href=\"#footnote-24-p901\" id=\"citation-24-p901\">24</a>] </sup>\n \n If encryption is not reasonable and appropriate, a regulated entity must document why it would not be reasonable and appropriate for it to implement the safeguard and must implement an equivalent alternative measure if reasonable and appropriate.<sup>[<a class=\"footnote-reference\" href=\"#footnote-25-p901\" id=\"citation-25-p901\">25</a>] </sup>\n \n As discussed in greater detail below, encryption is built into most software today, and where it is not, there are affordable and easily implemented solutions that can encrypt sensitive information. Thus, it generally would be reasonable and appropriate for regulated entities to implement a mechanism to encrypt ePHI, and regulated entities should already have done so in most circumstances. By expressly requiring regulated entities to encrypt ePHI, with limited exceptions, the Department's proposal would reflect our expectations in the current cybersecurity environment and eliminate the need for regulated entities to perform an analysis of whether encryption is reasonable and appropriate.\n </p>\n \n \n <p id=\"p-161\" data-page=\"901\">Thus, most of the modifications we are proposing would",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 30,
+    "total_chunks": 35,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_30983_31",
+    "text": "r regulated entities to perform an analysis of whether encryption is reasonable and appropriate.\n </p>\n \n \n <p id=\"p-161\" data-page=\"901\">Thus, most of the modifications we are proposing would provide regulated entities with greater clarity and specificity regarding how to fulfill their obligations and the Department's expectations.</p>\n <p id=\"p-162\" data-page=\"901\">\n Accordingly, we do not believe that the proposed rule would pose unique implementation challenges that would justify an extended compliance period (\n <em>i.e.,</em>\n a period longer than the standard 180 days provided in <a href=\"https://www.ecfr.gov/current/title-45/section-160.105\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 160.105</a>). Further, the Department believes that adherence to the standard compliance period is necessary to timely address the circumstances described in this NPRM. Thus, the Department proposes to apply the standard compliance date of 180 days after the effective date of a final rule.<sup>[<a class=\"footnote-reference\" href=\"#footnote-26-p901\" id=\"citation-26-p901\">26</a>] </sup>\n \n </p>\n \n <p id=\"p-164\" data-page=\"901\">\n To help reduce administrative burdens on regulated entities, the Department proposes to add a provision at <a href=\"https://www.ecfr.gov/current/title-45/section-164.318\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 164.318</a> affording regulated entities a transition period (beyond the 180-day compliance period)",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 31,
+    "total_chunks": 35,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_30983_32",
+    "text": "nt/title-45/section-164.318\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">45 CFR 164.318</a> affording regulated entities a transition period (beyond the 180-day compliance period) to modify business associate contracts (herein referred to as &ldquo;business associate agreements&rdquo;) or other written arrangements&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-27-p901\" id=\"citation-27-p901\">27</a>] </sup>\n \n that would qualify for the longer transition period, as discussed further below.\n </p>\n \n <p id=\"p-166\" data-page=\"901\">The Department seeks comment on the proposed compliance period and transition period.</p>\n <h3 id=\"h-12\">C. Table of Abbreviations/Commonly Used Acronyms in This Document</h3>\n <p id=\"p-167\" data-page=\"901\">As used in this preamble, the following terms and abbreviations have the meanings noted below.</p>\n <html><body><div class=\"table-wrapper\"><table class=\"\" data-point-width=\"200\">\n<thead><tr>\n<th class=\"center border-top-single border-bottom-single border-right-single\">Term</th>\n<th class=\"center border-top-single border-bottom-single\">Meaning</th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"left border-right-single\">AI</td>\n<td class=\"left\">Artificial Intelligence.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">ANSI</td>\n<td class=\"left\">American National Standards Institute.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">AR</td>\n<td class=\"left\">Augmented Reality.</td>\n</tr>\n<tr>\n<td class=\"left",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 32,
+    "total_chunks": 35,
+    "char_count": 1482
+  },
+  {
+    "chunk_id": "2024_30983_33",
+    "text": "d class=\"left\">American National Standards Institute.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">AR</td>\n<td class=\"left\">Augmented Reality.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">ARRA</td>\n<td class=\"left\">American Recovery and Reinvestment Act of 2009.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">ASTP/ONC</td>\n<td class=\"left\">Assistant Secretary for Technology Policy and Office of the National Coordinator for Health Information Technology.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">CISA</td>\n<td class=\"left\">Cybersecurity &amp; Infrastructure Security Agency.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">CMS</td>\n<td class=\"left\">Centers for Medicare &amp; Medicaid Services.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">CPG</td>\n<td class=\"left\">Cybersecurity Performance Goal.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">Department or HHS</td>\n<td class=\"left\">Department of Health and Human Services.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">EHR</td>\n<td class=\"left\">Electronic Health Record.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">E.O.</td>\n<td class=\"left\">Executive Order.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">ePHI</td>\n<td class=\"left\">Electronic Protected Health Information.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">FDA</td>\n<td class=\"left\">Food &amp; Drug Administration.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">FISMA</td>\n<td",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 33,
+    "total_chunks": 35,
+    "char_count": 1482
+  },
+  {
+    "chunk_id": "2024_30983_34",
+    "text": "on.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">FDA</td>\n<td class=\"left\">Food &amp; Drug Administration.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">FISMA</td>\n<td class=\"left\">Federal Information Security Modernization Act.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">FTC</td>\n<td class=\"left\">Federal Trade Commission.</td>\n</tr>\n<tr>\n<td class=\"left border-right-single\">Health IT</td>\n<td class=\"left\">Health Information Technology.</td>\n</tr>\n<tr class=\"page_break\"><td colspan=\"2\">\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"902\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 902)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-902\" data-page=\"902\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n</td></tr>\n<tr>\n<td class=\"left border-right-single\">HIPAA</td>\n<td class=\"left\">He",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_30983",
+    "section": "1. Congress and the Department Anticipated That Security Standards",
+    "chunk_index": 34,
+    "total_chunks": 35,
+    "char_count": 1033
+  }
+]

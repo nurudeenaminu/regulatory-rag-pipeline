@@ -1,0 +1,372 @@
+[
+  {
+    "chunk_id": "2025_00636_0",
+    "text": "TITLE: Framework for Artificial Intelligence Diffusion\nDOCUMENT NUMBER: 2025-00636\nTYPE: Rule\nAGENCY: Commerce Department, Industry and Security Bureau\nPUBLISHED: 2025-01-15\nEFFECTIVE: 2025-01-13\nCITATION: 90 FR 4544\nACTION: Interim final rule; request for comments.\n============================================================\n\nABSTRACT:\nWith this interim final rule, the Commerce Department's Bureau of Industry and Security (BIS) revises the Export Administration Regulations' (EAR) controls on advanced computing integrated circuits (ICs) and adds a new control on artificial intelligence (AI) model weights for certain advanced closed-weight dual-use AI models. In conjunction with the expansion of these controls, which BIS has determined are necessary to protect U.S. national security and foreign policy interests, BIS is adding new license exceptions and updating the Data Center Validated End User authorization to facilitate the export, reexport, and transfer (in-country) of advanced computing (ICs) to end users in destinations that do not raise national security or foreign policy concerns. Together, these changes will cultivate secure ecosystems for the responsible diffusion and use of AI and advanced computing ICs.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 37,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2025_00636_1",
+    "text": "\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 37,
+    "char_count": 863
+  },
+  {
+    "chunk_id": "2025_00636_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Commerce</h6>\n<h6 class=\"sub-agency\">Bureau of Industry and Security</h6>\n<ol>\n<li>15 CFR Parts 732, 734, 740, 742, 744, 748, 750, 762, 772, and 774</li>\n<li>[Docket No. 250107-0007]</li>\n<li>RIN 0694-AJ90</li>\n</ol>\n</div>\n</div></div>\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4544\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4544)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4544\" data-page=\"4544\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"4544\">Bureau of Industry and Security, Department of Commerce.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"4544\">Interim final rule; request for comments.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"4544\">With this interim final rule, the Commerce Department's Bureau of Industry and Security (BIS) revises the Export Administration Regulations' (EAR) controls on advanced computing integrated circuits (ICs) and adds a new control on artificial intelligence (AI) model weights for certain advanced closed-weight dual-use AI models. In conjunction with the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_00636_3",
+    "text": "advanced computing integrated circuits (ICs) and adds a new control on artificial intelligence (AI) model weights for certain advanced closed-weight dual-use AI models. In conjunction with the expansion of these controls, which BIS has determined are necessary to protect U.S. national security and foreign policy interests, BIS is adding new license exceptions and updating the Data Center Validated End User authorization to facilitate the export, reexport, and transfer (in-country) of advanced computing (ICs) to end users in destinations that do not raise national security or foreign policy concerns. Together, these changes will cultivate secure ecosystems for the responsible diffusion and use of AI and advanced computing ICs.</p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"4544\"></p>\n <p id=\"p-5\" data-page=\"4544\">\n <em>Effective date:</em>\n This rule is effective January 13. 2025.\n </p>\n <p id=\"p-6\" data-page=\"4544\">\n <em>Compliance date:</em>\n As explained in the \n <strong class=\"minor-caps\">SUPPLEMENTARY INFORMATION</strong>\n section, exporters, reexporters, and transferors are not required to comply with the changes made in this rule until May 15, 2025, except that paragraphs 14, 15, and 18 of supplement no. 10 to part 748 have a delayed compliance date of January 15, 2026.\n </p>\n <p id=\"p-7\" data-page=\"4544\">\n <em>Comment due date:</em>\n Comments on revisions and additions in this rule are strongly encouraged and must be received by BIS no",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_00636_4",
+    "text": "nce date of January 15, 2026.\n </p>\n <p id=\"p-7\" data-page=\"4544\">\n <em>Comment due date:</em>\n Comments on revisions and additions in this rule are strongly encouraged and must be received by BIS no later than May 15, 2025.\n </p>\n <p id=\"p-8\" data-page=\"4544\">\n <em>Saving clause:</em>\n Shipments of items removed from eligibility for a License Exception or export, reexport, or transfer (in-country) without a license (NLR) as a result of this regulatory action that were en route aboard a carrier to a port of export, reexport, or transfer (in-country), on May 15, 2025, pursuant to actual orders for export, reexport, or transfer (in-country) to or within a foreign destination, may proceed to that destination under the previous eligibility for a License Exception or export, reexport, or transfer (in-country) without a license (NLR), provided the export, reexport, or transfer (in-country) is completed no later than on June 16, 2025.\n </p>\n </div>\n<div id=\"addresses\">\n <h1 id=\"h-5\">ADDRESSES:</h1>\n <p id=\"p-9\" data-page=\"4544\">\n Comments on this rule may be submitted to the Federal rulemaking portal (\n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a></em>). The \n <em>regulations.gov</em>\n ID for this rule is: BIS-2025-0001. Please refer to RIN 0694-AJ90 in all comments.\n </p>\n <p id=\"p-10\" data-page=\"4544\">All filers using the portal should use the name of the person or entity submitting the comments as the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_00636_5",
+    "text": "S-2025-0001. Please refer to RIN 0694-AJ90 in all comments.\n </p>\n <p id=\"p-10\" data-page=\"4544\">All filers using the portal should use the name of the person or entity submitting the comments as the name of their files, in accordance with the instructions below. Anyone submitting business confidential information should clearly identify the business confidential portion at the time of submission, file a statement justifying nondisclosure and referring to the specific legal authority claimed, and provide a non-confidential version of the submission.</p>\n <p id=\"p-11\" data-page=\"4544\">\n For comments submitted electronically containing business confidential information, the file name of the business confidential version should begin with the characters &ldquo;BC.&rdquo; Any page containing business confidential information must be clearly marked &ldquo;BUSINESS CONFIDENTIAL&rdquo; on the top of that page. The corresponding non-confidential version of those comments must be clearly marked &ldquo;PUBLIC.&rdquo; The file name of the non-confidential version should begin with the character &ldquo;P.&rdquo; Any submissions with file names that do not begin with either a &ldquo;BC&rdquo; or a &ldquo;P&rdquo; will be assumed to be public and will be made publicly available through \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>. Commenters submitting business confidential information are",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_00636_6",
+    "text": "a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>. Commenters submitting business confidential information are encouraged to scan a hard copy of the non-confidential version to create an image of the file, rather than submitting a digital copy with redactions applied, to avoid inadvertent redaction errors which could enable the public to read business confidential information.\n </p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-6\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-12\" data-page=\"4544\"></p>\n <p id=\"p-13\" data-page=\"4544\">\n <em>For general questions contact:</em>\n Hillary Hess at 202-482-2440 or \n <em><a href=\"mailto:RPD2@bis.doc.gov\" class=\"email\">RPD2@bis.doc.gov</a></em>.\n </p>\n <p id=\"p-14\" data-page=\"4544\">\n <em>For technical questions contact:</em></p>\n <p id=\"p-15\" data-page=\"4544\">\n <em>Category 2:</em>\n Sean Ghannadian at 202-482-3429 or \n <em><a href=\"mailto:Sean.Ghannadian@bis.doc.gov\" class=\"email\">Sean.Ghannadian@bis.doc.gov</a></em>.\n </p>\n <p id=\"p-16\" data-page=\"4544\">\n <em>Category 3:</em>\n Carlos Monroy at 202-482-3246 or \n <em><a href=\"mailto:Carlos.Monroy@bis.doc.gov\" class=\"email\">Carlos.Monroy@bis.doc.gov</a></em>.\n </p>\n <p id=\"p-17\" data-page=\"4544\">\n <em>Category 4:</em>\n Aaron Amundson at 202-482-0707 or \n <em><a href=\"mailto:Aaron.Amundson@bis.doc.gov\" class=\"email\">Aaron.Amundson@bis.doc.gov</a></em>].\n </p>\n </div>\n</div>\n <div",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 37,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2025_00636_7",
+    "text": "4\">\n <em>Category 4:</em>\n Aaron Amundson at 202-482-0707 or \n <em><a href=\"mailto:Aaron.Amundson@bis.doc.gov\" class=\"email\">Aaron.Amundson@bis.doc.gov</a></em>].\n </p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-7\">SUPPLEMENTARY INFORMATION:</h1>\n <h2 id=\"h-8\">I. Background</h2>\n <p id=\"p-18\" data-page=\"4544\">BIS is amending the EAR to enhance and refine its framework for applying export controls to regulate the global diffusion of the most advanced artificial intelligence (AI) models and large clusters of advanced computing integrated circuits (ICs) to protect U.S. national security and foreign policy interests. Specifically, BIS is expanding existing controls on advanced computing ICs controlled under ECCNs 3A090.a and 4A090.a and the corresponding .z items and imposing new controls on the model weights of certain advanced closed-weight dual-use AI models controlled under newly created ECCN 4E091. Background on these changes, which follow extensive U.S. government consideration of the impact of advanced dual-use AI models on U.S. national security and foreign policy interests, is detailed below.</p>\n <p id=\"p-19\" data-page=\"4544\">\n The Export Control Reform Act of 2018 (ECRA), <a href=\"https://www.govinfo.gov/link/uscode/15/4801\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">15 U.S.C. 4801</a>, \n <em>et seq.,</em>\n emphasizes that national security &ldquo;requires that the United States maintain its leadership in the science, technology,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_00636_8",
+    "text": "ank\" rel=\"noopener noreferrer\">15 U.S.C. 4801</a>, \n <em>et seq.,</em>\n emphasizes that national security &ldquo;requires that the United States maintain its leadership in the science, technology, engineering, and manufacturing sectors, including foundational technology that is essential to innovation.&rdquo; ECRA also commands that BIS's rules be &ldquo;transparent, predictable, and timely,&rdquo; and have &ldquo;the flexibility to be adapted&rdquo; in light of evolving circumstances. Given that this rule imposes new global requirements on a rapidly developing industry that is central to innovation, BIS has determined that it can best further the United States's technological leadership, and provide transparency and predictability to affected stakeholders, by delaying the compliance date of this rule, as outlined in the \n <strong class=\"minor-caps\">DATES</strong>\n section. Such delay will allow stakeholders time to familiarize themselves with the rule, and to provide comment on it, before compliance is required.\n </p>\n <h3 id=\"h-9\">a. Risks and Benefits of Advanced AI Models</h3>\n <p id=\"p-20\" data-page=\"4544\">\n Over the past decade, AI models have shown striking performance improvements across many domains, including reasoning, coding, and image and voice recognition and creation. These performance improvements create numerous direct applications, such as text generation and computer code-assistance, and can increasingly support AI agents that are able to interact with",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_00636_9",
+    "text": "on. These performance improvements create numerous direct applications, such as text generation and computer code-assistance, and can increasingly support AI agents that are able to interact with digital and physical systems, increasing the ability of laypeople to, for example, write code or use scientific tools that previously required specialized skills. \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4545\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4545)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4545\" data-page=\"4545\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n Performance improvements may continue as AI developers increase the scale and efficiency of their models.\n </p>\n <p id=\"p-21\" data-page=\"4545\">\n Experts from across the U.S. government have determined that as the capabilities of these models continue to improve, they will enable malicious actors to engage in activities that pose profound risks to U.S. national security and foreign policy objectives. As the Office of the Director of National Intelligence has assessed, AI models have the potential to enable advanced military and intelligence applications; lower the barriers to entry for non-experts to develop weapons of mass destruction (WMD); support powerful offensive cyber operations; and",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 9,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_00636_10",
+    "text": "to enable advanced military and intelligence applications; lower the barriers to entry for non-experts to develop weapons of mass destruction (WMD); support powerful offensive cyber operations; and assist in human rights violations, such as through mass surveillance. \n <em>See</em>\n Feb 5, 2024, Office of the Director of National Intelligence, Annual Threat Assessment of the U.S. Intelligence Community. For example, a dual-use AI model trained on data describing the functions and mechanics of chemical compounds or biological sequences could lower barriers to the development of chemical or biological weapons by providing protocols and troubleshooting information that would enable non-experts to design and produce such weapons at low cost. Similarly, the Department of Homeland Security has determined that advancements in AI may lower the barriers to entry for WMD development for both state and non-state actors and thus enhance malicious actors' ability to conduct attacks that threaten U.S. national security. \n <em>See</em>\n April 26, 2024, Department of Homeland Security Report on Reducing the Risks at the Intersection of Artificial Intelligence and Chemical, Biological, Radiological, and Nuclear Threats.\n </p>\n <p id=\"p-22\" data-page=\"4545\">\n At the same time, experts from across the U.S. government have determined that, in the hands of validated entities operating under secure conditions, dual-use AI models have the potential to create significant economic and social",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 10,
+    "total_chunks": 37,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2025_00636_11",
+    "text": "the U.S. government have determined that, in the hands of validated entities operating under secure conditions, dual-use AI models have the potential to create significant economic and social benefits in the United States and across the globe. As BIS explained in a previous rule, dual-use AI models hold the potential to increase access to healthcare, education, and food and assist with combatting complex problems such as climate change. \n <em>See</em>\n Expansion of Validated End User Authorization: Data Center Validated End User Authorization, <a href=\"/citation/89-FR-80\" class=\"fr-reference\" data-reference=\"89 FR 80\">89 FR 80</a>,<a href=\"/citation/89-FR-080\" class=\"fr-reference\" data-reference=\"89 FR 080\">080</a> (Oct. 2, 2024). For example, under the right conditions, advanced AI models could be an enabler toward achieving Sustainable Development Goals, such as by boosting productivity in the pharmaceutical industry, strengthening climate resilience by improving climate modelling, and helping expand access to education by providing personalized tutors in a wide range of subjects. The United States is committed to the full implementation of the 2030 Agenda for Sustainable Development and Sustainable Development Goals.\n </p>\n <p id=\"p-23\" data-page=\"4545\">In other words, advanced AI models both pose unique threats to U.S. national security and foreign policy and have the potential to unlock unique economic and social benefits. As President Biden explained in remarks made",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 11,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_00636_12",
+    "text": "ed AI models both pose unique threats to U.S. national security and foreign policy and have the potential to unlock unique economic and social benefits. As President Biden explained in remarks made to the United Nations General Assembly on September 24, 2024, AI will transform &ldquo;our ways of life, our ways of work, and our ways of war.&rdquo; As well as profound benefits, President Biden noted, AI brings &ldquo;profound risks,&rdquo; from &ldquo;disinformation to novel pathogens to bioweapons.&rdquo; President Biden's National Security Memorandum on Advancing the United States' Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence, issued on October 24, 2024, similarly explained the promise and perils of AI. &ldquo;AI,&rdquo; it stated, &ldquo;if used appropriately and for its intended purpose, can offer great benefits. If misused, AI could threaten United States national security, bolster authoritarianism worldwide, undermine democratic institutions and processes, facilitate human rights abuses, and weaken the rules-based international order.&rdquo; Importantly, such &ldquo;harmful outcomes could occur even without malicious intent if AI systems and processes lack sufficient protections.&rdquo;</p>\n <h3 id=\"h-10\">b. AI Diffusion Policy Review</h3>\n <p id=\"p-24\" data-page=\"4545\">\n Recognizing both the benefits and the risks of",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 12,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_00636_13",
+    "text": "f AI systems and processes lack sufficient protections.&rdquo;</p>\n <h3 id=\"h-10\">b. AI Diffusion Policy Review</h3>\n <p id=\"p-24\" data-page=\"4545\">\n Recognizing both the benefits and the risks of advanced AI models, the Department of Commerce (Commerce) has engaged in an extensive and ongoing policy process with partners across the U.S. Government to consider strategic, tailored, and effective controls on the diffusion of advanced AI technology to entities and destinations around the world. In October 2022, BIS imposed a first set of controls to certain destinations with the aim of preventing certain foreign military and intelligence services from obtaining the ability to indigenously develop advanced weapons modeling and advanced AI capabilities, by imposing restrictions on their access to advanced computing ICs and certain semiconductor manufacturing equipment (SME) used to manufacture advanced computing ICs and other advanced-node ICs. BIS determined that those foreign military and intelligence services would use advanced AI to improve the speed and accuracy of their military decision making, planning, and logistics, as well as their autonomous military systems, such as those used for cognitive electronic warfare, radar, signals intelligence, and jamming. \n <em>See</em>\n Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification, <a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 13,
+    "total_chunks": 37,
+    "char_count": 1477
+  },
+  {
+    "chunk_id": "2025_00636_14",
+    "text": "ementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification, <a href=\"/citation/87-FR-62\" class=\"fr-reference\" data-reference=\"87 FR 62\">87 FR 62</a>,<a href=\"/citation/87-FR-186\" class=\"fr-reference\" data-reference=\"87 FR 186\">186</a> (Oct. 13, 2022). BIS also determined that those military and intelligence services would use advanced AI surveillance tools, enabled by efficient processing of huge amounts of data, to monitor, track, and surveil citizens, among other purposes, without regard for human rights. \n <em>See id.</em>\n Accordingly, BIS controlled both the advanced computing ICs and the SME used to manufacture the controlled ICs.\n </p>\n <p id=\"p-25\" data-page=\"4545\">Since then, BIS has continuously evaluated and updated BIS's controls to ensure that they remain as targeted and effective as possible to protect U.S. national security and foreign policy In 2023, BIS updated the technological parameters on its advanced computing controls and broadened the scope of destinations to which those controls apply to cover countries of concern not captured by the 2022 controls. BIS also imposed worldwide license requirements for advanced computing ICs and certain semiconductor end-uses when conducted on behalf of entities headquartered in Country Group D:5 or Macau. In 2024, BIS made clarifications to the scope of the AI and SME controls and, recognizing the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 14,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2025_00636_15",
+    "text": "uctor end-uses when conducted on behalf of entities headquartered in Country Group D:5 or Macau. In 2024, BIS made clarifications to the scope of the AI and SME controls and, recognizing the importance of facilitating the responsible diffusion of advanced AI technology, expanded Authorization Validated End User (VEU) to enable data centers to receive VEU authorizations, which allow entities in locations subject to license requirements to receive controlled items through a streamlined process subject to security conditions. BIS's work in this area is consistent with U.S. foreign policy to support global development.</p>\n <p id=\"p-26\" data-page=\"4545\">\n Over the past year, BIS has engaged with national security and foreign policy experts from across the U.S. Government&mdash;including interagency export control partners in the Departments of Defense, Energy, and State, as well as the Intelligence Community&mdash;to study whether and how additional controls on advanced AI technologies would advance U.S. national security and foreign policy. As explained below, they began by studying the risks and benefits that would arise if the most advanced AI models or the items necessary for developing them were allowed to diffuse through destinations across the \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4546\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4546)\n </span><span",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 15,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_00636_16",
+    "text": "e unprinted-element document-markup\" data-page=\"4546\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4546)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4546\" data-page=\"4546\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n world. Simultaneously, they engaged with technical experts to understand the most effective means for controlling the diffusion of those items to address the risks. This rule details a multi-part control structure aiming to both reduce the risk that countries of concern (Country Group D:5 and Macau) obtain the most advanced AI models and enable validated entities to access the benefits of those models, while protecting national security.\n </p>\n <h4 id=\"h-11\">i. Impact of AI Diffusion on National Security and Foreign Policy</h4>\n <p id=\"p-27\" data-page=\"4546\">The proliferation of advanced AI models throughout the world will affect U.S. national security and foreign policy interests in three fundamental ways.</p>\n <p id=\"p-28\" data-page=\"4546\">First, exporting advanced AI models, or the means to produce them, to any destination outside the United States increases the risk of theft or diversion to countries and end users of concern. Although the degree of risk varies between different destinations and end users, there is risk even when the end user is a validated entity and the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 16,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_00636_17",
+    "text": "or diversion to countries and end users of concern. Although the degree of risk varies between different destinations and end users, there is risk even when the end user is a validated entity and the destination is a U.S. ally with a robust export control system. These risks may be most acute at the constantly advancing frontier of AI development&mdash;the largest and most advanced models available at any given time.</p>\n <p id=\"p-29\" data-page=\"4546\">Second, it will be impossible to realize the full economic and social benefits of advanced AI models unless validated entities outside the United States are able to obtain large quantities of advanced computing ICs or advanced AI models themselves. Such entities may be able to discover beneficial applications that U.S. firms alone will not, and they may increase the likelihood that the benefits of advanced AI models reach people across the world. The Export Control Reform Act of 2018 (ECRA) states that export controls should be &ldquo;tailored to focus on those core technologies . . . capable of being used to pose a serious national security threat to the United States,&rdquo; so BIS considered the need to appropriately tailor potential controls to address national security concerns without unduly burdening the economic and social benefits of access by foreign entities to advanced AI models and advanced computing ICs. <a href=\"https://www.govinfo.gov/link/uscode/50/4811\" class=\"usc external\" target=\"_blank\" rel=\"noopener",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 17,
+    "total_chunks": 37,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2025_00636_18",
+    "text": "enefits of access by foreign entities to advanced AI models and advanced computing ICs. <a href=\"https://www.govinfo.gov/link/uscode/50/4811\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4811(2)(G)</a> and <a href=\"https://www.govinfo.gov/link/uscode/50/4811\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">(5)</a>. In cases in which such entities are located in destinations that present a risk of diversion or misuse, BIS and its interagency export control partners can account for that risk with appropriate mitigation measures.</p>\n <p id=\"p-30\" data-page=\"4546\">Third, U.S. national security requires that the United States maintain technological leadership in the global AI industry. Specifically, ECRA notes that maintaining technological leadership is a core national security interest and that the impact of export controls on technology leadership must be continuously evaluated (<a href=\"https://www.govinfo.gov/link/uscode/50/4811\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4811(3)</a>). BIS has determined that to maintain U.S. leadership in the field of AI, U.S. developers of advanced AI models may need to build large clusters of advanced computing ICs outside the United States. They may also need to store their models at facilities abroad to ensure that they can provide high quality services to validated foreign customers.</p>\n <p id=\"p-31\" data-page=\"4546\">Therefore, BIS determined that U.S. national",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 18,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_00636_19",
+    "text": "heir models at facilities abroad to ensure that they can provide high quality services to validated foreign customers.</p>\n <p id=\"p-31\" data-page=\"4546\">Therefore, BIS determined that U.S. national security and foreign policy require the regulation of the global diffusion of advanced AI models. However, such controls must be tailored to enable economically and socially beneficial uses of advanced AI models and to maintain U.S. technological leadership as described above.</p>\n <h4 id=\"h-12\">ii. Means for Responsibly Controlling AI Diffusion</h4>\n <p id=\"p-32\" data-page=\"4546\">AI models are software programs that comprise a series of mathematical operations. When a user enters data into the program, the program executes those operations on the input data to produce outputs&mdash;information, analysis, or media. The design of these operations and their arrangement (known as the model's architecture) determines the nature and quality of the model's outputs.</p>\n <p id=\"p-33\" data-page=\"4546\">The first step in developing an AI model is to design the model's architecture and write it into computer code. However, the initial structure does not transform inputs into meaningful outputs. This means that before the model has been exposed to a high volume of real-world data, its outputs will be largely meaningless.</p>\n <p id=\"p-34\" data-page=\"4546\">The next step is to &ldquo;train&rdquo; the model. Training involves feeding large quantities of data into the model while using",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 19,
+    "total_chunks": 37,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2025_00636_20",
+    "text": "l be largely meaningless.</p>\n <p id=\"p-34\" data-page=\"4546\">The next step is to &ldquo;train&rdquo; the model. Training involves feeding large quantities of data into the model while using optimization algorithms to evaluate the quality of the program's outputs and improve its performance. These algorithms systematically adjust numerical parameters called &ldquo;model weights&rdquo; that weight the results of certain operations more or less heavily than others. As the training progresses, these weights are gradually optimized to allow the model to produce higher quality outputs for its intended tasks. The weights that result from the training process are valuable intellectual property, because basic model architectures and supporting code are often either publicly documented or subject to reverse engineering through a process that may be significantly easier than training a new set of model weights.</p>\n <p id=\"p-35\" data-page=\"4546\">Training today's most advanced AI models, including Large Language Models (LLMs), requires large clusters of advanced computing ICs capable of handling large quantities of data and models containing large numbers of parameters. Progress in AI models has resulted partly from dramatic increases in the computing power and training data used to develop the largest AI models. Leading AI developers have increased the computing power and data used to produce their largest models by many orders of magnitude over the last decade and continue to increase",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 20,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_00636_21",
+    "text": "the largest AI models. Leading AI developers have increased the computing power and data used to produce their largest models by many orders of magnitude over the last decade and continue to increase their scale by several multiples each year. By the end of this decade, leading AI developers plan to construct clusters of advanced ICs many times larger than those that exist today to train AI models using many times more computational operations than the largest AI models yet released.</p>\n <p id=\"p-36\" data-page=\"4546\">The structure of AI models and these industry trends suggest that export controls can effectively regulate the global diffusion of advanced AI models through: (1) an expansion of existing controls on the export, reexport, and transfer (in-country) of advanced computing ICs that are necessary to construct large clusters for training advanced AI models; and (2) new controls on the export, reexport, and transfer (in-country) of the model weights of the most advanced AI models.</p>\n <h4 id=\"h-13\">iii. Framework for the Diffusion of Advanced AI Technologies</h4>\n <p id=\"p-37\" data-page=\"4546\">This rule details a tailored strategic approach to controlling the proliferation of advanced AI models. At a high level, this strategy aims to ensure that the model weights of the most advanced U.S. AI models are stored outside the United States only under stringent security conditions and the large clusters of advanced ICs necessary to train those models are built in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 21,
+    "total_chunks": 37,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2025_00636_22",
+    "text": "ost advanced U.S. AI models are stored outside the United States only under stringent security conditions and the large clusters of advanced ICs necessary to train those models are built in destinations that pose comparatively low risks of diversion or misuse.</p>\n <p id=\"p-38\" data-page=\"4546\">\n This rule requires a license to export, reexport, or transfer (in-country) advanced computing ICs or the model weights of the most advanced AI models to any end user in any destination. The U.S. Government will review applications for such exports, reexports, and transfers (in-country) based on the sensitivity of the destination, the quantity of compute power or performance of the AI model, and the security requirements agreed to by the recipient. This global licensing requirement is crucial to ensuring that these items are not diverted to \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4547\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4547)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4547\" data-page=\"4547\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n destinations or end users of concern. Credible open-source reporting has identified People's Republic of China (PRC) companies that have used foreign subsidiaries in a range of uncontrolled destinations to buy ICs",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 22,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2025_00636_23",
+    "text": "end users of concern. Credible open-source reporting has identified People's Republic of China (PRC) companies that have used foreign subsidiaries in a range of uncontrolled destinations to buy ICs subject to EAR controls. The risk is even greater with AI model weights, which, once exfiltrated by malicious actors, can be copied and sent anywhere in the world instantaneously. Accordingly, U.S. national security and foreign policy require that BIS scrutinize any transaction involving a destination or end user that presents an elevated risk of diversion or misuse. To reinforce this general requirement, BIS will set a licensing policy of a presumption of denial for certain large quantities of advanced computing ICs needed to train advanced AI models. For destinations and end users that present a comparatively low risk of diversion or misuse, a global licensing requirement will enable BIS to impose conditions that reduce the overall risk. A global licensing requirement is the most effective way to ensure that BIS can address the various risks associated with exporting large quantities of advanced computing ICs and the model weights of the most advanced AI models.\n </p>\n <p id=\"p-39\" data-page=\"4547\">\n To help ease the burden on destinations and end users that pose a comparatively low risk of diversion or misuse and to facilitate economically beneficial activities, BIS is including flexibility within its global licensing requirements. For example, BIS will provide license",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 23,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2025_00636_24",
+    "text": "risk of diversion or misuse and to facilitate economically beneficial activities, BIS is including flexibility within its global licensing requirements. For example, BIS will provide license exceptions&mdash;conditioned on compliance with certain security measures&mdash;for validated end users or particularly low-risk destinations. BIS will also provide a mechanism for other end users in other destinations to achieve validated status, which will allow them to obtain advanced computing ICs more easily. Additionally, consistent with its general practice, BIS will not require a license for the export of the model weights of open-weight models (\n <em>see</em>\n July 30, 2024, Dual-Use Foundation Models with Widely Available Model Weights Report, National Telecommunications and Information Administration). These elements of the strategy will ensure that BIS's controls address only the starkest risks identified at the frontier of AI development and do not affect the vast majority of AI technology. This is consistent with ECRA's policy goals, which direct BIS to restrict the export of items that would &ldquo;make a significant contribution to the military potential of any other country or combination of countries which would prove detrimental to the national security of the United States&rdquo; while simultaneously maintaining U.S. &ldquo;leadership in the science, technology, engineering, and manufacturing sectors, including foundational technology that is essential to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 24,
+    "total_chunks": 37,
+    "char_count": 1486
+  },
+  {
+    "chunk_id": "2025_00636_25",
+    "text": "s&rdquo; while simultaneously maintaining U.S. &ldquo;leadership in the science, technology, engineering, and manufacturing sectors, including foundational technology that is essential to innovation.&rdquo; <a href=\"https://www.govinfo.gov/link/uscode/50/4811\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4811(3)</a>.\n </p>\n <p id=\"p-40\" data-page=\"4547\">As a third and final part of the strategy, BIS will impose security conditions to safeguard the storage of the most advanced models in destinations that pose heightened risks of diversion and to mitigate the risk of diversion for advanced ICs. Such conditions will protect U.S. national security by ensuring that where advanced models are stored, and large IC clusters are built, outside the United States, they are safeguarded from diversion or misuse.</p>\n <p id=\"p-41\" data-page=\"4547\">As explained further below, BIS is implementing this three-part strategy by:</p>\n <p id=\"p-42\" data-page=\"4547\">(1) adding a new control for AI model weights under new Export Control Classification Number (ECCN) 4E091;</p>\n <p id=\"p-43\" data-page=\"4547\">(2) revising the license requirements and review policy for ECCNs 3A090.a, 4A090.a, and corresponding .z items;</p>\n <p id=\"p-44\" data-page=\"4547\">(3) expanding the country scope of License Exception Advanced Computing Authorized (ACA);</p>\n <p id=\"p-45\" data-page=\"4547\">(4) adding new License Exceptions Artificial Intelligence Authorization (AIA), Advanced Compute",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 25,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2025_00636_26",
+    "text": "scope of License Exception Advanced Computing Authorized (ACA);</p>\n <p id=\"p-45\" data-page=\"4547\">(4) adding new License Exceptions Artificial Intelligence Authorization (AIA), Advanced Compute Manufacturing (ACM), and Low Processing Performance (LPP) that apply to advanced computing integrated circuits, AI model weights, and related items;</p>\n <p id=\"p-46\" data-page=\"4547\">(5) adding new red flag guidance related to AI model weights;</p>\n <p id=\"p-47\" data-page=\"4547\">(6) bifurcating the Data Center Validated End-User Authorization into Universal and National Validated End-User Authorizations; and</p>\n <p id=\"p-48\" data-page=\"4547\">(6) updating License Exception Notified Advanced Computing (NAC) notification procedures to improve its efficiency.</p>\n <p id=\"p-49\" data-page=\"4547\">Ultimately, ensuring the staged, responsible diffusion of advanced AI in these ways has several benefits. First, it reduces the risk that countries or end users of concern obtain the most advanced AI models or the ability to develop them. Second, it will allow a fuller understanding of the risks posed by each generation of AI models and the development of safety mitigations before the most advanced model weights and largest IC clusters diffuse globally. Third, a highly focused scope on frontier AI will allow commerce in AI models and advanced ICs to continue largely unimpeded. And finally, a strategy that focuses on the physical locations of model weights and large clusters of advanced ICs will",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 26,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2025_00636_27",
+    "text": "l allow commerce in AI models and advanced ICs to continue largely unimpeded. And finally, a strategy that focuses on the physical locations of model weights and large clusters of advanced ICs will allow continued global access to the capabilities of even the most advanced AI models through structured mechanisms, including through user applications and application programming interfaces (APIs), for which this rule imposes no new restrictions.</p>\n <h2 id=\"h-14\">II. Expanded Advanced Computing Integrated Circuit Controls</h2>\n <p id=\"p-50\" data-page=\"4547\">As explained above, large clusters of advanced computing ICs are essential to the development of advanced AI models. Accordingly, BIS can reduce the risk that malicious state and non-state actors gain access to advanced AI models by imposing controls that allow exports, reexports, and transfers (in-country) of large quantities of advanced computing ICs only to certain destinations and end users. At the same time, BIS can ensure that destinations and end users that meet robust security and safety standards will be able to obtain large quantities of advanced computing ICs.</p>\n <p id=\"p-51\" data-page=\"4547\">Controls focused on the construction of large clusters of advanced computing ICs are a logical extension of BIS's previous controls, which have focused on the risk to U.S. national security and foreign policy from allowing even small numbers of advanced ICs, and associated SME, to be exported or reexported to certain",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 27,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2025_00636_28",
+    "text": "ntrols, which have focused on the risk to U.S. national security and foreign policy from allowing even small numbers of advanced ICs, and associated SME, to be exported or reexported to certain destinations of concern. Those previous controls were based on BIS's determination that military and intelligence services in such destinations could use even small quantities of advanced computing ICs to further their military capabilities, contrary to U.S. national security and foreign policy interests. Accordingly, BIS imposed controls on these items in October 2022 (<a href=\"/citation/87-FR-62186\" class=\"fr-reference\" data-reference=\"87 FR 62186\">87 FR 62186</a>, October 13, 2022), October 2023 (<a href=\"/citation/88-FR-73458\" class=\"fr-reference\" data-reference=\"88 FR 73458\">88 FR 73458</a>, October 25, 2023 and <a href=\"/citation/88-FR-73424\" class=\"fr-reference\" data-reference=\"88 FR 73424\">88 FR 73424</a>, October 25, 2023), and further clarified such controls in April 2024 (<a href=\"/citation/89-FR-23876\" class=\"fr-reference\" data-reference=\"89 FR 23876\">89 FR 23876</a>, April 4, 2024). In October 2024, BIS expanded the Validated End-User (VEU) Authorization in &sect;&thinsp;748.15 to facilitate the export of advanced computing ICs and related items to qualified data centers (<a href=\"/citation/89-FR-80080\" class=\"fr-reference\" data-reference=\"89 FR 80080\">89 FR 80080</a>, October 2, 2024). Mostly recently, BIS updated these controls in December 2024 (<a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 28,
+    "total_chunks": 37,
+    "char_count": 1477
+  },
+  {
+    "chunk_id": "2025_00636_29",
+    "text": "ref=\"/citation/89-FR-80080\" class=\"fr-reference\" data-reference=\"89 FR 80080\">89 FR 80080</a>, October 2, 2024). Mostly recently, BIS updated these controls in December 2024 (<a href=\"/citation/89-FR-96790\" class=\"fr-reference\" data-reference=\"89 FR 96790\">89 FR 96790</a>, December 5, 2024).</p>\n <p id=\"p-52\" data-page=\"4547\">\n Specifically, in October 2022, BIS published an interim final rule (<a href=\"/citation/87-FR-62186\" class=\"fr-reference\" data-reference=\"87 FR 62186\">87 FR 62186</a>) which made critical changes to the EAR in two areas. First, the rule imposed additional export controls on certain advanced computing ICs, computer commodities that contain such ICs, and certain SME and parts and components needed to produce those and other advanced ICs. Specifically, \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4548\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4548)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4548\" data-page=\"4548\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n the controls required a license before exporting or reexporting those items to the PRC or to certain entities on the Entity List (supplement no. 4 to part 744). BIS explained that these controls were aimed at limiting the PRC's ability to engage in activities that would pose",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 29,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_00636_30",
+    "text": "to the PRC or to certain entities on the Entity List (supplement no. 4 to part 744). BIS explained that these controls were aimed at limiting the PRC's ability to engage in activities that would pose significant threats to U.S. national security and foreign policy. Specifically, BIS found that certain advanced computing ICs and related computing items&mdash;many of which originated in the United States or were produced with U.S. technology, software, or tools&mdash;could enable the PRC to develop certain enhanced data processing and analysis capabilities, including through AI applications. Additionally, BIS found that the capability to produce advanced computing ICs through the use of certain SME presented significant national security and foreign policy concerns. These capabilities could be used by the PRC to further its military modernization efforts; to improve calculations in weapons design and testing, including for weapons of mass destruction (WMD); and to violate human rights through comprehensive surveillance programs.\n </p>\n <p id=\"p-53\" data-page=\"4548\">Thereafter, in October 2023, BIS broadened the scope of advanced computing controls to cover other destinations of concern (Country Groups D:1, D:4, and D:5). Similarly, BIS imposed worldwide license requirements for certain advanced computing ICs and specified semiconductor manufacturing and supercomputing end-uses when conducted on behalf of entities headquartered in, or with an ultimate parent company",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 30,
+    "total_chunks": 37,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "2025_00636_31",
+    "text": "tain advanced computing ICs and specified semiconductor manufacturing and supercomputing end-uses when conducted on behalf of entities headquartered in, or with an ultimate parent company headquartered in, Macau or a destination in Country Group D:5. Due to the rapid nature of technological change in AI, BIS has been closely studying these developments and updating its rules accordingly to ensure that they remain as targeted and effective as possible.</p>\n <p id=\"p-54\" data-page=\"4548\">BIS has also modified its controls to facilitate the export of advanced computing ICs and related items to certain end users who agree to use those items in secure ecosystems. Specifically, in October 2024, BIS expanded the Validated End-User (VEU) Authorization in &sect;&thinsp;748.15 to expand Authorization VEU for data centers <a href=\"/citation/89-FR-80080\" class=\"fr-reference\" data-reference=\"89 FR 80080\">89 FR 80080</a>, October 2, 2024. BIS explained that data centers are vital to global AI development, and that the United States is committed to facilitating international AI development in a way that minimizes risk to U.S. national security. Accordingly, BIS expanded Authorization VEU to facilitate the export or reexport of items necessary for a data center to preapproved validated end users in destinations (other than D:5 countries) that require a license for items classified under ECCNs 3A090.a, 4A090.a, and .z items in Categories 3, 4, and 5. The Data Center VEU Authorization adopted",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 31,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2025_00636_32",
+    "text": "in destinations (other than D:5 countries) that require a license for items classified under ECCNs 3A090.a, 4A090.a, and .z items in Categories 3, 4, and 5. The Data Center VEU Authorization adopted much of the framework of the existing Authorization VEU, with additional requirements appropriate for a data center environment.</p>\n <p id=\"p-55\" data-page=\"4548\">\n Effective December 2, 2024, BIS expanded controls on advanced computing ICs that could enable AI applications of national security concern, as well as the SME, software, and technology needed to produce such ICs. Specifically, BIS imposed new controls on certain high-bandwidth memory (HBM) commodities, which are critical to AI training and inference at scale and a key component of advanced computing ICs. BIS also imposed controls on additional SME capable of producing advanced computing ICs (\n <em>e.g.,</em>\n certain etch, deposition, lithography tools, etc.) and on software that can enhance the capabilities of such SME or can be used to design advanced computing ICs.\n </p>\n <p id=\"p-56\" data-page=\"4548\">These previous controls reflect BIS's determination&mdash;made in conjunction with experts from across the U.S. government&mdash;that the export of even small quantities of advanced computing ICs to specific destinations and end users of concern pose significant risks to U.S. national security and foreign policy interests. Having imposed controls that address those risks, BIS and its interagency partners have",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 32,
+    "total_chunks": 37,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2025_00636_33",
+    "text": "and end users of concern pose significant risks to U.S. national security and foreign policy interests. Having imposed controls that address those risks, BIS and its interagency partners have evaluated how sales of large quantities of advanced computing ICs to other destinations and end users affect U.S. national security and foreign policy. BIS has determined that it is necessary to restrict the export of quantities of advanced ICs sufficient to train such models in order to protect U.S. national security and foreign policy interests.</p>\n <p id=\"p-57\" data-page=\"4548\">To that end, this rule imposes a global license requirement for the export of advanced ICs classified under ECCNs 3A090.a, 4A090.a, and related .z items in &sect;&thinsp;742.6(a)(6)(iii)(A), and then creates several exceptions and pathways to authorization to facilitate transactions that pose a low risk of diversion or would otherwise advance U.S. national security or foreign policy interests, including technological leadership. As noted elsewhere in this rule, these provisions also are consistent with U.S. foreign policy regarding global development.</p>\n <p id=\"p-58\" data-page=\"4548\">First, this rule creates an exception in new &sect;&thinsp;740.27 for all transactions involving certain types of end users in certain low-risk destinations. Specifically, these are destinations in which: (1) the government has implemented measures to prevent diversion of advanced technologies, and (2) there is an ecosystem",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 33,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_00636_34",
+    "text": "rtain low-risk destinations. Specifically, these are destinations in which: (1) the government has implemented measures to prevent diversion of advanced technologies, and (2) there is an ecosystem that will enable and encourage firms to use advanced AI models to advance the common national security and foreign policy interests of the United States and its allies and partners. Those destinations, which are listed in paragraph (a) to Supplement No. 5 to Part 740, are Australia, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, New Zealand, Norway, Republic of Korea, Spain, Sweden, Taiwan, the United Kingdom, and the United States. For these destinations, this IFR makes minimal changes: companies in these destinations generally will be able to obtain the most advanced ICs without a license as long as they certify compliance with specific requirements provided in &sect;&thinsp;740.27.</p>\n <p id=\"p-59\" data-page=\"4548\">Second, BIS makes no changes to the strict rules governing provision of these items to Country Group D:5 destinations and Macau.</p>\n <p id=\"p-60\" data-page=\"4548\">\n Third, for all other destinations&mdash;in other words, destinations that are not Macau, Country Group D:5, or those listed in paragraph (a) to Supplement No. 5 to Part 740&mdash;this rule creates a multi-part framework that takes into account the compute power of the transaction and, in certain cases, security measures agreed to by the recipient. To start,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 34,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2025_00636_35",
+    "text": "Part 740&mdash;this rule creates a multi-part framework that takes into account the compute power of the transaction and, in certain cases, security measures agreed to by the recipient. To start, BIS is establishing a license exception for limited quantities of advanced ICs, \n <em>i.e.,</em>\n quantities well below the amount necessary to train the most advanced AI models. This license exception can ensure that transactions not intended to contribute to the development of advanced AI models can continue unimpeded, so long as the exporter provides BIS with notice. Transactions involving larger quantities of controlled ICs will be subject to a new licensing policy that enables the export of ICs up to a specified country allocation. To provide predictability, BIS is specifying this allocation for the time period from 2025 to 2027. This licensing policy will enable end users in these destinations to develop any AI models short of the frontier, thereby allowing them to access the economic benefits of those models while simultaneously protecting the United States from the most significant threats.\n </p>\n <p id=\"p-61\" data-page=\"4548\">\n At the same time, this rule enables entities in these destinations to gain validated status to obtain significantly larger quantities of ICs under Authorization VEU. Authorization VEU advances U.S. national security and foreign policy by allowing entities that \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4549\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 35,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2025_00636_36",
+    "text": "rization VEU. Authorization VEU advances U.S. national security and foreign policy by allowing entities that \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"4549\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 4549)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-4549\" data-page=\"4549\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></spa",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2025_00636",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 36,
+    "total_chunks": 37,
+    "char_count": 546
+  }
+]

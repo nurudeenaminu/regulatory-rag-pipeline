@@ -1,0 +1,772 @@
+[
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_0",
+    "text": "false\n\n--09-30\n\n0001106838\n\n0001106838\n\n2025-07-11\n\n2025-07-11\n\niso4217:USD\n\nxbrli:shares\n\niso4217:USD\n\nxbrli:shares",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 77,
+    "char_count": 116
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_1",
+    "text": "TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934\n\n \n\nDate\nof Report (Date of earliest event reported): \nJuly 11, 2025",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "PURSUANT",
+    "chunk_index": 1,
+    "total_chunks": 77,
+    "char_count": 130
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_2",
+    "text": "BIOTHERAPEUTICS HOLDINGS, INC.\n\n(Exact\nname of registrant as specified in its charter)\n\n \n\nDelaware\n\n \n\n001-35570\n\n \n\n20-2932652\n\n(State\n or other jurisdiction\n\nof\n incorporation)\n\n \n\n(Commission\n\nFile\n Number)\n\n \n\n(IRS\n Employer\n\nIdentification\n No.)\n\n \n\n100 Overlook Center\n, \nSuite 102\n\nPrinceton\n,\n\nNew Jersey\n\n \n\n08540\n\n(Address\n of principal executive offices)\n\n \n\n(Zip\n Code)\n\n \n\nRegistrant’s\ntelephone number, including area code: \n(609)\n \n375-2227\n\n \n\nN/A\n\n(Former\nname or former address, if changed since last report.)\n\n \n\nCheck\nthe appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under\nany of the following provisions:\n\n \n\n☒\n\nWritten\n communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)\n\n \n\n \n\n☐\n\nSoliciting\n material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)\n\n \n\n \n\n☐\n\nPre-commencement\n communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))\n\n \n\n \n\n☐\n\nPre-commencement\n communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))\n\n \n\nSecurities\nregistered pursuant to Section 12(b) of the Act:\n\n \n\nTitle\n of each class\n\n \n\nTrading\n Symbol(s)\n\n \n\nName\n of each exchange on which registered\n\nCommon\n Stock, $0.0001 Par Value\n\n \n\nSONN\n\n \n\nThe\n \nNasdaq\n Capital Market LLC\n\n \n\nIndicate\nby check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 2,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_3",
+    "text": "$0.0001 Par Value\n\n \n\nSONN\n\n \n\nThe\n \nNasdaq\n Capital Market LLC\n\n \n\nIndicate\nby check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405\nof this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).\n\n \n\nEmerging\ngrowth company \n☐\n\n \n\nIf\nan emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying\nwith any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐\n\n \n\n \n\n \n\n \n\n \n\n \n\nItem\n1.01. Entry into a Material Definitive Agreement.\n\n \n\nBusiness\nCombination Agreement\n\n \n\nOn\nJuly 11, 2025, Sonnet BioTherapeutics Holdings, Inc. (the “Company”), Rorschach I LLC, a Delaware limited liability company\n(“Rorschach”), Hyperliquid Strategies Inc, a Delaware corporation (“Pubco”), TBS Merger Sub Inc, a Delaware corporation\nand wholly owned subsidiary of Pubco (“Company Merger Sub”) and Rorschach Merger Sub, LLC, a Delaware limited liability company\nand wholly owned subsidiary of Pubco (“Rorschach Merger Sub”), entered into a Business Combination Agreement (the “BCA”)\npursuant to which, subject to the terms and conditions contained in the BCA, (i) Rorschach Merger Sub will merge with and into Rorschach\n(the “Rorschach Merger”), with Rorschach surviving the Rorschach Merger as a direct wholly owned subsidiary of Pubco and\n(ii) immediately following the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 3,
+    "total_chunks": 77,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_4",
+    "text": "r Sub will merge with and into Rorschach\n(the “Rorschach Merger”), with Rorschach surviving the Rorschach Merger as a direct wholly owned subsidiary of Pubco and\n(ii) immediately following the Rorschach Merger, Company Merger Sub will merge with and into the Company (the “Company Merger”\nand, together with the Rorschach Merger, the “Mergers”), with the Company surviving the Company Merger as a direct wholly\nowned subsidiary of Pubco. The Mergers are expected to be completed in the second half of 2025.\n\n \n\nSubject\nto the terms and conditions of the BCA, at the effective time of the Company Merger (the “Effective Time”), (i) each share\nof common stock of the Company, par value $0.0001 per share (“Company Common Stock”), issued and outstanding immediately\nprior to the Effective Time other than Dissenting Shares (as defined in the BCA) shall be canceled and converted into the right to receive\n(a) one share of common stock of Pubco, par value $0.01 per share (“Pubco Common Stock”), and (b) one contractual contingent\nvalue right (a “CVR”) representing the right to receive Pubco Common Stock on the terms and subject to the conditions set\nforth in the CVR Agreement (as defined below) (together, the “Per Share Merger Consideration”), (ii) each Company Unvested\nRSA (as defined in the BCA) outstanding immediately prior to the Effective Time, together with the award agreement representing each\nsuch Company Unvested RSA, shall be assumed by Pubco and be converted into the right to",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 4,
+    "total_chunks": 77,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_5",
+    "text": "outstanding immediately prior to the Effective Time, together with the award agreement representing each\nsuch Company Unvested RSA, shall be assumed by Pubco and be converted into the right to receive (a) one restricted share of Pubco Common\nStock, subject to the same terms and conditions (including applicable vesting, expiration and forfeiture provisions) that applied to\nthe corresponding Unvested RSA immediately prior to the Effective Time and (b) one CVR, (iii) each Company Vested RSU (as defined in\nthe BCA) outstanding immediately prior to the Effective Time shall be canceled and converted into the right to receive the Per Share\nMerger Consideration, (iv) each Company Unvested RSU (as defined in the BCA) issued and outstanding immediately prior to the Effective\nTime shall be assumed by Pubco and converted into a restricted share unit representing the right to receive (a) one share of Pubco Common\nStock, having the same terms and conditions as the Company Unvested RSUs, including the applicable vesting and issuance schedule as in\neffect on the date of the BCA and (ii) one CVR, (v) each Company In-The-Money Warrant (as defined in the BCA) outstanding immediately\nprior to the Effective Time shall be (a) canceled and converted into the right to receive, for each share of Company Common Stock the\nholder of such Company In-the-Money Warrant would have received had such Company In-The-Money Warrant been exercised in full in accordance\nwith its terms immediately prior to the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 5,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_6",
+    "text": "Common Stock the\nholder of such Company In-the-Money Warrant would have received had such Company In-The-Money Warrant been exercised in full in accordance\nwith its terms immediately prior to the Effective Time, the Per Share Merger Consideration or (b) entitle the holder of such Company\nIn-The-Money Warrant to such other consideration that such holder is entitled to receive pursuant to the terms of such holder’s\nCompany In-The-Money Warrant, (vi) each Company Out-Of-The-Money Warrant (as defined in the BCA) outstanding and unexercised immediately\nprior to the Effective Time shall (a) cease to represent a Company Out-Of-The-Money Warrant in respect of shares of Company Common Stock\nand shall be assumed by Pubco and automatically converted into a warrant to acquire the same number of shares of Pubco Common Stock,\nsubject to the same terms and conditions as were applicable to the applicable Company Out-Of-The-Money Warrant immediately prior to the\nEffective Time, with the right to receive, for each share of Company Common Stock the holder of such Company Out-Of-The-Money Warrant\nwould have received had such Company Out-Of-The-Money Warrant been exercised in full in accordance with its terms immediately prior to\nthe Effective Time, the Per Share Merger Consideration or (b) entitle the holder of such Company Out-Of-The-Money Warrant to such other\nconsideration that such holder is entitled to receive pursuant to the terms of such holder’s Out-Of-The-Money Warrant, and (vii)\nall",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 6,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_7",
+    "text": "he holder of such Company Out-Of-The-Money Warrant to such other\nconsideration that such holder is entitled to receive pursuant to the terms of such holder’s Out-Of-The-Money Warrant, and (vii)\nall shares of Company Common Stock held in the treasury of the Company shall be canceled without any conversion thereof and no payment\nor distribution shall be made with respect thereto.\n\n \n\n \n\n \n\n \n\nPursuant\nto the BCA, at or prior to the closing of the Mergers (the “Closing” and the date on which the Closing occurs, the “Closing\nDate”), certain investors shall enter into contribution agreements (the “Contribution Agreements”) with Rorschach to\ncontribute at least $200.0 million in HYPE Tokens Value (as defined in the BCA), and certain investors may contribute cash to Rorschach\n(collectively, the “Contribution”). Subject to the terms and conditions of the BCA, at the effective time of the Rorschach\nMerger, the equityholders of Rorschach immediately prior to the Closing will receive, in the aggregate, that number of shares of Pubco\nCommon Stock equal to the aggregate amount of the Contribution divided by $1.25. In addition, pursuant to the Subscription Agreements\n(as defined below), certain investors have agreed to purchase, immediately prior to the Closing, shares of Company Common Stock at a\npurchase price of $1.25 per share, which shares of Company Common Stock will convert into shares of Pubco Common Stock on a one-for-one\nbasis at the effective time of the Company Merger.",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 7,
+    "total_chunks": 77,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_8",
+    "text": "at a\npurchase price of $1.25 per share, which shares of Company Common Stock will convert into shares of Pubco Common Stock on a one-for-one\nbasis at the effective time of the Company Merger. Pursuant to the terms of the BCA, the amount of cash proceeds to the Company at the\nClosing from the Subscription Agreements, the Contribution Agreements and the Initial PIPE Offering (as defined below) must equal at\nleast $50 million. At the Closing, based on Contribution Agreements and Subscription Agreements entered concurrently with the signing\nof the BCA, it is expected that Pubco will hold approximately $583 million in HYPE tokens (based on an agreed spot price\nof HYPE of $46.372, as used in the BCA) and have cash of at least $305 million on its balance sheet.\n\n \n\nAlso\npursuant to the terms of the BCA, at the Closing Pubco shall issue to the Advisor (as defined below) (i) that number of shares of Pubco\nCommon Stock equal to 5% of the shares of Pubco Common Stock issued and outstanding, on a fully-diluted, as converted basis, immediately\nfollowing the Effective Time and (ii) warrants (the “Advisor Warrants”) to purchase a number of shares of Pubco Common Stock\nequal to, in the aggregate, 15% of the fully diluted number of outstanding shares of Pubco Common Stock immediately after Closing. The\nAdvisor Warrants will be exercisable for five years following the Closing, at an exercise price equal to (i) for one-third of the Advisor\nWarrants, $1.875, (ii) for one-third of the Advisor",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 8,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_9",
+    "text": "g. The\nAdvisor Warrants will be exercisable for five years following the Closing, at an exercise price equal to (i) for one-third of the Advisor\nWarrants, $1.875, (ii) for one-third of the Advisor Warrants, $2.50 and (iii) for one-third of the Advisor Warrants, $3.75.\n\n \n\nOn\na pro forma basis, it is anticipated that immediately following the Closing, current equityholders of the Company (including the investors\nin the Initial PIPE Offering, as defined below) will own approximately 1.2% of outstanding shares of Pubco Common Stock and Rorschach\nequityholders, collectively with the Subscribers (as defined below) will own approximately 98.8% of outstanding shares of Pubco\nCommon Stock.\n\n \n\nIn\nconnection with the Company Merger, the Company will seek the approval of its stockholders to, among other things, approve the BCA and\nthe transactions contemplated thereby (the “Company Required Stockholder Approval”). In addition, the Company will seek the\napproval of its stockholders to, among other things, approve the issuance of the shares in the PIPE Offering pursuant to the rules of\nthe Nasdaq Stock Market (“Nasdaq”).\n\n \n\nEach\nof the parties have agreed to customary representations, warranties and covenants in the BCA, including, among others, covenants relating\nto (i) obtaining the requisite approval of its respective stockholders and (ii) the conduct of its respective business during the period\nbetween the signing of the BCA and the closing of the Mergers. In addition, the Company",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 9,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_10",
+    "text": "site approval of its respective stockholders and (ii) the conduct of its respective business during the period\nbetween the signing of the BCA and the closing of the Mergers. In addition, the Company agreed to (a) file with the U.S. Securities and\nExchange Commission (the “SEC”) a proxy statement (the “Proxy Statement”) to (1) obtain the Company Required\nStockholder Approval, including the Company’s board of director’s recommendation that the stockholders vote “FOR”\nthe BCA and transactions contemplated thereby (the “Company Board Recommendation”) and (2) approve any other proposals the\nparties deem necessary to effectuate the transactions contemplated by the BCA and (b) prior to the closing of the Rorschach Merger, non-solicitation\nor facilitation of any Takeover Proposal or Superior Proposal (as each is defined in the BCA). Pubco also agreed to prepare and file\na registration statement on Form S-4 to register the shares of Pubco Common Stock to be issued in connection with the Mergers (the “Registration\nStatement”).\n\n \n\nFrom\nthe date of the BCA until the closing of the Rorschach Merger, the Company shall not, among other things, solicit, initiate, propose\nor take any action to knowingly assist, facilitate or encourage the making, submission or announcement of, a Takeover Proposal or enter\ninto an Alternative Acquisition Agreement (as defined in the BCA) unless in response to an unsolicited bona fide written Takeover Proposal\nfrom a third party that constitutes or would",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 10,
+    "total_chunks": 77,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_11",
+    "text": "l or enter\ninto an Alternative Acquisition Agreement (as defined in the BCA) unless in response to an unsolicited bona fide written Takeover Proposal\nfrom a third party that constitutes or would reasonably be expected to lead to a Superior Proposal (as defined in the BCA) and has determined\nthat the failure to take such actions would be inconsistent with the Company’s board of director’s fiduciary duties; provided\nthat the Company give at least 2 business days notice to the Rorschach Parties (as defined in the BCA) prior to furnishing any such non-public\ninformation to, or entering into discussions with, any such third party.\n\n \n\n \n\n \n\n \n\nPrior\nto the closing of the Rorschach Merger, the Company’s board of directors shall not, among other things, withhold, withdraw, qualify\nor modify, or publicly propose to withhold, amend, withdraw or modify, the Company Board Recommendation in a manner adverse to the Rorschach\nParties or fail to include the Company Board Recommendation in the Proxy Statement. However, the Company’s board of directors may\nmake a Company Adverse Recommendation Change (as defined in the BCA) in response to an Intervening Event (as defined in the BCA) or Takeover\nProposal from a third party that constitutes or would reasonably be expected to lead to a Superior Proposal if, in either case, the Company’s\nboard of directors determines that the failure to take such actions would be inconsistent with the Company’s board of director’s\nfiduciary duties, if, among",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 11,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_12",
+    "text": "osal if, in either case, the Company’s\nboard of directors determines that the failure to take such actions would be inconsistent with the Company’s board of director’s\nfiduciary duties, if, among other things, the Company (i) first gives notice to the Rorschach Parties at least 5 business days prior\nto making such Company Adverse Recommendation Change and (ii) negotiates in good faith to make revisions to the terms of the BCA.\n\n \n\nThe\nClosing is subject to certain closing conditions, including, among other things, (i) the completion of the Contribution, (ii) obtaining\nthe Company Required Stockholder Approval, (ii) adoption and approval of the BCA and the transactions contemplated thereby by the requisite\nequityholders of the Rorschach Parties, including the Pubco Requisite Approval (as defined in the BCA), (iii) the effectiveness of the\nRegistration Statement and (iv) the listing of the Pubco Common Stock issuable in connection with the Mergers on Nasdaq. Each party’s\nobligation to consummate the Mergers is also subject to other specified customary conditions, including regarding the accuracy of the\nrepresentations and warranties of the other party, subject to the applicable materiality standard, and the performance in all material\nrespects by the other party of its obligations under the BCA required to be performed on or prior to the Closing Date.\n\n \n\nThe\nBCA contains certain termination rights for both the Company and Rorschach, at any time prior to the Effective Time,",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 12,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_13",
+    "text": "under the BCA required to be performed on or prior to the Closing Date.\n\n \n\nThe\nBCA contains certain termination rights for both the Company and Rorschach, at any time prior to the Effective Time, notwithstanding\nthe receipt of the Company Requisite Stockholder Approval, including, among other things, (i) by mutual written consent of the Company\nand Rorschach, (ii) by Rorschach, if the Company’s board of directors approves a Superior Proposal, a tender offer or there is\notherwise a Company Adverse Recommendation Change, (iii) by the Company, if the Company’s board of directors approves a Superior\nProposal, if and only if the Company shall have paid the Termination Fee (as defined below) to Rorschach, (iv) by the Company or Rorschach\nif the Closing shall not have occurred prior to July 11, 2026 (the “Outside Date”), provided that the Outside Date may be\nextended by either party for up to 60 days in the event that the SEC has not declared effective the Registration Statement by the date\nwhich is 60 days prior to the Outside Date, or (v) by the Company or Rorschach if the Requisite Stockholder Approval shall fail to have\nbeen obtained. Upon termination of the BCA under specified circumstances, the Company may be required to pay Rorschach a termination\nfee of $2.5 million (the “Termination Fee”) or up to $1 million to reimburse Rorschach for any expenses incurred in connection\nwith the BCA and the transactions contemplated thereby (the (“Expense Reimbursement”). In no event will",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 13,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_14",
+    "text": "nation Fee”) or up to $1 million to reimburse Rorschach for any expenses incurred in connection\nwith the BCA and the transactions contemplated thereby (the (“Expense Reimbursement”). In no event will the Company be required\nto pay both the Termination Fee and the Expense Reimbursement.\n\n \n\nFollowing\nthe Closing, the board of directors of Pubco will initially be comprised of six members, which shall include Robert Diamond as Chairman,\nJeff Tuder, two additional members nominated by Rorschach, and Nailesh Bhatt and Albert Dyrness, two of the current board members of\nthe Company. Additionally, the officers of Pubco immediately following Closing will be David Schamis as Chief Executive Officer and such\nother individuals as Rorschach may select. Following Closing and during the CVR Term, Raghu Rao will remain the Chief Executive Officer\nof the Company, which will operate as a wholly owned subsidiary of Pubco.\n\n \n\n \n\n \n\n \n\nCertain\nAgreements Related to the Mergers\n\n \n\nInitial\nPIPE Purchase Agreements\n\n \n\nConcurrently\nwith the execution of the BCA, the Company entered into separate securities purchase agreements (the “PIPE Purchase Agreements”)\nwith certain accredited investors pursuant to which the Company will issue (the “Initial PIPE Offering”), an aggregate of\n(i) 5,500 shares of the Company’s newly designated Series 5 Convertible Preferred Stock (the “Series 5 Preferred Stock”),\nstated value $1,000 per share (the “Stated Value”), initially convertible at a conversion price of",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 14,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_15",
+    "text": "e Company’s newly designated Series 5 Convertible Preferred Stock (the “Series 5 Preferred Stock”),\nstated value $1,000 per share (the “Stated Value”), initially convertible at a conversion price of $1.25 per share, or 4,400,000\nshares of Company Common Stock, and (ii) warrants to purchase up to 8,800,000 shares of Company Common Stock (the “Initial PIPE\nWarrants”), for an offering price of $1,000 per share of Series 5 Preferred Stock and accompanying Warrant, pursuant to a private\nplacement in accordance with Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”). The Initial\nPIPE Offering is expected to close on July 14, 2025. The gross proceeds are expected to be $5.5 million from the Initial PIPE Offering,\nbefore deducting offering expenses.\n\n \n\nIn\naddition, on the closing date of the Initial PIPE Offering, the holders of the Company’s convertible notes in the aggregate principal\namount of $2.0 million issued on June 30, 2025 (the “Bridge Financing”), will automatically convert into an aggregate of\n2,000 shares of Series 5 Preferred Stock, initially convertible at a conversion price of $1.25 per share, or 1,600,000 shares of Company\nCommon Stock, and (ii) warrants to purchase up to 3,200,000 shares of Company Common Stock (together with the Initial PIPE Warrants,\nthe “PIPE Warrants”). The Company intends to use the net proceeds from the PIPE Offering and the Bridge Financing for working\ncapital and general corporate purposes, including the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 15,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_16",
+    "text": "IPE Warrants,\nthe “PIPE Warrants”). The Company intends to use the net proceeds from the PIPE Offering and the Bridge Financing for working\ncapital and general corporate purposes, including the advancement of the Company’s current programs in connection with the planned\nfuture sale of the Company Legacy Assets (as defined below).\n\n \n\nThe\nPIPE Warrants are exercisable immediately upon issuance at an exercise price equal to $1.25 per share, and will expire on the five-year\nanniversary of the date of issuance; provided, however, until Stockholder Approval (as defined in the PIPE Purchase Agreement) is obtained,\nthe PIPE Warrants will only be exercisable and the Series 5 Preferred Stock will only be convertible, in the aggregate, into up to an\naggregate of 666,212 shares of Company Common Stock, representing 19.99% of the number of shares of Company Common Stock outstanding\nimmediately prior to the date of the PIPE Purchase Agreement (the “Issuable Maximum”), subject to adjustment. The exercise\nprice of the PIPE Warrants may be adjusted for stock dividends and stock splits, subsequent rights offerings, pro rata distributions\nof dividends or the occurrence of a Fundamental Transaction (as defined in the Form of PIPE Warrant). A holder of PIPE Warrants will\nnot have the right to exercise any portion of its PIPE Warrants if the holder, together with its affiliates, would beneficially own in\nexcess of 4.99% (or, at the election of the holder, 9.99%) of the number of shares of",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 16,
+    "total_chunks": 77,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_17",
+    "text": "se any portion of its PIPE Warrants if the holder, together with its affiliates, would beneficially own in\nexcess of 4.99% (or, at the election of the holder, 9.99%) of the number of shares of Company Common Stock outstanding immediately after\ngiving effect to such exercise. A holder may increase or decrease the beneficial ownership limitation up to 9.99%, provided, however,\nthat any increase in the beneficial ownership limitation shall not be effective until 61 days following notice of such change to the\nCompany.\n\n \n\nSubscription\nAgreements\n\n \n\nAlso\nconcurrently with the execution of the BCA, certain accredited investors (the “Subscribers”) entered into subscription agreements\nwith the Company and Pubco (the “Subscription Agreements”), pursuant to which the Company agreed to issue, and the Subscribers\nagreed to purchase, immediately prior to the Closing, an aggregate of 243,787,992 shares of Company Common Stock at a purchase\nprice of $1.25 per share, pursuant to a private placement in accordance with Section 4(a)(2) of the Securities Act (the “Closing\nPIPE”), The gross proceeds are expected to be $305 million from the Closing PIPE, before deducting offering expenses. Pursuant\nto the terms of the Subscription Agreement, prior to the Closing, neither the Company nor Pubco shall enter into any agreement for the\ninvestment or contribution of cash by any additional investors or contributors on terms more favorable to such persons than the terms\nset forth in the Subscription",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 17,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_18",
+    "text": "nter into any agreement for the\ninvestment or contribution of cash by any additional investors or contributors on terms more favorable to such persons than the terms\nset forth in the Subscription Agreement or the BCA as in effect on the date hereof, unless, in any such case, the investors signatory\nto the Subscription Agreement have also been provided the opportunity to amend the terms of the Subscription Agreement to reflect such\nother terms. The Subscription Agreements provide that if the shares of Pubco Common Stock received by the Subscribers at Closing are\n“restricted securities” pursuant to Rule 144(a)(3) under the Securities Act or are otherwise not freely tradeable under the\nSecurities Act immediately following the Closing, the Subscribers will be entitled to become a party to the Registration Rights Agreement\n(as defined below).\n\n \n\nThe\nconsummation of the Closing PIPE is contingent upon, and will occur substantially concurrently with, the Closing and the satisfaction\nor waiver of customary closing conditions.\n\n \n\nEach\nSubscription Agreement shall terminate and be void and of no further force and effect upon the earliest to occur of (i) such date and\ntime as the BCA is validly terminated in accordance with its terms; (ii) the mutual written agreement of the respective parties to terminate\nsuch agreement; (iii) written notice by either party to the other party to terminate the Subscription Agreement if the transactions contemplated\nby the Subscription Agreement are",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 18,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_19",
+    "text": "rties to terminate\nsuch agreement; (iii) written notice by either party to the other party to terminate the Subscription Agreement if the transactions contemplated\nby the Subscription Agreement are not consummated on or prior to the Outside Date (including any extension of the Outside Date expressly\nprovided for pursuant to the provisions of the Business Combination Agreement as described above); (iv) any amendment to, or waiver to\nthe terms of, the BCA that would reasonably be expected to materially and adversely affect the economic benefits the Subscribers would\nreasonably expect to receive under the Subscription Agreements.\n\n \n\nChardan\nCapital Markets, LLC (“Chardan”) acted as the Company’s and Rorschach’s exclusive advisor with respect to the\nClosing PIPE and is entitled to receive a fee, payable in cash or Pubco Common Stock at Chardan’s option, equal to 7.0%\nof the aggregate gross proceeds raised in connection with the Closing PIPE (other than from proceeds raised from certain specified investors\nand affiliated persons). The Company also agreed to reimburse Chardan for certain of its expenses in an amount up to $50,000, or, in\nthe event the Closing occurs, $100,000.\n\n \n\n \n\n \n\n \n\nAdvisor\nAgreements\n\n \n\nPursuant\nto the BCA, in connection with the Closing, Pubco and Rorschach Advisors LLC, a Delaware limited liability company (the “Advisor”),\nshall enter into an Advisor Rights Agreement (the “Advisor Rights Agreement”) and a Strategic Advisor Agreement (the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 19,
+    "total_chunks": 77,
+    "char_count": 1484
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_20",
+    "text": "Advisors LLC, a Delaware limited liability company (the “Advisor”),\nshall enter into an Advisor Rights Agreement (the “Advisor Rights Agreement”) and a Strategic Advisor Agreement (the “Advisory\nAgreement”). The Advisor Rights Agreement will provide the Advisor certain rights with respect to Pubco, including, subject to\nthe conditions set forth in the Advisor Rights Agreement, director nomination rights and information rights. Pursuant to the Advisory\nAgreement, the Advisor will provide technical advisory services to Pubco related to the digital asset ecosystem, including Hyperliquid\nand related digital assets, developments in digital asset industries, the selection of third-party vendors with respect to asset management\nand related digital asset services and other strategic advice regarding digital assets treasury operations for a term of five years.\n\n \n\nContingent",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SONNET",
+    "chunk_index": 20,
+    "total_chunks": 77,
+    "char_count": 878
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_21",
+    "text": "At\nor prior to Closing, Pubco will enter into a Contingent Value Rights Agreement (the “CVR Agreement”) with a rights agent\n(“Rights Agent”), pursuant to which holders of Company Common Stock (not including the shares of Company Common Stock issued\nto the Subscribers pursuant to the Subscription Agreements) and Company In-The-Money Warrants, in each case, as of immediately prior\nto the Effective Time, will receive one contingent value right (each, a “CVR”) for each then-outstanding share of Company\nCommon Stock held by such stockholder (or, in the case of the Company In-The-Money Warrants, each share of Company Common Stock for which\nsuch Company In-The-Money Warrants is exercisable into as of such date). The CVR Payment (as defined in the CVR Agreement) will be payable\nupon the closing of a sale, license, transfer, disposition, divestiture or other monetization transaction (i.e., a royalty transaction)\n(or a series of transactions) and/or winding down of, or other disposition(s) of any the Company Legacy Assets (as defined in the CVR\nAgreement) (a “Company Legacy Transaction”) during the period beginning on the Closing Date and ending on the 3\nrd\n\nanniversary of the date of the CVR Agreement (the “CVR Term”). The shares of PubCo Common Stock issuable in connection with\nthe CVR Payment (the “CVR Shares”) are subject to certain deductions pursuant to the terms of the CVR Agreement.\n\n \n\nThe\npayment date for the CVR Shares will be within 10 business days after the rights agent",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 21,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_22",
+    "text": "ayment (the “CVR Shares”) are subject to certain deductions pursuant to the terms of the CVR Agreement.\n\n \n\nThe\npayment date for the CVR Shares will be within 10 business days after the rights agent receives the CVR Shares from Pubco upon the closing\nof a Company Legacy Transaction. In the event that a Company Legacy Transaction does not occur during the CVR Term or a Company Legacy\nTransaction does occur during the CVR Term but the amount of deductions payable pursuant to the terms of the CVR Agreement, including\nexpenses related to the transaction, liabilities of the Company related to the Company’s outstanding warrants prior to the Closing\nand other expenses payable pursuant to the CVR Agreement, exceed the proceeds received pursuant to the Company Legacy Transaction, the\nholders of the CVRs will not receive any CVR Shares pursuant to the CVR Agreement. There can be no assurances that any holders of CVRs\nwill receive any CVR Shares with respect thereto.\n\n \n\nThe\nCVRs are not transferable, except in certain limited circumstances as will be provided in the CVR Agreement, will not be certificated\nor evidenced by any instrument and will not be listed for trading on any exchange.\n\n \n\nRegistration\nRights Agreement\n\n \n\nPursuant\nto the BCA, on the Closing Date Pubco will enter into a Registration Rights Agreement (the “Registration Rights Agreement”)\nwith the Advisor and certain investors in Rorschach (and, if applicable, certain Subscribers pursuant to the terms of the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 22,
+    "total_chunks": 77,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_23",
+    "text": "egistration Rights Agreement (the “Registration Rights Agreement”)\nwith the Advisor and certain investors in Rorschach (and, if applicable, certain Subscribers pursuant to the terms of the Subscription\nAgreements), pursuant to which, among other things, Pubco will agree to provide such holders with customary registration rights with\nrespect to the shares of Pubco Common Stock to be owned by such holders following the Closing.\n\n \n\n* *\n*\n\n \n\n \n\n \n\n \n\nThe\npreceding summaries do not purport to be complete and are qualified in their entirety by reference to the BCA, Form of Subscription Agreement,\nForm of Contribution Agreement, Form of PIPE Purchase Agreement, Form of PIPE Warrant, Advisor Rights Agreement, Advisory Agreement,\nAdvisor Warrants, Form of CVR Agreement and Form of Registration Rights Agreement, which are filed as Exhibits 2.1, 10.1, 10.2, 10.3,\n4.1, Exhibit B to Exhibit 2.1, Exhibit C to Exhibit 2.1, Exhibit D to Exhibit 2.1, Exhibit E to Exhibit 2.1 and Exhibit A to Exhibit\n2.1, respectively, which are incorporated herein by reference. The BCA has been attached as an exhibit to this Current Report on Form\n8-K to provide investors and securityholders with information regarding its terms. It is not intended to provide any other factual information\nabout the parties thereto or to modify or supplement any factual disclosures about the Company in its public reports filed with the SEC.\nThe BCA includes representations, warranties and covenants of the parties signatory",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 23,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_24",
+    "text": "to or to modify or supplement any factual disclosures about the Company in its public reports filed with the SEC.\nThe BCA includes representations, warranties and covenants of the parties signatory thereto made solely for the purpose of the BCA and\nsolely for the benefit of the parties thereto in connection with the negotiated terms of the BCA. Investors should not rely on the representations,\nwarranties and covenants in the BCA or any descriptions thereof as characterizations of the actual state of facts or conditions of the\nparties or any of their respective affiliates. Moreover, certain of those representations and warranties may not be accurate or complete\nas of any specified date, may be subject to a contractual standard of materiality different from those generally applicable to SEC filings\nor may have been used for purposes of allocating risk among the parties to the BCA, rather than establishing matters of fact.\n\n \n\nItem\n3.02. Unregistered Sales of Equity Securities.\n\n \n\nThe\ninformation set forth in “Item 1.01 Entry into a Material Definitive Agreement” relating to the issuance of (i) the Series\n5 Preferred Stock (and the Company Common Stock issuable upon conversion of such Series 5 Preferred Stock) and the PIPE Warrants (and\nthe Company Common Stock issuable upon exercise of the PIPE Warrants) and (ii) the shares of Company Common Stock to be issued pursuant\nto the Subscription Agreements is incorporated by reference herein in its entirety.\n\n \n\nThe\nsecurities in",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 24,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_25",
+    "text": "se of the PIPE Warrants) and (ii) the shares of Company Common Stock to be issued pursuant\nto the Subscription Agreements is incorporated by reference herein in its entirety.\n\n \n\nThe\nsecurities in the Initial PIPE Offering and the Closing PIPE were sold in reliance upon an exemption from the registration requirement\nof the Securities Act of 1933, as amended, pursuant to Section 4(a)(2) thereof and/or Rule 506(b) of Regulation D promulgated thereunder.\n\n \n\nThis\nCurrent Report on Form 8-K shall not constitute an offer to sell or the solicitation of any offer to buy the Company Common Stock, nor\nshall there be an offer, solicitation or sale of the Company Common Stock in any state in which such offer, solicitation or sale would\nbe unlawful prior to registration or qualification under the securities laws of such state.\n\n \n\nItem\n5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of\nCertain Officers.\n\n \n\nOn\nJuly 11, 2025, the Company’s board of directors approved the grant of 120,000 restricted stock units (“RSUs”) pursuant\nto the Company’s 2020 Omnibus Equity Incentive Plan which included the following: 10,000 RSUs to Donald Griffith, the Company’s\nChief Financial Officer; 12,000 RSUs to John Cini, the Company’s Chief Scientific Officer; and 20,000 RSUs to Raghu\nRao, the Company’s Interim Chief Executive Officer. Each RSU grant vests in full on the earlier of (i) the Closing or (ii) January\n8, 2026.",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 25,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_26",
+    "text": "pany’s Chief Scientific Officer; and 20,000 RSUs to Raghu\nRao, the Company’s Interim Chief Executive Officer. Each RSU grant vests in full on the earlier of (i) the Closing or (ii) January\n8, 2026. Vested RSUs will be paid in shares of the Company’s common stock on a one-to-one basis.\n\n \n\nItem\n5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.\n\n \n\nPursuant\nto the PIPE Purchase Agreement, the Company filed a certificate of designations (the “Certificate of Designations”) on July\n11, 2025, with the Delaware Secretary of State designating the rights, preferences and limitations of the shares of the Series 5 Preferred\nStock.\n\n \n\n \n\n \n\n \n\nEach\nshare of Series 5 Preferred Stock will be convertible, at the option of the holder, into that number of shares of Company Common Stock\ndetermined by dividing the Stated Value by $1.25 (the “Conversion Price”); provided, however, until Stockholder Approval\n(as defined in the PIPE Purchase Agreement) is obtained, the Series 5 Preferred Stock will only be convertible together with the exercise\nof the PIPE Warrants into the Issuable Maximum, subject to adjustment. The Conversion Price may be adjusted pursuant to the Certificate\nof Designations for stock dividends and stock splits, subsequent rights offerings, pro rata distributions of dividends or the occurrence\nof a Fundamental Transaction (as defined in the Certificate of Designations). A holder of Series 5 Preferred Stock will not have the\nright to convert any",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 26,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_27",
+    "text": "stributions of dividends or the occurrence\nof a Fundamental Transaction (as defined in the Certificate of Designations). A holder of Series 5 Preferred Stock will not have the\nright to convert any portion of its Series 5 Preferred Stock if the holder, together with its affiliates, would beneficially own in excess\nof 4.99% (or, at the election of the holder, 9.99%) of the number of shares of Company Common Stock outstanding immediately after giving\neffect to such conversion. A holder may increase or decrease the beneficial ownership limitation up to 19.99% (the “Exchange Cap”),\nprovided, however, that any increase in the beneficial ownership limitation shall not be effective until 61 days following notice of\nsuch change to the Company. No holders of Series 5 Preferred Stock will, as holders of Series 5 Preferred Stock, have any preemptive\nrights to purchase or subscribe for Company Common Stock or any of the Company’s other securities. The shares of Series 5 Preferred\nStock are not redeemable by the Company.\n\n \n\nEach\noutstanding share of Series 5 Preferred Stock is entitled to receive, in preference to shares of Junior Securities (as defined in the\nCertificate of Designations), cumulative dividends (“Preferential Dividends”), payable quarterly in arrears, at an annual\nrate of 6.0% of the Stated Value (the “Preferential Dividend Rate”). Preferential Dividends shall be payable, at the option\nof the Company, either in-kind in shares of Company Common Stock, through an accrual on",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 27,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_28",
+    "text": "of the Stated Value (the “Preferential Dividend Rate”). Preferential Dividends shall be payable, at the option\nof the Company, either in-kind in shares of Company Common Stock, through an accrual on the Stated Value of the Series 5 Preferred Stock\nor in cash. In addition, each holder of Series 5 Preferred Stock will be entitled to receive dividends equal to, on an as-converted to\nshares of the Company Common Stock basis, and in the same form as, dividends actually paid on shares of the Company Common Stock when,\nas, and if such dividends are paid on shares of the Company Common Stock. In the event that the BCA is terminated for any reason, the\nPreferential Dividend Rate shall increase 600 basis points in the event that the Exchange Cap remains in place on the dates representing\nthe sixth (6\nth\n) month and twelfth (12\nth\n) month anniversary of such termination date; provided, however, that (i)\nin no event shall the Preferential Dividend Rate exceed eighteen percent (18%) and (ii) the Preferential Dividend Rate shall be reset\nto 6.0% upon Stockholder Approval.\n\n \n\nThe\nSeries 5 Preferred Stock has no voting rights, except as required by law and for certain customary protective provisions set forth in\nthe Certificate of Designations.\n\n \n\nUpon\nany liquidation, dissolution or winding-up of the Company, whether voluntary or involuntary, the then holders of the Series 5 Preferred\nStock are entitled to receive out of the assets available for distribution to stockholders of the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 28,
+    "total_chunks": 77,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_29",
+    "text": "up of the Company, whether voluntary or involuntary, the then holders of the Series 5 Preferred\nStock are entitled to receive out of the assets available for distribution to stockholders of the Company, for all shares of Series 5\nPreferred Stock held by them, (i) after and subject to the payment in full of all amounts required to be distributed to the holders of\nanother class or series of stock of the Company ranking on liquidation prior and in preference to the Series 5 Preferred Stock, (ii)\nratably with any class or series of stock designated as ranking on liquidation on parity with the Series 5 Preferred Stock and (iii)\nin preference and priority to the holders of the shares of Junior Securities, an amount equal to 100% of the Stated Value, plus all unpaid\naccrued and accumulated Preferential Dividends on all such shares (whether or not declared), and no more, in proportion to the full and\npreferential amount that all shares of the Series 5 Preferred Stock are entitled to receive.\n\n \n\nImmediately\nprior to the Closing and subject to the conditions of the Certificate of Designations, each outstanding share of the Series 5 Preferred\nStock shall, without any further action by the Company or the holders thereof, automatically convert into the number of shares of Company\nCommon Stock determined by dividing the Stated Value of such share of Series 5 Preferred Stock plus all unpaid accrued and accumulated\nPreferential Dividends on such share (whether or not declared) by the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 29,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_30",
+    "text": "k determined by dividing the Stated Value of such share of Series 5 Preferred Stock plus all unpaid accrued and accumulated\nPreferential Dividends on such share (whether or not declared) by the Conversion Price.\n\n \n\nThe\nforegoing description of the Series 5 Preferred Stock is not complete and is qualified in its entirety by reference to the full text\nof the Certificate of Designations, a copy of which is attached hereto as Exhibit 3.1 and is incorporated in its entirety herein by reference.\n\n \n\nItem\n7.01. Regulation FD Disclosure.\n\n \n\nOn\nJuly 14, 2025, the Company and Rorschach issued a joint press release announcing the execution of the BCA. A copy of the press release\nis attached hereto as Exhibit 99.1. The press release and the information set forth therein shall not be deemed to be filed for purposes\nof Section 18 of the Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise be subject to the liabilities of\nthat section, nor shall it be deemed to be incorporated by reference in any filing under the Securities Act, or the Exchange Act.\n\n \n\n \n\n \n\n \n\nItem\n8.01. Other Events. \n\n \n\nIn\nconnection with the BCA, the Company is supplementing the business description and risk factors previously disclosed in its Annual Report\non Form 10-K for the year ended September 30, 2024, and as supplemented by the Company’s subsequent periodic filings, with the\nfollowing:\n\n \n\nBusiness\nOverview\n\n \n\nIn\nparallel with its new cryptocurrency treasury strategy, following the Closing,",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 30,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_31",
+    "text": "24, and as supplemented by the Company’s subsequent periodic filings, with the\nfollowing:\n\n \n\nBusiness\nOverview\n\n \n\nIn\nparallel with its new cryptocurrency treasury strategy, following the Closing, the Company will operate as a wholly owned subsidiary\nof Pubco and will continue focusing on existing assets and business lines, including the development of SON-1010 as described in the\nCompany’s Form 10-K for the fiscal year ended September 30, 2024 and other filings with the SEC, while disposing of other assets.\nThe Company continues to engage in commercial partnering discussions focused on its biotech assets.\n\n \n\nHyperliquid\nStrategies Inc. \n\n \n\nPubco\nwill be focused on building a reserve of HYPE, the native token of the Hyperliquid Layer-1 blockchain. At the closing of the Mergers,\nit is expected that Pubco is to be named Hyperliquid Strategies Inc. (“HSI”), which will hold approximately $583 in\nHYPE tokens (based on an agreed spot price of $46.372, as used in the BCA) and cash of at least $305 million on its balance\nsheet based upon the Subscription Agreements and Contribution Agreements entered into in connection with the BCA. Both HYPE and cash\nhave been committed by certain accredited investors to contribute to Rorschach or the Company prior to the closing of the Mergers. HSI\nis expected to remain listed on the Nasdaq Capital Market under a new ticker symbol and become a public cryptocurrency treasury company\nupon the closing of the Mergers. The gross cash proceeds of",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 31,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_32",
+    "text": "is expected to remain listed on the Nasdaq Capital Market under a new ticker symbol and become a public cryptocurrency treasury company\nupon the closing of the Mergers. The gross cash proceeds of $305 million at the closing of the Mergers are expected to enable\nHSI to acquire significantly more additional HYPE.\n\n \n\nHYPE\nTreasury\n\n \n\nHyperliquid\nis a layer one (L1) blockchain engineered for transparent high-frequency decentralized transactions. The blockchain hosts fully onchain\nperpetual futures and spot order books. The Hyperliquid blockchain also hosts the HyperEVM, a general-purpose smart contract platform\nthat, like Ethereum, provides permissionless building blocks for decentralized financial applications.\n\n \n\nHyperliquid\nsupports non-custodial trading via its HyperCore order books, with perpetual futures trading for a range of digital assets including\nBitcoin (BTC), Ether (ETH), and Solana (SOL). Perpetual futures are a type of cryptocurrency derivative contract that allows traders\nto speculate on the price of an asset without owning the underlying asset itself. Unlike traditional futures contracts, perpetual futures\nhave no expiration date, allowing traders to hold positions indefinitely as long as they meet margin requirements. The Hyperliquid blockchain\nis available to any potential users with a compatible cryptocurrency wallet such as MetaMask, Phantom, and Coinbase Wallet. However,\nHyperliquid interface operators can choose to block persons in certain jurisdictions",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 32,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_33",
+    "text": "y potential users with a compatible cryptocurrency wallet such as MetaMask, Phantom, and Coinbase Wallet. However,\nHyperliquid interface operators can choose to block persons in certain jurisdictions or sanctioned wallets as required via solutions\nsuch as geoblocking and address screening.\n\n \n\nHYPE\nis the native token of Hyperliquid. HYPE serves multiple purposes: users can stake HYPE to validate transactions and reduce their fees\non Hyperliquid, conduct transactions on the HyperEVM, or use it as collateral on various decentralized DeFi applications. As of July\n2025, the token has become the 11th-largest cryptocurrency by market capitalization.\n\n \n\nAdditionally,\nHYPE has certain governance rights with respect to the Hyperliquid blockchain. The Hyperliquid L1 is a proof-of-stake blockchain, wherein\nvalidators that have staked the threshold number of HYPE are selected to produce blocks and receive rewards if they successfully validate\nblocks. Holders of HYPE can vote or delegate to validators who then are able to vote on certain decisions regarding the platform. Any\nholder of HYPE can delegate HYPE to a validator to earn staking rewards, should the validator successfully participate in network consensus.\nStaked HYPE is locked until un-staked, subject to a seven day un-staking queue before HYPE is released back to the user.\n\n \n\nHYPE\ncan also be deployed into the HyperEVM for various strategies such as lending and liquidity provisioning. This is expected to enable\nthe Company to",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 33,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_34",
+    "text": "before HYPE is released back to the user.\n\n \n\nHYPE\ncan also be deployed into the HyperEVM for various strategies such as lending and liquidity provisioning. This is expected to enable\nthe Company to support various applications built on Hyperliquid and in return, potentially earn yield that can be compounded into its\noverall HYPE acquisition strategy.\n\n \n\n \n\n \n\n \n\nRisk\nFactors\n\n \n\nCompletion\nof the Mergers is subject to a number of conditions, including certain conditions that may not be satisfied or completed on a timely\nbasis or at all.\n\n \n\nThe\ncompletion of the Mergers is contingent upon the satisfaction or waiver of a number of conditions, some of which are beyond our control.\nThese conditions include, but are not limited to, securing necessary stockholder approval and the absence of any legal restraints or\nprohibitions. There can be no assurance that all of these conditions will be satisfied or, if permissible, waived, or that they will\nbe satisfied or waived in a timely manner. Failure to satisfy any of these conditions could result in the Mergers being delayed or not\nbeing completed at all. Any delay or failure to complete the Mergers could result in significant costs, the loss of potential benefits,\nand could have a material adverse effect on our business, financial condition, and results of operations. Additionally, the uncertainty\nassociated with the pending Mergers may disrupt our business or negatively impact our relationships with customers, employees, and",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 34,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_35",
+    "text": "ition, and results of operations. Additionally, the uncertainty\nassociated with the pending Mergers may disrupt our business or negatively impact our relationships with customers, employees, and other\nbusiness partners.\n\n \n\nHYPE\nis a highly volatile asset, and fluctuations in the price of HYPE may influence our financial results and the market price of our listed\nsecurities.\n\n \n\nOur\nfinancial results and the market price of our listed securities would be adversely affected, and our business and financial condition\nwould be negatively impacted, if the price of HYPE decreased substantially, including as a result of:\n\n \n\n●\n\ndecreased\n user and purchaser confidence in HYPE, including due to the various factors described herein;\n\n \n\n \n\n●\n\ntransactional\n activities such as (i) activities of highly active retail and institutional users, speculators and holders or (ii) actual or expected\n significant dispositions of HYPE by large holders, including the expected liquidation of digital assets seized by governments or\n associated with entities that have filed for bankruptcy protection, or associated with tokens vested by the Hyperliquid core team;\n\n \n\n \n\n●\n\nnegative\n publicity, media or social media coverage, or sentiment due to events in or relating to, or perception of, HYPE, Hyperliquid or the\n broader digital assets industry;\n\n \n\n \n\n●\n\nchanges\n in consumer preferences and the perceived value or prospects of HYPE or the utility of Hyperliquid;\n\n \n\n \n\n●\n\ncompetition\n from other",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 35,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_36",
+    "text": "or the\n broader digital assets industry;\n\n \n\n \n\n●\n\nchanges\n in consumer preferences and the perceived value or prospects of HYPE or the utility of Hyperliquid;\n\n \n\n \n\n●\n\ncompetition\n from other blockchains, centralized exchanges or decentralized exchanges that exhibit comparable or better speed, security, scalability\n or energy efficiency, or that feature other more favored characteristics;\n\n●\n\ncompetition\n from other digital assets that feature other more favored characteristics, are backed by governments, including the U.S. government,\n or reserves of fiat currencies, or that represent ownership or security interests in physical assets;\n\n \n\n \n\n●\n\na\n decrease in the price of other digital assets, to the extent the decrease in the price of such other digital assets may cause a decrease\n in the price of HYPE or adversely affect investor confidence in digital assets generally;\n\n \n\n \n\n●\n\ndevelopments\n relating to the Hyperliquid blockchain, including (i) changes to the Hyperliquid blockchain that impact its security, speed, scalability,\n usability or value, such as changes to the cryptographic security protocol underpinning the Hyperliquid blockchain, changes to the\n maximum number of HYPE outstanding, changes to the mutability of transactions, changes relating to the size of blockchain blocks,\n changes to its number of validators, and similar changes; (ii) failures to make upgrades to the Hyperliquid blockchain and the Hyperliquid\n interface to adapt to security,",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 36,
+    "total_chunks": 77,
+    "char_count": 1485
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_37",
+    "text": "hain blocks,\n changes to its number of validators, and similar changes; (ii) failures to make upgrades to the Hyperliquid blockchain and the Hyperliquid\n interface to adapt to security, technological, legal or other challenges; and (iii) changes to the Hyperliquid blockchain that introduce\n software bugs, security risks or other elements that adversely affect HYPE;\n\n \n\n \n\n \n\n \n\n●\n\ndisruptions,\n failures, unavailability, or interruptions in services of venues for acquiring HYPE;\n\n \n\n \n\n●\n\nthe\n filing for bankruptcy protection by, liquidation of, or market concerns about the financial viability of digital asset custodians,\n trading venues, lending platforms, investment funds, or other digital asset industry participants;\n\n \n\n \n\n●\n\nregulatory,\n legislative, enforcement and judicial actions that adversely affect access to, functionality of or performance of Hyperliquid or\n associated products such as cryptocurrency perpetual futures, the price, ownership, transferability, trading volumes, legality or\n public perception of, HYPE, Hyperliquid or other L1 blockchains, or that adversely affect the operations of or otherwise prevent\n digital asset custodians, trading venues, lending platforms or other digital assets industry participants from (i) accessing HYPE\n or Hyperliquid or associated products or (ii) operating in a manner that allows them to continue to deliver services to the digital\n assets industry;\n\n \n\n \n\n●\n\ntransaction\n congestion and fees associated with processing",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 37,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_38",
+    "text": "ed products or (ii) operating in a manner that allows them to continue to deliver services to the digital\n assets industry;\n\n \n\n \n\n●\n\ntransaction\n congestion and fees associated with processing transactions on the Hyperliquid network;\n\n \n\n \n\n●\n\nmacroeconomic\n changes, such as changes in the level of interest rates and inflation, fiscal and monetary policies of governments, trade restrictions\n and fiat currency devaluations;\n\n \n\n \n\n●\n\ndevelopments\n in mathematics or technology, including in digital computing, algebraic geometry and quantum computing, that could result in the\n cryptography used by the Hyperliquid blockchain becoming insecure or ineffective; and\n\n \n\n \n\n●\n\nchanges\n in national and international economic and political conditions, including, without limitation, federal government policies, trade\n tariffs and trade disputes, and the adverse impacts attributable to global conflicts, including those between Russia and Ukraine\n and in the Middle East. \n\n \n\nMoreover,\nthe price of our listed securities has been and is likely to continue to be volatile, and with the adoption of our new cryptocurrency\ntreasury strategy, we expect to see additional volatility in our stock price. In addition, if investors view the value of our listed\nsecurities as dependent upon or linked to the value or change in the value of our HYPE holdings or the availability of HYPE to be readily\npurchased in the United States or elsewhere, the price and/or availability of HYPE may significantly",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 38,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_39",
+    "text": "value or change in the value of our HYPE holdings or the availability of HYPE to be readily\npurchased in the United States or elsewhere, the price and/or availability of HYPE may significantly influence the market price of our\nlisted securities. The price of HYPE has historically been, and is likely to continue to be, volatile.\n\n \n\nHYPE\nand other digital assets are novel assets and are subject to significant legal and regulatory uncertainty.\n\n \n\nHYPE\nand other digital assets are relatively novel and are subject to significant legal and regulatory uncertainty, which could adversely\nimpact their price. The application of state and federal securities laws and other laws and regulations to digital assets is evolving\nand unclear in certain respects, and it is possible that regulators in the United States or foreign countries may interpret or apply\nexisting laws and regulations in a manner that adversely affects the operations or functionality of Hyperliquid, the price of HYPE or\nthe ability of individuals or institutions such as us to own or transfer HYPE.\n\n \n\n \n\n \n\n \n\nThe\nU.S. federal government, states, regulatory agencies, and foreign countries may also enact new laws and regulations, or pursue regulatory,\nlegislative, enforcement or judicial actions, that could materially impact the price of HYPE or the ability of individuals or institutions\nsuch as us to own or transfer HYPE. For example, within the past several years:\n\n \n\n●\n\nPresident\n Trump signed an Executive Order",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 39,
+    "total_chunks": 77,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_40",
+    "text": "the price of HYPE or the ability of individuals or institutions\nsuch as us to own or transfer HYPE. For example, within the past several years:\n\n \n\n●\n\nPresident\n Trump signed an Executive Order instructing a working group comprised of representatives from key federal agencies to evaluate measures\n that can be taken to provide regulatory clarity and certainty built on technology-neutral regulations for individuals and firms involved\n in digital assets, including through well-defined jurisdictional regulatory boundaries, and this working group is required to submit\n a report with regulatory and legislative proposals on or before July 22, 2025;\n\n \n\n \n\n●\n\nin\n January 2025, the SEC announced the formation of a “Crypto Task Force,” which was created to provide clarity on the application\n of the federal securities laws to the crypto asset market and to recommend policy measures with respect to digital asset security\n status, registration and listing of digital asset-based investment vehicles, and digital asset custody, lending and staking;\n\n \n\n \n\n●\n\nin\n May 2025, the SEC issued a statement providing its view that certain staking activities on blockchain networks that use protocol\n staking activities do not involve the offer or sale of securities under the Securities Act or the Exchange Act;\n\n \n\n \n\n●\n\nin\n April and August 2024, Uniswap Labs and OpenSea, respectively, publicized that they had each received a Wells Notice from the\n SEC, notifying them that the SEC was planning to",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 40,
+    "total_chunks": 77,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_41",
+    "text": "Act;\n\n \n\n \n\n●\n\nin\n April and August 2024, Uniswap Labs and OpenSea, respectively, publicized that they had each received a Wells Notice from the\n SEC, notifying them that the SEC was planning to recommend legal action against them based on allegations that they operate as\n unregistered securities exchanges;\n\n \n\n \n\n●\n\nin\n November 2023, Binance Holdings Ltd. (“Binance”) and its then chief executive officer reached a settlement with the U.S.\n Department of Justice, the Commodity Futures Trading Commission, the U.S. Department of Treasury’s Office of Foreign Asset\n Control, and the Financial Crimes Enforcement Network to resolve a multi-year investigation by the agencies and a civil suit brought\n by the Commodity Futures Trading Commission, pursuant to which Binance agreed to, among other things, pay $4.3 billion in penalties\n across the four agencies and to discontinue its operations in the United States;\n\n \n\n \n\n●\n\nin\n November 2023, the SEC filed a complaint against Payward Inc. and Payward Ventures Inc., together known as Kraken, alleging, among\n other claims, that Kraken’s crypto trading platform was operating as an unregistered securities exchange, broker, dealer and\n clearing agency;\n\n \n\n \n\n●\n\nin\n June 2023, the SEC filed complaints against Binance and Coinbase, Inc. (“Coinbase”), and their respective affiliated\n entities, relating to, among other claims, assertions that each party was operating as an unregistered securities exchange, broker,\n dealer and clearing",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 41,
+    "total_chunks": 77,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_42",
+    "text": "e”), and their respective affiliated\n entities, relating to, among other claims, assertions that each party was operating as an unregistered securities exchange, broker,\n dealer and clearing agency;\n\n \n\n \n\n●\n\nthe\n European Union adopted Markets in Crypto Assets Regulation, a comprehensive digital asset regulatory framework for the issuance and\n use of digital assets, like bitcoin;\n\n \n\n \n\n●\n\nin\n June 2023, the United Kingdom adopted and implemented the Financial Services and Markets Act 2023, which regulates market activities\n in “cryptoassets;” and\n\n \n\n \n\n●\n\nin\n China, the People’s Bank of China and the National Development and Reform Commission have outlawed cryptocurrency mining and\n declared all cryptocurrency transactions illegal within the country.\n\n \n\nWhile\nthe complaint against Coinbase was dismissed in February 2025, the complaint against Payward Inc. and Payward Ventures Inc. was dismissed\nwith prejudice in March 2025, and the complaint against Binance was dismissed on May 29, 2025, the SEC or other state, federal or foreign\nregulatory agencies may initiate similar actions in the future, which could materially impact the operations or functionality of Hyperliquid,\nthe price of HYPE and our ability to own or transfer HYPE. For example, in April 2025, the State of Oregon brought a civil enforcement\naction against Coinbase for allegedly selling unregistered securities.\n\n \n\nIt\nis not possible to predict whether or when new laws will be enacted that change the legal",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 42,
+    "total_chunks": 77,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_43",
+    "text": "rought a civil enforcement\naction against Coinbase for allegedly selling unregistered securities.\n\n \n\nIt\nis not possible to predict whether or when new laws will be enacted that change the legal framework governing digital assets or provide\nadditional authorities to the SEC or other regulators, or whether or when any other federal, state or foreign legislative bodies will\ntake any similar actions. It is also not possible to predict the nature of any such additional laws or authorities, how additional legislation\nor regulatory oversight might impact the ability of digital asset markets to function, the willingness of financial and other institutions\nto continue to provide services to the digital assets industry, or how any new laws or regulations, or changes to existing laws or regulations,\nmight impact the value of digital assets generally and HYPE specifically. The consequences of any new law or regulation relating to digital\nassets and digital asset activities could adversely affect the market price of HYPE, as well as our ability to hold or transact in HYPE,\nand in turn adversely affect the market price of our listed securities.\n\n \n\n \n\n \n\n \n\nOur\nHYPE treasury strategy subjects us to enhanced regulatory oversight.\n\n \n\nThere\nhas been increasing focus on the extent to which digital assets can be used to launder the proceeds of illegal activities, fund criminal\nor terrorist activities, or circumvent sanctions regimes, including those sanctions imposed in response to the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 43,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_44",
+    "text": "al assets can be used to launder the proceeds of illegal activities, fund criminal\nor terrorist activities, or circumvent sanctions regimes, including those sanctions imposed in response to the ongoing conflict between\nRussia and Ukraine. While we have implemented and maintain policies and procedures reasonably designed to promote compliance with applicable\nanti-money laundering and sanctions laws and regulations and take care to only acquire our HYPE through entities subject to anti-money\nlaundering regulation and related compliance rules in the United States, and are in the process of onboarding a chief compliance officer,\nif we are found to have purchased any of our HYPE from bad actors that have used HYPE to launder money or persons subject to sanctions,\nwe may be subject to regulatory proceedings and any further transactions or dealings in HYPE by us may be restricted or prohibited.\n\n \n\nA\nportion of our HYPE holdings may serve as collateral securing our outstanding indebtedness, and we may incur additional indebtedness\nor enter into other financial instruments in the future that may be collateralized by our HYPE holdings. We may also consider pursuing\nstrategies to create income streams or otherwise generate funds using our HYPE holdings. These types of HYPE-related transactions are\nthe subject of enhanced regulatory oversight. These and any other HYPE-related transactions we may enter into, beyond simply acquiring\nand holding HYPE, may subject us to additional",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 44,
+    "total_chunks": 77,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_45",
+    "text": "ions are\nthe subject of enhanced regulatory oversight. These and any other HYPE-related transactions we may enter into, beyond simply acquiring\nand holding HYPE, may subject us to additional regulatory compliance requirements and scrutiny, including under federal and state money\nservices regulations, money transmitter licensing requirements and various commodity and securities laws and regulations.\n\n \n\nIncreased\nenforcement activity and changes in the regulatory environment, including evolving or changing interpretations and the implementation\nof new or varying regulatory requirements by the government or any new legislation affecting HYPE, as well as enforcement actions involving\nor impacting our trading venues, counterparties and custodians, may impose significant costs or significantly limit our ability to hold\nand transact in HYPE.\n\n \n\nIn\naddition, private actors that are wary of HYPE or the regulatory concerns associated with HYPE have in the past taken and may in the\nfuture take further actions that may have an adverse effect on our business or the market price of our listed securities. For example,\nit is possible that a financial institution could restrict customers from buying our securities if it were to determine that the value\nof our securities is closely tied to the performance of HYPE, signaling a reluctance to facilitate exposure to virtual currencies.\n\n \n\nWe\nplan to use a portion of our capital raised that is not required to provide working capital for our",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 45,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_46",
+    "text": "erformance of HYPE, signaling a reluctance to facilitate exposure to virtual currencies.\n\n \n\nWe\nplan to use a portion of our capital raised that is not required to provide working capital for our ongoing operations to acquire HYPE,\nwhich may adversely affect our financial results and the market price of our securities.\n\n \n\nWe\nplan to use a portion of our capital raised that is not required to provide working capital for our ongoing operations to acquire HYPE.\nThe price of HYPE has been subject to dramatic price fluctuations and is highly volatile. Moreover, digital assets are relatively novel,\nand the application of securities laws and other regulations to such assets is unclear in many respects. It is possible that regulators\nmay interpret laws in a manner that adversely affects the liquidity or value of our HYPE holdings. Further, the acquisition of large\namounts of HYPE may become difficult or more costly, which would make it more difficult for us to implement our strategy.\n\n \n\nAny\ndecrease in the fair value of HYPE below our carrying value for such assets could require us to incur an impairment charge, and such\na charge could be material to our financial results for the applicable reporting period, which may create significant volatility in our\nreported earnings. Any decrease in reported earnings or increased volatility of such earnings could have a material adverse effect on\nthe market price of our securities. In addition, the application of generally accepted",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 46,
+    "total_chunks": 77,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_47",
+    "text": "in reported earnings or increased volatility of such earnings could have a material adverse effect on\nthe market price of our securities. In addition, the application of generally accepted accounting principles in the United States with\nrespect to digital assets remains uncertain in some respects, and any future changes in the manner in which we account for our HYPE holdings\ncould have a material adverse effect on our financial results and the market price of our securities.\n\n \n\nIn\naddition, if investors view the value of our securities as dependent upon or linked to the value or change in the value of our HYPE holdings,\nthe price of such digital assets may significantly influence the market price of our securities.\n\n \n\n \n\n \n\n \n\nAbsent\nfederal regulations, there is a possibility that HYPE may be classified as a “security.” Any classification of HYPE as a\n“security” would subject us to additional regulation and could materially impact the operation of our business.\n\n \n\nNeither\nthe SEC nor any other U.S. federal or state regulator has publicly stated whether they believe that HYPE is a “security,”\nnor has any court addressed the status of HYPE under the U.S. federal securities laws or similar laws. Therefore, while (for the reasons\ndiscussed below) we believe that HYPE is not a “security” within the meaning of the U.S. federal securities laws, and registration\nof the Company under the Investment Company Act of 1940, as amended (the “Investment Company Act”) is therefore not",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 47,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_48",
+    "text": "ecurity” within the meaning of the U.S. federal securities laws, and registration\nof the Company under the Investment Company Act of 1940, as amended (the “Investment Company Act”) is therefore not required\nunder the applicable securities laws, a regulator or federal court may determine otherwise. Our belief, even if reasonable under the\ncircumstances, would not preclude legal or regulatory action based on such a finding that HYPE is a “security” which could\nrequire us to register as an investment company under the Investment Company Act.\n\n \n\nWe\nhave implemented a process for analyzing the U.S. federal securities law status of HYPE and other cryptocurrencies as guidance and case\nlaw evolve. As part of our U.S. federal securities law analytical process, we take into account a number of factors, including the various\ndefinitions of “security” under U.S. federal securities laws and federal court decisions interpreting the elements of these\ndefinitions, such as the U.S. Supreme Court’s decisions in the \nHowey\n and \nReves\n cases, as well as court rulings, reports,\norders, press releases, public statements, and speeches by the SEC Commissioners and SEC Staff providing guidance on when a digital asset\nor a transaction to which a digital asset may relate may be a security for purposes of U.S. federal securities laws. Our position that\nHYPE is not a “security” is premised, among other reasons, on our conclusion that HYPE does not meet the elements of the\n\nHowey\n test and thus is not",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 48,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_49",
+    "text": "U.S. federal securities laws. Our position that\nHYPE is not a “security” is premised, among other reasons, on our conclusion that HYPE does not meet the elements of the\n\nHowey\n test and thus is not a security nor bought and sold in securities transactions. Rather, we believe that HYPE is a commodity\nnot subject to the U.S. securities laws.\n\n \n\nWe\nacknowledge, however, that the SEC, a court or another relevant entity could take a different view. Application of securities laws to\nthe specific facts and circumstances of digital assets is complex, evolving and subject to change. Our conclusion, even if reasonable\nunder the circumstances, would not preclude legal or regulatory action based on a finding that HYPE, or any other digital asset we might\nhold is a “security.” As such, we are at risk of enforcement proceedings and lawsuits against us or others, which could result\nin potential injunctions, cease-and-desist orders, fines and penalties if HYPE is determined by a regulatory body or a court to be a\nsecurity or to be bought and sold in securities transactions. Such developments would adversely affect our business, results of operations,\nfinancial condition, and prospects.\n\n \n\nDue\nto the complexity and uncertainty of applying the federal securities and similar laws to digital assets, as well as the fact that different\ncompanies doing business in the digital asset industry take varying approaches to analyzing the security status of digital assets, other\ncompanies may from time",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 49,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_50",
+    "text": "ts, as well as the fact that different\ncompanies doing business in the digital asset industry take varying approaches to analyzing the security status of digital assets, other\ncompanies may from time to time reach different conclusions from us on the security status of a particular digital asset. Although we\nanticipate that these differences will narrow over time, if competitors conclude that they can hold digital assets in ways that we do\nnot permit, then they may have business and revenue opportunities that are not available to us.\n\n \n\nIf\nwe were deemed to be an investment company under the Investment Company Act, applicable restrictions likely would make it impractical\nfor us to continue segments of our business as currently contemplated.\n\n \n\nThe\nInvestment Company Act is intended to protect investors (for example, by preventing insiders from managing investment companies to their\nbenefit and to the detriment of public investors), and it requires an issuer primarily engaged in the business of investing, reinvesting\nor trading in securities to register as an investment company, unless a valid exemption applies. Under Sections 3(a)(1)(A) and (C) of\nthe Investment Company Act, a company generally will be deemed to be an “investment company” if (i) it is or holds itself\nout as being engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities\nor (ii) it engages or proposes to engage in the business of investing,",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 50,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_51",
+    "text": "ng engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities\nor (ii) it engages or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and it\nowns or proposes to acquire investment securities having a value exceeding 40% of the value of its total assets (exclusive of U.S. government\nsecurities and cash items) on an unconsolidated basis.\n\n \n\nWe\ndo not believe that we are an “investment company” as such term is defined in either Section 3(a)(1)(A) or Section 3(a)(1)(C)\nof the Investment Company Act since we believe HYPE is not an investment security. With respect to Section 3(a)(1)(A), we do not hold\nourselves out as being engaged primarily or propose to engage primarily in the business of investing, reinvesting, or trading in securities\nwithin the meaning of such section. With respect to Section 3(a)(1)(C), we do not own or propose to acquire investment securities having\na value exceeding 40% of the value of our total assets (exclusive of U.S. government securities and cash items) on an unconsolidated\nbasis. Our stockholders will not have the regulatory protections provided to investors in investment companies.\n\n \n\n \n\n \n\n \n\nHYPE\nand other digital assets, as well as new business models and transactions enabled by blockchain technologies, present novel interpretive\nquestions under the Investment Company Act. There is a risk that assets or arrangements that we have",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 51,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_52",
+    "text": "w business models and transactions enabled by blockchain technologies, present novel interpretive\nquestions under the Investment Company Act. There is a risk that assets or arrangements that we have concluded are not securities could\nbe deemed to be securities by the SEC or another authority for purposes of the Investment Company Act, which would increase the percentage\nof securities held by us for Investment Company Act purposes. The SEC has requested information from a number of participants in the\ndigital assets’ ecosystem, regarding the potential application of the Investment Company Act to their businesses. For example,\nin an action unrelated to the Company, in February 2022, the SEC issued a cease-and-desist order under the Investment Company Act to\nBlockFi Lending LLC (“BlockFi”), in which the SEC alleged that BlockFi was operating as an unregistered investment company\nbecause it issued securities and also held more than 40% of its total assets, excluding cash, in investment securities, including the\nloans of digital assets made by BlockFi to institutional borrowers.\n\n \n\nIf\nwe were deemed to be an investment company, Rule 3a-2 under the Investment Company Act is a safe harbor that provides a one-year grace\nperiod for transient investment companies that have a bona fide intent to be engaged primarily, as soon as is reasonably possible (in\nany event by the termination of such one-year period), in a business other than that of investing, reinvesting, owning, holding or",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 52,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_53",
+    "text": "ent to be engaged primarily, as soon as is reasonably possible (in\nany event by the termination of such one-year period), in a business other than that of investing, reinvesting, owning, holding or trading\nin securities, with such intent evidenced by the company’s business activities and an appropriate resolution of its board of directors.\nThe grace period is available not more than once every three years and runs from the earlier of (i) the date on which the issuer owns\nsecurities and/or cash having a value exceeding 50% of the issuer’s total assets on either a consolidated or unconsolidated basis\nor (ii) the date on which the issuer owns or proposes to acquire investment securities having a value exceeding 40% of the value of such\nissuer’s total assets (exclusive of U.S. government securities and cash items) on an unconsolidated basis. Accordingly, the grace\nperiod may not be available at the time that we seek to rely on Rule 3a-2; however, Rule 3a-2 is a safe harbor and we may rely on any\nexemption or exclusion from investment company status available to us under the Investment Company Act at any given time. Furthermore,\nmaintaining our status as a non-investment company or reliance on Rule 3a-2 could require us to take actions to dispose of securities\nand/or acquire other assets, which dispositions or acquisitions could be required to take place under unfavorable market conditions and\ncould result in the incurrence of losses, and could limit our ability to make certain",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 53,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_54",
+    "text": "ets, which dispositions or acquisitions could be required to take place under unfavorable market conditions and\ncould result in the incurrence of losses, and could limit our ability to make certain investments or enter into joint ventures, or otherwise\nlimit or change our service offerings and operations.\n\n \n\nIf\nwe were to be deemed an investment company in the future, restrictions imposed by the Investment Company Act - including limitations\non our ability to issue different classes of stock and equity compensation to directors, officers, and employees and restrictions on\nmanagement, operations, and transactions with affiliated persons - likely would make it impractical for us to continue our business as\ncontemplated, and would have a material adverse effect on our business, results of operations, financial condition, and prospects. In\naddition, if we were to become subject to the Investment Company Act, any violation of the Investment Company Act could subject us to\nmaterial adverse consequences, including potentially significant regulatory penalties and the possibility that certain of our contracts\nwould be deemed unenforceable. In such event, there would be no guarantee that we would be able to take actions to modify our operations\nto cease to be an investment company or to bring our operations into compliance with the Investment Company Act. Furthermore, any steps\nwe are able to take to ensure future compliance with the Investment Company Act would not insulate us from",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 54,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_55",
+    "text": "ring our operations into compliance with the Investment Company Act. Furthermore, any steps\nwe are able to take to ensure future compliance with the Investment Company Act would not insulate us from liability for past violations.\nAny of these events could adversely affect our business, results of operations, financial condition, and prospects.\n\n \n\nHYPE\nis created and transmitted through the operations of the peer-to-peer Hyperliquid network, a decentralized network of computers running\nsoftware following the HYPE protocol. If the Hyperliquid network is disrupted or encounters any unanticipated difficulties, the value\nof HYPE could be negatively impacted.\n\n \n\nIf\nthe Hyperliquid network is disrupted or encounters any unanticipated difficulties, then the processing of transactions on the Hyperliquid\nnetwork may be disrupted, which in turn may prevent us from depositing or withdrawing HYPE from our accounts with our custodian or otherwise\neffecting HYPE transactions. Such disruptions could include, for example: the price volatility of HYPE; the insolvency, business failure,\ninterruption, default, failure to perform, security breach, or other problems of participants, custodians or others; the closing of HYPE\ntrading platforms due to fraud, failures, security breaches or otherwise; or network outages or congestion, power outages, or other problems\nor disruptions affecting the Hyperliquid network.\n\n \n\n \n\n \n\n \n\nIn\naddition, digital asset validating operations can consume",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 55,
+    "total_chunks": 77,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_56",
+    "text": "network outages or congestion, power outages, or other problems\nor disruptions affecting the Hyperliquid network.\n\n \n\n \n\n \n\n \n\nIn\naddition, digital asset validating operations can consume significant amounts of electricity, which may have a negative environmental\nimpact and give rise to public opinion against allowing, or government regulations restricting, the use of electricity for validating\noperations. Additionally, validators may be forced to cease operations during an electricity shortage or power outage.\n\n \n\nWe\nface risks relating to the custody of our HYPE, including the loss or destruction of private keys required to access our HYPE and cyberattacks\nor other data loss relating to our HYPE, including smart contract related losses and vulnerabilities.\n\n \n\nWe\nplan to hold our HYPE with regulated custodians that have duties to safeguard our private keys. Our custodial services contracts will\nnot restrict our ability to reallocate our HYPE among custodians, and our HYPE holdings may be concentrated with a single custodian.\nIn light of the significant amount of HYPE we anticipate that we will hold, we expect to continually seek to engage additional custodians\nto achieve a greater degree of diversification in the custody of our HYPE as the extent of potential risk of loss is dependent, in part,\non the degree of diversification. However, multiple custodians may not be available or may utilize similar wallet infrastructure, cloud\nservice providers or software systems, which",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 56,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_57",
+    "text": "ependent, in part,\non the degree of diversification. However, multiple custodians may not be available or may utilize similar wallet infrastructure, cloud\nservice providers or software systems, which could increase systemic technology risk.\n\n \n\nIf\nthere is a decrease in the availability of digital asset custodians that we believe can safely custody our HYPE, for example, due to\nregulatory developments or enforcement actions that cause custodians to discontinue or limit their services, we may need to enter into\nagreements that are less favorable or take other measures to custody our HYPE, and our ability to seek a greater degree of diversification\nin the use of custodial services would be materially adversely affected. While we will conduct due diligence on our custodians and any\nsmart contract platforms we may use, there can be no assurance that such diligence will uncover all risks, including operational deficiencies,\nhidden vulnerabilities or legal noncompliance.\n\n \n\nAny\ninsurance that may cover losses of our HYPE holdings may cover none or only a small fraction of the value of the entirety of our HYPE\nholdings, and there can be no guarantee that such insurance will be maintained as part of the custodial services we have or that such\ncoverage will cover losses with respect to our HYPE. Moreover, our use of custodians exposes us to the risk that the HYPE our custodians\nhold on our behalf could be subject to insolvency proceedings and we could be treated as a general",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 57,
+    "total_chunks": 77,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_58",
+    "text": "ur HYPE. Moreover, our use of custodians exposes us to the risk that the HYPE our custodians\nhold on our behalf could be subject to insolvency proceedings and we could be treated as a general unsecured creditor of the custodian,\ninhibiting our ability to exercise ownership rights with respect to such HYPE. Any loss associated with such insolvency proceedings is\nunlikely to be covered by any insurance coverage we may maintain related to our HYPE. The legal framework governing digital asset ownership\nand rights in custodial or insolvency contexts remains uncertain and continues to evolve, which could result in unexpected losses, protracted\nrecovery processes or adverse treatment in insolvency proceedings.\n\n \n\nHYPE\nis controllable only by the possessor of both the unique public key and private key(s) relating to the local or online digital wallet\nin which the HYPE is held. While the L1 blockchain ledger requires a public key relating to a digital wallet to be published when used\nin a transaction, private keys must be safeguarded and kept private in order to prevent a third party from accessing the HYPE held in\nsuch wallet. To the extent the private key(s) for a digital wallet are lost, destroyed, or otherwise compromised and no backup of the\nprivate key(s) is accessible, neither we nor our custodians will be able to access the HYPE held in the related digital wallet. Furthermore,\nwe cannot provide assurance that our digital wallets, nor the digital wallets of our custodians",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 58,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_59",
+    "text": "nor our custodians will be able to access the HYPE held in the related digital wallet. Furthermore,\nwe cannot provide assurance that our digital wallets, nor the digital wallets of our custodians held on our behalf, will not be compromised\nas a result of a cyberattack. The HYPE and blockchain ledger, as well as other digital assets and blockchain technologies, have been,\nand may in the future be, subject to security breaches, cyberattacks or other malicious activities.\n\n \n\nAs\npart of our treasury management strategy, we may engage in staking, restaking, or other permitted activities that involve the use of\n“smart contracts” or decentralized applications. The use of smart contracts or decentralized applications entails certain\nrisks including risks stemming from the existence of an “admin key” or coding flaws that could be exploited, potentially\nallowing a bad actor to issue or otherwise compromise the smart contract or decentralized application, potentially leading to a loss\nof our HYPE. Like all software code, smart contracts are exposed to risk that the code contains a bug or other security vulnerability,\nwhich can lead to loss of assets that are held on or transacted through the contract or decentralized application. Smart contracts and\ndecentralized applications may contain bugs, security vulnerabilities or poorly designed permission structures that could result in the\nirreversible loss of HYPE or other digital assets. Exploits, including those stemming from admin key",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 59,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_60",
+    "text": "ugs, security vulnerabilities or poorly designed permission structures that could result in the\nirreversible loss of HYPE or other digital assets. Exploits, including those stemming from admin key misuse, admin key compromise, or\nprotocol flaws, have occurred in the past and may occur in the future. Certain employees or vendors may also be vulnerable to physical\nor psychological coercion, commonly referred to as “wrench attacks,” as well as scams and social engineering tactics intended\nto obtain access to passwords or private cryptographic keys, in order to then effectuate the unauthorized transfer or theft of digital\nassets.\n\n \n\n \n\n \n\n \n\nOur\nhistorical financial statements do not reflect the potential variability in earnings that we may experience in the future relating to\nour HYPE holdings.\n\n \n\nBecause\nwe only recently initiated our HYPE treasury strategy, our historical financial statements do not reflect the potential variability in\nearnings that we may experience in the future from holding or selling significant amounts of HYPE. The price of digital assets have historically\nbeen subject to dramatic price fluctuations and is highly volatile. In December 2023, the Financial Accounting Standards Board issued\nAccounting Standards Update 2023-08, Intangibles-Goodwill and Other-Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of\nCrypto Assets (“ASU 2023-08”), which we plan to adopt.\n\n \n\nASU\n2023-08 requires us to measure our HYPE holdings at fair value in our",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 60,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_61",
+    "text": "ypto Assets (Subtopic 350-60): Accounting for and Disclosure of\nCrypto Assets (“ASU 2023-08”), which we plan to adopt.\n\n \n\nASU\n2023-08 requires us to measure our HYPE holdings at fair value in our statement of financial position, and to recognize gains and losses\nfrom changes in the fair value of our HYPE in net income each reporting period. ASU 2023-08 also requires us to provide certain interim\nand annual disclosures with respect to our HYPE holdings. As a result, volatility in our earnings may be significantly more than what\nwe experienced in prior periods.\n\n \n\nUnrealized\nfair value gains on our HYPE holdings could cause us to become subject to the corporate alternative minimum tax under the Inflation Reduction\nAct of 2022.\n\n \n\nThe\nUnited States enacted the Inflation Reduction Act of 2022 (“IRA”) in August 2022. Unless an exemption applies, the IRA imposes\na 15% corporate alternative minimum tax (“CAMT”) on a corporation with respect to an initial tax year and subsequent tax\nyears, if the average annual adjusted financial statement income for any consecutive three-tax-year period preceding the initial tax\nyear exceeds $1 billion. On September 12, 2024, the Department of Treasury and the Internal Revenue Service issued proposed regulations\nwith respect to the application of the CAMT.\n\n \n\nIn\nconnection with the implementation of our HYPE treasury strategy, we expect to adopt ASU 2023-08. ASU 2023-08 requires us to measure\nour HYPE holdings at fair value in our statement of",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 61,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_62",
+    "text": "CAMT.\n\n \n\nIn\nconnection with the implementation of our HYPE treasury strategy, we expect to adopt ASU 2023-08. ASU 2023-08 requires us to measure\nour HYPE holdings at fair value in our statement of financial position, with gains and losses from changes in the fair value of our HYPE\nrecognized in net income each reporting period. When determining whether we are subject to CAMT and when calculating any related tax\nliability for an applicable tax year, the proposed regulations provide that, among other adjustments, our adjusted financial statement\nincome must include this ratable amount in addition to any unrealized gains or losses reported in the applicable tax year.\n\n \n\nAccordingly,\nas a result of the enactment of the IRA and our anticipated adoption of ASU 2023-08, unless the IRA is amended or the proposed regulations\nwith respect to CAMT, when finalized, are revised to provide relief (or other interim relief is granted), we could become subject to\nthe CAMT in future tax years. If we become subject to the CAMT, it could result in a material tax obligation that we would need to satisfy\nin cash, which could materially affect our financial results, including our earnings and cash flow, and our financial condition.\n\n \n\nDue\nto the unregulated nature and lack of transparency surrounding the operations of many HYPE trading venues, HYPE trading venues may experience\ngreater fraud, security failures or regulatory or operational problems than trading venues for more established asset",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 62,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_63",
+    "text": "ng the operations of many HYPE trading venues, HYPE trading venues may experience\ngreater fraud, security failures or regulatory or operational problems than trading venues for more established asset classes, which\nmay result in a loss of confidence in HYPE trading venues and adversely affect the value of our HYPE.\n\n \n\nHYPE\ntrading venues are relatively new and, in many cases, unregulated. Furthermore, there are many HYPE trading venues which do not provide\nthe public with significant information regarding their ownership structure, management teams, corporate practices and regulatory compliance.\nAs a result, the marketplace may lose confidence in HYPE trading venues, including prominent exchanges that handle a significant volume\nof HYPE trading and/or are subject to regulatory oversight, in the event one or more HYPE trading venues cease or pause for a prolonged\nperiod the trading of HYPE or other digital assets, or experience fraud, significant volumes of withdrawal, security failures or operational\nproblems.\n\n \n\nThe\nSEC alleged as part of its June 5, 2023, complaint against Binance that Binance committed strategic and targeted “wash trading”\nthrough its affiliates to artificially inflate the volume of certain digital assets traded on its exchange. The SEC has also brought\nactions against individuals and digital asset market participants alleging that such persons artificially increased trading volumes in\ncertain digital assets through wash trades, or repeated buying and",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 63,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_64",
+    "text": "ons against individuals and digital asset market participants alleging that such persons artificially increased trading volumes in\ncertain digital assets through wash trades, or repeated buying and selling of the same assets in fictitious transactions to manipulate\ntheir underlying trading price. Such reports and allegations may indicate that the HYPE market is significantly smaller than expected\nand that the United States makes up a significantly larger percentage of the HYPE market than is commonly understood. Any actual or perceived\nwash trading in the HYPE market, and any other fraudulent or manipulative acts and practices, could adversely affect the value of our\nHYPE.\n\n \n\n \n\n \n\n \n\nNegative\nperception, a lack of stability in the broader digital currency markets and the closure, temporary shutdown or operational disruption\nof HYPE trading venues, lending institutions, institutional investors, institutional miners, custodians, or other major participants\nin the HYPE ecosystem, due to fraud, business failure, cybersecurity events, government-mandated regulation, bankruptcy, or for any other\nreason, may result in a decline in confidence in HYPE and the broader digital currency ecosystem and greater volatility in the price\nof HYPE. For example, in 2022, each of Celsius Network, Voyager Digital, Three Arrows Capital, FTX, and BlockFi filed for bankruptcy,\nfollowing which digital assets significantly declined. In addition, in June 2023, the SEC announced enforcement actions",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 64,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_65",
+    "text": "yager Digital, Three Arrows Capital, FTX, and BlockFi filed for bankruptcy,\nfollowing which digital assets significantly declined. In addition, in June 2023, the SEC announced enforcement actions against Coinbase\nand Binance, two providers of large trading venues for digital assets, which similarly was followed by a decrease in the market price\nof digital assets. These were followed in November 2023, by an SEC enforcement action against Payward Inc. and Payward Ventures Inc.,\ntogether known as Kraken, another large trading venue for digital assets. While the complaint against Coinbase was dismissed in February\n2025, the complaint against Payward Inc. and Payward Ventures Inc. was dismissed with prejudice in March 2025, and the complaint against\nBinance was dismissed on May 29, 2025, the SEC or other regulatory agencies may initiate similar actions in the future. For example,\nin April 2025, the State of Oregon brought a civil enforcement action against Coinbase for allegedly selling unregistered securities.\nAs the price of our listed securities may be affected by the value of our HYPE holdings, the failure of a major participant in the digital\ncurrency ecosystem could have a material adverse effect on the market price of our listed securities.\n\n \n\nThe\nconcentration of our HYPE holdings could enhance the risks inherent in our HYPE treasury strategy.\n\n \n\nThe\nconcentration of our HYPE holdings limits the risk mitigation that we could achieve if we were to purchase a more",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 65,
+    "total_chunks": 77,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_66",
+    "text": "dings could enhance the risks inherent in our HYPE treasury strategy.\n\n \n\nThe\nconcentration of our HYPE holdings limits the risk mitigation that we could achieve if we were to purchase a more diversified portfolio\nof treasury assets, and the absence of diversification enhances the risks inherent in our HYPE treasury strategy. Any future significant\ndeclines in the price of HYPE would have a more pronounced impact on our financial condition than if we used our cash to purchase a more\ndiverse portfolio of assets.\n\n \n\nThe\nemergence or growth of other blockchains and associated digital assets, including those with significant private or public sector backing,\ncould have a negative impact on the price of HYPE and adversely affect our business.\n\n \n\nAs\na result of our HYPE treasury strategy, our assets are concentrated in our HYPE holdings. Accordingly, the emergence or growth of digital\nassets other than HYPE may have a material adverse effect on our financial condition. There are numerous alternative digital assets and\nmany entities, including consortiums and financial institutions, are researching and investing resources into private or permissioned\nblockchains that do not use proof-of-stake consensus mechanism like the Hyperliquid network, or use different technical innovations that\nbuild upon or improve the proof-of-stake consensus mechanism. For example, in late 2022, the Ethereum network transitioned to a “proof-of-stake”\nmechanism for validating transactions that requires",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 66,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_67",
+    "text": "build upon or improve the proof-of-stake consensus mechanism. For example, in late 2022, the Ethereum network transitioned to a “proof-of-stake”\nmechanism for validating transactions that requires significantly less computing power than proof-of-work mining. The Ethereum network\nhas completed another major upgrade since then and may undertake additional upgrades in the future. If improved mechanisms for validating\ntransactions on blockchains are perceived as superior to proof-of-stake, those digital assets could gain market share relative to HYPE.\n\n \n\nOur\nHYPE holdings will be less liquid than our cash and cash equivalents and may not be able to serve as a source of liquidity for us to\nthe same extent as cash and cash equivalents.\n\n \n\nHistorically,\nthe cryptocurrency market has been characterized by significant volatility in price, limited liquidity and trading volumes compared to\nsovereign currencies markets, relative anonymity, a developing regulatory landscape, potential susceptibility to market abuse and manipulation,\ncompliance and internal control failures at exchanges, and various other risks inherent in its entirely electronic, virtual form and\ndecentralized network. During times of market instability, we may not be able to sell our HYPE at favorable prices or at all. As a result,\nour HYPE holdings may not be able to serve as a source of liquidity for us to the same extent as cash and cash equivalents.\n\n \n\nFurther,\nthe HYPE we hold with our custodians and transact",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 67,
+    "total_chunks": 77,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_68",
+    "text": "a result,\nour HYPE holdings may not be able to serve as a source of liquidity for us to the same extent as cash and cash equivalents.\n\n \n\nFurther,\nthe HYPE we hold with our custodians and transact with our trade execution partners does not enjoy the same protections as are available\nto cash or securities deposited with or transacted by institutions subject to regulation by the Federal Deposit Insurance Corporation\nor the Securities Investor Protection Corporation.\n\n \n\n \n\n \n\n \n\nAdditionally,\nwe may be unable to enter into term loans or other capital raising transactions collateralized by our unencumbered HYPE or otherwise\ngenerate funds using our HYPE holdings, including in particular during times of market instability or when the price of HYPE has declined\nsignificantly. If we are unable to sell our HYPE, enter into additional capital raising transactions, including capital raising transactions\nusing HYPE as collateral, or otherwise generate funds using our HYPE holdings, or if we are forced to sell our HYPE at a significant\nloss, in order to meet our working capital requirements, our business and financial condition could be negatively impacted.\n\n \n\nForward-Looking\nStatements\n\n \n\nThis\ncommunication contains certain forward-looking statements within the meaning of the U.S. federal securities laws with respect to the\nMergers involving the Company and Rorschach, including expectations, hopes, beliefs, intentions, plans, prospects, financial results\nor strategies regarding the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 68,
+    "total_chunks": 77,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_69",
+    "text": "al securities laws with respect to the\nMergers involving the Company and Rorschach, including expectations, hopes, beliefs, intentions, plans, prospects, financial results\nor strategies regarding the Company, Rorschach, HSI and the Mergers and statements regarding the anticipated benefits and timing of the\ncompletion of the Mergers, the assets held by Rorschach, the price and volatility of HYPE tokens, HSI’s listing on any securities\nexchange, the macro and political conditions surrounding HYPE tokens and cryptocurrency generally, HSI’s planned business strategy,\nuse of proceeds of the Mergers, objectives of management for future operations of HSI, the upside potential and opportunity for investors,\nHSI’s plan for value creation and strategic advantages, market size and growth opportunities, regulatory conditions, technological\nand market trends, future financial condition and performance and expected financial impacts of the Mergers, the satisfaction of closing\nconditions to the Mergers, the CVR, and other expectations, intentions, strategies, assumptions or beliefs of the parties to the Mergers\nabout future events, results of operations or performance or that do not solely relate to historical or current facts. These forward-looking\nstatements generally are identified by the words “believe,” “project,” “expect,” “anticipate,”\n“estimate,” “intend,” “strategy,” “future,” “opportunity,” “potential,”\n“plan,” “may,” “should,” “will,” “would,” “will be,” “will\ncontinue,” “will",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 69,
+    "total_chunks": 77,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_70",
+    "text": "rds “believe,” “project,” “expect,” “anticipate,”\n“estimate,” “intend,” “strategy,” “future,” “opportunity,” “potential,”\n“plan,” “may,” “should,” “will,” “would,” “will be,” “will\ncontinue,” “will likely result,” and similar expressions. Forward-looking statements are predictions, projections and\nother statements about future events or conditions that are based on current expectations and assumptions and, as a result, are subject\nto risks and uncertainties. Many factors could cause actual future events to differ materially from the forward-looking statements in\nthis press release, including, but not limited to: the risk that the Mergers may not be completed in a timely manner or at all; the failure\nby the parties to satisfy the conditions to the consummation of the Mergers, including the approval of The Company’s shareholders;\nfailure to realize the anticipated benefits of the Mergers; the failure of HSI to obtain or maintain the listing of its securities on\nany securities exchange after closing of the Mergers; costs related to the Mergers and as a result of becoming a public company; changes\nin business, market, financial, political and regulatory conditions; risks relating to HSI’s anticipated operations and business,\nincluding the highly volatile nature of the price of HYPE tokens; the risk that HSI’s stock price will be highly correlated to\nthe price of HYPE tokens and the price of HYPE tokens may decrease between the signing of the BCA and the closing of the Mergers or",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 70,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_71",
+    "text": "okens; the risk that HSI’s stock price will be highly correlated to\nthe price of HYPE tokens and the price of HYPE tokens may decrease between the signing of the BCA and the closing of the Mergers or at\nany time after the closing of the Mergers; risks related to increased competition in the industries in which HSI will operate; risks\nrelating to significant legal, commercial, regulatory and technical uncertainty regarding HYPE tokens; risks relating to the treatment\nof crypto assets for U.S. and foreign tax purposes; risks that after consummation of the Mergers, HSI experiences difficulties managing\nits growth and expanding operations; challenges in implementing HSI’s business plan including HYPE token-related financial and\nadvisory services, due to operational challenges, significant competition and regulation; the outcome of any potential legal proceedings\nthat may be instituted against The Company, Rorschach, HSI or others following announcement of the Mergers, and those risk factors discussed\nin documents that the Company has filed, or that will be filed by the Company and/or HSI, with the SEC.\n\n \n\nAdditional\nInformation about the Proposed Mergers and Where to Find It\n\n \n\nThis\nCurrent Report on Form 8-K does not constitute an offer to buy or sell or the solicitation of an offer to buy or sell any securities\nor a solicitation of any vote or approval. This Current Report on Form 8-K relates to the proposed Merger of the Company. In connection\nwith the proposed Mergers, the",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 71,
+    "total_chunks": 77,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_72",
+    "text": "er to buy or sell any securities\nor a solicitation of any vote or approval. This Current Report on Form 8-K relates to the proposed Merger of the Company. In connection\nwith the proposed Mergers, the Company, Rorschach and HSI expect that a registration statement on Form S-4 will be filed with the SEC,\ncontaining a preliminary proxy statement for the Company’s stockholders that will also constitute a preliminary prospectus of HSI,\nthe securities of which are expected to be listed on Nasdaq upon consummation of the Mergers. After the registration statement is declared\neffective, the Company will mail a definitive proxy statement/prospectus to the Company’s stockholders. The Company and Rorschach\nurge investors, stockholders and other interested persons to read, when available, the proxy statement/prospectus, as well as other documents\nfiled with the SEC, because these documents will contain important information about the proposed business combination transaction. The\nCompany’s stockholders will be able to obtain a free copy of the proxy statement/prospectus (when available) and other documents\nfiled with the SEC by the Company or HSI, without charge, by directing a request to: dongriffith@sonnetbio.com. These documents,\nonce available, can also be obtained, without charge, at the SEC’s web site (http://www.sec.gov).\n\n \n\n \n\n \n\n \n\nParticipants\nin the Solicitation\n\n \n\nThe\nCompany, Rorschach, HSI and their respective directors, executive officers and other members of their",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 72,
+    "total_chunks": 77,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_73",
+    "text": "SEC’s web site (http://www.sec.gov).\n\n \n\n \n\n \n\n \n\nParticipants\nin the Solicitation\n\n \n\nThe\nCompany, Rorschach, HSI and their respective directors, executive officers and other members of their management and employees, under\nSEC rules, may be deemed to be participants in the solicitation of proxies of the Company stockholders in connection with the Mergers.\nInvestors and security holders may obtain more detailed information regarding the names, affiliations and interests of the Company’s\ndirectors in its Annual Report on Form 10-K for the fiscal year ended September 30, 2024, which was filed with the SEC on December 17,\n2024. Information regarding the persons who may, under SEC rules, be deemed participants in the solicitation of proxies to the Company’s\nstockholders in connection with the proposed business combination will be set forth in the proxy statement/prospectus for the Mergers\nwhen available. Information concerning the interests of the Company’s and Rorschach’s participants in the solicitation, which\nmay, in some cases, be different than those of the Company’s and Rorschach’s equity holders generally, will be set forth\nin the proxy statement/prospectus and other relevant materials to be filed with the SEC relating to the Mergers when they become available.\nThese documents can be obtained free of charge from the sources indicated above.\n\n \n\nNo\nOffer or Solicitation\n\n \n\nThis\nCurrent Report on Form 8-K is not intended to and shall not constitute an offer to sell or",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 73,
+    "total_chunks": 77,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_74",
+    "text": "ts can be obtained free of charge from the sources indicated above.\n\n \n\nNo\nOffer or Solicitation\n\n \n\nThis\nCurrent Report on Form 8-K is not intended to and shall not constitute an offer to sell or the solicitation of an offer to sell or the\nsolicitation of an offer to buy any securities or the solicitation of any vote of approval, nor shall there be any sale of securities\nin any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities\nlaws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section\n10 of the Securities Act of 1933, as amended, or pursuant to an exemption from, or in a transaction not subject to, such registration\nrequirements.\n\n \n\nItem\n9.01. Financial Statements and Exhibits.\n\n \n\n(d)\nExhibits:\n\n \n\nExhibit\n No. \n\n \n\nDescription\n\n2.1*\n\n \n\nBusiness Combination Agreement.\n\n3.1\n\n \n\nCertificate of Designations.\n\n4.1\n\n \n\nForm of PIPE Warrant.\n\n10.1\n\n \n\nForm of Contribution Agreement.\n\n10.2\n\n \n\nForm of Subscription Agreement.\n\n10.3\n\n \n\nForm of PIPE Purchase Agreement.\n\n99.1\n\n \n\nPress Release, dated July 14, 2025.\n \n\n104\n\n \n\nCover Page Interactive Data File (embedded within the Inline XBRL document)\n\n \n\n*Schedules\nhave been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby undertakes to furnish copies of any of the omitted\nschedules upon request by the SEC.",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 74,
+    "total_chunks": 77,
+    "char_count": 1455
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_75",
+    "text": "tted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby undertakes to furnish copies of any of the omitted\nschedules upon request by the SEC.",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "Value Rights Agreement",
+    "chunk_index": 75,
+    "total_chunks": 77,
+    "char_count": 155
+  },
+  {
+    "chunk_id": "1106838_0001641172_25_018877_form8-k_76",
+    "text": "Pursuant\nto the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by\nthe undersigned hereunto duly authorized.\n\n \n\n \n\nSonnet\n BioTherapeutics Holdings, Inc.\n\n \n\n \n\nDate:\n\n \nJuly\n 14, 2025\n\nBy:\n\n/s/\n Donald Griffith\n\n \n\nName:\n\nDonald\n Griffith\n\n \n\nTitle:\n\nChief\n Financial Officer",
+    "source": "SEC_EDGAR",
+    "document_name": "1106838_0001641172_25_018877_form8-k",
+    "section": "SIGNATURES",
+    "chunk_index": 76,
+    "total_chunks": 77,
+    "char_count": 352
+  }
+]

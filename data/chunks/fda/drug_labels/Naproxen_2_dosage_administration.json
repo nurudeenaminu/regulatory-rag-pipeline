@@ -1,0 +1,262 @@
+[
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_0",
+    "text": "DRUG: Naproxen\n============================================================\n\n## CONTRAINDICATIONS\n4 CONTRAINDICATIONS Naproxen tablets and naproxen sodium tablets are contraindicated in the following patients: • Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to naproxen or any components of the drug product [ see Warnings and Precautions ( 5.7 , 5.9 ) ] • History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs. Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [ see Warnings and Precautions ( 5.7 , 5.8 ) ] • In the setting of coronary artery bypass graft (CABG) surgery [ see Warnings and Precautions ( 5.1 ) ] • Known hypersensitivity to naproxen or any components of the drug product ( 4 ) • History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs ( 4 ) • In the setting of CABG surgery ( 4 )\n\n## DRUG_INTERACTIONS\n7 DRUG INTERACTIONS See Table 1 for clinically significant drug interactions with naproxen. Table 1: Clinically Significant Drug Interactions with naproxen Drugs That Interfere with Hemostasis Clinical Impact: • Naproxen and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of naproxen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. • Serotonin release by platelets plays an important role in hemostasis.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 26,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_1",
+    "text": "use of naproxen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. • Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. Intervention: Monitor patients with concomitant use of naproxen tablets or naproxen sodium tablets with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [ see Warnings and Precautions ( 5.12 ) ]. Aspirin Clinical Impact: A pharmacodynamic (PD) study has demonstrated an interaction in which lower dose naproxen (220mg/day or 220mg twice daily) interfered with the antiplatelet effect of low-dose immediate-release aspirin, with the interaction most marked during the washout period of naproxen ( see 12.2 Pharmacodynamics) . There is reason to expect that the interaction would be present with prescription doses of naproxen or with enteric-coated low-dose aspirin; however, the peak interference with aspirin function may be later than observed in the PD study due to the longer washout period. Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 26,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_2",
+    "text": "dy due to the longer washout period. Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [ see Warnings and Precautions ( 5.2 ) ]. Intervention: Because there may be an increased risk of cardiovascular events following discontinuation of naproxen due to the interference with the antiplatelet effect of aspirin during the washout period, for patients taking low-dose aspirin for cardioprotection who require intermittent analgesics, consider use of an NSAID that does not interfere with the antiplatelet effect of aspirin, or non-NSAID analgesics where appropriate. Concomitant use of naproxen tablets or naproxen sodium tablets and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [ see Warnings and Precautions ( 5.12 ) ]. Naproxen tablets or naproxen sodium tablets are not substitutes for low dose aspirin for cardiovascular protection. ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-Blockers Clinical Impact: • NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). • In patients who are elderly,",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 26,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_3",
+    "text": "ish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). • In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Intervention: • During concomitant use of naproxen tablets or naproxen sodium tablets and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. • During concomitant use of naproxen tablets or naproxen sodium tablets and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [ see Warnings and Precautions ( 5.6 ) ]. • When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. Diuretics Clinical Impact: Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. Intervention: During concomitant use of naproxen tablets or naproxen sodium",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 3,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_4",
+    "text": "zide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [ see Warnings and Precautions ( 5.6 ) ]. Digoxin Clinical Impact: The concomitant use of naproxen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets and digoxin, monitor serum digoxin levels. Lithium Clinical Impact: NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance . The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets and lithium, monitor patients for signs of lithium toxicity. Methotrexate Clinical Impact: Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets and methotrexate, monitor patients for methotrexate toxicity. Cyclosporine",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 4,
+    "total_chunks": 26,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_5",
+    "text": "bocytopenia, renal dysfunction). Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets and methotrexate, monitor patients for methotrexate toxicity. Cyclosporine Clinical Impact: Concomitant use of naproxen tablets or naproxen sodium tablets and cyclosporine may increase cyclosporine’s nephrotoxicity. Intervention: During concomitant use of naproxen tablets or naproxen sodium tablets and cyclosporine, monitor patients for signs of worsening renal function. NSAIDs and Salicylates Clinical Impact: Concomitant use of naproxen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [ see Warnings and Precautions ( 5.2 ) ]. Intervention: The concomitant use of naproxen with other NSAIDs or salicylates is not recommended. Pemetrexed Clinical Impact: Concomitant use of naproxen tablets and naproxen sodium tablets and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). Intervention: During concomitant use of naproxen tablets and naproxen sodium tablets and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 5,
+    "total_chunks": 26,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_6",
+    "text": "enal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. Antacids and Sucralfate Clinical Impact: Concomitant administration of some antacids (magnesium oxide or aluminum hydroxide) and sucralfate can delay the absorption of naproxen. Intervention: Concomitant administration of antacids such as magnesium oxide or aluminum hydroxide, and sucralfate with naproxen tablets and naproxen sodium tablets is not recommended. Cholestyramine Clinical Impact: Concomitant administration of cholestyramine can delay the absorption of naproxen. Intervention: Concomitant administration of cholestyramine with naproxen tablets or naproxen sodium tablets is not recommended. Probenecid Clinical Impact: Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly. Intervention: Patients simultaneously receiving naproxen tablets or naproxen sodium tablets and probenecid should be observed for adjustment of dose if required. Other albumin-bound drugs Clinical Impact: Naproxen is highly bound to plasma albumin; it",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 6,
+    "total_chunks": 26,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_7",
+    "text": "oxen tablets or naproxen sodium tablets and probenecid should be observed for adjustment of dose if required. Other albumin-bound drugs Clinical Impact: Naproxen is highly bound to plasma albumin; it thus has a theoretical potential for interaction with other albumin-bound drugs such as coumarin-type anticoagulants, sulphonylureas, hydantoins, other NSAIDs, and aspirin . Intervention: Patients simultaneously receiving naproxen tablets or naproxen sodium tablets and a hydantoin, sulphonamide or sulphonylurea should be observed for adjustment of dose if required. Drug/Laboratory Test Interactions Bleeding times Clinical Impact: Naproxen may decrease platelet aggregation and prolong bleeding time. Intervention: This effect should be kept in mind when bleeding times are determined. Porter-Silber test Clinical Impact: The administration of naproxen may result in increased urinary values for 17-ketogenic steroids because of an interaction between the drug and/or its metabolites with m-di-nitrobenzene used in this assay. Intervention: Although 17-hydroxy-corticosteroid measurements (Porter-Silber test) do not appear to be artifactually altered, it is suggested that therapy with naproxen be temporarily discontinued 72 hours before adrenal function tests are performed if the Porter-Silber test is to be used. Urinary assays of 5-hydroxy indoleacetic acid (5HIAA) Clinical Impact: Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (5HIAA). Intervention: This",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 7,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_8",
+    "text": "test is to be used. Urinary assays of 5-hydroxy indoleacetic acid (5HIAA) Clinical Impact: Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (5HIAA). Intervention: This effect should be kept in mind when urinary 5-hydroxy indoleacetic acid is determined. Drugs that Interfere with Hemostasis (e.g. warfarin, aspirin, SSRIs/SNRIs): Monitor patients for bleeding who are concomitantly taking naproxen tablets or naproxen sodium tablets with drugs that interfere with hemostasis. Concomitant use of naproxen tablets or naproxen sodium tablets and analgesic doses of aspirin is not generally recommended. ( 7 ) ACE inhibitors, Angiotensin Receptor Blockers (ARB), or Beta-Blockers: Concomitant use with naproxen tablets or naproxen sodium tablets may diminish the antihypertensive effect of these drugs. Monitor blood pressure. ( 7 ) ACE Inhibitors and ARBs: Concomitant use with naproxen tablets or naproxen sodium tablets in elderly, volume depleted, or those with renal impairment may result in deterioration of renal function. In such high risk patients, monitor for signs of worsening renal function. ( 7 ) Diuretics: NSAIDs can reduce natriuretic effect of furosemide and thiazide diuretics. Monitor patients to assure diuretic efficacy including antihypertensive effects. ( 7 ) Digoxin: Concomitant use with naproxen tablets or naproxen sodium tablets can increase serum concentration and prolong half-life of digoxin. Monitor serum digoxin levels. ( 7 )\n\n##",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 8,
+    "total_chunks": 26,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_9",
+    "text": "cts. ( 7 ) Digoxin: Concomitant use with naproxen tablets or naproxen sodium tablets can increase serum concentration and prolong half-life of digoxin. Monitor serum digoxin levels. ( 7 )\n\n## DOSAGE_AND_ADMINISTRATION\n2 DOSAGE AND ADMINISTRATION Use the lowest effective dosage for shortest duration consistent with individual patient treatment goals. ( 2.1 ) Rheumatoid Arthritis, Osteoarthritis, and Ankylosing Spondylitis Naproxen tablets 250 mg (one-half tablet) 500 mg twice daily Naproxen sodium tablets 275 mg (one-half tablet) 550 mg twice daily The dose may be adjusted up or down depending on the clinical response of the patient. In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/ day for up to 6 months. Polyarticular Juvenile Idiopathic Arthritis Naproxen tablets may not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis. A liquid formulation may be more appropriate. Recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses. Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms. Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis Recommended starting dose 550 mg of naproxen sodium as naproxen sodium tablets followed by 550 mg every 12 hours or 275 mg every 6 to 8 hours as required. The initial total daily dose should not exceed 1375 mg of naproxen sodium. Thereafter, the",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 9,
+    "total_chunks": 26,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_10",
+    "text": "m as naproxen sodium tablets followed by 550 mg every 12 hours or 275 mg every 6 to 8 hours as required. The initial total daily dose should not exceed 1375 mg of naproxen sodium. Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium. Naproxen sodium tablets are recommended for the management of acute painful conditions when prompt onset of pain relief is desired. Acute Gout Recommended starting dose 750 mg of naproxen tablets followed by 250 mg every 8 hours until the attack has subsided. Naproxen sodium tablets may also be used at a starting dose of 825 mg followed by 275 mg every 8 hours. 2.1 General Dosing Instructions Carefully consider the potential benefits and risks of naproxen tablets and naproxen sodium tablets and other treatment options before deciding to use naproxen tablets and naproxen sodium tablets. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [ see Warnings and Precautions ( 5 ) ]. After observing the response to initial therapy with naproxen tablets or naproxen sodium tablets, the dose and frequency should be adjusted to suit an individual patient’s needs. Naproxen-containing products such as naproxen and naproxen sodium tablets, and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion. 2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis The recommended dosages of naproxen tablets and",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 10,
+    "total_chunks": 26,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_11",
+    "text": "concomitantly since they all circulate in the plasma as the naproxen anion. 2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis The recommended dosages of naproxen tablets and naproxen sodium tablets are shown in Table 1. Table 1: Recommended dosages for naproxen tablets and naproxen sodium tablets Naproxen tablets 250 mg (one half tablet) 500 mg twice daily Naproxen sodium tablets 275 mg (one half tablet) 550 mg (naproxen 500 mg with 50 mg sodium) twice daily During long-term administration, the dose of naproxen may be adjusted up or down depending on the clinical response of the patient. A lower daily dose may suffice for long-term administration. The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response. In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/day for limited periods of up to 6 months when a higher level of anti-inflammatory/analgesic activity is required. When treating such patients with naproxen 1500 mg/day, the physician should observe sufficient increased clinical benefits to offset the potential increased risk. 2.3 Polyarticular Juvenile Idiopathic Arthritis Naproxen solid-oral dosage forms may not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis. A liquid formulation may be more appropriate for weight-based dosing and due",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 11,
+    "total_chunks": 26,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_12",
+    "text": "y not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis. A liquid formulation may be more appropriate for weight-based dosing and due to the need for dose flexibility in children. In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [ see Clinical Pharmacology ( 12 ) ]. The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses. Dosing with naproxen tablets is not appropriate for children weighing less than 50 kilograms. 2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis The recommended starting dose of naproxen sodium tablets is 550 mg followed by 550 mg every 12 hours or 275 mg (one half of a 550 mg tablet) every 6 to 8 hours as required. The initial total daily dose should not exceed 1375 mg (two and one-half tablets) of naproxen sodium. Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium. Because the sodium salt of naproxen is more rapidly absorbed, naproxen sodium tablets is recommended for the management of acute painful conditions when prompt onset of pain relief is desired. Naproxen tablets may also be used. The recommended starting dose of naproxen tablets is 500 mg followed by 250 mg (one half of a 500 mg naproxen tablet) every 6 to 8 hours as required. The total daily dose should not exceed 1250 mg of naproxen. 2.5 Acute Gout",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 12,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_13",
+    "text": "ose of naproxen tablets is 500 mg followed by 250 mg (one half of a 500 mg naproxen tablet) every 6 to 8 hours as required. The total daily dose should not exceed 1250 mg of naproxen. 2.5 Acute Gout The recommended starting dose is 750 mg (one and one-half tablets) of naproxen tablets followed by 250 mg (one-half tablet) every 8 hours until the attack has subsided. Naproxen sodium tablets may also be used at a starting dose of 825 mg (one and one-half tablets) followed by 275 mg (one-half tablet) every 8 hours. 2.6 Non-Interchangeability with Other Formulations of Naproxen Different dose strengths and formulations (e.g., tablets, suspension) of naproxen are not interchangeable. This difference should be taken into consideration when changing strengths or formulations.\n\n## INDICATIONS_AND_USAGE\n1 INDICATIONS AND USAGE Naproxen tablets and naproxen sodium tablets are indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • Polyarticular Juvenile Idiopathic Arthritis Naproxen tablets and naproxen sodium tablets are also indicated for: the relief of signs and symptoms of: • tendonitis • bursitis • acute gout the management of: • pain • primary dysmenorrhea Naproxen tablets and naproxen sodium tablets are non-steroidal anti-inflammatory drugs indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • polyarticular juvenile idiopathic arthritis Naproxen",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 13,
+    "total_chunks": 26,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_14",
+    "text": "anti-inflammatory drugs indicated for: the relief of the signs and symptoms of: • rheumatoid arthritis • osteoarthritis • ankylosing spondylitis • polyarticular juvenile idiopathic arthritis Naproxen tablets and naproxen sodium tablets are also indicated for: the relief of signs and symptoms of: • tendonitis • bursitis • acute gout the management of: • pain • primary dysmenorrhea\n\n## CLINICAL_PHARMACOLOGY\n12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Naproxen has analgesic, anti-inflammatory, and antipyretic properties. Naproxen sodium has been developed as a more rapidly absorbed formulation of naproxen for use as an analgesic. The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2). Naproxen is a potent inhibitor of prostaglandin synthesis in vitro. Naproxen concentrations reached during therapy have produced in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues. 12.2 Pharmacodynamics In a healthy volunteer study, 10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by %",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 14,
+    "total_chunks": 26,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_15",
+    "text": "10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B 2 inhibition at 24 hours following the day 10 dose [98.7% (aspirin alone) vs 93.1% (naproxen and aspirin)]. The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13. In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%]. Following administration of naproxen 220 mg twice-daily with low-dose immediate- release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%]. However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%] [ see Drug Interactions ( 7 ) ]. 12.3 Pharmacokinetics Naproxen and naproxen sodium are rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%. The different dosage forms of naproxen are bioequivalent in terms of extent of absorption (AUC) and peak concentration (C max ); however, the products do differ in their pattern of absorption. These differences between",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 15,
+    "total_chunks": 26,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_16",
+    "text": "orms of naproxen are bioequivalent in terms of extent of absorption (AUC) and peak concentration (C max ); however, the products do differ in their pattern of absorption. These differences between naproxen products are related to both the chemical form of naproxen used and its formulation. Even with the observed differences in pattern of absorption, the elimination half-life of naproxen is unchanged across products ranging from 12 to 17 hours. Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life. This suggests that the differences in pattern of release play only a negligible role in the attainment of steady-state plasma levels. Absorption Naproxen tablets/Naproxen sodium tablets: After administration of naproxen tablets, peak plasma levels are attained in 2 to 4 hours. After oral administration of naproxen sodium tablets, peak plasma levels are attained in 1 to 2 hours. The difference in rates between the two products is due to the increased aqueous solubility of the sodium salt of naproxen used in naproxen sodium tablets. Distribution Naproxen has a volume of distribution of 0.16 L/kg. At therapeutic levels naproxen is greater than 99% albumin-bound. At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 16,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_17",
+    "text": "e is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively). The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma [ see Use in Specific Populations ( 8.2 )]. Elimination Metabolism Naproxen is extensively metabolized in the liver to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes. Both naproxen and 6-0-desmethyl naproxen are further metabolized to their respective acylglucuronide conjugated metabolites. Excretion The clearance of naproxen is 0.13 mL/min/kg. Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (<1%), 6-0-desmethyl naproxen (<1%) or their conjugates (66% to 92%). The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours. The corresponding half-lives of both naproxen’s metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma. Small amounts, 3% or less of the administered dose, are excreted in the feces. In patients with renal failure metabolites may accumulate [ see Warnings and Precautions ( 5.6 ) ]. Specific Populations Pediatric: In",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 17,
+    "total_chunks": 26,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_18",
+    "text": "ess of the administered dose, are excreted in the feces. In patients with renal failure metabolites may accumulate [ see Warnings and Precautions ( 5.6 ) ]. Specific Populations Pediatric: In pediatric patients aged 5 to 16 years with arthritis, plasma naproxen levels following a 5 mg/kg single dose of naproxen suspension [see Dosage and Administration ( 2 ) ] were found to be similar to those found in normal adults following a 500 mg dose. The terminal half-life appears to be similar in pediatric and adult patients. Pharmacokinetic studies of naproxen were not performed in pediatric patients younger than 5 years of age. Pharmacokinetic parameters appear to be similar following administration of naproxen suspension or tablets in pediatric patients. Geriatric: Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly, although the unbound fraction is <1% of the total naproxen concentration. Unbound trough naproxen concentrations in elderly subjects have been reported to range from 0.12% to 0.19% of total naproxen concentration, compared with 0.05% to 0.075% in younger subjects. Hepatic Impairment: Naproxen pharmacokinetics has not been determined in subjects with hepatic insufficiency. Chronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 18,
+    "total_chunks": 26,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_19",
+    "text": "ronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of unbound naproxen is increased. Renal Impairment: Naproxen pharmacokinetics has not been determined in subjects with renal insufficiency. Given that naproxen, its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency. Elimination of naproxen is decreased in patients with severe renal impairment. Drug Interaction Studies Aspirin : When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered. The clinical significance of this interaction is not known. See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [ see Drug Interactions ( 7 )].\n\n## MECHANISM_OF_ACTION\n12.1 Mechanism of Action Naproxen has analgesic, anti-inflammatory, and antipyretic properties. Naproxen sodium has been developed as a more rapidly absorbed formulation of naproxen for use as an analgesic. The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2). Naproxen is a potent inhibitor of prostaglandin synthesis in vitro. Naproxen concentrations reached during therapy have produced in vivo effects. Prostaglandins",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 19,
+    "total_chunks": 26,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_20",
+    "text": "cyclooxygenase (COX-1 and COX-2). Naproxen is a potent inhibitor of prostaglandin synthesis in vitro. Naproxen concentrations reached during therapy have produced in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.\n\n## ADVERSE_REACTIONS\n6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling: • Cardiovascular Thrombotic Events [ see Warnings and Precautions ( 5.1 ) ] • GI Bleeding, Ulceration, and Perforation [ see Warnings and Precautions ( 5.2 ) ] • Hepatotoxicity [ see Warnings and Precautions ( 5.3 ) ] • Hypertension [ see Warnings and Precautions ( 5.4 ) ] • Heart Failure and Edema [ see Warnings and Precautions ( 5.5 ) ] • Renal Toxicity and Hyperkalemia [ see Warnings and Precautions ( 5.6 ) ] • Anaphylactic Reactions [ see Warnings and Precautions ( 5.7 ) ] • Serious Skin Reactions [ see Warnings and Precautions ( 5.9 ) ] • Hematologic Toxicity [ see Warnings and Precautions ( 5.12 ) ] Most common adverse reactions to naproxen were dyspepsia, abdominal pain, nausea, headache, rash, ecchymosis, and edema. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115 or FDA at 1-800-FDA-1088",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 20,
+    "total_chunks": 26,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_21",
+    "text": "abdominal pain, nausea, headache, rash, ecchymosis, and edema. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Adverse reactions reported in controlled clinical trials in 960 patients treated for rheumatoid arthritis or osteoarthritis are listed below. In general, reactions in patients treated chronically were reported 2 to 10 times more frequently than they were in short-term studies in the 962 patients treated for mild to moderate pain or for dysmenorrhea. The most frequent complaints reported related to the gastrointestinal tract. A clinical study found gastrointestinal reactions to be more frequent and more severe in rheumatoid arthritis patients taking daily doses of 1500 mg naproxen compared to those taking 750 mg naproxen. In controlled clinical trials with about 80 pediatric patients and in well-monitored, open-label studies with about 400 pediatric patients with polyarticular juvenile idiopathic arthritis treated with naproxen, the incidence of rash and prolonged bleeding times were greater, the incidence of gastrointestinal and central nervous system reactions were",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 21,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_22",
+    "text": "ular juvenile idiopathic arthritis treated with naproxen, the incidence of rash and prolonged bleeding times were greater, the incidence of gastrointestinal and central nervous system reactions were about the same, and the incidence of other reactions were lower in pediatric patients than in adults. In patients taking naproxen in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients were: Gastrointestinal (GI) Experiences, including: heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura Special Senses: tinnitus*, visual disturbances, hearing disturbances Cardiovascular: edema*, palpitations General: dyspnea*, thirst *Incidence of reported reaction between 3% and 9%. Those reactions occurring in less than 3% of the patients are unmarked. In patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients. Gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting General: abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials. Gastrointestinal: pancreatitis,",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 22,
+    "total_chunks": 26,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_23",
+    "text": "ver enzymes, increased bleeding time, rashes The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials. Gastrointestinal: pancreatitis, vomiting Hepatobiliary: jaundice Hemic and Lymphatic: melena, thrombocytopenia, agranulocytosis Nervous System: inability to concentrate Dermatologic: skin rashes 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of naproxen. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials and through postmarketing reports. Those adverse reactions observed through postmarketing reports are italicized. Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever) Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract. Esophagitis, stomatitis, hematemesis, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease). Hepatobiliary: abnormal liver function tests, hepatitis (some cases have been fatal) Hemic",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 23,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_24",
+    "text": "is, hematemesis, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease). Hepatobiliary: abnormal liver function tests, hepatitis (some cases have been fatal) Hemic and Lymphatic: eosinophilia, leucopenia, granulocytopenia, hemolytic anemia, aplastic anemia Metabolic and Nutritional: hyperglycemia, hypoglycemia Nervous System: depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions Respiratory: eosinophilic pneumonitis, asthma Dermatologic: alopecia, urticaria, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa. If skin fragility, blistering or other symptoms suggestive of pseudoporphyria occur, treatment should be discontinued and the patient monitored. Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine Reproduction (female): infertility In patients taking NSAIDs, the following adverse experiences have also been reported in <1%",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 24,
+    "total_chunks": 26,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "Naproxen_2_dosage_administration_25",
+    "text": "sease, renal failure, renal papillary necrosis, raised serum creatinine Reproduction (female): infertility In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients. Body as a Whole: fever, infection, sepsis, anaphylactic reactions, appetite changes, death Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation Hepatobiliary: hepatitis, liver failure Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia Metabolic and Nutritional: weight changes Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations Respiratory: asthma, respiratory depression, pneumonia Dermatologic: exfoliative dermatitis Special Senses: blurred vision, conjunctivitis Urogenital: cystitis, dysuria, oliguria/polyuria, proteinuria",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Naproxen_2_dosage_administration",
+    "section": "General",
+    "chunk_index": 25,
+    "total_chunks": 26,
+    "char_count": 977
+  }
+]

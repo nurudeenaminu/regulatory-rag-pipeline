@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_id": "2024_20529_0",
+    "text": "TITLE: Establishment of Reporting Requirements for the Development of Advanced Artificial Intelligence Models and Computing Clusters\nDOCUMENT NUMBER: 2024-20529\nTYPE: Proposed Rule\nAGENCY: Commerce Department, Industry and Security Bureau\nPUBLISHED: 2024-09-11\nEFFECTIVE: None\nCITATION: 89 FR 73612\nACTION: Proposed rule; request for comment\n============================================================\n\nABSTRACT:\nThis proposed rule would amend the Bureau of Industry and Security's (BIS) Industrial Base Surveys--Data Collections regulations by establishing reporting requirements for the development of advanced artificial intelligence (AI) models and computing clusters under the Executive order of October 30, 2023, \"Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.\"\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_1",
+    "text": "CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 36,
+    "char_count": 428
+  },
+  {
+    "chunk_id": "2024_20529_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Commerce</h6>\n<h6 class=\"sub-agency\">Bureau of Industry and Security</h6>\n<ol>\n<li>15 CFR Part 702</li>\n<li>[Docket No. 240905-0231]</li>\n<li>RIN 0694-AJ55</li>\n</ol>\n</div>\n</div></div>\n<div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"73612\">Bureau of Industry and Security, Department of Commerce.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"73612\">Proposed rule; request for comment</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"73612\">This proposed rule would amend the Bureau of Industry and Security's (BIS) Industrial Base Surveys&mdash;Data Collections regulations by establishing reporting requirements for the development of advanced artificial intelligence (AI) models and computing clusters under the Executive order of October 30, 2023, &ldquo;Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.&rdquo;</p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"73612\">Comments on this proposed rule must be received by BIS by no later than October 11, 2024.</p>\n </div>\n<div id=\"addresses\">\n <h1 id=\"h-5\">ADDRESSES:</h1>\n <p id=\"p-5\" data-page=\"73612\">\n Comments on this proposed rule may be submitted to the Federal rulemaking portal (\n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 36,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_20529_3",
+    "text": "\"p-5\" data-page=\"73612\">\n Comments on this proposed rule may be submitted to the Federal rulemaking portal (\n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a></em>). The \n <em>regulations.gov</em>\n ID for this proposed rule is: BIS-2024-0047. Please refer to RIN 0694-AJ55 in all comments. \n </p>\n <p id=\"p-6\" data-page=\"73612\">Anyone submitting business confidential information should clearly identify any business confidential portion of a comment at the time of submission, file a statement justifying nondisclosure and referring to the specific legal authority claimed, and provide a non-confidential version of the submission.</p>\n <p id=\"p-7\" data-page=\"73612\">\n For comments submitted electronically containing business confidential information, the file name of the business confidential version should begin with the characters &ldquo;BC.&rdquo; Any page containing business confidential information must be clearly marked &ldquo;BUSINESS CONFIDENTIAL&rdquo; on the top of that page. The corresponding non-confidential version of those comments must be clearly marked &ldquo;PUBLIC.&rdquo; The file name of the non-confidential version should begin with the character &ldquo;P.&rdquo; Any submissions with file names that do not begin with either a &ldquo;BC&rdquo; or a &ldquo;P&rdquo; will be assumed to be public and will be made publicly available through \n <em><a href=\"https://www.regulations.gov\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 36,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2024_20529_4",
+    "text": "s that do not begin with either a &ldquo;BC&rdquo; or a &ldquo;P&rdquo; will be assumed to be public and will be made publicly available through \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a>.</em>\n Commenters submitting business confidential information are encouraged to scan a hard copy of the non-confidential version to create an image of the file, rather than submitting a digital copy with redactions applied, to avoid inadvertent redaction errors which could enable the public to read business confidential information.\n </p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-6\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-8\" data-page=\"73612\">\n Sean Delehanty, Office of Strategic Industries and Economic Security Bureau of Industry and Security, Department of Commerce. Phone: 202-316-5765; Email: \n <em><a href=\"mailto:Sean.Delehanty@bis.doc.gov\" class=\"email\">Sean.Delehanty@bis.doc.gov</a>.</em></p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-7\">SUPPLEMENTARY INFORMATION:</h1>\n <p id=\"p-9\" data-page=\"73612\"></p>\n <h2 id=\"h-8\">Background</h2>\n <p id=\"p-10\" data-page=\"73612\">Section 4.2(a)(i) of <a href=\"/executive-order/14110\" class=\"eo\">Executive Order 14110</a> of October 30, 2023, &ldquo;Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence&rdquo; (<a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>), directs the Secretary of",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 36,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_20529_5",
+    "text": "of October 30, 2023, &ldquo;Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence&rdquo; (<a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>), directs the Secretary of Commerce to require companies developing, or demonstrating an intent to develop, potential dual-use foundation AI models to provide certain information to the Federal Government on an ongoing basis. Additionally, section 4.2(a)(ii) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> directs the Secretary of Commerce to require companies, individuals, or other organizations or entities that acquire, develop, or possess a potential large-scale computing cluster to report any such acquisition, development, or possession, including the existence and location of these clusters and the amount of total computing power available in each cluster.</p>\n <p id=\"p-11\" data-page=\"73612\">\n As defined under <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, a &ldquo;dual-use foundation model&rdquo; is &ldquo;trained on broad data; generally uses self-supervision; contains at least tens of billions of parameters; is applicable across a wide range of contexts; and that exhibits, or could be easily modified to exhibit, high levels of performance at tasks that pose a serious risk to security, national economic security, national public health or safety, or any combination of those matters.&rdquo; The reporting requirements proposed in this regulation are intended to apply to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 36,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_20529_6",
+    "text": "curity, national economic security, national public health or safety, or any combination of those matters.&rdquo; The reporting requirements proposed in this regulation are intended to apply to dual-use foundation models that meet technical conditions issued by the Department. The Department expects to update the technical conditions, based on technological advancements, as \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"73613\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73613)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73613\" data-page=\"73613\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n necessary and appropriate, as directed by section 4.2(b) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>.\n </p>\n <p id=\"p-12\" data-page=\"73613\">\n <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> directs the Department of Commerce (Department) to collect information about dual-use foundation models in accordance with the Defense Production Act (DPA) (<a href=\"https://www.govinfo.gov/link/uscode/50/4501\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4501</a> \n <em>et seq.</em>). Under the DPA, the President is authorized to take actions that ensure the U.S. industrial base is prepared to supply products and services to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 36,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_20529_7",
+    "text": "er noreferrer\">50 U.S.C. 4501</a> \n <em>et seq.</em>). Under the DPA, the President is authorized to take actions that ensure the U.S. industrial base is prepared to supply products and services to support the national defense. In this context, the term &ldquo;national defense&rdquo; means &ldquo;programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity&rdquo; (<a href=\"https://www.govinfo.gov/link/uscode/50/4552\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4552(14)</a>). Additionally, the DPA makes clear that the international competitiveness of the U.S. industrial base directly affects its ability to support the national defense (see <a href=\"https://www.govinfo.gov/link/uscode/50/4502\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4502(a)(7)</a>).\n </p>\n <p id=\"p-13\" data-page=\"73613\">Among other authorities, the DPA authorizes the President &ldquo;by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in his discretion, to the enforcement or the administration of&rdquo; the DPA (<a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 36,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "2024_20529_8",
+    "text": "rn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in his discretion, to the enforcement or the administration of&rdquo; the DPA (<a href=\"https://www.govinfo.gov/link/uscode/50/4555\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4555(a)</a>). The DPA further specifies that this grant of authority &ldquo;includes the authority to obtain information in order to perform industry studies assessing the capabilities of the United States industrial base to support the national defense&rdquo; (<a href=\"https://www.govinfo.gov/link/uscode/50/4555\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4555(a)</a>).</p>\n <p id=\"p-14\" data-page=\"73613\">\n To carry out its obligations under section 4.2(a) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, BIS is exercising its DPA authority, which was delegated to the Department by the President in <a href=\"/executive-order/13603\" class=\"eo\">Executive Order 13603</a>, and subsequently re-delegated within the Department to BIS, to collect information from U.S. companies that are developing, have plans to develop, or have the computing hardware necessary to develop dual-use foundation models. AI models are quickly becoming integral to numerous U.S. industries that are essential to the national defense. For example, manufacturers of military equipment (\n <em>e.g.,</em>\n aircrafts, tanks, and missile launchers) use AI models to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 36,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_20529_9",
+    "text": "o numerous U.S. industries that are essential to the national defense. For example, manufacturers of military equipment (\n <em>e.g.,</em>\n aircrafts, tanks, and missile launchers) use AI models to enhance the maneuverability, accuracy, and efficiency of equipment.<sup>[<a class=\"footnote-reference\" href=\"#footnote-1-p73613\" id=\"citation-1-p73613\">1</a>] </sup>\n \n Similarly, manufacturers of signal intelligence devices (\n <em>e.g.,</em>\n satellites, cameras, and radar) use AI models to improve how those devices capture signals and eliminate noise.<sup>[<a class=\"footnote-reference\" href=\"#footnote-2-p73613\" id=\"citation-2-p73613\">2</a>] </sup>\n \n As a final example, developers of cybersecurity software, which can be applied to protect a wide range of systems and infrastructure that are critical to the national defense, use AI models to increase the speed at which that software detects and responds to cyberattacks.<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p73613\" id=\"citation-3-p73613\">3</a>] </sup>\n \n </p>\n \n \n \n <p id=\"p-18\" data-page=\"73613\">Dual-use foundation models could increase the capabilities of these products and services to an even greater extent. Specifically, integrating dual-use foundation models into products like military equipment, signal intelligence devices, and cybersecurity software could enable those products to operate more effectively across a wider range of environments, to respond more effectively to unexpected signals, and to combat",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 9,
+    "total_chunks": 36,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_20529_10",
+    "text": "devices, and cybersecurity software could enable those products to operate more effectively across a wider range of environments, to respond more effectively to unexpected signals, and to combat additional types of cyberattacks.</p>\n <p id=\"p-19\" data-page=\"73613\">Given those potential capabilities, it is essential to the national defense that the defense industrial base is able to integrate dual-use foundation models. Indeed, because industries and governments across the world are actively working to integrate dual-use foundation models into their defense capabilities, the U.S. defense industrial base will need to integrate dual-use foundation models to remain internationally competitive.</p>\n <p id=\"p-20\" data-page=\"73613\">Accordingly, the U.S. Government must be ready to take actions that ensure dual-use foundation models produced by U.S. companies are available to the defense industrial base. To do so, the U.S. Government needs information about how many U.S. companies are developing, have plans to develop, or have the computing hardware necessary to develop dual-use foundation models, as well as information about the characteristics of dual-use foundation models under development. Such information will allow the U.S. Government to determine whether action is necessary to stimulate development of dual-use foundation models or to support the development of specific types of models.</p>\n <p id=\"p-21\" data-page=\"73613\">The integration of AI models into the defense",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 10,
+    "total_chunks": 36,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2024_20529_11",
+    "text": "mulate development of dual-use foundation models or to support the development of specific types of models.</p>\n <p id=\"p-21\" data-page=\"73613\">The integration of AI models into the defense industrial base also requires the U.S. Government to take actions as needed to ensure that dual-use foundation models operate in a safe and reliable manner. Products integrating these models may operate in unpredictable or unreliable ways, potentially resulting in dangerous accidents, and a lack of reliability will make it difficult for the U.S. Government to use those products in contexts where the margin for error is small, including defense-related activities where accidents could result in injury or even loss of life. Thus, the U.S. Government needs information about how companies developing dual-use foundation models are training those models to respond to different kinds of inputs and information about how those companies have tested the safety and reliability of their models. Such information will allow the U.S. Government to determine the extent to which certain dual-use foundation models can be used by the defense industrial base and whether action is needed to ensure that the defense industrial base produces the safest and most reliable products and services in the world.</p>\n <p id=\"p-22\" data-page=\"73613\">\n For similar reasons, the U.S. Government must minimize the vulnerability of dual-use foundation models to cyberattacks. Dual-use foundation models can potentially be",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 11,
+    "total_chunks": 36,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_20529_12",
+    "text": "\"p-22\" data-page=\"73613\">\n For similar reasons, the U.S. Government must minimize the vulnerability of dual-use foundation models to cyberattacks. Dual-use foundation models can potentially be disabled or manipulated by hostile actors, and it will be difficult for the U.S. Government to rely on a particular model unless it can determine that the model is robust against such attacks. Accordingly, the U.S. Government needs information about the cybersecurity measures that companies developing dual-use foundation models use to protect those models, as well as information about those companies' cybersecurity resources and practices. Under <a href=\"https://www.ecfr.gov/current/title-15/section-702.3\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">15 CFR 702.3</a> all information submitted to the Department under this rule will be treated as confidential and afforded all the protections of section 705(d) of the DPA. Such information will allow the U.S. Government to determine which models are secure enough to be integrated into products or services that are essential to the national defense and to assess whether action is needed to ensure that the defense \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"73614\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73614)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73614\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 12,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_13",
+    "text": "-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73614)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73614\" data-page=\"73614\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n industrial base is producing the most secure products and services in the world.\n </p>\n <p id=\"p-23\" data-page=\"73614\">Finally, the U.S. Government must prepare the defense industrial base for the possibility that foreign adversaries or non-state actors will use dual-use foundation models for activities that threaten the national defense, including to develop weapons and other dangerous technologies. Accordingly, the U.S. Government requires information about the safety and reliability of AI models, including any potentially dangerous capabilities that developers of dual-use foundation models have identified with respect to those models. This includes the results of tests related to reliability as well as the results of any red-team testing that the company has conducted relating to lowering the barrier to entry for the development, acquisition, and use of biological, weapons by non-state actors; the discovery of software vulnerabilities and development of associated exploits; the use of software or tools to influence real or virtual events; and the possibility for self-replication or propagation. Such information will enable the U.S. Government to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 13,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_14",
+    "text": "associated exploits; the use of software or tools to influence real or virtual events; and the possibility for self-replication or propagation. Such information will enable the U.S. Government to determine whether investments in the defense industrial base are needed to ensure the United States has access to safe and reliable AI systems, as well as to counteract the dangerous capabilities identified or to ensure that adequate safeguards are in place to prevent the theft or misuse of dual-use foundation models by foreign adversaries or non-state actors.</p>\n <p id=\"p-24\" data-page=\"73614\">In short, dual-use foundation models will likely drive significant advances in numerous industries on which the national defense depends. These advances require BIS to conduct an ongoing assessment of the AI industry to ensure that the U.S. Government has the most accurate, up-to-date information when making policy decisions about the international competitiveness of the industrial base and its ability to support the national defense.</p>\n <p id=\"p-25\" data-page=\"73614\">Section 4.2(a)(i) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> mandates that the Secretary shall require companies developing dual-use foundation AI models to provide information, reports, or records regarding the following:</p>\n <p id=\"p-26\" data-page=\"73614\">1. any ongoing or planned activities related to training, developing, or producing dual-use foundation models, including the physical and cybersecurity",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 14,
+    "total_chunks": 36,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_20529_15",
+    "text": "following:</p>\n <p id=\"p-26\" data-page=\"73614\">1. any ongoing or planned activities related to training, developing, or producing dual-use foundation models, including the physical and cybersecurity protections taken to assure the integrity of that training process against sophisticated threats;</p>\n <p id=\"p-27\" data-page=\"73614\">2. the ownership and possession of the model weights of any dual-use foundation models, and the physical and cybersecurity measures taken to protect those model weights; and</p>\n <p id=\"p-28\" data-page=\"73614\">3. the results of any developed dual-use foundation model's performance in relevant AI red-team testing, including a description of any associated measures the company has taken to meet safety objectives, such as mitigations to improve performance on these red-team tests and strengthen overall model security.</p>\n <p id=\"p-29\" data-page=\"73614\">4. Other information pertaining to the safety and reliability of dual-use foundation models, or activities or risks that present concerns to U.S. national security.</p>\n <p id=\"p-30\" data-page=\"73614\">Section 4.2(a)(ii) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> also mandates that companies, individuals, or other organizations or entities that acquire, develop, or possess a potential large-scale computing cluster must report any such acquisition, development, or possession, including the existence and location of these clusters and the amount of total computing power available in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 15,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_16",
+    "text": "ge-scale computing cluster must report any such acquisition, development, or possession, including the existence and location of these clusters and the amount of total computing power available in each cluster. To the extent that these entities are companies developing dual-use foundation models, they are also subject to obligations 1-3, above.</p>\n <h2 id=\"h-9\">Discussion of the Proposed Rule</h2>\n <p id=\"p-31\" data-page=\"73614\">This proposed rule outlines a potential notification and reporting process for companies developing or intending to develop dual-use foundation AI models and for companies, individuals or other organizations or entities that acquire, develop, or possess computing clusters that meet technical conditions issued by the Department. Such entities would be required to report the required information to the BIS on a quarterly basis for activities that occurred during that quarter or that are planned to occur in the six months following the quarter.</p>\n <p id=\"p-32\" data-page=\"73614\">BIS collected information responsive to the requirements of section 4.2(a) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> via a mandatory survey of companies identified as developing or planning to develop potential dual-use foundation models. That survey was issued on January 26, 2024. Under this proposed rule, companies that completed the survey and any other companies that have developed or are in the process of developing dual-use foundation models or",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 16,
+    "total_chunks": 36,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_20529_17",
+    "text": "on January 26, 2024. Under this proposed rule, companies that completed the survey and any other companies that have developed or are in the process of developing dual-use foundation models or large-scale computing clusters would be required to submit information about these activities on a quarterly basis.</p>\n <p id=\"p-33\" data-page=\"73614\">For companies that have already submitted complete information via the survey, the reporting requirements will not require that the company report activity already reported to BIS in the survey but would require the reporting of any additions, updates, or changes to the information since the survey. Any company that has filed at least one report would be required to continue to file reports on a quarterly basis for as long as it continues to meet the reporting requirements or, if it no longer meet the requirements, until it has filed seven quarterly reports affirming that it has no additions, updates, or changes to the information in the last report. The reporting system will allow for companies that have no additions, updates, or changes since the last report to make a simple notification to that effect.</p>\n <h2 id=\"h-10\">Request for Comments</h2>\n <p id=\"p-34\" data-page=\"73614\">BIS welcomes public comment on all aspects of this proposed regulation. While much of the information that entities must report is dictated by section 4.2(a) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, BIS is particularly interested in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 17,
+    "total_chunks": 36,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_20529_18",
+    "text": "egulation. While much of the information that entities must report is dictated by section 4.2(a) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, BIS is particularly interested in public comments on the following:</p>\n <p id=\"p-35\" data-page=\"73614\">\n 1. \n <em>Quarterly Notification Schedule:</em>\n BIS has proposed that all covered U.S. persons with models or clusters exceeding the technical thresholds for reporting should notify BIS on a quarterly basis. Covered U.S. persons would be required to make quarterly notifications of `applicable activities' that meet the criteria under &sect;&thinsp;702.7(a)(1)(i) or (ii) planned to occur in the next six months related to dual-use foundation models and/or computing clusters, as well as quarterly notifications required for any `applicable activities' (\n <em>i.e.,</em>\n an &ldquo;applicable activity&rdquo; that meets the criteria under &sect;&thinsp;702.7(a)(1)(i) or (ii)) and &sect;&thinsp;702.7(a)(2)(v) (\n <em>Affirmation of no applicable activities</em>), as applicable. `Applicable activities' are defined to include developing, or having the intent to develop within the next six months, an AI model or computing cluster above certain technical thresholds specific in this proposed rule. If a covered U.S. person has any `applicable activities' to report, then they will notify BIS, and BIS will follow up with more detailed questions, to which the Covered U.S. person must respond within 30 calendar days. If Covered U.S.",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 18,
+    "total_chunks": 36,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_20529_19",
+    "text": "plicable activities' to report, then they will notify BIS, and BIS will follow up with more detailed questions, to which the Covered U.S. person must respond within 30 calendar days. If Covered U.S. persons have no `applicable activities' to report, they would only be required to affirm that fact to BIS each quarter. BIS has proposed a quarterly notification schedule to provide the U.S. Government with timely information on the safety and security of large AI models and computing clusters, while offering a regular notification schedule to facilitate respondent planning and ease respondent burden. BIS welcomes comments on the frequency of the proposed notification schedule, as well \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"73615\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73615)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73615\" data-page=\"73615\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n as alternatives for achieving timely reporting of the required information.\n </p>\n <p id=\"p-36\" data-page=\"73615\">\n 2. \n <em>Collection and Storage:</em>\n BIS recognizes that the information collected through these reporting requirements is extremely sensitive. In the interest of gathering information on prioritizing the safety of respondents' data, BIS welcomes",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 19,
+    "total_chunks": 36,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_20529_20",
+    "text": "izes that the information collected through these reporting requirements is extremely sensitive. In the interest of gathering information on prioritizing the safety of respondents' data, BIS welcomes comments related to how this data should be collected and stored.\n </p>\n <p id=\"p-37\" data-page=\"73615\">\n 3. \n <em>Collection Thresholds:</em>\n BIS has included the technical conditions specified in <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> for models and computing clusters that would trigger the proposed reporting requirements. As directed by section 4.2(b) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, BIS will update these technical conditions as appropriate. In addition to the technical parameters in <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, BIS is also seeking comments on the following proposed updated collection parameters. BIS welcomes comments on the following sets of technical parameters.\n </p>\n \n <ul class=\"bullets\" >\n <li id=\"p-38\" data-page=\"73615\">A dual-use foundation model training run triggers reporting requirements if it utilizes more than 10^26 computational operations (<em>e.g.,</em>\n integer or floating-point operations). Models trained on primarily biological sequence data, but at the lower threshold of 10^23 computational operations, as specified by section 4.2(b) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, will be addressed in a separate survey.\n </li>\n <li id=\"p-39\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 20,
+    "total_chunks": 36,
+    "char_count": 1478
+  },
+  {
+    "chunk_id": "2024_20529_21",
+    "text": "putational operations, as specified by section 4.2(b) of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, will be addressed in a separate survey.\n </li>\n <li id=\"p-39\" data-page=\"73615\">Large-scale computing clusters are defined as clusters having a set of machines transitively connected by networking of over 300 Gbit/s and having a theoretical maximum performance greater than 10^20 computational operations (<em>e.g.,</em>\n integer or floating-point operations) per second (OP/s) for AI training, without sparsity.\n </li>\n </ul>\n \n <h2 id=\"h-11\">Rulemaking Requirements</h2>\n <p id=\"p-40\" data-page=\"73615\">1. This proposed rule has been determined to be a significant regulatory action for purposes of <a href=\"/executive-order/12866\" class=\"eo\">E.O. 12866</a>.</p>\n <p id=\"p-41\" data-page=\"73615\">\n 2. Notwithstanding any other provision of law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the Paperwork Reduction Act of 1995 (<a href=\"https://www.govinfo.gov/link/uscode/44/3501\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">44 U.S.C. 3501</a> \n <em>et seq.</em>) (PRA), unless that collection of information displays a currently valid Office of Management and Budget (OMB) Control Number. This proposed rule involves a currently approved information collection \n <em>National Security and Critical Technology Assessments of the US",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 21,
+    "total_chunks": 36,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_20529_22",
+    "text": "ice of Management and Budget (OMB) Control Number. This proposed rule involves a currently approved information collection \n <em>National Security and Critical Technology Assessments of the US Industrial Base</em>\n (OMB Control Number 0694-0119). The authority for this collection is section 705 of the Defense Production Act of 1950, as amended and related Executive Orders 12656 and 13603. Under this information collection, BIS conducts surveys and assessments of critical U.S. industrial sectors and technologies. Undertaken at the request of various policy, research and development, and program and planning organizations within the Department of Defense and the Armed Services, Department of Homeland Security (DHS), National Aeronautics and Space Administration (NASA), and other agencies, BIS research, data collection and analysis provide needed information to benchmark industry performance and raise awareness of diminishing manufacturing capabilities.\n </p>\n <p id=\"p-42\" data-page=\"73615\">Most surveys include questions necessary to obtain data on employment, supply chain, financial performance, production, technology and service capabilities, research and development (R&amp;D), investment, competitive outlook, export controls and other relevant information. Some surveys include a few non-standard questions, depending on the industry and the needs of the partner agency. The number of surveys required per assessment varies with the size of the sector and the scope of the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 22,
+    "total_chunks": 36,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_20529_23",
+    "text": "few non-standard questions, depending on the industry and the needs of the partner agency. The number of surveys required per assessment varies with the size of the sector and the scope of the project.</p>\n <p id=\"p-43\" data-page=\"73615\">\n Information gathered from these surveys is deemed \n <em>business confidential</em>\n and will be treated in accordance with section 705 of the Defense Production Act of 1950 which prohibits the publication or disclosure of such information unless the President determines that its withholding is contrary to the national defense. To review previous surveys cleared under this generic collection&mdash;including all background materials&mdash;please visit at \n <em><a href=\"https://www.reginfo.gov/public/do/PRAMain\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.reginfo.gov/&#8203;public/&#8203;do/&#8203;PRAMain</a></em>\n and use the search function to enter either the title of the collection or the OMB Control Number.\n </p>\n <p id=\"p-44\" data-page=\"73615\">When this proposed rule is finalized, BIS intends to use this existing information collection for the collection/reporting requirement required by <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>. BIS estimates the specific survey required by this proposed rule will have an estimated burden of 5,000 hours per year aggregated across all new respondents. BIS believes this increase in respondent burden does not require a change to the burden or cost estimates for",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 23,
+    "total_chunks": 36,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_20529_24",
+    "text": "have an estimated burden of 5,000 hours per year aggregated across all new respondents. BIS believes this increase in respondent burden does not require a change to the burden or cost estimates for the overall umbrella clearance. Please see the request for comment section of the proposed rule for more information the potential information collection elements BIS is considering for the final rule and subsequent surveys.</p>\n <p id=\"p-45\" data-page=\"73615\">3. These proposed changes do not contain policies with federalism implications as that term is defined in <a href=\"/executive-order/13132\" class=\"eo\">E.O. 13132</a>.</p>\n <p id=\"p-46\" data-page=\"73615\">\n 4. The Regulatory Flexibility Act (RFA), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA) (<a href=\"https://www.govinfo.gov/link/uscode/5/601\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">5 U.S.C. 601</a> \n <em>et seq.</em>) generally requires an agency to prepare a regulatory flexibility analysis of any rule subject to the notice and comment rulemaking requirements under the Administrative Procedure Act (<a href=\"https://www.govinfo.gov/link/uscode/5/553\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">5 U.S.C. 553</a>) or any other statute. Under section 605(b) of the RFA, however, if the head of an agency certifies that a rule will not have a significant impact on a substantial number of small entities, the statute does not require the agency to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 24,
+    "total_chunks": 36,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2024_20529_25",
+    "text": "(b) of the RFA, however, if the head of an agency certifies that a rule will not have a significant impact on a substantial number of small entities, the statute does not require the agency to prepare a regulatory flexibility analysis. Pursuant to section 605(b), the Chief Counsel for Regulation, Department of Commerce, certified to the Chief Counsel for Regulation, Small Business Administration that this proposed rule will not have a significant impact on a substantial number of small entities for the reasons explained below. No other law requires such an analysis. Consequently, no regulatory flexibility analysis is required, and none has been prepared.\n </p>\n <h2 id=\"h-12\">Number of Small Entities</h2>\n <p id=\"p-47\" data-page=\"73615\">Small entities include small businesses, small organizations, and small governmental jurisdictions. For purposes of assessing the impacts of this proposed rule on small entities, a small business, as described in the Small Business Administration's Table of Small Business Size Standards Matched to North American Industry Classification System (NAICS) Codes (effective March 17, 2023), has a maximum annual revenue of $47 million and a maximum of 1,500 employees (for some business categories, these numbers are lower). A small governmental jurisdiction is a government of a city, town, school district or special district with a population of less than 50,000. A small organization is any not-for-profit enterprise which is independently owned and",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 25,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_26",
+    "text": "is a government of a city, town, school district or special district with a population of less than 50,000. A small organization is any not-for-profit enterprise which is independently owned and operated and is not dominant in its field. The most apt code to apply here is NAICS 518&mdash;Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services.</p>\n <p id=\"p-48\" data-page=\"73615\">\n The reporting requirements in this proposed rule are expected to apply to only a small number of entities&mdash;only those companies developing or intending to develop a dual-use foundation model and those companies, individuals, or other organizations or entities that acquire, develop, or possess potential large-scale computing clusters. For the purposes of this rulemaking, the term &ldquo;covered U.S. persons&rdquo; includes \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"73616\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73616)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73616\" data-page=\"73616\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n all U.S. persons subject to the reporting requirements of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, section 4.2(a), and is defined as any individual U.S. citizen, any lawful permanent",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 26,
+    "total_chunks": 36,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_20529_27",
+    "text": "persons subject to the reporting requirements of <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, section 4.2(a), and is defined as any individual U.S. citizen, any lawful permanent resident of the United States as defined by the Immigration and Nationality Act, any entity&mdash;including organizations, companies, and corporations&mdash;organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person (individual) located in the United States. At present, BIS assesses that there are between zero and 15 companies exceed the reporting thresholds for models and computing clusters at the time of publication. All of these entities are well-resourced technology companies. Exceeding the technical thresholds for models and computing clusters requires access to vast computing power, which is not typically available to small entities. The minimum computational threshold that would trigger a reporting requirement established in <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a> currently exceeds all or virtually all models in use.<sup>[<a class=\"footnote-reference\" href=\"#footnote-4-p73616\" id=\"citation-4-p73616\">4</a>] </sup>\n \n </p>\n \n <p id=\"p-50\" data-page=\"73616\">As AI technology development and implementation are expected to advance over the next few years, the number of covered U.S. persons involved in it will also increase. However, as directed by <a href=\"/executive-order/14110\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 27,
+    "total_chunks": 36,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "2024_20529_28",
+    "text": "plementation are expected to advance over the next few years, the number of covered U.S. persons involved in it will also increase. However, as directed by <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, the Secretary will update the technical conditions that trigger the reporting requirements over time, which may limit the number of additional impacted entities over time.</p>\n <h2 id=\"h-13\">Impact</h2>\n <p id=\"p-51\" data-page=\"73616\">For the reasons discussed above, BIS believes that this proposed rule, which would impose reporting requirements on large technology companies, would have no significant impact on small entities.</p>\n <h2 id=\"h-14\">Conclusion</h2>\n <p id=\"p-52\" data-page=\"73616\">BIS believes that the overall impact of this proposed rule on small entities would not be significant, as it would only apply to entities with large monetary and computational resources, which BIS believes are not small entities. For the reasons set forth above, the Chief Counsel for Regulations at the Department of Commerce has certified that this action would not have a significant impact on a substantial number of small entities.</p>\n <p id=\"p-53\" data-page=\"73616\">\n In accordance with <a href=\"https://www.govinfo.gov/link/uscode/5/553\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">5 U.S.C. 553(b)(4)</a>, a summary of this proposed rule may be found at \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 28,
+    "total_chunks": 36,
+    "char_count": 1484
+  },
+  {
+    "chunk_id": "2024_20529_29",
+    "text": "=\"noopener noreferrer\">5 U.S.C. 553(b)(4)</a>, a summary of this proposed rule may be found at \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a>.</em>\n The \n <em>regulations.gov</em>\n ID for this proposed rule is: BIS-2024-0047.\n </p>\n <div class=\"list-of-subjects\">\n <h1 id=\"h-15\">List of Subjects in <a href=\"https://www.ecfr.gov/current/title-15/part-702\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">15 CFR Part 702</a>\n</h1>\n <ul class=\"subject-list\">\n<li>Business and industry</li>\n<li>Confidential business information</li>\n<li>Employment</li>\n<li>National defense</li>\n<li>Penalties</li>\n<li>Research</li>\n<li>Science and technology</li>\n</ul>\n </div>\n <p id=\"p-55\" data-page=\"73616\">Accordingly, <a href=\"https://www.ecfr.gov/current/title-15/part-702\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">15 CFR part 702</a> is proposed to be amended as follows:</p>\n <div class=\"part\">\n <h1 id=\"h-16\">PART 702&mdash;INDUSTRIAL BASE SURVEYS&mdash;DATA COLLECTIONS</h1>\n </div>\n <p class=\"amendment-part\" id=\"p-amd-1\"><span class=\"amendment-part-number\">1. </span>The authority citation for <a href=\"https://www.ecfr.gov/current/title-15/part-702\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">15 CFR part 702</a> is revised to read as follows:</p>\n <p class=\"authority\" id=\"p-56\" data-page=\"73616\">\n <span class=\"auth-header\">Authority:</span>\n <span",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 29,
+    "total_chunks": 36,
+    "char_count": 1481
+  },
+  {
+    "chunk_id": "2024_20529_30",
+    "text": "l=\"noopener noreferrer\">15 CFR part 702</a> is revised to read as follows:</p>\n <p class=\"authority\" id=\"p-56\" data-page=\"73616\">\n <span class=\"auth-header\">Authority:</span>\n <span class=\"auth-content\">\n <a href=\"https://www.govinfo.gov/link/uscode/50/4501\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">50 U.S.C. 4501</a> \n <em>et seq.;</em><a href=\"/executive-order/13603\" class=\"eo\">E.O. 13603</a>, <a href=\"/citation/77-FR-16651\" class=\"fr-reference\" data-reference=\"77 FR 16651\">77 FR 16651</a>, <a href=\"https://www.ecfr.gov/current/title-3\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">3 CFR</a>, 2012 Comp., p. 225; <a href=\"/executive-order/14110\" class=\"eo\">E.O. 14110</a>, <a href=\"/citation/88-FR-75191\" class=\"fr-reference\" data-reference=\"88 FR 75191\">88 FR 75191</a>, <a href=\"https://www.ecfr.gov/current/title-3\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">3 CFR</a>, 2023 Comp., p. 657.\n </span>\n </p>\n <p class=\"amendment-part\" id=\"p-amd-12\"><span class=\"amendment-part-number\">2. </span>Section 702.7 is added to read as follows: </p>\n <div class=\"section\">\n <div class=\"sectno sectno-reference\" id=\"sectno-reference-702.7\"><a href=\"#sectno-citation-702.7\">&sect;&thinsp;702.7</a></div>\n <div class=\"section-subject\">Special requirements for on-going reporting regarding the development of advanced artificial intelligence models and computing clusters.</div>\n <p id=\"p-57\" data-page=\"73616\">\n (a) \n <em>Reporting",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 30,
+    "total_chunks": 36,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2024_20529_31",
+    "text": "requirements for on-going reporting regarding the development of advanced artificial intelligence models and computing clusters.</div>\n <p id=\"p-57\" data-page=\"73616\">\n (a) \n <em>Reporting requirements.</em>\n (1) Covered U.S. persons are required to submit a notification to the Department by emailing \n <em><a href=\"mailto:ai_reporting@bis.doc.gov\" class=\"email\">ai_reporting@bis.doc.gov</a></em>\n on a quarterly basis as defined in paragraph (a)(2) of this section if the covered U.S. person engages in, or plans, within six months, to engage in `applicable activities,' defined as follows:\n </p>\n <p id=\"p-58\" data-page=\"73616\">\n (i) Conducting any AI model training run using more than 10^26 computational operations (\n <em>e.g.,</em>\n integer or floating-point operations); or\n </p>\n <p id=\"p-59\" data-page=\"73616\">\n (ii) Acquiring, developing, or coming into possession of a computing cluster that has a set of machines transitively connected by data center networking of greater than 300 Gbit/s and having a theoretical maximum greater than 10^20 computational operations (\n <em>e.g.,</em>\n integer or floating-point operations) per second (OP/s) for AI training, without sparsity.\n </p>\n <p id=\"p-60\" data-page=\"73616\">Note 1 to paragraph (a)(1): Consistent with industry conventions, one multiply-accumulate computation, D = A &times; B + C, should be counted as two operations.</p>\n <p id=\"p-61\" data-page=\"73616\">\n (2) \n <em>Timing of notifications and response to BIS questions</em>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 31,
+    "total_chunks": 36,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_20529_32",
+    "text": "tiply-accumulate computation, D = A &times; B + C, should be counted as two operations.</p>\n <p id=\"p-61\" data-page=\"73616\">\n (2) \n <em>Timing of notifications and response to BIS questions</em>\n &mdash;(i) \n <em>Notification of applicable activities.</em>\n Covered U.S. persons subject to the reporting requirements in paragraph (a)(1) of this section must notify BIS of `applicable activities' via email each quarter, identifying any `applicable activities' planned in the six months following notification. Quarterly notification dates are as follows: Q1&mdash;April 15; Q2&mdash;July 15; Q3&mdash;October 15; Q4&mdash;January 15. For example, in a notification due on April 15, a covered U.S. person should include all activities planned until October 15 of the same year.\n </p>\n <p id=\"p-62\" data-page=\"73616\">\n (ii) \n <em>Response to BIS questions.</em>\n Following a notification of `applicable activities' by a covered U.S. person, the covered U.S. person will receive questions from BIS. The covered U.S. person must respond to all questions within 30 calendar days of receiving the request.\n </p>\n <p id=\"p-63\" data-page=\"73616\">\n (iii) \n <em>Corrections.</em>\n If any notification of `applicable activities' or response to BIS questions filed under this section is incomplete when filed, BIS will notify the covered U.S. person and require a revised resubmission within 14 calendar days after BIS provides notice of incompletion. BIS will continue to require revisions within 14 calendar",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 32,
+    "total_chunks": 36,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_20529_33",
+    "text": "S will notify the covered U.S. person and require a revised resubmission within 14 calendar days after BIS provides notice of incompletion. BIS will continue to require revisions within 14 calendar days of notification if a resubmission remains incomplete.\n </p>\n <p id=\"p-64\" data-page=\"73616\">\n (iv) \n <em>Clarification questions.</em>\n If, after receipt of responses described in paragraph (a)(2)(ii) of this section, BIS has additional questions to clarify those responses, the covered U.S. person will provide additional responses to such additional questions within seven (7) calendar days. If the covered U.S. person needs additional time to provide an additional response, it can request an extension from BIS.\n </p>\n <p id=\"p-65\" data-page=\"73616\">\n (v) \n <em>Affirmation of no applicable activities.</em>\n For each of the seven quarters following the quarter covered by a notification of `applicable activities,' if the covered U.S. person has no `applicable activities' (\n <em>i.e.,</em>\n an &ldquo;applicable activity&rdquo; that meets the criteria under paragraph (a)(1)(i) or (ii) of this section) to report, they must submit an affirmation of no applicable activities by emailing \n <em><a href=\"mailto:ai_reporting@bis.doc.gov\" class=\"email\">ai_reporting@bis.doc.gov</a></em>\n on the quarterly notification date. If the covered U.S. person submits an affirmation of no applicable activities for seven consecutive quarters, they need not provide BIS with any affirmation thereafter",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 33,
+    "total_chunks": 36,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_20529_34",
+    "text": "uarterly notification date. If the covered U.S. person submits an affirmation of no applicable activities for seven consecutive quarters, they need not provide BIS with any affirmation thereafter until they have `applicable activities' to report.\n </p>\n <p id=\"p-66\" data-page=\"73616\">\n (b) \n <em>Content, form, and manner of response to BIS questions.</em>\n (1) All information submitted under this section shall be filed with BIS in the form and manner that BIS will prescribe in instructions sent to the covered U.S. person after BIS has received a notification of `applicable activities.'\n </p>\n <p id=\"p-67\" data-page=\"73616\">(2) BIS will send questions to the covered U.S. person which must address, but may not be limited to, the following topics:</p>\n <p id=\"p-68\" data-page=\"73616\">(i) Any ongoing or planned activities related to training, developing, or producing dual-use foundation models, including the physical and cybersecurity protections taken to assure the integrity of that training process against sophisticated threats;</p>\n <p id=\"p-69\" data-page=\"73616\">\n (ii) The ownership and possession of the model weights of any dual-use \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"73617\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73617)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73617\" data-page=\"73617\"><svg",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 34,
+    "total_chunks": 36,
+    "char_count": 1485
+  },
+  {
+    "chunk_id": "2024_20529_35",
+    "text": "f=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 73617)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-73617\" data-page=\"73617\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n foundation models, and the physical and cybersecurity measures taken to protect those model weights;\n </p>\n <p id=\"p-70\" data-page=\"73617\">(iii) The results of any developed dual-use foundation model's performance in relevant AI red-team testing, including a description of any associated measures the company has taken to meet safety objectives, such as mitigations to improve performance on these red-team tests and strengthen overall model security; and</p>\n <p id=\"p-71\" data-page=\"73617\">(iv) Other information pertaining to the safety and reliability of dual-use foundation models, or activities or risks that present concerns to U.S. national security.</p>\n <p id=\"p-72\" data-page=\"73617\">\n (c) \n <em>Definitions.</em>\n For purposes of the reports required by paragraph (a) of this section, apply the following definitions.\n </p>\n <p id=\"p-73\" data-p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_20529",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 35,
+    "total_chunks": 36,
+    "char_count": 1153
+  }
+]

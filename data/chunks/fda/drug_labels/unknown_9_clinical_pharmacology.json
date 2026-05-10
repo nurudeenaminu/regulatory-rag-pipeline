@@ -1,0 +1,162 @@
+[
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_0",
+    "text": "DRUG: unknown\n============================================================\n\n## CONTRAINDICATIONS\n4 CONTRAINDICATIONS Active pathological bleeding, such as peptic ulcer or intracranial hemorrhage ( 4.1 ) Hypersensitivity to clopidogrel or any component of the product ( 4.2 ) 4.1 Active Bleeding Plavix is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage. 4.2 Hypersensitivity Plavix is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2) ] .\n\n## DRUG_INTERACTIONS\n7 DRUG INTERACTIONS CYP2C19 inhibitors (e.g., omeprazole): Avoid concomitant use. ( 7.1 ) Nonsteroidal anti-inflammatory drugs (NSAIDs): Combination use increases risk of gastrointestinal bleeding. ( 7.2 ) Warfarin: Combination use increases risk of bleeding. ( 7.3 ) 7.1 CYP2C19 Inhibitors Clopidogrel is metabolized to its active metabolite in part by CYP2C19. Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition. Avoid concomitant use of drugs that inhibit CYP2C19, e.g., omeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5) ] . Omeprazole In a crossover clinical study, 72 healthy subjects were administered Plavix (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 16,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_1",
+    "text": "(12.5) ] . Omeprazole In a crossover clinical study, 72 healthy subjects were administered Plavix (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as Plavix) for 5 days. The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when Plavix and omeprazole were administered together. Mean inhibition of platelet aggregation was diminished by 47% (24 hours) and 30% (Day 5) when Plavix and omeprazole were administered together. In another study, 72 healthy subjects were given the same doses of Plavix and omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering Plavix and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.1) ] . 7.2 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Coadministration of Plavix and NSAIDs increases the risk of gastrointestinal bleeding. 7.3 Warfarin (CYP2C9 Substrates) Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of Plavix with warfarin increases the risk of bleeding because of independent effects on hemostasis. However, at high concentrations in vitro , clopidogrel inhibits CYP2C9.\n\n## DOSAGE_AND_ADMINISTRATION\n2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) Recent MI, recent stroke, or",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 16,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_2",
+    "text": "owever, at high concentrations in vitro , clopidogrel inhibits CYP2C9.\n\n## DOSAGE_AND_ADMINISTRATION\n2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily ( 2.2 ) 2.1 Acute Coronary Syndrome Plavix can be administered with or without food [see Clinical Pharmacology (12.3) ] For patients with non-ST-elevation ACS (UA/NSTEMI), initiate Plavix with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiate aspirin (75–325 mg once daily) and continue in combination with Plavix [see Clinical Studies (14.1) ] . For patients with STEMI, the recommended dose of Plavix is 75 mg once daily orally, administered in combination with aspirin (75–325 mg once daily), with or without thrombolytics. Plavix may be initiated with or without a loading dose [see Clinical Studies (14.1) ] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease The recommended daily dose of Plavix is 75 mg once daily orally, with or without food [see Clinical Pharmacology (12.3) ] . 2.3 CYP2C19 Poor Metabolizers CYP2C19 poor metabolizer status is associated with diminished antiplatelet response to clopidogrel. Although a higher dose regimen (600 mg loading dose followed by 150 mg once daily) in poor metabolizers increases antiplatelet response [see Clinical Pharmacology (12.5) ] , an appropriate dose regimen for this patient population has not been established in clinical outcome",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 16,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_3",
+    "text": "ily) in poor metabolizers increases antiplatelet response [see Clinical Pharmacology (12.5) ] , an appropriate dose regimen for this patient population has not been established in clinical outcome trials.\n\n## INDICATIONS_AND_USAGE\n1 INDICATIONS AND USAGE Plavix is a P2Y 12 platelet inhibitor indicated for: Acute coronary syndrome Recent myocardial infarction (MI), recent stroke, or established peripheral arterial disease. Plavix has been shown to reduce the combined endpoint of new ischemic stroke (fatal or not), new MI (fatal or not), and other vascular death. ( 1.2 ) 1.1 Acute Coronary Syndrome (ACS) For patients with non-ST-segment elevation ACS [unstable angina (UA)/non-ST-elevation myocardial infarction (NSTEMI)], including patients who are to be managed medically and those who are to be managed with coronary revascularization, Plavix has been shown to decrease the rate of a combined endpoint of cardiovascular death, myocardial infarction (MI), or stroke as well as the rate of a combined endpoint of cardiovascular death, MI, stroke, or refractory ischemia. For patients with ST-elevation myocardial infarction (STEMI), Plavix has been shown to reduce the rate of death from any cause and the rate of a combined endpoint of death, re-infarction, or stroke. The benefit for patients who undergo primary percutaneous coronary intervention is unknown. The optimal duration of Plavix therapy in ACS is unknown. 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 3,
+    "total_chunks": 16,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_4",
+    "text": "s who undergo primary percutaneous coronary intervention is unknown. The optimal duration of Plavix therapy in ACS is unknown. 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease For patients with a history of recent myocardial infarction (MI), recent stroke, or established peripheral arterial disease, Plavix has been shown to reduce the rate of a combined endpoint of new ischemic stroke (fatal or not), new MI (fatal or not), and other vascular death.\n\n## CLINICAL_PHARMACOLOGY\n12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets. 12.2 Pharmacodynamics Clopidogrel must be metabolized by CYP450 enzymes to produce the active metabolite that inhibits platelet aggregation. The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y 12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation. This action is irreversible. Consequently, platelets exposed to clopidogrel's active metabolite are affected for the remainder of their lifespan (about 7 to 10 days). Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP. Dose-dependent inhibition of platelet aggregation can be seen",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 4,
+    "total_chunks": 16,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_5",
+    "text": "et aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP. Dose-dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of Plavix. Repeated doses of 75 mg Plavix per day inhibit ADP-induced platelet aggregation on the first day, and inhibition reaches steady state between Day 3 and Day 7. At steady state, the average inhibition level observed with a dose of 75 mg Plavix per day was between 40% and 60%. Platelet aggregation and bleeding time gradually return to baseline values after treatment is discontinued, generally in about 5 days. Geriatric Patients Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation. Renally-Impaired Patients After repeated doses of 75 mg Plavix per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation. Hepatically-Impaired Patients After repeated doses of 75 mg Plavix per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects. Gender In a small study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women. 12.3 Pharmacokinetics Clopidogrel is a prodrug and is metabolized to a pharmacologically",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 5,
+    "total_chunks": 16,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_6",
+    "text": "l study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women. 12.3 Pharmacokinetics Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites. Absorption After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed. Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites. Effect of Food Plavix can be administered with or without food. In a study in healthy male subjects when Plavix 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%. The active metabolite AUC 0–24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax. Similar results were observed when a Plavix 300 mg loading dose was administered with a high-fat breakfast. Metabolism Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes. Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite. Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel. This metabolic pathway is mediated by CYP2C19, CYP3A, CYP2B6 and CYP1A2. The active thiol",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 6,
+    "total_chunks": 16,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_7",
+    "text": "intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel. This metabolic pathway is mediated by CYP2C19, CYP3A, CYP2B6 and CYP1A2. The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet. The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose. Cmax occurs approximately 30 to 60 minutes after dosing. In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: increasing the dose by a factor of four results in 2.0- and 2.7-fold increases in Cmax and AUC, respectively. Elimination Following an oral dose of 14 C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing. After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours. The half-life of the active metabolite is about 30 minutes. 12.5 Pharmacogenomics CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite. Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype. Genetic variants of other CYP450 enzymes may also affect the formation of",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 7,
+    "total_chunks": 16,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_8",
+    "text": "s and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype. Genetic variants of other CYP450 enzymes may also affect the formation of clopidogrel's active metabolite. The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and *3 alleles are nonfunctional. CYP2C19*2 and *3 account for the majority of reduced function alleles in white (85%) and Asian (99%) poor metabolizers. Other alleles associated with absent or reduced metabolism are less frequent, and include, but are not limited to, CYP2C19*4, *5, *6, *7, and *8. A patient with poor metabolizer status will possess two loss-of-function alleles as defined above. Published frequencies for poor CYP2C19 metabolizer genotypes are approximately 2% for whites, 4% for blacks and 14% for Chinese. Tests are available to determine a patient's CYP2C19 genotype. A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days. Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups. When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3 ). An appropriate",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 8,
+    "total_chunks": 16,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_9",
+    "text": "groups. When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3 ). An appropriate dose regimen for this patient population has not been established in clinical outcome trials. Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status Dose Ultrarapid (n=10) Extensive (n=10) Intermediate (n=10) Poor (n=10) Values are mean (SD) Cmax (ng/mL) 300 mg (24 h) 24 (10) 32 (21) 23 (11) 11 (4) 600 mg (24 h) 36 (13) 44 (27) 39 (23) 17 (6) 75 mg (Day 5) 12 (6) 13 (7) 12 (5) 4 (1) 150 mg (Day 5) 16 (9) 19 (5) 18 (7) 7 (2) IPA (%) Inhibition of platelet aggregation with 5µM ADP; larger value indicates greater platelet inhibition 300 mg (24 h) 40 (21) 39 (28) 37 (21) 24 (26) 600 mg (24 h) 51 (28) 49 (23) 56 (22) 32 (25) 75 mg (Day 5) 56 (13) 58 (19) 60 (18) 37 (23) 150 mg (Day 5) 68 (18) 73 (9) 74 (14) 61 (14) VASP-PRI (%) Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition 300 mg (24 h) 73 (12) 68 (16) 77 (12) 91 (12) 600 mg (24 h) 51 (20) 48 (20) 56 (26) 85 (14) 75 mg (Day 5) 40 (9) 39 (14) 50 (16) 83 (13) 150 mg (Day 5) 20 (10) 24 (10) 29 (11) 61 (18) Some published studies suggest that intermediate metabolizers have decreased active metabolite exposure and diminished antiplatelet effects. The relationship between CYP2C19 genotype and Plavix treatment outcome was",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 9,
+    "total_chunks": 16,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_10",
+    "text": "ies suggest that intermediate metabolizers have decreased active metabolite exposure and diminished antiplatelet effects. The relationship between CYP2C19 genotype and Plavix treatment outcome was evaluated in retrospective analyses of Plavix-treated subjects in CHARISMA (n=4862) and TRITON-TIMI 38 (n=1477), and in several published cohort studies. In TRITON-TIMI 38 and the majority of the cohort studies, the combined group of patients with either intermediate or poor metabolizer status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolizers. In CHARISMA and one cohort study, the increased event rate was observed only in poor metabolizers.\n\n## MECHANISM_OF_ACTION\n12.1 Mechanism of Action Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets.\n\n## ADVERSE_REACTIONS\n6 ADVERSE REACTIONS The following serious adverse reactions are discussed below and elsewhere in the labeling: Bleeding [see Warnings and Precautions (5.2) ] Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.5) ] Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 10,
+    "total_chunks": 16,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_11",
+    "text": "dverse reaction. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Plavix has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for 1 year or more. The clinically important adverse reactions observed in trials comparing Plavix plus aspirin to placebo plus aspirin and trials comparing Plavix alone to aspirin alone are discussed below. Bleeding CURE In CURE, Plavix use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see Table 1). The incidence of intracranial hemorrhage (0.1%) and fatal bleeding (0.2%) were the same in both groups. Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis, hematuria, and bruise. The overall incidence of bleeding is described in Table 1. Table 1: CURE Incidence of Bleeding Complications (% patients) Event Plavix (+ aspirin) Other standard therapies were used as appropriate. Placebo (+ aspirin) p-value (n=6259) (n=6303)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 11,
+    "total_chunks": 16,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_12",
+    "text": "in Table 1. Table 1: CURE Incidence of Bleeding Complications (% patients) Event Plavix (+ aspirin) Other standard therapies were used as appropriate. Placebo (+ aspirin) p-value (n=6259) (n=6303) Major bleeding Life-threatening and other major bleeding. 3.7 Major bleeding event rate for Plavix + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100–200 mg = 3.5%; >200 mg = 4.9% Major bleeding event rates for Plavix + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100–200 mg = 2.3%; >200 mg = 4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% 0.001 Life-threatening bleeding 2.2 1.8 0.13 Fatal 0.2 0.2 5 g/dL hemoglobin drop 0.9 0.9 Requiring surgical intervention 0.7 0.7 Hemorrhagic strokes 0.1 0.1 Requiring inotropes 0.5 0.5 Requiring transfusion (≥4 units) 1.2 1.0 Other major bleeding 1.6 1.0 0.005 Significantly disabling 0.4 0.3 Intraocular bleeding with significant loss of vision 0.05 0.03 Requiring 2–3 units of blood 1.3 0.9 Minor bleeding Led to interruption of study medication. 5.1 2.4 < 0.001 Ninety-two percent (92%) of the patients in the CURE study received heparin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results. COMMIT In COMMIT, similar rates of major bleeding were observed in the",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 12,
+    "total_chunks": 16,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_13",
+    "text": "parin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results. COMMIT In COMMIT, similar rates of major bleeding were observed in the Plavix and placebo groups, both of which also received aspirin (see Table 2). Table 2: Incidence of Bleeding Events in COMMIT (% patients) Type of bleeding Plavix (+ aspirin) (n=22961) Placebo (+ aspirin) (n=22891) p-value Major Major bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleeding The relative rate of major noncerebral or cerebral bleeding was independent of age. Event rates for Plavix + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years = 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years = 0.7%. 0.6 0.5 0.59 Major noncerebral 0.4 0.3 0.48 Fatal 0.2 0.2 0.90 Hemorrhagic stroke 0.2 0.2 0.91 Fatal 0.2 0.2 0.81 Other noncerebral bleeding (non-major) 3.6 3.1 0.005 Any noncerebral bleeding 3.9 3.4 0.004 CAPRIE (Plavix vs. Aspirin) In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking Plavix vs. 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively. The incidence of intracranial hemorrhage was 0.4% for Plavix compared to 0.5% for aspirin. Other bleeding events that were reported more frequently in the Plavix group were epistaxis and",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 13,
+    "total_chunks": 16,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_14",
+    "text": "vely. The incidence of intracranial hemorrhage was 0.4% for Plavix compared to 0.5% for aspirin. Other bleeding events that were reported more frequently in the Plavix group were epistaxis and hematoma. Other Adverse Events In CURE and CHARISMA, which compared Plavix plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than bleeding) between Plavix and placebo. In CAPRIE, which compared Plavix to aspirin, pruritus was more frequently reported in those taking Plavix. No other difference in the rate of adverse events (other than bleeding) was reported. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of Plavix. Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Blood and lymphatic system disorders : Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP) Gastrointestinal disorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis General disorders and administration site condition : Fever, hemorrhage of operative wound Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 14,
+    "total_chunks": 16,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_9_clinical_pharmacology_15",
+    "text": "ative wound Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness Musculoskeletal, connective tissue and bone disorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis Nervous system disorders : Taste disorders, fatal intracranial bleeding Eye disorders : Eye (conjunctival, ocular, retinal) bleeding Psychiatric disorders: Confusion, hallucinations Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding Renal and urinary disorders: Glomerulopathy, increased creatinine levels Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, skin bleeding, lichen planus Vascular disorders: Vasculitis, hypotension",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_9_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 15,
+    "total_chunks": 16,
+    "char_count": 966
+  }
+]

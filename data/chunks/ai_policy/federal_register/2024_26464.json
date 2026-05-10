@@ -1,0 +1,72 @@
+[
+  {
+    "chunk_id": "2024_26464_0",
+    "text": "TITLE: Government Owned Inventions Available for Licensing or Collaboration: Machine Learning Model for the Prioritization of Cancer Neoepitopes\nDOCUMENT NUMBER: 2024-26464\nTYPE: Notice\nAGENCY: Health and Human Services Department, National Institutes of Health\nPUBLISHED: 2024-11-14\nEFFECTIVE: None\nCITATION: 89 FR 90023\nACTION: Notice.\n============================================================\n\nABSTRACT:\nThe National Cancer Institute (NCI), an institute of the National Institutes of Health (NIH), Department of Health and Human Services (HHS), is giving notice of licensing and collaboration opportunities for the inventions listed below, which are owned by an agency of the U.S. Government and are available for license and collaboration in the U.S. to achieve expeditious commercialization of results of federally-funded research and development.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 7,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_26464_1",
+    "text": "ued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 7,
+    "char_count": 485
+  },
+  {
+    "chunk_id": "2024_26464_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Health and Human Services</h6>\n<h6 class=\"sub-agency\">National Institutes of Health</h6>\n</div>\n</div></div>\n<div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"90023\">National Institutes of Health, HHS.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"90023\">Notice.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"90023\">The National Cancer Institute (NCI), an institute of the National Institutes of Health (NIH), Department of Health and Human Services (HHS), is giving notice of licensing and collaboration opportunities for the inventions listed below, which are owned by an agency of the U.S. Government and are available for license and collaboration in the U.S. to achieve expeditious commercialization of results of federally-funded research and development.</p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-4\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-4\" data-page=\"90023\">\n Inquiries related to a collaboration opportunity should be directed to: Aida Cremesti, Senior Technology Transfer Manager, NCI, Technology Transfer Center, Email: \n <em><a href=\"mailto:aida.cremesti@nih.gov\" class=\"email\">aida.cremesti@nih.gov</a></em>\n or Phone: 240-276-6641. Inquiries related \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"90024\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 7,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_26464_3",
+    "text": ".cremesti@nih.gov\" class=\"email\">aida.cremesti@nih.gov</a></em>\n or Phone: 240-276-6641. Inquiries related \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"90024\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 90024)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-90024\" data-page=\"90024\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n to licensing should be directed to Andrew Burke, Ph.D., Senior Technology Transfer Manager, NCI, Technology Transfer Center, Email: \n <em><a href=\"mailto:burkear@mail.nih.gov\" class=\"email\">burkear@mail.nih.gov</a></em>\n or Phone: 240-276-5484.\n </p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-5\">SUPPLEMENTARY INFORMATION:</h1>\n <p id=\"p-5\" data-page=\"90024\">Success in immunotherapy is often attributable to the reactivity of patient T-cells to specific mutated peptide(s) found in the patient's tumor known as neoepitopes. In the development of patient-specific immunotherapies, there is no consistent standard for prioritizing such neoepitopes. Current models arrive at a ranked list of potential candidates by removing epitopes based on pre-determined criteria which might lead to the elimination of known reactive neoepitopes. Identification, prioritization and targeting of patient neoepitopes are crucial for developing",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 7,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_26464_4",
+    "text": "based on pre-determined criteria which might lead to the elimination of known reactive neoepitopes. Identification, prioritization and targeting of patient neoepitopes are crucial for developing effective, personalized treatments. Ranking or prioritizing neoepitopes is especially important when trying to construct a cancer vaccine that will elicit a therapeutically beneficial immune response. Accordingly, scientists at the NCI created a novel approach to identify and prioritize patient neoantigens. This model uses a training dataset of known neoantigens from patient screening and determines features of importance to epitope recognition using both reactive and non-reactive epitopes. The machine learning algorithm scores epitopes for their likelihood of reactivity and provides a stable, reproducible method to prioritize epitopes that can be used anywhere.</p>\n <p id=\"p-6\" data-page=\"90024\">This Notice is in accordance with <a href=\"https://www.govinfo.gov/link/uscode/35/209\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">35 U.S.C. 209</a> and <a href=\"https://www.ecfr.gov/current/title-37/part-404\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">37 CFR part 404</a>.</p>\n <p id=\"p-7\" data-page=\"90024\">\n <em>NIH Reference Number:</em>\n E-022-2024-0.\n </p>\n <h2 id=\"h-6\">Potential Commercial Applications</h2>\n \n <ul class=\"bullets\" >\n <li id=\"p-8\" data-page=\"90024\">Oncology.</li>\n <li id=\"p-9\" data-page=\"90024\">Prioritization of neoantigens for the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 7,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_26464_5",
+    "text": "/p>\n <h2 id=\"h-6\">Potential Commercial Applications</h2>\n \n <ul class=\"bullets\" >\n <li id=\"p-8\" data-page=\"90024\">Oncology.</li>\n <li id=\"p-9\" data-page=\"90024\">Prioritization of neoantigens for the development of effective personalized therapies:</li>\n </ul>\n \n <p id=\"p-10\" data-page=\"90024\">&#9675; Cancer vaccines.</p>\n <p id=\"p-11\" data-page=\"90024\">&#9675; TIL and T-cell receptor therapies.</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-12\" data-page=\"90024\">Add-on to current color fundus imaging modalities.</li>\n </ul>\n \n <h2 id=\"h-7\">Competitive Advantages</h2>\n \n <ul class=\"bullets\" >\n <li id=\"p-13\" data-page=\"90024\">Model is trained using a dataset of verified neoantigens from patient tumor data.</li>\n <li id=\"p-14\" data-page=\"90024\">Model is unbiased because it does not use prior assumptions about what features a neoepitope should have.</li>\n <li id=\"p-15\" data-page=\"90024\">Uses two models (MMP and NMER model) as a more reproducible approach than a single model.</li>\n <li id=\"p-16\" data-page=\"90024\">Particularly useful for prioritizing epitopes for patients with large numbers of mutations.</li>\n </ul>\n \n <p id=\"p-17\" data-page=\"90024\">\n <em>Publication:</em>\n A machine learning model for ranking candidate HLA class I neoantigens based on known neoepitopes from multiple human tumor types. (\n <em>PMID: 34927080</em>).\n </p>\n <p id=\"p-18\" data-page=\"90024\">\n <em>Product Type:</em>\n Research Tool.\n </p>\n <p id=\"p-19\" data-page=\"90024\">\n <em>Development Stage:</em>\n Prototype.",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 7,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_26464_6",
+    "text": "mor types. (\n <em>PMID: 34927080</em>).\n </p>\n <p id=\"p-18\" data-page=\"90024\">\n <em>Product Type:</em>\n Research Tool.\n </p>\n <p id=\"p-19\" data-page=\"90024\">\n <em>Development Stage:</em>\n Prototype.\n </p>\n <p id=\"p-20\" data-page=\"90024\">\n <em>Therapeutic Area(s):</em>\n Cancer.\n </p>\n <div class=\"signature\">\n <p class=\"signature-date\">Dated: November 8, 2024.</p>\n <p class=\"signature-name\">Richard U. Rodriguez,</p>\n <p class=\"signature-title\">Associate Director, Technology Transfer Center, National Cancer Institute.</p>\n </div>\n </div>\n \n \n <div class=\"end-matter\">\n<p class=\"frdoc\">[<a href=\"/d/2024-26464\">FR Doc. 2024-26464</a> Filed 11-13-24; 8:45 am]</p>\n<p class=\"billing-code\">BILLING CODE 4140-01-P</p>\n</div>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_26464",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 7,
+    "char_count": 722
+  }
+]

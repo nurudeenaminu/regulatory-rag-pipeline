@@ -1,0 +1,392 @@
+[
+  {
+    "chunk_id": "2024_22054_0",
+    "text": "TITLE: Medicare Program: Mitigating the Impact of Significant, Anomalous, and Highly Suspect Billing Activity on Medicare Shared Savings Program Financial Calculations in Calendar Year 2023\nDOCUMENT NUMBER: 2024-22054\nTYPE: Rule\nAGENCY: Health and Human Services Department, Centers for Medicare & Medicaid Services\nPUBLISHED: 2024-09-27\nEFFECTIVE: 2024-10-15\nCITATION: 89 FR 79152\nACTION: Final rule.\n============================================================\n\nABSTRACT:\nThis final rule addresses policies for assessing performance year (PY) 2023 financial performance of Medicare Shared Savings Program (Shared Savings Program) Accountable Care Organizations (ACOs); establishing benchmarks for ACOs starting agreement periods in 2024, 2025, and 2026; and calculating factors used in the application cycle for ACOs applying to enter a new agreement period beginning on January 1, 2025, and the change request cycle for ACOs continuing their participation in the program for PY 2025, as a result of significant, anomalous, and highly suspect billing activity for selected intermittent urinary catheters on Medicare Durable Medical Equipment, Prosthetics, Orthotics & Supplies (DMEPOS) claims. Under the Shared Savings Program, providers of services and suppliers that participate in ACOs continue to receive traditional Medicare fee-for-service (FFS) payments under Medicare Parts A and B, but the ACO may be eligible to receive a shared savings payment if it meets specified quality and savings",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_1",
+    "text": "to receive traditional Medicare fee-for-service (FFS) payments under Medicare Parts A and B, but the ACO may be eligible to receive a shared savings payment if it meets specified quality and savings requirements. ACOs participating in two-sided models may also share in losses. In this final rule, we respond to public comments we received on the proposal to mitigate the impact of significant, anomalous, and highly suspect billing activity on Medicare Shared Savings Program financial calculations in calendar year (CY) 2023.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 39,
+    "char_count": 1457
+  },
+  {
+    "chunk_id": "2024_22054_2",
+    "text": "eral Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 39,
+    "char_count": 157
+  },
+  {
+    "chunk_id": "2024_22054_3",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Health and Human Services</h6>\n<h6 class=\"sub-agency\">Centers for Medicare &amp; Medicaid Services</h6>\n<ol>\n<li>42 CFR Part 425</li>\n<li>[CMS-1799-F]</li>\n<li>RIN 0938-AV20</li>\n</ol>\n</div>\n</div></div>\n<div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"79152\">Centers for Medicare &amp; Medicaid Services (CMS), Department of Health and Human Services (HHS).</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"79152\">Final rule.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"79152\">\n This final rule addresses policies for assessing performance year (PY) 2023 financial performance of Medicare Shared Savings Program (Shared Savings Program) Accountable Care Organizations (ACOs); establishing \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79153\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79153)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79153\" data-page=\"79153\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n benchmarks for ACOs starting agreement periods in 2024, 2025, and 2026; and calculating factors used in the application cycle for ACOs applying to enter a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 39,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_22054_4",
+    "text": "-icons.svg#doc-generic\"></use></svg></span>\n benchmarks for ACOs starting agreement periods in 2024, 2025, and 2026; and calculating factors used in the application cycle for ACOs applying to enter a new agreement period beginning on January 1, 2025, and the change request cycle for ACOs continuing their participation in the program for PY 2025, as a result of significant, anomalous, and highly suspect billing activity for selected intermittent urinary catheters on Medicare Durable Medical Equipment, Prosthetics, Orthotics &amp; Supplies (DMEPOS) claims. Under the Shared Savings Program, providers of services and suppliers that participate in ACOs continue to receive traditional Medicare fee-for-service (FFS) payments under Medicare Parts A and B, but the ACO may be eligible to receive a shared savings payment if it meets specified quality and savings requirements. ACOs participating in two-sided models may also share in losses. In this final rule, we respond to public comments we received on the proposal to mitigate the impact of significant, anomalous, and highly suspect billing activity on Medicare Shared Savings Program financial calculations in calendar year (CY) 2023.\n </p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"79153\">These regulations are effective on October 15, 2024.</p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-5\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-5\" data-page=\"79153\">\n Richard (Chase) Kendall,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_5",
+    "text": "re effective on October 15, 2024.</p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-5\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-5\" data-page=\"79153\">\n Richard (Chase) Kendall, (410) 786-1000, or \n <em><a href=\"mailto:SharedSavingsProgram@cms.hhs.gov\" class=\"email\">SharedSavingsProgram@cms.hhs.gov</a>.</em></p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-6\">SUPPLEMENTARY INFORMATION:</h1>\n <h2 id=\"h-7\">CPT (Current Procedural Terminology) Copyright Notice</h2>\n <p id=\"p-6\" data-page=\"79153\">Throughout this final rule, we use CPT codes and descriptions to refer to a variety of services. We note that CPT codes and descriptions are copyright 2019 American Medical Association. All Rights Reserved. CPT is a registered trademark of the American Medical Association (AMA). Applicable Federal Acquisition Regulations (FAR) and Defense Federal Acquisition Regulations (DFAR) apply.</p>\n <h2 id=\"h-8\">I. Background</h2>\n <h3 id=\"h-9\">A. Statutory Background on Shared Savings Program Financial Calculations</h3>\n <p id=\"p-7\" data-page=\"79153\">Section 1899 of the Social Security Act (the Act) (<a href=\"https://www.govinfo.gov/link/uscode/42/1395jjj\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">42 U.S.C. 1395jjj</a>), as added by section 3022 of the Patient Protection and Affordable Care Act (<a href=\"https://www.govinfo.gov/link/plaw/111/public/148\" class=\"publ external\" target=\"_blank\" rel=\"noopener noreferrer\">Pub. L. 111-148</a>,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 39,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_22054_6",
+    "text": "of the Patient Protection and Affordable Care Act (<a href=\"https://www.govinfo.gov/link/plaw/111/public/148\" class=\"publ external\" target=\"_blank\" rel=\"noopener noreferrer\">Pub. L. 111-148</a>, enacted March 23, 2010), establishes the general requirements for payments to participating Accountable Care Organizations (ACOs) in the Shared Savings Program. Specifically, section 1899(d)(1)(A) of the Act provides that providers of services and suppliers participating in an ACO will continue to receive payment under the original Medicare fee-for-service program under Parts A and B in the same manner as they would otherwise be made. However, section 1899(d)(1)(A) of the Act also provides for an ACO to receive payment for shared savings provided that the ACO meets both the quality performance standards established by the Secretary and demonstrates that it has achieved savings against a benchmark of expected average per capita Medicare FFS expenditures. Additionally, section 1899(i) of the Act authorizes the Secretary to use other payment models in place of the one-sided model described in section 1899(d) of the Act. This provision authorizes the Secretary to select a partial capitation model or any other payment model that the Secretary determines will improve the quality and efficiency of items and services furnished to Medicare beneficiaries without additional program expenditures. We have used our authority under section 1899(i)(3) of the Act to establish the Shared Savings",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 39,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_22054_7",
+    "text": "of items and services furnished to Medicare beneficiaries without additional program expenditures. We have used our authority under section 1899(i)(3) of the Act to establish the Shared Savings Program's two-sided payment models (see for example, <a href=\"/citation/80-FR-32771\" class=\"fr-reference\" data-reference=\"80 FR 32771\">80 FR 32771</a> and <a href=\"/citation/80-FR-32772\" class=\"fr-reference\" data-reference=\"80 FR 32772\">32772</a>, and <a href=\"/citation/83-FR-67834\" class=\"fr-reference\" data-reference=\"83 FR 67834\">83 FR 67834</a> through <a href=\"/citation/83-FR-67841\" class=\"fr-reference\" data-reference=\"83 FR 67841\">67841</a>) and to mitigate shared losses owed by ACOs affected by extreme and uncontrollable circumstances during performance year (PY) 2017 and subsequent performance years (<a href=\"/citation/82-FR-60916\" class=\"fr-reference\" data-reference=\"82 FR 60916\">82 FR 60916</a> and <a href=\"/citation/82-FR-60917\" class=\"fr-reference\" data-reference=\"82 FR 60917\">60917</a>, <a href=\"/citation/83-FR-59974\" class=\"fr-reference\" data-reference=\"83 FR 59974\">83 FR 59974</a> through <a href=\"/citation/83-FR-59977\" class=\"fr-reference\" data-reference=\"83 FR 59977\">59977</a>), among other uses of this authority described elsewhere in this final rule.</p>\n <p id=\"p-8\" data-page=\"79153\">Section 1899(d)(1)(B)(i) of the Act specifies that, in each year of the agreement period, an ACO is eligible to receive payment for shared savings only if the estimated average per",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 39,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_22054_8",
+    "text": "-page=\"79153\">Section 1899(d)(1)(B)(i) of the Act specifies that, in each year of the agreement period, an ACO is eligible to receive payment for shared savings only if the estimated average per capita Medicare expenditures under the ACO for Medicare FFS beneficiaries for Parts A and B services, adjusted for beneficiary characteristics, is at least the percent specified by the Secretary below the applicable benchmark under section 1899(d)(1)(B)(ii) of the Act. Section 1899(d)(1)(B)(ii) of the Act addresses how ACO benchmarks are to be established and updated under the Shared Savings Program. This provision specifies that the Secretary shall estimate a benchmark for each agreement period for each ACO using the most recent available 3 years of per beneficiary expenditures for Parts A and B services for Medicare FFS beneficiaries assigned to the ACO. This benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for Parts A and B services under the original Medicare FFS program, as estimated by the Secretary.</p>\n <p id=\"p-9\" data-page=\"79153\">\n In past rulemaking, we have used our authority under sections 1899(d)(1)(B)(ii) and 1899(i)(3) of the Act to establish adjustments to the benchmark and program expenditure calculations, respectively, to exclude certain Medicare Parts A and B payments. In the November 2011 final rule",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_9",
+    "text": "899(i)(3) of the Act to establish adjustments to the benchmark and program expenditure calculations, respectively, to exclude certain Medicare Parts A and B payments. In the November 2011 final rule (<a href=\"/citation/76-FR-67920\" class=\"fr-reference\" data-reference=\"76 FR 67920\">76 FR 67920</a> through <a href=\"/citation/76-FR-67922\" class=\"fr-reference\" data-reference=\"76 FR 67922\">67922</a>), we adopted an alternate payment methodology that excluded Indirect Medical Education (IME) and Disproportionate Share Hospital (DSH) payments from ACO benchmark and performance year expenditures due to concerns that the inclusion of these amounts would incentivize ACOs to avoid referring patients to the types of providers that receive these payments. In the Calendar Year (CY) 2023 Physician Fee Schedule final rule (<a href=\"/citation/87-FR-69954\" class=\"fr-reference\" data-reference=\"87 FR 69954\">87 FR 69954</a> through <a href=\"/citation/87-FR-69956\" class=\"fr-reference\" data-reference=\"87 FR 69956\">69956</a>), we excluded new supplemental payments to Indian Health Service/Tribal hospitals and hospitals located in Puerto Rico consistent with our longstanding policy to exclude IME, DSH and uncompensated care payments from ACOs' assigned and assignable beneficiary expenditure calculations. In the interim final rule with comment period entitled &ldquo;Medicare and Medicaid Programs; Basic Health Program, and Exchanges; Additional Policy and Regulatory Revisions in Response to the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 9,
+    "total_chunks": 39,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_22054_10",
+    "text": "In the interim final rule with comment period entitled &ldquo;Medicare and Medicaid Programs; Basic Health Program, and Exchanges; Additional Policy and Regulatory Revisions in Response to the COVID-19 Public Health Emergency and Delay of Certain Reporting Requirements for the Skilled Nursing Facility Quality Reporting Program&rdquo; which was effective on May 8, 2020, and appeared in the May 8, 2020 \n <strong>Federal Register</strong>\n (<a href=\"/citation/85-FR-27550\" class=\"fr-reference\" data-reference=\"85 FR 27550\">85 FR 27550</a>) (hereinafter referred to as the &ldquo;May 8, 2020 COVID-19 IFC&rdquo;), we established a methodology to adjust Shared Savings Program financial calculations to account for the COVID-19 Public Health Emergency (<a href=\"/citation/85-FR-27577\" class=\"fr-reference\" data-reference=\"85 FR 27577\">85 FR 27577</a> through <a href=\"/citation/85-FR-27582\" class=\"fr-reference\" data-reference=\"85 FR 27582\">27582</a>). Specifically, we established a methodology that would exclude all Medicare Parts A and B FFS payment amounts for a beneficiary's episode of care for treatment of COVID-19 to prevent distortion to, among other calculations, an ACO's benchmark and program expenditure calculations.\n </p>\n <p id=\"p-10\" data-page=\"79153\">\n We published a proposed rule entitled &ldquo;Significant, Anomalous, and Highly Suspect Billing Activity on Medicare Shared Savings Program Financial Calculations in Calendar Year 2023, which appeared in the July 3, 2024",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 10,
+    "total_chunks": 39,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_22054_11",
+    "text": "e entitled &ldquo;Significant, Anomalous, and Highly Suspect Billing Activity on Medicare Shared Savings Program Financial Calculations in Calendar Year 2023, which appeared in the July 3, 2024 \n <strong>Federal Register</strong>\n (<a href=\"/citation/89-FR-55168\" class=\"fr-reference\" data-reference=\"89 FR 55168\">89 FR 55168</a>) (hereinafter referred to as the &ldquo;SAHS \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79154\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79154)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79154\" data-page=\"79154\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n billing activity proposed rule&rdquo;). In the SAHS billing activity proposed rule, we proposed to use our authority under sections 1899(d)(1)(B)(ii) and 1899(i)(3) of the Act to make adjustments to the Shared Savings Program's benchmark and program expenditure calculations, among other calculations, to remove payment amounts for codes displaying significant, anomalous, and highly suspect (SAHS) billing activity in CY 2023. We proposed this rule to mitigate the impact of SAHS billing activity for selected intermittent urinary catheter supplies on Shared Savings Program calculations.\n </p>\n <h3 id=\"h-10\">B. Background on Significant, Anomalous, and Highly Suspect Billing",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 11,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_12",
+    "text": "billing activity for selected intermittent urinary catheter supplies on Shared Savings Program calculations.\n </p>\n <h3 id=\"h-10\">B. Background on Significant, Anomalous, and Highly Suspect Billing Activity in Calendar Year 2023</h3>\n <p id=\"p-11\" data-page=\"79154\">In the SAHS billing activity proposed rule (<a href=\"/citation/89-FR-55169\" class=\"fr-reference\" data-reference=\"89 FR 55169\">89 FR 55169</a>), we explained that recently, ACOs and other interested parties have raised concerns about an increase in billing to Medicare for selected intermittent urinary catheter supplies on Durable Medical Equipment, Prosthetics, Orthotics &amp; Supplies (DMEPOS) claims in CY 2023, alleging that the increase in payments represents fraudulent activity (the &ldquo;alleged conduct&rdquo;). Numerous ACOs have alerted the Centers for Medicare &amp; Medicaid Services (CMS) to potential impacts on their PY 2023 expenditures because of the increased catheter billings.</p>\n <p id=\"p-12\" data-page=\"79154\">\n In early 2023, CMS detected a suspicious increase in billing for urinary catheters. Using our authority to suspend payments, CMS quickly stopped payment on almost all of these claims and began investigating the suppliers who were billing.<sup>[<a class=\"footnote-reference\" href=\"#footnote-1%E2%80%892-p79154\" id=\"citation-1&thinsp;2-p79154\">1&thinsp;2</a>] </sup>\n Since then, the top 15 billers of suspicious catheter claims have had their Medicare enrollment revoked.\n </p>\n \n <p id=\"p-15\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 12,
+    "total_chunks": 39,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_22054_13",
+    "text": "80%892-p79154\" id=\"citation-1&thinsp;2-p79154\">1&thinsp;2</a>] </sup>\n Since then, the top 15 billers of suspicious catheter claims have had their Medicare enrollment revoked.\n </p>\n \n <p id=\"p-15\" data-page=\"79154\">As explained in the proposed rule, CMS continues to adapt its monitoring, investigative targeting, and data analytics programs to prevent future fraud, waste, and abuse. CMS also continues to work closely with the Department of Health and Human Services Office of Inspector General and Department of Justice, as well as our Unified Program Integrity Contractors, to investigate health care fraud activities, such as those involving urinary catheter supplies, that exploit the Medicare program.</p>\n <p id=\"p-16\" data-page=\"79154\">The observed DMEPOS billing volume for intermittent urinary catheters in CY 2023 represents SAHS billing activity. Generally, this means that a given HCPCS or CPT code exhibits a level of billing that represents a significant claims increase either in volume or dollars (for example, dollar volume significantly above prior year, or claims volume beyond expectations) with national or regional impact (for example, not only impacting one or few ACOs) and represents a deviation from historical utilization trends that is unexpected and is not clearly attributable to reasonably explained changes in policy or the supply or demand for covered items or services. The billing level is significant and represents billing activity that would cause",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 13,
+    "total_chunks": 39,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2024_22054_14",
+    "text": "ributable to reasonably explained changes in policy or the supply or demand for covered items or services. The billing level is significant and represents billing activity that would cause significantly inaccurate and inequitable payments and repayment obligations in the Shared Savings Program if not addressed.</p>\n <p id=\"p-17\" data-page=\"79154\">We explained that current Shared Savings Program regulations, codified at <a href=\"https://www.ecfr.gov/current/title-42/part-425\" class=\"cfr external\" target=\"_blank\" rel=\"noopener noreferrer\">42 CFR part 425</a>, do not provide a basis for CMS to adjust program expenditure or revenue calculations to remove the impact of SAHS billing activity such as that arising from the alleged conduct in advance of issuing an initial determination. CMS may reopen an initial determination or a final agency determination and issue a revised initial determination at any time in the case of fraud or similar fault, and not later than 4 years after the date of the notification to the ACO of the initial determination of savings or losses for the relevant performance year for good cause (&sect;&thinsp;425.315). This does not allow for CMS to address SAHS billing activity, which must be addressed prior to conducting financial reconciliation, which is an initial determination, to prevent significant inequity and inaccurate payment determinations.</p>\n <p id=\"p-18\" data-page=\"79154\">We explained that we shared (and continue to share) the concerns recently",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 14,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_15",
+    "text": "al determination, to prevent significant inequity and inaccurate payment determinations.</p>\n <p id=\"p-18\" data-page=\"79154\">We explained that we shared (and continue to share) the concerns recently raised by some ACOs and other interested parties that SAHS billing activity for the selected codes for intermittent urinary catheters would impact Shared Savings Program calculations for PY 2023 and we are also concerned about the impact on other program calculations based on CY 2023 data. Specifically, we are concerned that absent mitigation measures, this SAHS billing activity would inflate Medicare Parts A and B payment amounts, including:</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-19\" data-page=\"79154\">PY 2023 reconciliation calculations, including expenditures for each ACO's assigned beneficiaries for PY 2023, the national-regional blended update factor used to update the benchmark for all ACOs (refer to &sect;&thinsp;425.601(b)), and factors based on ACO participant revenue to determine the loss recoupment limits for ACOs participating under two-sided models of the BASIC track (Levels C, D, E) (refer to &sect;&thinsp;425.605(d)).</li>\n <li id=\"p-20\" data-page=\"79154\">Historical benchmark calculations for establishing the benchmark for ACOs beginning new agreement periods on January 1, 2024, January 1, 2025, or January 1, 2026, for which CY 2023 serves as benchmark year (BY) 3, BY2 and BY1, respectively (refer to &sect;&thinsp;425.652(a)).</li>\n <li id=\"p-21\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 15,
+    "total_chunks": 39,
+    "char_count": 1480
+  },
+  {
+    "chunk_id": "2024_22054_16",
+    "text": "1, 2024, January 1, 2025, or January 1, 2026, for which CY 2023 serves as benchmark year (BY) 3, BY2 and BY1, respectively (refer to &sect;&thinsp;425.652(a)).</li>\n <li id=\"p-21\" data-page=\"79154\">Factors used in the application cycle for ACOs applying to enter a new agreement period beginning on January 1, 2025, and the change request cycle for ACOs continuing their participation in the program for PY 2025, including data used to determine an ACO's eligibility for Advance Investment Payments under &sect;&thinsp;425.630(b), or for the CMS Innovation Center's new ACO Primary Care Flex Model (ACO PC Flex Model) for the January 1, 2025, start date based on ACO revenue status (high revenue or low revenue), and to determine repayment mechanism amounts for ACOs entering, or continuing in, two-sided models for PY 2025 (refer to &sect;&thinsp;425.204(f)).</li>\n </ul>\n \n <p id=\"p-22\" data-page=\"79154\">The accuracy of the Shared Savings Program's determination of an ACO's financial performance (through a process referred to as financial reconciliation) in terms of the ACO's eligibility for and amount of a shared savings payment or liability for shared losses, depends on the accuracy of claims data. Absent CMS action, the SAHS billing activity would affect PY 2023 financial reconciliation program-wide rather than being limited to ACOs that have assigned beneficiaries directly impacted by the issue. For instance:</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-23\" data-page=\"79154\">An ACO",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 16,
+    "total_chunks": 39,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_22054_17",
+    "text": "program-wide rather than being limited to ACOs that have assigned beneficiaries directly impacted by the issue. For instance:</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-23\" data-page=\"79154\">An ACO with assigned beneficiaries impacted by the SAHS billing activity for intermittent urinary catheters would see an increase in performance year expenditures, reducing the ACO's shared savings or increasing the amount of shared losses owed by the ACO. The impact on the ACO's performance may be partially mitigated if the SAHS billing activity also increases the ACO's regional service area expenditures and the national expenditures used to calculate the two-way national-regional blended benchmark update factor.</li>\n <li id=\"p-24\" data-page=\"79154\">An ACO with assigned beneficiary expenditures and regional service area expenditures with little or no impact from the SAHS billing activity would<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79155\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79155)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79155\" data-page=\"79155\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n receive a relatively higher benchmark update under the national-regional blended update factors used in PY 2023 reconciliation, and therefore, may appear to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 17,
+    "total_chunks": 39,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2024_22054_18",
+    "text": "g#doc-generic\"></use></svg></span>\n receive a relatively higher benchmark update under the national-regional blended update factors used in PY 2023 reconciliation, and therefore, may appear to perform better as a result of the national impact of the intermittent urinary catheters billing increase, resulting in higher earned performance payments or lower or no losses for the ACO.\n </li>\n </ul>\n \n <p id=\"p-25\" data-page=\"79155\">Unaddressed, the SAHS billing activity would distort the historical benchmarks for an ACO that entered an agreement period beginning on January 1, 2024, or will enter an agreement period beginning on January 1, 2025, or January 1, 2026 (for which CY 2023 will continue to be a benchmark year) and the accuracy of any future financial reconciliation performed against those benchmarks. Similarly, inaccurate revenue and expenditure calculations based on CY 2023 data may affect an ACO's revenue status and the amount of funds an ACO in a two-sided model must secure as a repayment mechanism, one of the program's important safeguards for protecting the Medicare Trust Funds. Given the scope of the SAHS billing activity, there is a high likelihood that, absent CMS action, shared savings and losses calculations for PY 2023, and for future performance years where CY 2023 is a benchmark year, would be significantly impacted for ACOs. Under these circumstances, some ACOs are likely to experience adverse impacts (for example, lower or no shared savings or higher shared",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 18,
+    "total_chunks": 39,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_22054_19",
+    "text": "is a benchmark year, would be significantly impacted for ACOs. Under these circumstances, some ACOs are likely to experience adverse impacts (for example, lower or no shared savings or higher shared losses) while other ACOs would experience windfall gains (for example, higher shared savings or lower or no shared losses).</p>\n <p id=\"p-26\" data-page=\"79155\">\n In the SAHS billing activity proposed rule (<a href=\"/citation/89-FR-55170\" class=\"fr-reference\" data-reference=\"89 FR 55170\">89 FR 55170</a>), we explained that failing to address SAHS billing activity that occurred in CY 2023 would jeopardize the integrity of the Shared Savings Program. There are 480 ACOs in the Shared Savings Program with over 608,000 health care providers who care for 10.8 million assigned FFS beneficiaries.<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p79155\" id=\"citation-3-p79155\">3</a>] </sup>\n \n In PY 2022, the most recent year for which data is available, savings achieved by ACOs relative to benchmarks amounted to $4.3 billion, of which ACOs received shared savings payments totaling $2.5 billion, and Medicare retained $1.8 billion in savings.<sup>[<a class=\"footnote-reference\" href=\"#footnote-4-p79155\" id=\"citation-4-p79155\">4</a>] </sup>\n \n ACOs are held accountable for 100 percent of total Medicare Parts A and B expenditures for their assigned beneficiary populations (with limited exceptions). This incentivizes ACOs to generate savings for the Medicare program as they have the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 19,
+    "total_chunks": 39,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2024_22054_20",
+    "text": "Medicare Parts A and B expenditures for their assigned beneficiary populations (with limited exceptions). This incentivizes ACOs to generate savings for the Medicare program as they have the opportunity to share in those savings if certain requirements are met. It also discourages the ACO from generating unnecessary expenditures for Medicare as they may be required to repay those amounts to CMS. Accountable care arrangements such as this cannot function if the ACO may be held responsible for all SAHS billing activity that is outside of their control. Holding an ACO accountable for substantial losses due to SAHS billing activity, such as that observed in connection with the increase in billing for intermittent urinary catheters, is not only inequitable but would dramatically increase the level of risk associated with participation, making the Shared Savings Program unattractive.\n </p>\n \n \n <p id=\"p-29\" data-page=\"79155\">For these reasons, we determined it was timely and appropriate to undertake notice and comment rulemaking to propose an approach for mitigating the impact of SAHS billing activity in CY 2023 on Shared Savings Program financial calculations. In this Background section of the final rule, we summarize and respond to general comments we received related to CMS undertaking notice and comment rulemaking on this topic. In the following sections of this final rule, we summarize and respond to public comments we received on the specific proposals outlined in the SAHS",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 20,
+    "total_chunks": 39,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_22054_21",
+    "text": "king notice and comment rulemaking on this topic. In the following sections of this final rule, we summarize and respond to public comments we received on the specific proposals outlined in the SAHS billing activity proposed rule and discuss our final policies after taking into consideration the public comments.</p>\n <p id=\"p-30\" data-page=\"79155\">\n <em>Comment:</em>\n Most commenters expressed broad support for the proposed rule or general support for the proposed rule with additional recommendations. Many commenters stated their &ldquo;strong,&rdquo; &ldquo;full,&rdquo; or &ldquo;general&rdquo; support for the proposed rule and urged CMS to finalize the proposals. Many commenters also commended CMS for taking action to address concerns raised by ACOs and other interested parties about the impact of SAHS billing activity for the catheter codes, and many also characterized CMS's attention to the matter as &ldquo;prompt,&rdquo; &ldquo;swift,&rdquo; &ldquo;timely,&rdquo; or &ldquo;responsive to stakeholder input.&rdquo; No commenters expressed general opposition to the proposed rule.\n </p>\n <p id=\"p-31\" data-page=\"79155\">Supportive commenters offered a variety of reasons why they believed undertaking rulemaking was appropriate to mitigate SAHS billing activity for selected catheter codes. Many commenters agreed that the proposals would ensure the accuracy, fairness, or integrity of Shared Savings Program financial calculations. One commenter described the proposal as a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 21,
+    "total_chunks": 39,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2024_22054_22",
+    "text": "codes. Many commenters agreed that the proposals would ensure the accuracy, fairness, or integrity of Shared Savings Program financial calculations. One commenter described the proposal as a &ldquo;crucial step&rdquo; and a &ldquo;necessary and well-supported measure&rdquo; to ensure or enhance the accuracy, fairness, and integrity of financial calculations in the Shared Savings Program. A couple of commenters agreed with CMS that addressing the SAHS billing activity promptly is essential to preventing inaccurate and inequitable payment and repayment obligations for ACOs, with one also stating that the proposals will help &ldquo;rectify the financial distortions&rdquo; caused by the SAHS billing activity for the catheter codes. One commenter stated that the proposed rule highlights CMS's dedication to addressing fraud as well as ensuring that the Shared Savings Program operates effectively while fostering a more transparent and equitable system. Other commenters stated that the proposals would improve sustainability of the Shared Savings Program. For instance, one commenter claimed that an &ldquo;accurate and fair reconciliation process will ensure that health systems, ACOs and providers continue to participate in value-based care models with CMS in the future,&rdquo; and a couple of other commenters asserted that the proposals will help keep ACOs in the program. Another commenter said that the proposals are important to &ldquo;maintain a strong, predictable ACO",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 22,
+    "total_chunks": 39,
+    "char_count": 1486
+  },
+  {
+    "chunk_id": "2024_22054_23",
+    "text": "e of other commenters asserted that the proposals will help keep ACOs in the program. Another commenter said that the proposals are important to &ldquo;maintain a strong, predictable ACO program,&rdquo; and another mentioned that not addressing the SAHS billing activity could lead to ACOs leaving the program.</p>\n <p id=\"p-32\" data-page=\"79155\">\n <em>Response:</em>\n We thank commenters for their support for CMS's actions to undertake notice and comment rulemaking to mitigate the impact of SAHS billing activity on Medicare Shared Savings Program financial calculations in CY 2023. We agree with the commenters who stated that mitigating the impact of SAHS billing activity in CY 2023 is important for promoting continued integrity and fairness and improving the accuracy of Shared Savings Program financial calculations. Additionally, addressing the SAHS billing activity promptly is essential to preventing inaccurate and inequitable payment and repayment obligations for ACOs. We agree with the commenters that this course of action will in turn support the sustainability of the Shared Savings Program.\n </p>\n <p id=\"p-33\" data-page=\"79155\">\n <em>Comment:</em>\n Commenters addressed the role that ACOs play in the identification of SAHS billing activity or fraud, waste, and abuse in Medicare. Many commenters representing ACOs stated that their ACO reported SAHS billing activity for catheter codes to regulatory \n <span class=\"printed-page-inline unprinted-element document-markup\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 23,
+    "total_chunks": 39,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2024_22054_24",
+    "text": ". Many commenters representing ACOs stated that their ACO reported SAHS billing activity for catheter codes to regulatory \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79156\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79156)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79156\" data-page=\"79156\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n or law enforcement agencies, with one adding that &ldquo;as an ACO, it is our responsibility to report suspect fraud to authorities,&rdquo; and another stating that they will be submitting documentation about suspect claims for their ACO beneficiaries to the HHS Office of Inspector General (HHS-OIG). Other commenters credited ACOs for playing a role in identifying the SAHS billing activity for catheter codes in CY 2023. One commenter stated their belief that ACOs are &ldquo;well positioned to detect anomalous billing&rdquo; given their ongoing and in-depth analysis of claims and utilization data, and others noted that the HHS-OIG identified ACOs as sources to uncover potential fraud, waste, and abuse by identifying patterns of unusual billing. One commenter stated they will continue to monitor for SAHS billing activity. Some commenters stated there are opportunities to improve how ACOs report fraud or better educate",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 24,
+    "total_chunks": 39,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_22054_25",
+    "text": "of unusual billing. One commenter stated they will continue to monitor for SAHS billing activity. Some commenters stated there are opportunities to improve how ACOs report fraud or better educate ACOs on the processes CMS and HHS-OIG undertake to investigate fraud.\n </p>\n <p id=\"p-34\" data-page=\"79156\">\n <em>Response:</em>\n We agree that ACOs are well positioned to support monitoring efforts that will improve the integrity of the Medicare program. ACOs have tools to detect unusual or suspect billing among their assigned beneficiary population through data reports provided by CMS and through their own data systems. We appreciate ACOs' efforts to alert CMS to potential impacts on their PY 2023 expenditures because of the increased catheter billings. ACOs are encouraged to report potential fraud or abuse by submitting a complaint to the CMS Center for Program Integrity (CPI), Fraud Investigations Group (FIG), Division of Provider Investigations (DPI) at \n <em><a href=\"https://dpi.intake@cms.hhs.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://dpi.intake@cms.hhs.gov</a>.</em>\n ACOs can also report potential fraud or abuse by submitting a complaint to the OIG website,<sup>[<a class=\"footnote-reference\" href=\"#footnote-5-p79156\" id=\"citation-5-p79156\">5</a>] </sup>\n \n OIG hotline at 1-800-HHS-TIPS (1-800-447-8477), TTY at 1-800-377-4950, by fax at 1-800-223-8164, or by mailing to: Office of Inspector General ATTN: OIG HOTLINE OPERATIONS P.O. Box 23489",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 25,
+    "total_chunks": 39,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_22054_26",
+    "text": "up>\n \n OIG hotline at 1-800-HHS-TIPS (1-800-447-8477), TTY at 1-800-377-4950, by fax at 1-800-223-8164, or by mailing to: Office of Inspector General ATTN: OIG HOTLINE OPERATIONS P.O. Box 23489 Washington, DC 20026. ACOs suspecting healthcare fraud, waste, or abuse are encouraged to visit the CMS CPI website&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-6-p79156\" id=\"citation-6-p79156\">6</a>] </sup>\n \n at \n <em><a href=\"https://www.cms.gov/medicare/medicaid-coordination/center-program-integrity\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.cms.gov/&#8203;medicare/&#8203;medicaid-coordination/&#8203;center-program-integrity</a>,</em>\n for more information.\n </p>\n \n \n <p id=\"p-37\" data-page=\"79156\">As described above, CMS continues to investigate the matter and we have taken initial actions in response. We have made referrals to law enforcement and terminated certain suppliers from the Medicare program. CMS also continues to work closely with the HHS-OIG and Department of Justice, as well as our Unified Program Integrity Contractors, to investigate health care fraud activities, such as those involving urinary catheters, that exploit the Medicare program. We also undertook this notice and comment rulemaking to propose an approach for mitigating the impact of SAHS billing activity in CY 2023 on Shared Savings Program financial calculations.</p>\n <p id=\"p-38\" data-page=\"79156\">\n <em>Comment:</em>\n A couple of commenters appeared to interpret",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 26,
+    "total_chunks": 39,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_22054_27",
+    "text": "the impact of SAHS billing activity in CY 2023 on Shared Savings Program financial calculations.</p>\n <p id=\"p-38\" data-page=\"79156\">\n <em>Comment:</em>\n A couple of commenters appeared to interpret the proposals as new rules for providers to follow in their billing practices. One commenter, while stating their support for preventing &ldquo;fraudulent practices that jeopardize the program's sustainability and unfairly impact the financial calculations for participating providers,&rdquo; cautioned that CMS should not put in place &ldquo;compliance requirements that overly burden honest providers&rdquo; and recommended that CMS provide additional support and resources to help providers understand and comply with the new requirements. The other commenter, while characterizing the proposed rule as ensuring fairness, accuracy in financial calculations, fraud prevention, and cost control, also stated that one potential drawback was that &ldquo;some providers might feel unfairly targeted or burdened by additional scrutiny and adjustments.&rdquo;\n </p>\n <p id=\"p-39\" data-page=\"79156\">\n <em>Response:</em>\n We clarify that rules or requirements for providers in how they bill or are paid by Medicare are beyond the scope of this proposed rule. The proposed changes do not impose new rules or requirements related to provider billing and payment. The proposed changes are specific to ACOs and Shared Savings Program calculations to mitigate the impact of SAHS billing activity in CY 2023",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 27,
+    "total_chunks": 39,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_22054_28",
+    "text": "requirements related to provider billing and payment. The proposed changes are specific to ACOs and Shared Savings Program calculations to mitigate the impact of SAHS billing activity in CY 2023 that would otherwise be included in Shared Savings Program expenditure and revenue calculations under the current regulations governing the Shared Savings Program.\n </p>\n <h2 id=\"h-11\">II. Provisions of the Regulations</h2>\n <h3 id=\"h-12\">A. Identifying Codes Displaying Significant, Anomalous, and Highly Suspect Billing Activity in CY 2023</h3>\n <p id=\"p-40\" data-page=\"79156\">\n As we explained in the SAHS billing activity proposed rule (<a href=\"/citation/89-FR-55170\" class=\"fr-reference\" data-reference=\"89 FR 55170\">89 FR 55170</a>), DMEPOS billing to Medicare for selected intermittent urinary catheter supplies has increased significantly since the first quarter of CY 2023, with a relatively small number of suppliers submitting a large majority of all claims for these devices. At a program level, spending in these codes remained less than 0.1 percent of total FFS spending in every year from CY 2016 to CY 2022 before increasing to nearly 1 percent in CY 2023. The SAHS billing activity has had a national impact, as evidenced by discussion of the issue in the 2024 Medicare Trustees Report, which noted a significant increase in suspected fraudulent spending on certain intermittent catheters in 2023. The DME projections in the report include the assumption that this suspected fraud",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 28,
+    "total_chunks": 39,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_22054_29",
+    "text": "which noted a significant increase in suspected fraudulent spending on certain intermittent catheters in 2023. The DME projections in the report include the assumption that this suspected fraud would be addressed during 2024.<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p79156\" id=\"citation-7-p79156\">7</a>] </sup>\n \n </p>\n \n <p id=\"p-42\" data-page=\"79156\">\n We explained that based on our evaluation of billing trends for individual catheter codes across CY 2023 and in consultation with the CMS Center for Program Integrity (CPI) and the CMS Office of the Actuary (OACT), we have determined that two specific HCPCS codes displayed SAHS billing activity in CY 2023: A4352 (\n <em>Intermittent urinary catheter; Coude (curved) tip, with or without coating (Teflon, silicone, silicone elastomeric, or hydrophilic, etc.), each</em>) and A4353 (\n <em>Intermittent urinary catheter, with insertion supplies</em>). Both HCPCS codes were billed at significantly higher rates in CY 2023 compared to CY 2022 (claims increasing by 163 percent for A4352 and by over 5,000 percent for A4353), for which CMS was unable to identify a clear justification for the increases (for example, neither represent a newly adopted code for which a natural increase in billing might be expected). The change in claim volume is significant and unexplained, and if not addressed, would cause inaccurate and inequitable payments and repayment obligations in the Shared Savings Program. Furthermore, the growth in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 29,
+    "total_chunks": 39,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_22054_30",
+    "text": "volume is significant and unexplained, and if not addressed, would cause inaccurate and inequitable payments and repayment obligations in the Shared Savings Program. Furthermore, the growth in claims is not attributable to Medicare providers or suppliers participating in Shared Savings Program ACOs and thus outside of the ACOs' ability to reasonably control.\n </p>\n <p id=\"p-43\" data-page=\"79156\">\n <em>Comment:</em>\n Many commenters agreed with CMS' determination that HCPCS codes A4352 and A4353 displayed SAHS billing activity in CY 2023. Multiple commenters specifically referred to HCPCS codes A4352 and A4353 when expressing their support for CMS' proposals, with many others stating their support with less specificity&mdash;for instance stating their support for CMS to address billing activity associated with &ldquo;catheters,&rdquo; \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79157\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79157)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79157\" data-page=\"79157\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n &ldquo;the HCPCS codes,&rdquo; or &ldquo;the catheter codes.&rdquo;\n </p>\n <p id=\"p-44\" data-page=\"79157\">Some commenters supported their agreement that the two catheter codes displayed SAHS billing activity",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 30,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_31",
+    "text": "he HCPCS codes,&rdquo; or &ldquo;the catheter codes.&rdquo;\n </p>\n <p id=\"p-44\" data-page=\"79157\">Some commenters supported their agreement that the two catheter codes displayed SAHS billing activity by including data to highlight how billing activity for the selected catheter codes impacted their ACO expenditures, and other commenters offered data on the impact on national assignable FFS expenditures.</p>\n <p id=\"p-45\" data-page=\"79157\">\n <em>Response:</em>\n We appreciate the specific feedback from commenters and agree that the observed DMEPOS billing volume for A4352 (\n <em>Intermittent urinary catheter; Coude (curved) tip, with or without coating (Teflon, silicone, silicone elastomeric, or hydrophilic, etc.), each</em>) and A4353 (\n <em>Intermittent urinary catheter, with insertion supplies</em>) in CY 2023 represents SAHS billing activity.\n </p>\n <p id=\"p-46\" data-page=\"79157\">\n <em>Comment:</em>\n One commenter stated they identified and reported &ldquo;anomalous billing activity&rdquo; for an additional catheter billing procedure code (HCPCS code A4351) and that the proposal to identify HCPCS codes A4352 and A4353 as SAHS billing activity in CY 2023 does not fully address the potential &ldquo;bias&rdquo; in financial calculations for their ACO of SAHS billing activity for catheter services.\n </p>\n <p id=\"p-47\" data-page=\"79157\">\n <em>Response:</em>\n We defined SAHS billing activity in the proposed rule (<a href=\"/citation/89-FR-55169\" class=\"fr-reference\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 31,
+    "total_chunks": 39,
+    "char_count": 1484
+  },
+  {
+    "chunk_id": "2024_22054_32",
+    "text": "theter services.\n </p>\n <p id=\"p-47\" data-page=\"79157\">\n <em>Response:</em>\n We defined SAHS billing activity in the proposed rule (<a href=\"/citation/89-FR-55169\" class=\"fr-reference\" data-reference=\"89 FR 55169\">89 FR 55169</a>) to mean that a given HCPCS or CPT code exhibits a level of billing that represents a significant claims increase either in volume or dollars (for example, dollar volume significantly above prior year, or claims volume beyond expectations) with national or regional impact (for example, not only impacting one or few ACOs) and represents a deviation from historical utilization trends that is unexpected and is not clearly attributable to reasonably explained changes in policy or the supply or demand for covered items or services. The billing level is significant and represents billing activity that would cause significantly inaccurate and inequitable payments and repayment obligations in the Shared Savings Program if not addressed.\n </p>\n <p id=\"p-48\" data-page=\"79157\">In developing the proposed rule, we assessed the impact of an increase in billing to Medicare for intermittent urinary catheter services on DMEPOS claims in CY 2023. We determined that billing activity for HCPCS codes A4352 and A4353 was SAHS billing activity while A4351 was not. HCPCS codes A4352 and A4353 were billed at significantly higher rates in CY 2023 compared to CY 2022 (claims increasing by 163 percent for A4352 and by over 5,000 percent for A4353), for which CMS was unable to",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 32,
+    "total_chunks": 39,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_22054_33",
+    "text": "A4352 and A4353 were billed at significantly higher rates in CY 2023 compared to CY 2022 (claims increasing by 163 percent for A4352 and by over 5,000 percent for A4353), for which CMS was unable to identify a clear justification for the increases (for example, neither represent a newly adopted code for which a natural increase in billing might be expected). We also determined that the change in claim volume was significant and unexplained, and if not addressed, would cause inaccurate and inequitable payments and repayment obligations in the Shared Savings Program.</p>\n <p id=\"p-49\" data-page=\"79157\">Our assessment found that billing activity for HCPCS code A4351, however, was not SAHS billing activity. Compared to catheter codes A4352 and A4353, billing for HCPCS code A4351 exhibited a much smaller increase between CY 2022 and CY 2023, with claims rising by approximately 16 percent. Also, unlike A4352 and A4353, where the unexplained billing increase represented the vast majority of spending on those codes in CY 2023, the billing increase for A4351 represented a small proportion of total billing activity for the code in CY 2023. We determined that this level of billing did not represent a significant claims increase with national or regional impact that unexpectedly deviated from historical utilization trends. We also determined that the increase in utilization of HCPCS code A4351 was not clearly a billing level that was representative of activity that would cause",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 33,
+    "total_chunks": 39,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2024_22054_34",
+    "text": "m historical utilization trends. We also determined that the increase in utilization of HCPCS code A4351 was not clearly a billing level that was representative of activity that would cause significantly inaccurate and inequitable payments and repayment obligations in the Shared Savings Program if not addressed. This conclusion was based on our finding that the increase in billing for the code was so small relative to overall spending for most ACOs and to overall national or regional spending that it would be unlikely to have significant program-wide impacts on payment and repayment obligations. However, we will continue to monitor the billing activity with this code in partnership with our program integrity colleagues.</p>\n <p id=\"p-50\" data-page=\"79157\">\n <em>Comment:</em>\n Some commenters stated that, in addition to catheter codes, codes for skin substitutes exhibited SAHS billing activity in CY 2023. Other commenters urged CMS to assess or evaluate whether additional codes warranted adjustment in Shared Savings Program calculations and cited increases in billing for skin substitutes as an example.\n </p>\n <p id=\"p-51\" data-page=\"79157\">\n <em>Response:</em>\n We assessed the impact of an increase in billing to Medicare for skin substitutes and determined that the billing activity for these services was not SAHS billing activity.<sup>[<a class=\"footnote-reference\" href=\"#footnote-8-p79157\" id=\"citation-8-p79157\">8</a>] </sup>\n \n Specifically, we found that increases in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 34,
+    "total_chunks": 39,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_22054_35",
+    "text": "y for these services was not SAHS billing activity.<sup>[<a class=\"footnote-reference\" href=\"#footnote-8-p79157\" id=\"citation-8-p79157\">8</a>] </sup>\n \n Specifically, we found that increases in billing activity for skin substitutes were explained by the deviation in Local Coverage Determinations (LCDs) across Medicare Administrative Contractors and the variety of innovative products which fall under this area, which made these services more available in CY 2023.<sup>[<a class=\"footnote-reference\" href=\"#footnote-9-p79157\" id=\"citation-9-p79157\">9</a>] </sup>\n \n However, we will continue to monitor this area and work with our program integrity partners. Furthermore, as part of our larger strategy to address SAHS billing activity and improper payments on Shared Savings Program financial calculations, CMS has proposals in the CY 2025 PFS proposed rule, including (respectively): to adjust Shared Savings Program calculations to mitigate the impact of SAHS billing activity occurring in CY 2024 and subsequent calendar years, and to establish a calculation methodology to account for the impact of improper payments in recalculating expenditures and payment amounts used in Shared Savings Program financial calculations upon reopening a payment determination.\n </p>\n \n \n <p id=\"p-54\" data-page=\"79157\">\n <em>Comment:</em>\n Some commenters identified additional codes or services that they believed exhibited SAHS billing activity in CY 2023 or warranted additional evaluation by CMS.",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 35,
+    "total_chunks": 39,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "2024_22054_36",
+    "text": "e=\"79157\">\n <em>Comment:</em>\n Some commenters identified additional codes or services that they believed exhibited SAHS billing activity in CY 2023 or warranted additional evaluation by CMS. Specifically, commenters mentioned: glucose monitoring, laboratory services, telemedicine, ventilators, diabetic supplies, collagen dressings, and other unspecified DMEPOS supplies billed by the same suppliers involved in the anomalous catheter billing. Several commenters suggested that the billing activity associated with some of these codes had regional, rather than national impacts, and there would be a detrimental impact to ACO savings unless accounted for by CMS.\n </p>\n <p id=\"p-55\" data-page=\"79157\">\n <em>Response:</em>\n We appreciate commenters notifying us of their concerns over billing activity in CY 2023 for other services; however, only the billing for urinary catheter services met the definition of SAHS billing activity as finalized in this rule with respect to CY 2023. We defined SAHS billing activity in the proposed rule to mean that a given HCPCS or CPT code exhibits a level of billing that represents a significant claims increase either in volume or dollars (for example, dollar volume significantly above prior year, or claims volume beyond expectations) with national or regional impact (for example, not only impacting one or few ACOs) and represents a deviation from \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79158\">\n\n (<svg",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 36,
+    "total_chunks": 39,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "2024_22054_37",
+    "text": "nal impact (for example, not only impacting one or few ACOs) and represents a deviation from \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"79158\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 79158)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-79158\" data-page=\"79158\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n historical utilization trends that is unexpected and is not clearly attributable to reasonably explained changes in policy or the supply or demand for covered items or services (<a href=\"/citation/89-FR-55169\" class=\"fr-reference\" data-reference=\"89 FR 55169\">89 FR 55169</a>). The billing level is significant and represents billing activity that would cause significantly inaccurate and inequitable payments and repayment obligations in the Shared Savings Program if not addressed. Unlike the two urinary catheter codes, some of the other services mentioned by commenters were too broad in nature to be considered SAHS billing activity. While a group of codes may exhibit patterns that could constitute SAHS billing activity, each individual code must still exhibit SAHS billing activity for it to be considered under the definition of SAHS billing activity we relied on in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 37,
+    "total_chunks": 39,
+    "char_count": 1413
+  },
+  {
+    "chunk_id": "2024_22054_38",
+    "text": "hibit SAHS billing activity for it to be considered under the definition of SAHS billing activity we relied on in",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_22054",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 38,
+    "total_chunks": 39,
+    "char_count": 113
+  }
+]

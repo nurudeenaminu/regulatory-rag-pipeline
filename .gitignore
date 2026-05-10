@@ -1,10 +1,9 @@
-﻿.env
+.env
 .venv/
 __pycache__/
 *.pyc
 data/raw/
 data/parsed/
-data/chunks/
 data/qdrant_local/
 data/embedded_ids.json
 data/eval_results.json

@@ -1,0 +1,862 @@
+[
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_0",
+    "text": "EX-10.1\n\n2\n\nea025423601ex10-1_denali.htm\n\nSECURITIES PURCHASE AGREEMENT, DATED AS OF AUGUST 20, 2025, BY AND AMONG DENALI CAPITAL ACQUISITION CORP., SEMNUR PHARMACEUTICALS, INC., AND THE BUYERS PARTY THERETO\n\nExhibit 10.1\n\n \n\nExecution Version",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 86,
+    "char_count": 243
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_1",
+    "text": "PURCHASE AGREEMENT\n (this “\nAgreement\n”), dated as of August __, 2025, by and among Semnur Pharmaceuticals, Inc.,\na Delaware corporation, with headquarters located at 960 San Antonio Road, Palo Alto, CA 94303 (“\nSemnur\n”), Denali\nCapital Acquisition Corp., a Cayman Islands exempted company, with headquarters located at 437 Madison Avenue, 27th Floor, New York,\nNY 10022 (“\nDenali\n”), and the investors listed on the Schedule of Buyers attached hereto (individually, a “\nBuyer\n”\nand collectively, the “\nBuyers\n”).",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "SECURITIES",
+    "chunk_index": 1,
+    "total_chunks": 86,
+    "char_count": 514
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_2",
+    "text": "1. On\nAugust 30, 2024, Semnur, Denali and Denali Merger Sub Inc., a Delaware corporation and wholly owned subsidiary of Denali (“\nMerger\nSub\n”), entered into an Agreement and Plan of Merger, which was amended pursuant to Amendment No. 1 to Agreement and Plan of\nMerger, dated as of April 16, 2025, and Amendment No. 2 to Agreement and Plan of Merger, dated as of July 22, 2025 (as amended,\nand as may be further amended from time to time, the “\nMerger Agreement\n”).",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "RECITALS",
+    "chunk_index": 2,
+    "total_chunks": 86,
+    "char_count": 465
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_3",
+    "text": "to the Merger Agreement, subject to the terms and conditions set forth therein, (i) prior to the time at which the Business Combination\n(as defined below) becomes effective (the “\nEffective Time\n”), Denali will change its jurisdiction of incorporation\nby deregistering as a Cayman Islands exempted company and continuing and domesticating as a corporation incorporated under the laws of\nthe State of Delaware (the “\nDomestication\n”) and (ii) at the Effective Time, and following the Domestication,\nMerger Sub will merge with and into Semnur (the “\nBusiness Combination\n”), with Semnur continuing as the surviving entity\nand wholly owned subsidiary of Denali. Denali, upon giving effect to the closing of the Business Combination, shall be referred to in\nthis Agreement as “\nNew Semnur\n”.\n\n \n\n3.\nEach Buyer wishes to purchase, and Denali (as New Semnur) wishes to sell, upon the terms and conditions stated in this Agreement, such\naggregate number of shares of common stock, par value $0.0001 per share, of New Semnur (the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "2. Pursuant",
+    "chunk_index": 3,
+    "total_chunks": 86,
+    "char_count": 1023
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_4",
+    "text": "”),\nset forth opposite such Buyer’s name in column (3) on the Schedule of Buyers, which aggregate amount for all Buyers together shall\nbe 1,250,000 shares of New Semnur Common Stock (subject to adjustment for stock splits, stock dividends, recapitalizations, reorganizations,\nreclassification, combinations, reverse stock splits or other similar events occurring after the date hereof) (collectively, the “\nCommon\nShares\n”).",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "New Semnur Common Stock",
+    "chunk_index": 4,
+    "total_chunks": 86,
+    "char_count": 424
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_5",
+    "text": "Denali and each Buyer is executing and delivering this Agreement in reliance upon the exemption from securities registration afforded\nby Section 4(a)(2) of the Securities Act of 1933, as amended (the “\n1933 Act\n”), and Rule 506(b) of Regulation D (“\nRegulation D\n”)\nas promulgated by the United States Securities and Exchange Commission (the “\nSEC\n”) under the 1933 Act.\n\n \n\n \n\nNOW,",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "4. Semnur,",
+    "chunk_index": 5,
+    "total_chunks": 86,
+    "char_count": 382
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_6",
+    "text": "AND SALE OF COMMON SHARES\n.\n\n \n\n(a) \nPurchase\nof Common Shares\n. Subject to the satisfaction (or waiver) of the conditions set forth in Sections 6 and 7 below, Denali (as New Semnur)\nshall issue and sell to each Buyer, and each Buyer severally, but not jointly, agrees to purchase from Denali (as New Semnur) on the\nClosing Date (as defined below), the number of Common Shares as is set forth opposite such Buyer’s name in column (3) on the Schedule\nof Buyers (the “\nClosing\n”).\n\n \n\n(b) \nClosing\n.\nThe date and time of the Closing (the “\nClosing Date\n”) shall be the date and time of the closing of the Business Combination,\nsubject to notification of satisfaction (or waiver) of the conditions to the Closing set forth in Sections 6 and 7 below, remotely by\nelectronic transfer of Closing documentation.\n\n \n\n(c) \nPurchase\nPrice\n. The purchase price for the Common Shares to be purchased by each Buyer pursuant to this Agreement shall be $16.00 per Common\nShare (subject to adjustment for stock splits, stock dividends, recapitalizations, reorganizations, reclassification, combinations, reverse\nstock splits or other similar events occurring after the date hereof), with the aggregate purchase price for the Common Shares to be\npurchased by each Buyer to be the amount set forth opposite such Buyer’s name in column (4) of the Schedule of Buyers (the “\nPurchase\nPrice\n”).\n\n \n\n(d) \nForm\nof Payment\n. On the Closing Date, (i) each Buyer shall pay its respective Purchase Price to Denali (as New",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "PURCHASE",
+    "chunk_index": 6,
+    "total_chunks": 86,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_7",
+    "text": "s name in column (4) of the Schedule of Buyers (the “\nPurchase\nPrice\n”).\n\n \n\n(d) \nForm\nof Payment\n. On the Closing Date, (i) each Buyer shall pay its respective Purchase Price to Denali (as New Semnur) for the Common\nShares to be issued and sold to such Buyer pursuant to this Agreement by wire transfer of immediately available funds in accordance with\nDenali’s written wire instructions and (ii) Denali (as New Semnur) shall deliver to each Buyer the number of Common Shares\nsuch Buyer is purchasing as is set forth opposite such Buyer’s name in column (3) of the Schedule of Buyers.\n\n \n\n(e) \nDeposit\nShares\n. No earlier than the Closing Date and no later than the date that is twenty (20) business days following the Closing, Semnur\nshall cause to be deposited into an escrow account in the name of the Escrow Agent (as defined below) an aggregate of 12,000,000 shares\n(subject to adjustment for stock splits, stock dividends, recapitalizations, reorganizations, reclassification, combinations, reverse\nstock splits or other similar events occurring after the date hereof) of New Semnur Common Stock (the “\nEscrow Shares\n”)\nheld by Scilex, Inc. (the parent company of Semnur) in accordance with the terms of a Securities Escrow Agreement to be entered into\nbetween Semnur, the Buyers and an escrow agent mutually agreeable to the holders of at least a majority of the aggregate amount of Common\nShares issued and issuable hereunder (the “\nMajority Purchasers\n”) and Semnur (the “\nEscrow",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "PURCHASE",
+    "chunk_index": 7,
+    "total_chunks": 86,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_8",
+    "text": "agent mutually agreeable to the holders of at least a majority of the aggregate amount of Common\nShares issued and issuable hereunder (the “\nMajority Purchasers\n”) and Semnur (the “\nEscrow Agent\n”).\nThe “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "PURCHASE",
+    "chunk_index": 8,
+    "total_chunks": 86,
+    "char_count": 204
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_9",
+    "text": "” shall be an agreement governing the terms of the escrow of the Escrow Shares and\nshall be in form and substance reasonably acceptable to Semnur, the Escrow Agent and the Majority Purchasers.\n\n \n\n2\n\n \n\n2. \nBUYER’S",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Securities Escrow Agreement",
+    "chunk_index": 9,
+    "total_chunks": 86,
+    "char_count": 214
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_10",
+    "text": ". Each Buyer, severally and not jointly, represents and warrants with respect to only itself to each\nof Semnur and Denali that\n:\n\n \n\n(a) \nNo\nPublic Sale or Distribution\n. Such Buyer is acquiring the Common Shares for its own account and not with a view towards, or for resale\nin connection with, the public sale or distribution thereof, except pursuant to sales registered or exempted under the 1933 Act; \nprovided\n,\n\nhowever\n, that by making the representations herein, such Buyer does not agree to hold any of the Common Shares for any minimum\nor other specific term and reserves the right to dispose of the Common Shares at any time in accordance with or pursuant to a registration\nstatement or an exemption under the 1933 Act. Such Buyer is acquiring the Common Shares hereunder in the ordinary course of its business.\nSuch Buyer does not presently have any agreement or understanding, directly or indirectly, with any Person (as defined below) to distribute\nany of the Common Shares.  For purposes of this Agreement, “\nPerson\n” means an individual, a limited liability\ncompany, a partnership, a joint venture, a corporation, a trust, an unincorporated organization and a government or any department or\nagency thereof.\n\n \n\n(b) \nAccredited\nInvestor Status\n. Such Buyer is an “accredited investor” as that term is defined in Rule 501(a) of Regulation D.\n\n \n\n(c) \nReliance\non Exemptions\n. Such Buyer understands that the Common Shares are being offered and sold to it in reliance on specific",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 10,
+    "total_chunks": 86,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_11",
+    "text": "as that term is defined in Rule 501(a) of Regulation D.\n\n \n\n(c) \nReliance\non Exemptions\n. Such Buyer understands that the Common Shares are being offered and sold to it in reliance on specific exemptions\nfrom the registration requirements of United States federal and state securities laws and that Semnur and Denali are relying in part\nupon the truth and accuracy of, and such Buyer’s compliance with, the representations, warranties, agreements, acknowledgments\nand understandings of such Buyer set forth herein in order to determine the availability of such exemptions and the eligibility of such\nBuyer to acquire the Common Shares.\n\n \n\n(d) \nInformation\n.\nSuch Buyer and its advisors, if any, have been furnished with all materials relating to the business, finances and operations of Semnur,\nDenali and New Semnur and materials relating to the offer and sale of the Common Shares that have been requested by such Buyer. Such\nBuyer and its advisors, if any, have been afforded the opportunity to ask questions of Semnur and Denali. Neither such inquiries nor\nany other due diligence investigations conducted by such Buyer or its advisors, if any, or its representatives shall modify, amend or\naffect such Buyer’s right to rely on Semnur’s and Denali’s representations and warranties contained herein. Such Buyer\nunderstands that its investment in the Common Shares involves a high degree of risk. Such Buyer has sought such accounting, legal and\ntax advice as it has considered necessary to make",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 11,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_12",
+    "text": "ein. Such Buyer\nunderstands that its investment in the Common Shares involves a high degree of risk. Such Buyer has sought such accounting, legal and\ntax advice as it has considered necessary to make an informed investment decision with respect to its acquisition of the Common Shares.\n\n \n\n(e) \nNo\nGovernmental Review\n. Such Buyer understands that no United States federal or state agency or any other government or governmental\nagency has passed on or made any recommendation or endorsement of the Common Shares or the fairness or suitability of the investment\nin the Common Shares nor have such authorities passed upon or endorsed the merits of the offering of the Common Shares.\n\n \n\n3\n\n \n\n(f) \nTransfer\nor Resale\n. Such Buyer understands that: (i) the Common Shares have not been and are not being registered under the 1933 Act or any\nstate securities laws, and may not be offered for sale, sold, assigned or transferred unless (A) subsequently registered thereunder,\n(B) such Buyer shall have delivered to Semnur an opinion of counsel, in a form reasonably acceptable to Semnur, to the effect that such\nCommon Shares to be sold, assigned or transferred may be sold, assigned or transferred pursuant to an exemption from such registration,\nor (C) such Buyer provides Semnur with reasonable assurance that such Common Shares can be sold, assigned or transferred pursuant to\nRule 144 or Rule 144A promulgated under the 1933 Act, as amended (or a successor rule thereto) (collectively, “\nRule",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 12,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_13",
+    "text": "ce that such Common Shares can be sold, assigned or transferred pursuant to\nRule 144 or Rule 144A promulgated under the 1933 Act, as amended (or a successor rule thereto) (collectively, “\nRule 144\n”);\nand (ii) any sale of the Common Shares made in reliance on Rule 144 may be made only in accordance with the terms of Rule 144 and further,\nif Rule 144 is not applicable, any resale of the Common Shares under circumstances in which the seller (or the Person through whom the\nsale is made) may be deemed to be an underwriter (as that term is defined in the 1933 Act) may require compliance with some other exemption\nunder the 1933 Act or the rules and regulations of the SEC thereunder.\n\n \n\n(g) \nLegends\n.\nSuch Buyer understands that the certificates or other instruments representing the Common Shares, except as set forth below, shall bear\na restrictive legend in the following form (and a stop-transfer order may be placed against transfer of such stock certificates):\n\n \n\nTHE\nSECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE\nSECURITIES LAWS. THE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION\nSTATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (B) AN OPINION OF COUNSEL SELECTED BY THE HOLDER, IN A\nFORM REASONABLY ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR (II) UNLESS",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 13,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_14",
+    "text": "ITIES ACT OF 1933, AS AMENDED, OR (B) AN OPINION OF COUNSEL SELECTED BY THE HOLDER, IN A\nFORM REASONABLY ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR (II) UNLESS SOLD OR ELIGIBLE TO BE SOLD\nPURSUANT TO RULE 144 OR RULE 144A UNDER SAID ACT.\n\n \n\nThe\nlegend set forth above shall be removed and New Semnur shall issue a certificate without such legend to the holder of the Common Shares\nupon which it is stamped or issue to such holder by electronic delivery at the applicable balance account at DTC, if (i) such Common\nShares are registered for resale under the 1933 Act or exchanged for other securities in a transaction registered under the 1933 Act,\n(ii) in connection with a sale, assignment or other transfer, such holder provides Semnur with an opinion of counsel, in a form reasonably\nacceptable to Semnur, to the effect that such sale, assignment or transfer of the Common Shares may be made without registration under\nthe applicable requirements of the 1933 Act, or (iii) the Common Shares can be sold, assigned or transferred pursuant to Rule 144 or\nRule 144A.\n\n \n\n(h) \nValidity;\nEnforcement\n. This Agreement and the other Transaction Documents (as defined below) to which such Buyer is a party have been duly\nand validly authorized, executed and delivered on behalf of such Buyer and shall constitute the legal, valid and binding obligations\nof such Buyer enforceable against such Buyer in accordance with their respective terms, except as such",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 14,
+    "total_chunks": 86,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_15",
+    "text": "n behalf of such Buyer and shall constitute the legal, valid and binding obligations\nof such Buyer enforceable against such Buyer in accordance with their respective terms, except as such enforceability may be limited\nby general principles of equity or to applicable bankruptcy, insolvency, reorganization, moratorium, liquidation and other similar laws\nrelating to, or affecting generally, the enforcement of applicable creditors’ rights and remedies.\n\n \n\n4\n\n \n\n(i) \nNo\nConflicts\n. The execution, delivery and performance by such Buyer of this Agreement and the other Transaction Documents to which such\nBuyer is a party and the consummation by such Buyer of the transactions contemplated hereby and thereby will not (i) result in a violation\nof the organizational documents of such Buyer or (ii) conflict with, or constitute a default (or an event which with notice or lapse\nof time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of,\nany agreement, indenture or instrument to which such Buyer is a party, or (iii) result in a violation of any law, rule, regulation, order,\njudgment or decree (including federal and state securities laws) applicable to such Buyer, except in the case of clauses (ii) and (iii)\nabove, for such conflicts, defaults, rights or violations which would not, individually or in the aggregate, reasonably be expected to\nhave a material adverse effect on the ability of such Buyer to perform its",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 15,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_16",
+    "text": "uch conflicts, defaults, rights or violations which would not, individually or in the aggregate, reasonably be expected to\nhave a material adverse effect on the ability of such Buyer to perform its obligations hereunder.\n\n \n\n3.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS AND WARRANTIES",
+    "chunk_index": 16,
+    "total_chunks": 86,
+    "char_count": 227
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_17",
+    "text": "AND WARRANTIES OF SEMNUR\n.\n\n \n\nSemnur\nrepresents and warrants to each of the Buyers that, as of the date hereof and as of the Closing Date:\n\n \n\n(a) \nOrganization\nand Qualification\n. Semnur is an entity duly organized and validly existing and in good standing under the laws of the state of Delaware,\nand has the requisite power and authorization to own its properties and to carry on its business as now being conducted and as presently\nproposed to be conducted. Semnur is duly qualified as a foreign corporation to do business and is in good standing in every jurisdiction\nin which its ownership of property or the nature of the business conducted by it makes such qualification necessary, except to the extent\nthat the failure to be so qualified or be in good standing would not reasonably be expected to have a Semnur Material Adverse Effect.\nAs used in this Agreement, “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS",
+    "chunk_index": 17,
+    "total_chunks": 86,
+    "char_count": 874
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_18",
+    "text": "” means any material adverse effect on the business, properties,\nassets, liabilities, operations, results of operations, condition (financial or otherwise) or prospects of Semnur, individually or taken\nas a whole, or on the transactions contemplated hereby or on the other Semnur Transaction Documents (as defined below) or by the agreements\nand instruments to be entered into in connection herewith or therewith, or on the authority or ability of Semnur to perform any of its\nobligations under any of the Semnur Transaction Documents. Semnur does not, directly or indirectly, own any of the capital stock or hold\nan equity or similar interest in any entity.\n\n \n\n(b) \nAuthorization;\nEnforcement; Validity\n. Semnur has the requisite corporate power and authority to enter into and perform its obligations under this\nAgreement and each of the other agreements entered into by Semnur in connection with the transactions contemplated by this Agreement\n(collectively, the “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Material Adverse Effect",
+    "chunk_index": 18,
+    "total_chunks": 86,
+    "char_count": 968
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_19",
+    "text": "”) and to issue the Common Shares in accordance with the terms hereof\nand thereof. The execution and delivery of this Agreement and the other Semnur Transaction Documents by Semnur and the consummation by\nSemnur of the transactions contemplated hereby and thereby, including, without limitation, the issuance of the Common Shares, have been\nduly authorized by Semnur’s Board of Directors and (other than filings pursuant to applicable securities laws), no further filing,\nconsent or authorization is required by Semnur, its Board of Directors or its stockholders. This Agreement and the other Semnur Transaction\nDocuments have been duly executed and delivered by Semnur, and constitute the legal, valid and binding obligations of Semnur, enforceable\nagainst Semnur in accordance with their respective terms, except as such enforceability may be limited by general principles of equity\nor applicable bankruptcy, insolvency, reorganization, moratorium, liquidation or similar laws relating to, or affecting generally, the\nenforcement of applicable creditors’ rights and remedies.\n\n \n\n5\n\n \n\n(c) \nIssuance\nof Common Shares\n. The issuance of the Common Shares is duly authorized and, upon issuance in accordance with the terms of the Semnur\nTransaction Documents, the Common Shares shall be validly issued and free from all preemptive or similar rights (except for those which\nhave been validly waived prior to the date hereof), taxes, liens and charges and other encumbrances with respect to the issue",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 19,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_20",
+    "text": "and free from all preemptive or similar rights (except for those which\nhave been validly waived prior to the date hereof), taxes, liens and charges and other encumbrances with respect to the issue thereof\nand the Common Shares shall be fully paid and nonassessable with the holders being entitled to all rights accorded to a holder of New\nSemnur Common Stock. Assuming the accuracy of each of the representations and warranties set forth in Section 3, the offer and issuance\nby Semnur of the Common Shares is exempt from registration under the 1933 Act.\n\n \n\n(d) \nNo\nConflicts\n. Except as disclosed in \nSchedule 3(d)\n, the execution, delivery and performance of the Semnur Transaction Documents\nby Semnur and the consummation by Semnur of the transactions contemplated hereby and thereby (including, without limitation, the issuance\nof the Common Shares) will not (i) result in a violation of Semnur’s Certificate of Incorporation (as amended from time to time,\nthe “\nSemnur Certificate of Incorporation\n”) or Semnur’s Bylaws (as amended from time to time, the “\nSemnur\nBylaws\n”), (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become\na default) in any respect under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement,\nindenture or instrument to which Semnur is a party, or (iii) result in a violation of any law, rule, regulation, order, judgment or decree\n(including foreign, federal",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 20,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_21",
+    "text": "ancellation of, any agreement,\nindenture or instrument to which Semnur is a party, or (iii) result in a violation of any law, rule, regulation, order, judgment or decree\n(including foreign, federal and state securities laws and regulations) and including all applicable foreign, federal, state laws, rules\nand regulations applicable to Semnur or by which any property or asset of Semnur is bound or affected, except, in the case of clauses\n(ii) and (iii) above, as would not have or reasonably be expected to result in a Semnur Material Adverse Effect.\n\n \n\n(e) \nConsents\n.\nExcept as disclosed in \nSchedule 3(e)\n, Semnur is not required to obtain any consent from, authorization or order of, or make any\nfiling or registration with (other than filings pursuant to applicable securities laws), any court, governmental agency or any regulatory\nor self-regulatory agency or any other Person in order for it to execute, deliver or perform any of its obligations under or contemplated\nby the Semnur Transaction Documents, in each case, in accordance with the terms hereof or thereof. All consents, authorizations, orders,\nfilings and registrations which Semnur is required to obtain pursuant to the preceding sentence have been obtained or effected on or\nprior to the Closing Date (or in the case of filings detailed above, will be made timely after the Closing Date).\n\n \n\n(f) \nAcknowledgment\nRegarding Buyer’s Purchase of Common Shares\n. Semnur acknowledges and agrees that each Buyer is acting solely in",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 21,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_22",
+    "text": "s detailed above, will be made timely after the Closing Date).\n\n \n\n(f) \nAcknowledgment\nRegarding Buyer’s Purchase of Common Shares\n. Semnur acknowledges and agrees that each Buyer is acting solely in the capacity\nof an arm’s length purchaser with respect to the Semnur Transaction Documents and the transactions contemplated hereby and thereby\nand that no Buyer is (i) an officer or director of Semnur, (ii) an “affiliate” of Semnur (as defined in Rule 144) or (iii)\nto the knowledge of Semnur, a “beneficial owner” of more than 10% of the New Semnur Common Stock (as defined for purposes\nof Rule 13d-3 of the 1934 Act). Semnur further acknowledges that no Buyer is acting as a financial advisor or fiduciary of Semnur (or\nin any similar capacity) with respect to the Semnur Transaction Documents and the transactions contemplated hereby and thereby, and any\nadvice given by a Buyer or any of its representatives or agents in connection with the Semnur Transaction Documents and the transactions\ncontemplated hereby and thereby is merely incidental to such Buyer’s purchase of the Common Shares. Semnur further represents to\neach Buyer that Semnur’s decision to enter into the Semnur Transaction Documents has been based solely on the independent evaluation\nby Semnur and its representatives.\n\n \n\n6\n\n \n\n(g) \nNo\nGeneral Solicitation; Placement Agent’s Fees\n. Neither Semnur nor its affiliates, nor any Person acting on its or their behalf,\nhas engaged in any form of general solicitation or general",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 22,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_23",
+    "text": "(g) \nNo\nGeneral Solicitation; Placement Agent’s Fees\n. Neither Semnur nor its affiliates, nor any Person acting on its or their behalf,\nhas engaged in any form of general solicitation or general advertising (within the meaning of Regulation D) in connection with the offer\nor sale of the Common Shares. Semnur shall be responsible for the payment of any placement agent’s fees, financial advisory fees,\nor brokers’ commissions (other than for Persons engaged by any Buyer or its investment advisor) relating to or arising out of the\ntransactions contemplated hereby, including, without limitation, placement agent fees payable to JW Capital (the “\nPlacement\nAgent\n”) in connection with the sale of the Common Shares. Semnur shall pay, and hold each Buyer harmless against, any liability,\nloss or expense (including, without limitation, attorney’s fees and out-of-pocket expenses) arising in connection with any such\nclaim. Semnur acknowledges that it has engaged the Placement Agent in connection with the sale of the Common Shares.\n\n \n\n(h) \nNo\nIntegrated Offering\n. Neither Semnur, nor any of its affiliates, nor any Person acting on its behalf has, directly or indirectly,\nmade any offers or sales of any security or solicited any offers to buy any security, under circumstances that would require registration\nof the issuance of any of the Common Shares under the 1933 Act, whether through integration with prior offerings or otherwise, or cause\nthis offering of the Common Shares to require",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 23,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_24",
+    "text": "re registration\nof the issuance of any of the Common Shares under the 1933 Act, whether through integration with prior offerings or otherwise, or cause\nthis offering of the Common Shares to require approval of stockholders of Semnur for purposes of the 1933 Act or any applicable stockholder\napproval provisions, including, without limitation, under the rules and regulations of any exchange or automated quotation system on\nwhich any of the securities of Semnur or Denali are listed or designated for quotation. Neither Semnur nor its affiliates nor any Person\nacting on their behalf will take any action or steps that would require registration of the issuance of any of the Common Shares under\nthe 1933 Act or cause the offering of any of the Common Shares to be integrated with other offerings for purposes of any such applicable\nstockholder approval provisions.\n\n \n\n(i) \nApplication\nof Takeover Protections\n. Semnur and its Board of Directors have taken all necessary action, if any, in order to render inapplicable\nany control share acquisition, interested stockholder, business combination, poison pill (including, without limitation, any distribution\nunder a rights agreement) or other similar anti-takeover provision under the Semnur Certificate of Incorporation, the Semnur Bylaws or\nother organizational documents or the laws of the jurisdiction of its formation which is or could become applicable to any Buyer as a\nresult of the transactions contemplated by this Agreement, including,",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 24,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_25",
+    "text": "organizational documents or the laws of the jurisdiction of its formation which is or could become applicable to any Buyer as a\nresult of the transactions contemplated by this Agreement, including, without limitation, Semnur’s issuance of the Common Shares\nand any Buyer’s ownership of the Common Shares.\n\n \n\n7\n\n \n\n(j) \nForm\nS-4; Financial Statements\n. As of each filing date of the registration statement on Form S-4 filed by Denali (File No. 333-283019)\n(as amended from time to time, the “\nForm S-4\n”) or any amendment thereto, the sections of the Form S-4 titled “Business\nof Semnur,” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations of Semnur”,\ndid not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary in\norder to make the statements therein, in the light of the circumstances under which they were made, not misleading. As of each filing\ndate of the Form S-4 or any amendment thereto, the financial statements of Semnur included in the Form S-4 (the “\nSemnur Financial\nStatements\n”) complied as to form in all material respects with applicable accounting requirements and the published rules and\nregulations of the SEC with respect thereto. The Semnur Financial Statements have been prepared in accordance with U.S. generally accepted\naccounting principles (“\nGAAP\n”), consistently applied during the periods involved (except (i) as may be otherwise indicated\nin the Semnur",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 25,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_26",
+    "text": "been prepared in accordance with U.S. generally accepted\naccounting principles (“\nGAAP\n”), consistently applied during the periods involved (except (i) as may be otherwise indicated\nin the Semnur Financial Statements or the notes thereto, or (ii) in the case of unaudited interim statements, to the extent they may\nexclude footnotes or may be condensed or summary statements) and fairly present in all material respects the financial position of Semnur\nas of the dates thereof and the results of its operations and cash flows for the periods then ended (subject, in the case of unaudited\nstatements, to normal year-end audit adjustments which will not be material, either individually or in the aggregate).\n\n \n\n(k) \nAbsence\nof Certain Changes\n. Since March 31, 2025, there has been no material adverse change and no material adverse development in the business,\nassets, liabilities, properties, operations, condition (financial or otherwise), results of operations or prospects of Semnur. Semnur\nhas not taken any steps to seek protection pursuant to any law or statute relating to bankruptcy, insolvency, reorganization, receivership,\nliquidation or winding up, nor does Semnur have any knowledge or reason to believe that any of its creditors intend to initiate involuntary\nbankruptcy proceedings or any actual knowledge of any fact which would reasonably lead a creditor to do so.\n\n \n\n(l) \nConduct\nof Business; Regulatory Permits\n. Semnur is not in violation of any term of or in default under",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 26,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_27",
+    "text": "or any actual knowledge of any fact which would reasonably lead a creditor to do so.\n\n \n\n(l) \nConduct\nof Business; Regulatory Permits\n. Semnur is not in violation of any term of or in default under the Semnur Certificate of Incorporation\nor the Semnur Bylaws. Semnur is not in violation of any judgment, decree or order or any statute, ordinance, rule or regulation applicable\nto Semnur, and Semnur will not conduct its business in violation of any of the foregoing, except in all cases for possible violations\nwhich would not, individually or in the aggregate, reasonably be expected to have a Semnur Material Adverse Effect. Semnur possesses\nall certificates, authorizations and permits issued by the appropriate foreign, federal or state regulatory authorities necessary to\nconduct their respective businesses, except where the failure to possess such certificates, authorizations or permits would not have,\nindividually or in the aggregate, a Semnur Material Adverse Effect, and Semnur has not received any notice of proceedings relating to\nthe revocation or modification of any such certificate, authorization or permit.\n\n \n\n(m) \nForeign\nCorrupt Practices\n. Neither Semnur, nor to Semnur’s knowledge, any of its directors, officers, employees or agents have, directly\nor indirectly, made, offered, promised or authorized any payment or gift of any money or anything of value to or for the benefit of any\n“foreign official” (as such term is defined in the U.S. Foreign Corrupt Practices Act of",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 27,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_28",
+    "text": "d, promised or authorized any payment or gift of any money or anything of value to or for the benefit of any\n“foreign official” (as such term is defined in the U.S. Foreign Corrupt Practices Act of 1977, as amended (the “\nFCPA\n”)),\nforeign political party or official thereof or candidate for foreign political office for the purpose of (i) influencing any official\nact or decision of such official, party or candidate, (ii) inducing such official, party or candidate to use his, her or its influence\nto affect any act or decision of a foreign governmental authority, or (iii) securing any improper advantage, in the case of (i), (ii)\nand (iii) above in order to assist Semnur or any of its affiliates in obtaining or retaining business for or with, or directing business\nto, any person. Neither Semnur nor, to Semnur’s knowledge, any of its directors, officers, employees or agents have made or authorized\nany bribe, rebate, payoff, influence payment, kickback or other unlawful payment of funds or received or retained any funds in violation\nof any law, rule or regulation. Neither Semnur nor, to Semnur’s knowledge, any of its officers, directors or employees are the\nsubject of any allegation, voluntary disclosure, investigation, prosecution or other enforcement action related to the FCPA or any other\nequivalent or comparable laws of other countries.\n\n \n\n8\n\n \n\n(n) \nTransactions\nWith Affiliates\n. Except as disclosed in the Form S-4, none of the officers, directors or employees of Semnur is",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 28,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_29",
+    "text": "y other\nequivalent or comparable laws of other countries.\n\n \n\n8\n\n \n\n(n) \nTransactions\nWith Affiliates\n. Except as disclosed in the Form S-4, none of the officers, directors or employees of Semnur is presently a party\nto any transaction with Semnur (other than for ordinary course services as employees, officers or directors), including any contract,\nagreement or other arrangement providing for the furnishing of services to or by, providing for rental of real or personal property to\nor from, or otherwise requiring payments to or from any such officer, director or employee or, to the knowledge of the Semnur, any corporation,\npartnership, trust or other Person in which any such officer, director, or employee has a substantial interest or is an employee, officer,\ndirector, trustee or partner.\n\n \n\n(o) \nEquity\nCapitalization\n. As of the date hereof, the authorized capital stock of Semnur consists of 45,000,000 shares of preferred stock, par\nvalue $0.00001 per share, of which as of the date hereof none are issued and outstanding, and 740,000,000 shares of common stock of Semnur,\npar value $0.0001 per share (“",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Transaction Documents",
+    "chunk_index": 29,
+    "total_chunks": 86,
+    "char_count": 1118
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_30",
+    "text": "”), of which as of the date hereof 170,000,000 are issued and outstanding,\n40,000,000 shares are reserved for issuance pursuant to Semnur’s stock option and purchase plans. No Semnur Common Stock is held\nin treasury. All of such outstanding securities of Semnur are duly authorized and have been, or upon issuance will be, validly issued\nand are fully paid and nonassessable. (i) Except as disclosed in \nSchedule 3(o)(i)\n, hereto, none of Semnur’s capital stock\nis subject to preemptive rights or any other similar rights or any liens or encumbrances suffered or permitted by Semnur; (ii) except\nas disclosed in \nSchedule 3(o)(ii)\n, there are no outstanding options, warrants, scrip, rights to subscribe to, calls or commitments\nof any character whatsoever relating to, or securities or rights convertible into, or exercisable or exchangeable for, any capital stock\nof Semnur, or contracts, commitments, understandings or arrangements by which Semnur is or may become bound to issue additional capital\nstock of the Semnur or options, warrants, scrip, rights to subscribe to, calls or commitments of any character whatsoever relating to,\nor securities or rights convertible into, or exercisable or exchangeable for, any capital stock of Semnur; (iii) except as disclosed\nin \nSchedule 3(o)(iii)\n, there are no outstanding debt securities, notes, credit agreements, credit facilities or other agreements,\ndocuments or instruments evidencing Indebtedness (as defined below) of Semnur or by which Semnur",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 30,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_31",
+    "text": "are no outstanding debt securities, notes, credit agreements, credit facilities or other agreements,\ndocuments or instruments evidencing Indebtedness (as defined below) of Semnur or by which Semnur is or may become bound; (iv) except\nas disclosed in \nSchedule 3(o)(iv)\n, there are no financing statements securing obligations in any amounts filed in connection with\nSemnur; (v), except as disclosed in \nSchedule 3(o)(v)\n, there are no agreements or arrangements under which Semnur is obligated\nto register the sale of any of their securities under the 1933 Act; (vi) except as disclosed in \nSchedule 3(o)(vi)\n, there are no\noutstanding securities or instruments of Semnur which contain any redemption or similar provisions, and there are no contracts, commitments,\nunderstandings or arrangements by which Semnur is or may become bound to redeem a security of Semnur; (vii) except as disclosed in \nSchedule\n3(o)(vii)\n, there are no securities or instruments containing anti-dilution or similar provisions that will be triggered by the issuance\nof the Common Shares; (viii) except as disclosed in \nSchedule 3(o)(viii)\n, Semnur has no stock appreciation rights or “phantom\nstock” plans or agreements or any similar plan or agreement; and (ix) except as disclosed in \nSchedule 3(o)(ix)\n, Semnur has\nno liabilities or obligations, other than those incurred in the ordinary course of Semnur’s business and which, individually or\nin the aggregate, do not or could not have a Semnur Material Adverse",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 31,
+    "total_chunks": 86,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_32",
+    "text": "iabilities or obligations, other than those incurred in the ordinary course of Semnur’s business and which, individually or\nin the aggregate, do not or could not have a Semnur Material Adverse Effect. “\nIndebtedness\n” means with respect to\nany Person, (A) all obligations of such Person for borrowed money, or with respect to deposits or advances of any kind (including\namounts by reason of overdrafts and amounts owed by reason of letter of credit reimbursement agreements) including with respect thereto,\nall interests, fees and costs and prepayment and other penalties, (B) all obligations of such Person evidenced by bonds, debentures,\nnotes or similar instruments, (C) all obligations of such Person under conditional sale or other title retention agreements relating\nto property purchased by such Person, (D) all obligations of such Person issued or assumed as the deferred purchase price of property\nor services, (E) all obligations of such Person under leases to be accounted for as capital leases under GAAP (as defined below)\nand (F) all obligations of the type referred to in clauses (A) through (E) of this definition of any Person (including\nthrough guarantees) the payment of which such Person is responsible, including those secured by (or for which the beneficiary of such\nobligations has an existing right, contingent or otherwise, to be secured by) any lien or security interest on property owned or acquired\nby such Person, whether or not the obligations secured thereby have been",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 32,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_33",
+    "text": "has an existing right, contingent or otherwise, to be secured by) any lien or security interest on property owned or acquired\nby such Person, whether or not the obligations secured thereby have been assumed.\n\n \n\n9\n\n \n\n(p) \nIndebtedness\nand Other Contracts\n. Except (i) as specifically disclosed, reflected or reserved against on the Semnur Financial Statements,\n(ii) for Liabilities (as defined below) and obligations of a similar nature and in similar amounts incurred in the ordinary course\nof business since April 1, 2025, (iii) for Liabilities incurred in connection with the negotiation, preparation or execution\nof the Merger Agreement or the Semnur Transaction Documents, the performance of their respective covenants or agreements in the Merger\nAgreement or the Semnur Transaction Documents or the consummation of the transactions contemplated hereby or thereby and (iv) for\nLiabilities that do not, and would not reasonably be expected, individually or in the aggregate, to have a Semnur Material Adverse Effect,\nSemnur does not have any Liabilities of the type required to be set forth on a balance sheet in accordance with GAAP consistently applied\nin accordance with past practice. For purposes of this Agreement, “\nLiabilities\n” means all liabilities, Indebtedness,\nclaims, or obligations of any nature (whether absolute, accrued, contingent or otherwise, whether known or unknown, whether direct or\nindirect, whether matured or unmatured and whether due or to become due).\n\n \n\n(q)",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 33,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_34",
+    "text": "ns of any nature (whether absolute, accrued, contingent or otherwise, whether known or unknown, whether direct or\nindirect, whether matured or unmatured and whether due or to become due).\n\n \n\n(q) \nAbsence\nof Litigation\n. There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency,\nself-regulatory organization or body pending or, to the knowledge of Semnur, threatened against or affecting Semnur, the New Semnur Common\nStock or any of Semnur’s officers or directors, whether of a civil or criminal nature or otherwise, in their capacities as such.\n\n \n\n(r) \nInsurance\n.\nSemnur is insured by insurers of recognized financial responsibility against such losses and risks and in such amounts as management\nof Semnur believes to be prudent and customary in the businesses in which Semnur is engaged. Semnur has no reason to believe that it\nwill be unable to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from similar\ninsurers as may be necessary to continue its business at a cost that would not have a Semnur Material Adverse Effect.\n\n \n\n(s) \nEmployee\nRelations\n. Semnur is not a party to any collective bargaining agreement or employs any member of a union. Semnur believes that its\nrelations with its employees are good. No executive officer (as defined in Rule 501(f) promulgated under the 1933 Act) or other key employee\nof Semnur has notified Semnur that such officer intends to",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 34,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_35",
+    "text": "ations with its employees are good. No executive officer (as defined in Rule 501(f) promulgated under the 1933 Act) or other key employee\nof Semnur has notified Semnur that such officer intends to leave Semnur or otherwise terminate such officer’s employment with Semnur.\nNo executive officer or other key employee of Semnur is, or is now expected to be, in violation of any material term of any employment\ncontract, confidentiality, disclosure or proprietary information agreement, non-competition agreement, or any other contract or agreement\nor any restrictive covenant, and the continued employment of each such executive officer or other key employee (as the case may be) does\nnot subject Semnur to any liability with respect to any of the foregoing matters. Semnur is in compliance with all federal, state, local\nand foreign laws and regulations respecting labor, employment and employment practices and benefits, terms and conditions of employment\nand wages and hours, except where failure to be in compliance would not, either individually or in the aggregate, reasonably be expected\nto result in a Semnur Material Adverse Effect.\n\n \n\n10\n\n \n\n(t) \nTitle\n.\nSemnur has good and marketable title in fee simple to all real property and good and marketable title to all personal property owned\nby it which is material to the business of Semnur, in each case free and clear of all liens, encumbrances and defects except such as\ndo not materially affect the value of such property and do not",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 35,
+    "total_chunks": 86,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_36",
+    "text": "t which is material to the business of Semnur, in each case free and clear of all liens, encumbrances and defects except such as\ndo not materially affect the value of such property and do not interfere with the use made and proposed to be made of such property by\nSemnur. Any real property and facilities held under lease by Semnur is held by it under valid, subsisting and enforceable leases with\nsuch exceptions as are not material and do not interfere with the use made and proposed to be made of such property and buildings by\nSemnur.\n\n \n\n(u) \nIntellectual\nProperty Rights\n. Semnur owns or possesses adequate rights or licenses to use all trademarks, trade names, service marks, service\nmark registrations, service names, patents, patent rights, copyrights, original works of authorship, inventions, licenses, approvals,\ngovernmental authorizations, trade secrets and other intellectual property rights and all applications and registrations therefor (“\nIntellectual\nProperty Rights\n”) necessary to conduct its business as now conducted. There is no claim, action or proceeding being made or\nbrought, or to the knowledge of Semnur, being threatened, against Semnur regarding its Intellectual Property Rights. Semnur is not aware\nof any facts or circumstances which might give rise to any of the foregoing infringements or claims, actions or proceedings. Semnur has\ntaken reasonable security measures to protect the secrecy, confidentiality and value of all of its Intellectual Property Rights",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 36,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_37",
+    "text": "oregoing infringements or claims, actions or proceedings. Semnur has\ntaken reasonable security measures to protect the secrecy, confidentiality and value of all of its Intellectual Property Rights that\nhave been developed by Semnur.\n\n \n\n(v) \nTax\nStatus\n. Semnur (i) has timely or filed all foreign, federal and state income and all other tax returns, reports and declarations\nrequired by any jurisdiction to which it is subject, (ii) has timely paid all taxes and other governmental assessments and charges that\nare material in amount, shown or determined to be due on such returns, reports and declarations, except those being contested in good\nfaith and (iii) has set aside on its books provision reasonably adequate for the payment of all taxes for periods subsequent to the periods\nto which such returns, reports or declarations apply. There are no unpaid taxes in any material amount claimed to be due by the taxing\nauthority of any jurisdiction, and the officers of Semnur know of no basis for any such claim.\n\n \n\n(w) \nInternal\nAccounting\n. Semnur maintains a system of internal accounting controls sufficient to provide reasonable assurance that (i) transactions\nare executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to\npermit preparation of financial statements in conformity with GAAP, consistently applied during the periods involved and applicable law,\nand to maintain asset and liability accountability, (iii) access",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 37,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_38",
+    "text": "rmit preparation of financial statements in conformity with GAAP, consistently applied during the periods involved and applicable law,\nand to maintain asset and liability accountability, (iii) access to assets or incurrence of liabilities is permitted only in accordance\nwith management’s general or specific authorization and (iv) the recorded accountability for assets and liabilities is compared\nwith the existing assets and liabilities at reasonable intervals and appropriate action is taken with respect to any difference. Except\nas disclosed in the Form S-4, during the twelve months prior to the date hereof Semnur has not received any notice or correspondence\nfrom any accountant relating to any material weakness in any part of the system of internal accounting controls of Semnur.\n\n \n\n11\n\n \n\n(x) \nPreclinical\nDevelopment and Clinical Trials\n. The studies, tests, preclinical development and clinical trials, if any, conducted by or on behalf\nof Semnur are being conducted in all material respects in accordance with experimental protocols, procedures and controls pursuant to\naccepted professional and scientific standards for products or product candidates comparable to those being developed by Semnur and all\napplicable laws and regulations, including the Federal Food, Drug, and Cosmetic Act and 21 C.F.R. parts 50, 54, 56, 58, 312, and 812.\nThe descriptions of, protocols for, and data and other results of, the studies, tests, development and trials conducted by or on behalf\nof",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 38,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_39",
+    "text": "c Act and 21 C.F.R. parts 50, 54, 56, 58, 312, and 812.\nThe descriptions of, protocols for, and data and other results of, the studies, tests, development and trials conducted by or on behalf\nof Semnur that have been furnished or made available to the Buyers are accurate and complete. Semnur is not aware of any studies, tests,\ndevelopment or trials the results of which reasonably call into question the results of the studies, tests, development and trials conducted\nby or on behalf of Semnur, and Semnur has not received any notices or correspondence from the U.S. Food and Drug Administration (“\nFDA\n”)\nor any other governmental entity or any institutional review board or comparable authority requiring the termination, suspension or material\nmodification of any studies, tests, preclinical development or clinical trials conducted by or on behalf of Semnur.\n\n \n\n(y) \nFDA\nApprovals\n. To Semnur’s knowledge, it possesses all permits, licenses, registrations, certificates, authorizations, orders and\napprovals from the appropriate federal, state or foreign regulatory authorities necessary to conduct its business, including all such\npermits, licenses, registrations, certificates, authorizations, orders and approvals required by the FDA or any other federal, state\nor foreign agencies or bodies engaged in the regulation of drugs, pharmaceuticals, medical devices or biohazardous materials. To Semnur’s\nknowledge, it has not received any notice of proceedings relating to the suspension,",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 39,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_40",
+    "text": "s engaged in the regulation of drugs, pharmaceuticals, medical devices or biohazardous materials. To Semnur’s\nknowledge, it has not received any notice of proceedings relating to the suspension, modification, revocation or cancellation of any\nsuch permit, license, registration, certificate, authorization, order or approval. Neither Semnur nor, to Semnur’s knowledge, any\nofficer, employee or agent of Semnur has been convicted of any crime or engaged in any conduct that has previously caused or would reasonably\nbe expected to result in (i) disqualification or debarment by the FDA under 21 U.S.C. Sections 335(a) or (b), or any similar law, rule\nor regulation of any other governmental entities, (ii) debarment, suspension, or exclusion under any federal healthcare programs or by\nthe General Services Administration, or (iii) exclusion under 42 U.S.C. Section 1320a-7 or any similar law, rule or regulation of any\ngovernmental entities. Neither Semnur nor any of its officers, employees, or, to Semnur’s knowledge, any of its contractors or\nagents is the subject of any pending or threatened investigation by FDA pursuant to its “Fraud, Untrue Statements of Material Facts,\nBribery, and Illegal Gratuities” policy as stated at 56 Fed. Reg. 46191 (September 10, 1991) (the “\nFDA Application\nIntegrity Policy\n”) and any amendments thereto, or by any other similar governmental entity pursuant to any similar policy.\nNeither Semnur nor any of its officers, employees, contractors, and agents has",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 40,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_41",
+    "text": "rity Policy\n”) and any amendments thereto, or by any other similar governmental entity pursuant to any similar policy.\nNeither Semnur nor any of its officers, employees, contractors, and agents has committed any act, made any statement or failed to make\nany statement that would reasonably be expected to provide a basis for FDA to invoke the FDA Application Integrity Policy or for any\nsimilar governmental entity to invoke a similar policy. Neither Semnur nor any of its officers, employees, or to Semnur’s knowledge,\nany of its contractors or agents has made any materially false statements on, or material omissions from, any notifications, applications,\napprovals, reports and other submissions to FDA or any similar governmental entity.\n\n \n\n12\n\n \n\n(z) \nFDA\nRegulation\n. Semnur is and has been in compliance with all applicable laws administered or issued by the FDA or any similar governmental\nentity, including the Federal Food, Drug, and Cosmetic Act and all other laws regarding developing, testing, manufacturing, marketing,\ndistributing or promoting the products of Semnur, or complaint handling or adverse event reporting.\n\n \n\n(aa) \nCompliance\nwith Anti-Money Laundering Laws\n. The operations of Semnur are and have been conducted at all times in compliance with applicable\nfinancial record-keeping and reporting requirements of the anti-money laundering, including the Money Laundering Control Act of 1986,\n18 U.S.C. §§ 1956, 1957, and any other equivalent or comparable laws of other",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 41,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_42",
+    "text": "rd-keeping and reporting requirements of the anti-money laundering, including the Money Laundering Control Act of 1986,\n18 U.S.C. §§ 1956, 1957, and any other equivalent or comparable laws of other countries (the “\nAnti-Money Laundering\nLaws\n”), and no Action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator\ninvolving Semnur with respect to the Anti-Money Laundering Laws is pending or, to the knowledge of Semnur threatened.\n\n \n\n(bb) \nOffice\nof Foreign Assets Control\n. Neither Semnur nor, to Semnur’s knowledge, any director, officer, agent, employee or affiliate of\nSemnur is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control (“\nOFAC\n”).\n\n \n\n(cc) \nOff",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Semnur Common Stock",
+    "chunk_index": 42,
+    "total_chunks": 86,
+    "char_count": 752
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_43",
+    "text": ". There is no transaction, arrangement, or other relationship between Semnur and an unconsolidated or other\noff balance sheet entity that would be reasonably likely to have a Semnur Material Adverse Effect.\n\n \n\n(dd) \nStock\nOption Plans\n. Each stock option granted by Semnur was granted (i) in accordance with the terms of the applicable Semnur stock option\nplan and (ii) with an exercise price at least equal to the fair market value of the New Semnur Common Stock on the date such stock option\nwould be considered granted under GAAP, consistently applied during the periods involved and applicable law. No stock option granted\nunder Semnur’s stock option plan has been backdated. Semnur has not knowingly granted, and there is no and has been no Semnur policy\nor practice to knowingly grant, stock options prior to, or otherwise knowingly coordinate the grant of stock options with, the release\nor other public announcement of material information regarding Semnur or its financial results or prospects.\n\n \n\n(ee) \nNo\nDisqualification Events\n. With respect to the Common Shares to be offered and sold hereunder, none of Semnur, any of its predecessors,\nany affiliated issuer, any director, executive officer, other officer of Semnur participating in the offering hereunder, any beneficial\nowner of 20% or more of Semnur’s outstanding voting equity securities, calculated on the basis of voting power, nor any promoter\n(as that term is defined in Rule 405 under the 1933 Act) connected with Semnur in",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Balance Sheet Arrangements",
+    "chunk_index": 43,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_44",
+    "text": "% or more of Semnur’s outstanding voting equity securities, calculated on the basis of voting power, nor any promoter\n(as that term is defined in Rule 405 under the 1933 Act) connected with Semnur in any capacity at the time of sale (each, an “\nIssuer\nCovered Person\n” and, together, “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Balance Sheet Arrangements",
+    "chunk_index": 44,
+    "total_chunks": 86,
+    "char_count": 285
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_45",
+    "text": "”) is subject to any of the “Bad Actor”\ndisqualifications described in Rule 506(d)(1)(i) to (viii) under the 1933 Act (a “\nDisqualification Event\n”), except\nfor a Disqualification Event covered by Rule 506(d)(2) or (d)(3). Semnur has complied, to the extent applicable, with its disclosure\nobligations under Rule 506(e), and has furnished to the Buyers a copy of any disclosures provided thereunder.\n\n \n\n(ff) \nOther\nCovered Persons\n. Semnur is not aware of any Person other than the Placement Agent that has been or will be paid (directly or indirectly)\nremuneration for solicitation of Buyers or potential purchasers in connection with the sale of the Common Shares.\n\n \n\n13\n\n \n\n4.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Issuer Covered Persons",
+    "chunk_index": 45,
+    "total_chunks": 86,
+    "char_count": 681
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_46",
+    "text": "AND WARRANTIES OF DENALI\n.\n\n \n\nDenali\nrepresents and warrants to each of the Buyers that, as of the date hereof and as of the Closing Date:\n\n \n\n(a) \nOrganization\nand Qualification\n. Each of Denali and Merger Sub are entities duly organized and validly existing and in good standing under the\nlaws of the jurisdictions in which they are formed, and have the requisite power and authorization to own their properties and to carry\non their business as now being conducted and as presently proposed to be conducted. Each of Denali and Merger Sub is duly qualified as\na foreign entity to do business and is in good standing in every jurisdiction in which its ownership of property or the nature of the\nbusiness conducted by it makes such qualification necessary, except to the extent that the failure to be so qualified or be in good standing\nwould not reasonably be expected to have an Denali Material Adverse Effect. As used in this Agreement, “",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "REPRESENTATIONS",
+    "chunk_index": 46,
+    "total_chunks": 86,
+    "char_count": 942
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_47",
+    "text": "Effect\n” means any material adverse effect on the business, properties, assets, liabilities, operations, results of operations,\ncondition (financial or otherwise) or prospects of the Denali and Merger Sub, individually or taken as a whole, or on the transactions\ncontemplated hereby or on the other Denali Transaction Documents (as defined below) or by the agreements and instruments to be entered\ninto in connection herewith or therewith, or on the authority or ability of Denali to perform any of its obligations under any of the\nDenali Transaction Documents. Denali has no subsidiaries other than Merger Sub. The outstanding shares of capital stock of Merger Sub\nhave been duly authorized and validly issued, are fully paid and non-assessable and are owned by Denali.\n\n \n\n(b) \nAuthorization;\nEnforcement; Validity\n. Denali has the requisite corporate power and authority to enter into and perform its obligations under this\nAgreement and each of the other agreements entered into by the parties hereto in connection with the transactions contemplated by this\nAgreement (collectively, the “\nDenali \nTransaction Documents\n” and,\ntogether with the Semnur Transaction Documents, the “\nTransaction Documents\n”). The execution and delivery of this Agreement\nand the other Denali Transaction Documents and the consummation by Denali of the transactions contemplated hereby and thereby, have been\nduly authorized by Denali\n’s \nBoard of Directors and no further filing, consent or authorization\nis",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 47,
+    "total_chunks": 86,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_48",
+    "text": "d the consummation by Denali of the transactions contemplated hereby and thereby, have been\nduly authorized by Denali\n’s \nBoard of Directors and no further filing, consent or authorization\nis required by Denali, its Board of Directors or its stockholders (other than, as of the date hereof, stockholder consent related to\nthe items in the Form S-4). This Agreement and the other Denali Transaction Documents have been duly executed and delivered by Denali,\nand constitute the legal, valid and binding obligations of Denali, enforceable against Denali in accordance with their respective terms,\nexcept as such enforceability may be limited by general principles of equity or applicable bankruptcy, insolvency, reorganization, moratorium,\nliquidation or similar laws relating to, or affecting generally, the enforcement of applicable creditors’ rights and remedies.\n\n \n\n14\n\n \n\n(c) \nReservation\nof Common Shares\n. As of the Closing Date, a number of shares of New Semnur Common Stock shall have been duly authorized and reserved\nfor issuance which equals the number of Common Shares (subject to adjustment for stock splits, stock dividends, recapitalizations, reorganizations,\nreclassification, combinations, reverse stock splits or other similar events occurring after the date hereof).\n\n \n\n(d) \nNo\nConflicts\n. The execution, delivery and performance of the Denali Transaction Documents by Denali and the consummation by Denali of\nthe transactions contemplated hereby and thereby will not (i) result",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 48,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_49",
+    "text": "flicts\n. The execution, delivery and performance of the Denali Transaction Documents by Denali and the consummation by Denali of\nthe transactions contemplated hereby and thereby will not (i) result in a violation of the organizational documents of Denali or Merger\nSub, any capital stock of Denali Merger Sub or the organizational documents of Denali or Merger Sub, (ii) constitute a default (or an\nevent which with notice or lapse of time or both would become a default) in any respect under, or give to others any rights of termination,\namendment, acceleration or cancellation of, any agreement, indenture or instrument to which Denali or Merger Sub is a party, or (iii)\nresult in a violation of any law, rule, regulation, order, judgment or decree (including foreign, federal and state securities laws and\nregulations including all applicable foreign, federal, state laws, rules and regulations) applicable to Denali or Merger Sub or by which\nany property or asset of Denali or Merger Sub is bound or affected; except, in the case of clauses (ii) and (iii) above, as would not\nhave or reasonably be expected to result in an Denali Material Adverse Effect.\n\n \n\n(e) \nConsents\n.\nDenali is not required to obtain any consent from, authorization or order of, or make any filing or registration with, any court, governmental\nagency or any regulatory or self-regulatory agency or any other Person in order for it to execute, deliver or perform any of its obligations\nunder or contemplated by the Denali",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 49,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_50",
+    "text": "y court, governmental\nagency or any regulatory or self-regulatory agency or any other Person in order for it to execute, deliver or perform any of its obligations\nunder or contemplated by the Denali Transaction Documents, in each case, in accordance with the terms hereof or thereof. All consents,\nauthorizations, orders, filings and registrations which Denali is required to obtain pursuant to the preceding sentence have been obtained\nor effected on or prior to the Closing Date (or in the case of filings detailed above, will be made timely after the Closing Date), and\nDenali does not have knowledge of any facts or circumstances which are likely to prevent Denali from effecting any of the registration,\napplication or filings contemplated by the Denali Transaction Documents.\n\n \n\n(f) \nNo\nGeneral Solicitation\n. Neither Denali nor any of its affiliates, nor any Person acting on its or their behalf, has engaged in any\nform of general solicitation or general advertising (within the meaning of Regulation D) in connection with the offer or sale of the\nCommon Shares.\n\n \n\n(g) \nNo\nIntegrated Offering\n. Assuming the accuracy of the Buyers’ representations and warranties in Section 2 and Semnur’s representations\nand warranties in Section 3, neither Denali nor any of its affiliates, nor any Person acting on their behalf has, directly or indirectly,\nmade any offers or sales of any security or solicited any offers to buy any security, under circumstances that would require registration\nof the",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 50,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_51",
+    "text": "n acting on their behalf has, directly or indirectly,\nmade any offers or sales of any security or solicited any offers to buy any security, under circumstances that would require registration\nof the issuance of any of the Common Shares under the 1933 Act, whether through integration with prior offerings or otherwise, or cause\nthis offering of the Common Shares to require approval of stockholders of Denali for purposes of the 1933 Act or any applicable stockholder\napproval provisions, including, without limitation, under the rules and regulations of any exchange or automated quotation system on\nwhich any of the securities of Denali are listed or designated for quotation. Neither Denali nor any of its affiliates nor any Person\nacting on their behalf will take any action or steps that would require registration of the issuance of any of the Common Shares under\nthe 1933 Act or cause the offering of any of the Common Shares to be integrated with other offerings for purposes of any such applicable\nstockholder approval provisions.\n\n \n\n15\n\n \n\n(h) \nSEC\nDocuments; Financial Statements\n. During the two (2) years prior to the date hereof, Denali has timely filed all reports, schedules,\nforms, statements and other documents required to be filed by it with the SEC pursuant to the reporting requirements of the 1934 Act\n(all of the foregoing filed prior to the date hereof or prior to the Closing Date, and all exhibits included therein and financial statements,\nnotes and schedules thereto",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 51,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_52",
+    "text": "uirements of the 1934 Act\n(all of the foregoing filed prior to the date hereof or prior to the Closing Date, and all exhibits included therein and financial statements,\nnotes and schedules thereto and documents incorporated by reference therein being hereinafter referred to as the “\nSEC Documents\n”).\nAs of their respective filing dates, the SEC Documents complied in all material respects with the requirements of the 1934 Act applicable\nto Denali and the rules and regulations of the SEC promulgated thereunder applicable to the SEC Documents, and none of the SEC Documents,\nat the time they were filed with the SEC, contained any untrue statement of a material fact or omitted to state a material fact required\nto be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made,\nnot misleading. As of the dates of the filing of the Form S-4, including any amendments thereto, the Form S-4 did not contain any untrue\nstatement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements\ntherein, in the light of the circumstances under which they were made, not misleading. As of their respective filing dates, the financial\nstatements of Denali included in the SEC Documents complied as to form in all material respects with applicable accounting requirements\nand the published rules and regulations of the SEC with respect thereto. As of each filing date",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 52,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_53",
+    "text": "the SEC Documents complied as to form in all material respects with applicable accounting requirements\nand the published rules and regulations of the SEC with respect thereto. As of each filing date of the Form S-4 or any amendment thereto,\nthe financial statements of Denali included in the Form S-4 complied as to form in all material respects with applicable accounting requirements\nand the published rules and regulations of the SEC with respect thereto. Such financial statements have been prepared in accordance with\nGAAP, consistently applied during the periods involved (except (i) as may be otherwise indicated in such financial statements or the\nnotes thereto, or (ii) in the case of unaudited interim statements, to the extent they may exclude footnotes or may be condensed or summary\nstatements) and fairly present in all material respects the financial position of Denali as of the dates thereof and the results of its\noperations and cash flows for the periods then ended (subject, in the case of unaudited statements, to normal year-end audit adjustments\nwhich will not be material, either individually or in the aggregate).\n\n \n\n(i) \nMaterial\nChanges; Undisclosed Events, Liabilities or Developments\n. Since the date of the latest audited financial statements included within\nthe SEC Documents, except as specifically disclosed in a subsequent SEC Document filed prior to the date hereof or, with respect to the\nClosing Date, prior to the Closing Date: (i) there has been no event,",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 53,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_54",
+    "text": "cuments, except as specifically disclosed in a subsequent SEC Document filed prior to the date hereof or, with respect to the\nClosing Date, prior to the Closing Date: (i) there has been no event, occurrence or development that has had or that would reasonably\nbe expected to result in a Denali Material Adverse Effect, (ii) Denali has not incurred any liabilities (contingent or otherwise) other\nthan (A) trade accounts payable and accrued expenses incurred in the ordinary course of business consistent with past practice and (B)\nliabilities not required to be reflected in Denali’s financial statements pursuant to GAAP or disclosed in filings made with the\nSEC, (iii) Denali has not altered its method of accounting, (iv) Denali has not declared or made any dividend or distribution of cash\nor other property to its stockholders or purchased, redeemed or made any agreements to purchase or redeem any shares of its capital stock\nand (v) Denali has not issued any equity securities to any officer, director or affiliate. Denali does not have pending before the SEC\nany request for confidential treatment of information. \n\n \n\n16\n\n \n\n(j)",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Denali Material Adverse",
+    "chunk_index": 54,
+    "total_chunks": 86,
+    "char_count": 1137
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_55",
+    "text": ".  Neither Denali, nor to the Denali’s knowledge, any of its directors, officers, employees\nor agents have, directly or indirectly, made, offered, promised or authorized any payment or gift of any money or anything of value to\nor for the benefit of any “foreign official” (as such term is defined in the FCPA), foreign political party or official thereof\nor candidate for foreign political office for the purpose of (i) influencing any official act or decision of such official, party or\ncandidate, (ii) inducing such official, party or candidate to use his, her or its influence to affect any act or decision of a foreign\ngovernmental authority, or (iii) securing any improper advantage, in the case of (i), (ii) and (iii) above in order to assist Denali\nor any of its affiliates in obtaining or retaining business for or with, or directing business to, any person. Neither Denali nor, to\nDenali’s knowledge, any of its directors, officers, employees or agents have made or authorized any bribe, rebate, payoff, influence\npayment, kickback or other unlawful payment of funds or received or retained any funds in violation of any law, rule or regulation. Neither\nDenali nor, to Denali’s knowledge, any of its officers, directors or employees are the subject of any allegation, voluntary disclosure,\ninvestigation, prosecution or other enforcement action related to the FCPA or any other equivalent or comparable laws of other countries.\n\n \n\n(k) \nSarbanes-Oxley;",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Foreign Corrupt Practices",
+    "chunk_index": 55,
+    "total_chunks": 86,
+    "char_count": 1461
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_56",
+    "text": ". Denali is in compliance with any and all applicable requirements of the Sarbanes-Oxley Act of 2002\nthat are effective as of the date hereof, and any and all applicable rules and regulations promulgated by the SEC thereunder that are\neffective as of the date hereof and as of the Closing Date. Denali maintains a system of internal accounting controls sufficient to provide\nreasonable assurance that: (i) transactions are executed in accordance with management’s general or specific authorizations, (ii)\ntransactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain asset accountability,\n(iii) access to assets is permitted only in accordance with management’s general or specific authorization, and (iv) the recorded\naccountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to\nany differences. Denali and has established disclosure controls and procedures (as defined in 1934 Act Rules 13a-15(e) and 15d-15(e))\nfor Denali and designed such disclosure controls and procedures to ensure that information required to be disclosed by Denali in the\nreports it files or submits under the 1934 Act is recorded, processed, summarized and reported, within the time periods specified in\nthe SEC’s rules and forms. Denali’s certifying officers have evaluated the effectiveness of the disclosure controls and procedures\nof Denali as of the end of the period covered by",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 56,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_57",
+    "text": "ods specified in\nthe SEC’s rules and forms. Denali’s certifying officers have evaluated the effectiveness of the disclosure controls and procedures\nof Denali as of the end of the period covered by the most recently filed periodic report under the 1934 Act (such date, the “\nEvaluation\nDate\n”). Denali presented in its most recently filed periodic report under the 1934 Act the conclusions of the certifying officers\nabout the effectiveness of the disclosure controls and procedures based on their evaluations as of the Evaluation Date. Since the Evaluation\nDate, there have been no changes in the internal control over financial reporting (as such term is defined in the 1934 Act) of Denali\nthat have materially affected, or is reasonably likely to materially affect, the internal control over financial reporting of Denali.\n\n \n\n(l) \nTransactions\nWith Affiliates and Employees\n. Except as set forth in the SEC Documents, none of the officers or directors of Denali and, to the\nknowledge of Denali, none of the employees of Denali is presently a party to any transaction with Denali (other than for services as\nemployees, officers and directors), including any contract, agreement or other arrangement providing for the furnishing of services to\nor by, providing for rental of real or personal property to or from, providing for the borrowing of money from or lending of money to\nor otherwise requiring payments to or from any officer, director or such employee or, to the knowledge of Denali, any",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 57,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_58",
+    "text": "y to or from, providing for the borrowing of money from or lending of money to\nor otherwise requiring payments to or from any officer, director or such employee or, to the knowledge of Denali, any entity in which\nany officer, director, or any such employee has a substantial interest or is an officer, director, trustee, stockholder, member or partner,\nin each case in excess of $120,000 other than for: (i) payment of salary or consulting fees for services rendered, (ii) reimbursement\nfor expenses incurred on behalf of Denali and (iii) other employee benefits, including stock option agreements under any stock option\nplan of Denali.\n\n \n\n17\n\n \n\n(m) \nCapitalization\n.\nThe capitalization of Denali as of June 30, 2025 is as set forth in the SEC Documents, which includes the number of Class A ordinary\nshares of Denali owned beneficially, and of record, by affiliates of Denali as of June 30, 2025. Denali has not issued any capital stock\nsince June 30, 2025 through the date of this Agreement. No Person has any right of first refusal, preemptive right, right of participation,\nor any similar right to participate in the transactions contemplated by the Denali Transaction Documents. Except as disclosed in the\nSEC Documents, there are no outstanding options, warrants, scrip, rights to subscribe to, calls or commitments of any character whatsoever\nrelating to, or securities, rights or obligations convertible into or exercisable or exchangeable for, or giving any Person any right\nto subscribe",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 58,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_59",
+    "text": "o, calls or commitments of any character whatsoever\nrelating to, or securities, rights or obligations convertible into or exercisable or exchangeable for, or giving any Person any right\nto subscribe for or acquire any share capital of Denali, or contracts, commitments, understandings or arrangements by which Denali is\nor may become bound to issue additional share capital of Denali. Denali does not have any stock appreciation rights or “phantom\nstock” plans or any similar plan or agreement. All of the outstanding shares of capital stock of Denali are duly authorized, validly\nissued, fully paid and nonassessable, have been issued in compliance with all federal and state securities laws, and none of such outstanding\nshares was issued in violation of any preemptive rights or similar rights to subscribe for or purchase securities. Except as disclosed\nin the SEC Documents, there are no stockholders agreements, voting agreements or other similar agreements with respect to Denali’s\ncapital stock to which Denali is a party or, to the knowledge of Denali, between or among any of Denali’s stockholders. Except\nas disclosed in the SEC documents, there are no securities or instruments containing redemption, anti-dilution or similar provisions\nthat will be triggered by the issuance of the Common Shares or the Business Combination.\n\n \n\n(n) \nCompliance\n.\nDenali (i) is not in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse\nof",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 59,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_60",
+    "text": "n Shares or the Business Combination.\n\n \n\n(n) \nCompliance\n.\nDenali (i) is not in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse\nof time or both, would result in a default by Denali under), nor has Denali received notice of a claim that it is in default under or\nthat it is in violation of, any indenture, loan or credit agreement or any other agreement or instrument to which it is a party or by\nwhich it or any of its properties is bound (whether or not such default or violation has been waived), (ii) is not in violation of any\njudgment, decree, or order of any court, arbitrator or other governmental authority or (iii) is not and has not been in violation of\nany statute, rule, ordinance or regulation of any governmental authority, including without limitation all foreign, federal, state and\nlocal laws relating to taxes, environmental protection, occupational health and safety, product quality and safety and employment and\nlabor matters, except in each case as would not have or reasonably be expected to result in a Denali Material Adverse Effect.\n\n \n\n(o) \nLitigation\n.\nThere is no action, suit, inquiry, notice of violation, proceeding or investigation pending or, to the knowledge of Denali, threatened\nagainst or affecting Denali or any of its properties before or by any court, arbitrator, governmental or administrative agency or regulatory\nauthority (federal, state, county, local or foreign) (collectively, an",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 60,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_61",
+    "text": "g Denali or any of its properties before or by any court, arbitrator, governmental or administrative agency or regulatory\nauthority (federal, state, county, local or foreign) (collectively, an “\nAction\n”) which (i) adversely affects or challenges\nthe legality, validity or enforceability of any of the Denali Transaction Documents or the Common Shares or (ii) would, if there were\nan unfavorable decision, have or reasonably be expected to result in a Denali Material Adverse Effect. Neither Denali nor any director\nor officer thereof is or has been the subject of any Action involving a claim of violation of or liability under federal or state securities\nlaws or a claim of breach of fiduciary duty. There has not been, and to the knowledge of Denali, there is not pending or contemplated,\nany investigation by the SEC involving Denali or any current or former director or officer of Denali. The SEC has not issued any stop\norder or other order suspending the effectiveness of any registration statement filed by Denali under the 1934 Act or the 1933 Act.\n\n \n\n18\n\n \n\n(p) \nInsurance\n.\nDenali is insured by insurers of recognized financial responsibility against such losses and risks and in such amounts as are prudent\nand customary in the businesses in which Denali is engaged. Except as disclosed in the SEC Documents, Denali has no reason to believe\nthat it will not be able to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from\nsimilar",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 61,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_62",
+    "text": "in the SEC Documents, Denali has no reason to believe\nthat it will not be able to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from\nsimilar insurers as may be necessary to continue its business without a significant increase in cost.\n\n \n\n(q) \nTitle\nto Assets\n. Denali has good and marketable title in fee simple to all real property owned by it and good and marketable title in all\npersonal property owned by it that is material to the business of Denali, in each case free and clear of all liens, except for (i) liens\nas do not materially affect the value of such property and do not materially interfere with the use made and proposed to be made of such\nproperty by Denali and (ii) liens for the payment of federal, state or other taxes, for which appropriate reserves have been made therefor\nin accordance with GAAP and the payment of which is neither delinquent nor subject to penalties. Any real property and facilities held\nunder lease by Denali is held by it under valid, subsisting and enforceable leases with which Denali is in compliance.\n\n \n\n(r) \nLiabilities\n.\nExcept as specifically disclosed, reflected or fully reserved against in the financial statements of Denali included in the SEC Documents,\nand for Liabilities and obligations of a similar nature and in similar amounts incurred in the ordinary course of business since Denali’s\nformation, there are no material Liabilities, debts or obligations (whether accrued, fixed or",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 62,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_63",
+    "text": "ons of a similar nature and in similar amounts incurred in the ordinary course of business since Denali’s\nformation, there are no material Liabilities, debts or obligations (whether accrued, fixed or contingent, liquidated or unliquidated,\nasserted or unasserted or otherwise) relating to Denali. All Liabilities, fixed or contingent, which should be included under GAAP on\na balance sheet are included in the financial statements of Denali included in the SEC Documents.\n\n \n\n(s) \nCompliance\nwith Anti-Money Laundering Laws\n. The operations of Denali are and have been conducted at all times in compliance with applicable\nfinancial record-keeping and reporting requirements of the Anti-Money Laundering Laws, and no Action, suit or proceeding by or before\nany court or governmental agency, authority or body or any arbitrator involving Denali with respect to the Anti-Money Laundering Laws\nis pending or, to the knowledge of Denali, threatened.\n\n \n\n(t) \nOffice\nof Foreign Assets Control\n. Neither Denali nor, to Denali’s knowledge, any director, officer, agent, employee or affiliate of\nDenali is currently subject to any U.S. sanctions administered by OFAC.\n\n \n\n19\n\n \n\n5.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "Internal Accounting Controls",
+    "chunk_index": 63,
+    "total_chunks": 86,
+    "char_count": 1172
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_64",
+    "text": ".\n\n \n\n(a) \nCommercially\nReasonable Efforts\n. Each party shall use its commercially reasonable efforts timely to satisfy each of the covenants and the conditions\nto be satisfied by it as provided in Sections 6 and 7.\n\n \n\n(b) \nSecurities\nLaws\n. Denali shall, on or before the Closing Date, take such action as it shall reasonably determine is necessary in order to obtain\nan exemption for or to qualify the Common Shares for sale to the Buyers at the Closing pursuant to this Agreement under applicable securities\nor “Blue Sky” laws of the states of the United States (or to obtain an exemption from such qualification). Denali shall make\nall filings and reports relating to the offer and sale of the Common Shares required under applicable securities or “Blue Sky”\nlaws of the states of the United States following the Closing Date.\n\n \n\n(c) \nDisclosure\nof Transactions and Other Material Information\n. On or before the Disclosure Time (as defined below), Denali shall file a Current\nReport on Form 8-K describing the terms of the transactions contemplated by the Transaction Documents in the form required by the 1934\nAct and attaching the material Transaction Documents (including, without limitation, this Agreement). As used herein, “\nDisclosure\nTime\n” means, (i) if this Agreement is signed on a day that is not a business day or after 9:00 a.m. (New York City time) and\nbefore midnight (New York City time) on any business day, 9:01 a.m. (New York City time) on the business day immediately",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "COVENANTS",
+    "chunk_index": 64,
+    "total_chunks": 86,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_65",
+    "text": "ay that is not a business day or after 9:00 a.m. (New York City time) and\nbefore midnight (New York City time) on any business day, 9:01 a.m. (New York City time) on the business day immediately following the\ndate hereof, or (ii) if this Agreement is signed between midnight (New York City time) and 9:00 a.m. (New York City time) on any business\nday, no later than 9:01 a.m. (New York City time) on the date hereof.\n\n \n\n(d) \nConduct\nof Business\n. The business of Semnur and Denali shall not be conducted in violation of any law, ordinance or regulation of any governmental\nentity, including, without limitation, the FCPA and any other equivalent or comparable laws of other countries, OFAC regulations and\nAnti-Money Laundering Laws.\n\n \n\n6.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "COVENANTS",
+    "chunk_index": 65,
+    "total_chunks": 86,
+    "char_count": 741
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_66",
+    "text": "TO DENALI’S OBLIGATION TO SELL THE COMMON SHARES\n.\n\n \n\nThe\nobligation of Semnur and Denali (as New Semnur) hereunder to issue and sell the Common Shares at the Closing is subject to the satisfaction,\nat or before the Closing Date, of each of the following conditions, \nprovided\n that these conditions are for each of Semnur’s\nand Denali’s sole benefit and may be waived by Semnur and/or Denali at any time in its sole discretion by providing each Buyer\nwith prior written notice thereof:\n\n \n\n(a) Such\nBuyer shall have executed each of the Transaction Documents to which it is a party and delivered the same to Semnur.\n\n \n\n(b) [Reserved].\n\n \n\n(c) Such\nBuyer shall have delivered to Denali (as New Semnur) the Purchase Price for the Common Shares being purchased by such Buyer at the Closing\nby wire transfer of immediately available funds pursuant to the wire instructions provided by Semnur.\n\n \n\n20\n\n \n\n(d) The\nrepresentations and warranties of such Buyer shall be true and correct as of the date when made and as of the Closing Date as though\nmade at that time (except for representations and warranties that speak as of a specific date which shall be true and correct as of such\nspecified date), and such Buyer shall have performed, satisfied and complied in all material respects with the covenants, agreements\nand conditions required by this Agreement to be performed, satisfied or complied with by such Buyer at or prior to the Closing Date.\n\n \n\n(e) All\nconditions precedent to the closing of",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "CONDITIONS",
+    "chunk_index": 66,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_67",
+    "text": "s, agreements\nand conditions required by this Agreement to be performed, satisfied or complied with by such Buyer at or prior to the Closing Date.\n\n \n\n(e) All\nconditions precedent to the closing of the Business Combination contained in the Merger Agreement shall have been satisfied or waived.\n\n \n\n7.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "CONDITIONS",
+    "chunk_index": 67,
+    "total_chunks": 86,
+    "char_count": 300
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_68",
+    "text": "TO EACH BUYER’S OBLIGATION TO PURCHASE THE COMMON SHARES\n.\n\n \n\nThe\nobligation of each Buyer hereunder to purchase the Common Shares at the Closing is subject to the satisfaction, at or before the Closing\nDate, of each of the following conditions, \nprovided\n that these conditions are for each Buyer’s sole benefit and may be waived\nby such Buyer at any time in its sole discretion by providing Semnur with prior written notice thereof:\n\n \n\n(a) Semnur\nshall have duly executed and delivered to such Buyer (i) each of the Semnur Transaction Documents and (ii) the Common Shares (allocated\nin such amounts as such Buyer shall request), being purchased by such Buyer at the Closing pursuant to this Agreement.\n\n \n\n(b) Denali\n(as New Semnur) shall have duly executed and delivered to such Buyer each of the Denali Transaction Documents.\n\n \n\n(c) The\nrepresentations and warranties of each of Semnur and Denali shall be true and correct in all material respects as of the date when made\nand as of the Closing Date as though made at that time (except for representations and warranties that speak as of a specific date which\nshall be true and correct in all material respects as of such specified date) and each of Semnur and Denali shall have performed, satisfied\nand complied in all material respects with the covenants, agreements and conditions required by the Transaction Documents to be performed,\nsatisfied or complied with by it at or prior to the Closing Date.\n\n \n\n(d) Each\nof Semnur and Denali",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "CONDITIONS",
+    "chunk_index": 68,
+    "total_chunks": 86,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_69",
+    "text": "the covenants, agreements and conditions required by the Transaction Documents to be performed,\nsatisfied or complied with by it at or prior to the Closing Date.\n\n \n\n(d) Each\nof Semnur and Denali shall have obtained all stockholder, governmental, regulatory or other third party consents and approvals necessary\nfor the completion of the Business Combination.\n\n \n\n(e) All\nconditions precedent to the closing of the Business Combination contained in the Merger Agreement shall have been satisfied or waived.\n\n \n\n(f) [Reserved].\n\n \n\n(g) All\nlock-up provisions and other restrictions on transfer applicable to the equity securities of Denali held by Denali Capital Global Investments\nLLC (the “\nSponsor\n”) pursuant to any agreements or arrangements in effect prior to the execution of this Agreement,\nincluding that certain Letter Agreement, dated as of April 6, 2022, by and among Denali Capital Acquisition Corp., Sponsor and certain\nsecurity holders named therein and the other agreements disclosed in the SEC Documents, shall remain in full force and effect in accordance\nwith their terms immediately following the Closing, and neither Denali nor the Sponsor shall have taken any action to waive, amend, terminate,\nor otherwise release the Sponsor from such provisions or restrictions.\n\n \n\n21\n\n \n\n8.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "CONDITIONS",
+    "chunk_index": 69,
+    "total_chunks": 86,
+    "char_count": 1300
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_70",
+    "text": ".\nIn the event that the Closing shall not have occurred with respect to a Buyer on or before December 31, 2025 due to Semnur’s, Denali’s\nor such Buyer’s failure to satisfy the conditions set forth in Sections 6 and 7 above (and the nonbreaching party’s failure\nto waive such unsatisfied condition(s)), the Buyer, if such Buyer is the nonbreaching party, or Semnur, if Semnur is the nonbreaching\nparty, shall have the option to terminate this Agreement with respect to such Buyer, if such Buyer is the breaching party, or with respect\nto Semnur and Denali, if Semnur or Denali are the breaching party, at the close of business on such date by delivering a written notice\nto that effect to each other party to this Agreement and without liability of any party to any other party.\n\n \n\n9.",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "TERMINATION",
+    "chunk_index": 70,
+    "total_chunks": 86,
+    "char_count": 784
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_71",
+    "text": ".\n\n \n\n(a) \nGoverning\nLaw; Jurisdiction; Jury Trial\n. All questions concerning the construction, validity, enforcement and interpretation of this Agreement\nshall be governed by the internal laws of the State of New York, without giving effect to any choice of law or conflict of law provision\nor rule (whether of the State of New York or any other jurisdictions) that would cause the application of the laws of any jurisdictions\nother than the State of New York. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts\nsitting in The City of New York, Borough of Manhattan, for the adjudication of any dispute hereunder or in connection herewith or with\nany transaction contemplated hereby or discussed herein, and hereby irrevocably waives, and agrees not to assert in any suit, action\nor proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding\nis brought in an inconvenient forum or that the venue of such suit, action or proceeding is improper. Each party hereby irrevocably waives\npersonal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof to\nsuch party at the address for such notices to it under this Agreement and agrees that such service shall constitute good and sufficient\nservice of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 71,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_72",
+    "text": "eement and agrees that such service shall constitute good and sufficient\nservice of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any\nmanner permitted by law. \nEACH PARTY HEREBY IRREVOCABLY WAIVES ANY RIGHT IT MAY HAVE, AND AGREES NOT TO REQUEST, A JURY TRIAL FOR THE\nADJUDICATION OF ANY DISPUTE HEREUNDER OR IN CONNECTION WITH OR ARISING OUT OF THIS AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREBY.\n\n \n\n(b) \nCounterparts\n.\nThis Agreement may be executed in two or more identical counterparts, all of which shall be considered one and the same agreement and\nshall become effective when counterparts have been signed by each party and delivered to the other party; provided that a facsimile or\n.pdf signature shall be considered due execution and shall be binding upon the signatory thereto with the same force and effect as if\nthe signature were an original, not a facsimile or .pdf signature.\n\n \n\n(c) \nHeadings\n.\nThe headings of this Agreement are for convenience of reference and shall not form part of, or affect the interpretation of, this Agreement.\n\n \n\n22\n\n \n\n(d) \nSeverability\n.\nIf any provision of this Agreement is prohibited by law or otherwise determined to be invalid or unenforceable by a court of competent\njurisdiction, the provision that would otherwise be prohibited, invalid or unenforceable shall be deemed amended to apply to the broadest\nextent that it would be valid and enforceable, and the invalidity",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 72,
+    "total_chunks": 86,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_73",
+    "text": "diction, the provision that would otherwise be prohibited, invalid or unenforceable shall be deemed amended to apply to the broadest\nextent that it would be valid and enforceable, and the invalidity or unenforceability of such provision shall not affect the validity\nof the remaining provisions of this Agreement so long as this Agreement as so modified continues to express, without material change,\nthe original intentions of the parties as to the subject matter hereof and the prohibited nature, invalidity or unenforceability of the\nprovision(s) in question does not substantially impair the respective expectations or reciprocal obligations of the parties or the practical\nrealization of the benefits that would otherwise be conferred upon the parties. The parties will endeavor in good faith negotiations\nto replace the prohibited, invalid or unenforceable provision(s) with a valid provision(s), the effect of which comes as close as possible\nto that of the prohibited, invalid or unenforceable provision(s).\n\n \n\n(e) \nEntire\nAgreement; Amendments\n. This Agreement and the other Transaction Documents supersede all other prior oral or written agreements between\nSemnur, Denali, their affiliates and Persons acting on their behalf, on the one hand, and the Buyers, their affiliates and Persons acting\non their behalf, on the other hand, with respect to the matters discussed herein, and this Agreement, the other Transaction Documents\nand the instruments referenced herein and therein contain",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 73,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_74",
+    "text": "cting\non their behalf, on the other hand, with respect to the matters discussed herein, and this Agreement, the other Transaction Documents\nand the instruments referenced herein and therein contain the entire understanding of the parties with respect to the matters covered\nherein and therein and, except as specifically set forth herein or therein, none of Semnur, Denali nor any Buyer makes any representation,\nwarranty, covenant or undertaking with respect to such matters. No provision of this Agreement may be amended other than by an instrument\nin writing signed by Semnur, Denali and the holders of at least a majority of the aggregate amount of Common Shares issued and issuable\nhereunder, and any amendment to this Agreement made in conformity with the provisions of this Section 9(e) shall be binding on all Buyers\nand holders of Common Shares, Semnur and Denali; \nprovided\n, that any such amendment or waiver that complies with the foregoing\nbut that disproportionately, materially and adversely affects the rights and obligations of any Buyer relative to the comparable rights\nand obligations of the other Buyers shall require the prior written consent of such adversely affected Buyer (for the avoidance of doubt,\nparticipation by any Buyer in an unrelated financing by Semnur shall not be deemed to disproportionately affect the Buyers who do not\nparticipate in such financing). No provisions hereto may be waived other than by an instrument in writing signed by the party against\nwhom",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 74,
+    "total_chunks": 86,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_75",
+    "text": "be deemed to disproportionately affect the Buyers who do not\nparticipate in such financing). No provisions hereto may be waived other than by an instrument in writing signed by the party against\nwhom enforcement is sought. No such amendment shall be effective to the extent that it applies to less than all of the Buyers or holders\nof the applicable Common Shares then outstanding.\n\n \n\n(f) \nNotices\n.\nAny notices, consents, waivers or other communications required or permitted to be given under the terms of this Agreement or any of\nthe other Transaction Documents must be in writing and will be deemed to have been delivered: (i) upon receipt, when delivered personally;\n(ii) upon delivery, when sent by electronic mail (\nprovided\n that the sending party does not receive an automated rejection notice);\nor (iii) one (1) business day after deposit with an overnight courier service, in each case properly addressed to the party to receive\nthe same. The addresses and e-mail addresses for such communications shall be:\n\n \n\nIf\nto Semnur (or New Semnur following the Closing):\n\n \n\n960 San\nAntonio Road\n\nPalo\nAlto, CA 94303\n\nAttention:\nJaisim Shah\n\nE-mail:\nJShah@scilexholding.com\n\n \n\nIf\nto Denali prior to the Closing:\n\n \n\nDenali\nCapital Acquisition Corp, Inc.\n\n437 Madison Avenue. 27th Floor\n\nNew York, New York 10022\n\nAttn: Lei Huang\n\nEmail: lei.huang@itradeup.com\n\n \n\n23\n\n \n\nIf\nto a Buyer, to its address and e-mail address set forth on the Schedule of Buyers, with copies (for informational",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 75,
+    "total_chunks": 86,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_76",
+    "text": "k, New York 10022\n\nAttn: Lei Huang\n\nEmail: lei.huang@itradeup.com\n\n \n\n23\n\n \n\nIf\nto a Buyer, to its address and e-mail address set forth on the Schedule of Buyers, with copies (for informational purposes only) to such\nBuyer’s representatives as set forth in column (5) on the Schedule of Buyers, or to such other address and/or e-mail address and/or\nto the attention of such other Person as the recipient party has specified by written notice given to each other party five (5) calendar\ndays prior to the effectiveness of such change. Written confirmation of receipt (A) given by the recipient of such notice, consent, waiver\nor other communication, (B) mechanically or electronically generated by the sender’s e-mail containing the time and date or\n(C) provided by an overnight courier service shall be rebuttable evidence of personal service or receipt from an overnight courier service\nin accordance with clause (i), (ii) or (iii) above, respectively.\n\n \n\n(g) \nSuccessors\nand Assigns\n. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and assigns,\nincluding any purchasers of the Common Shares. A Buyer may assign some or all of its rights hereunder without the consent of Semnur or\nDenali, in which event such assignee shall be deemed to be a Buyer hereunder with respect to such assigned rights.\n\n \n\n(h) \nThird\nParty Beneficiaries\n. The Placement Agent shall be a third party beneficiary of the representations and warranties of the",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 76,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_77",
+    "text": "be a Buyer hereunder with respect to such assigned rights.\n\n \n\n(h) \nThird\nParty Beneficiaries\n. The Placement Agent shall be a third party beneficiary of the representations and warranties of the Buyers in\nSection 2, the representations and warranties of Semnur in Section 3 and the representations and warranties of Denali in Section 4. This\nAgreement is intended for the benefit of the parties hereto and their respective permitted successors and assigns, and is not for the\nbenefit of, nor may any provision hereof be enforced by, any other Person, except that each Indemnitee (as defined below) shall have\nthe right to enforce the obligations of Semnur and Denali with respect to Section 9(k) and as otherwise set forth in this Section 9(h).\n\n \n\n(i) \nSurvival\n.\nUnless this Agreement is terminated under Section 9, the representations and warranties of Semnur, Denali and the Buyers contained in\nSections 2, 3 and 4, and the agreements and covenants set forth in Sections 5 and 9 shall survive the Closing. Each Buyer, and each of\nSemnur and Denali, shall be responsible only for its own representations, warranties, agreements and covenants hereunder.\n\n \n\n(j) \nFurther\nAssurances\n. Each party shall do and perform, or cause to be done and performed, all such further acts and things, and shall execute\nand deliver all such other agreements, certificates, instruments and documents, as any other party may reasonably request in order to\ncarry out the intent and accomplish the purposes of this",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 77,
+    "total_chunks": 86,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_78",
+    "text": "execute\nand deliver all such other agreements, certificates, instruments and documents, as any other party may reasonably request in order to\ncarry out the intent and accomplish the purposes of this Agreement and the consummation of the transactions contemplated hereby.\n\n \n\n24\n\n \n\n(k) \nIndemnification\n.\n\n \n\n(i) In\nconsideration of each Buyer’s execution and delivery of the Transaction Documents and acquiring the Common Shares thereunder and\nin addition to all of Semnur’s other obligations under the Transaction Documents, Semnur shall defend, protect, indemnify and hold\nharmless each Buyer and each other holder of the Common Shares and all of their stockholders, partners, members, officers, directors,\nemployees and direct or indirect investors and any of the foregoing Persons’ agents or other representatives (including, without\nlimitation, those retained in connection with the transactions contemplated by this Agreement) (collectively, the “\nIndemnitees\n”)\nfrom and against any and all actions, causes of action, suits, claims, losses, costs, penalties, fees, liabilities and damages, and expenses\nin connection therewith (irrespective of whether any such Indemnitee is a party to the action for which indemnification hereunder is\nsought), and including attorneys’ fees and disbursements (the “\nIndemnified Liabilities\n”), incurred by any Indemnitee\nas a result of, or arising out of, or relating to (A) any misrepresentation or breach of any representation or warranty made by",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 78,
+    "total_chunks": 86,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_79",
+    "text": "(the “\nIndemnified Liabilities\n”), incurred by any Indemnitee\nas a result of, or arising out of, or relating to (A) any misrepresentation or breach of any representation or warranty made by Semnur\nin the Transaction Documents or any other certificate, instrument or document of Semnur contemplated hereby or thereby, (B) any breach\nof any covenant, agreement or obligation of Semnur contained in the Transaction Documents or any other certificate, instrument or document\nof Semnur contemplated hereby or thereby or (C) any cause of action, suit or claim brought or made against such Indemnitee by a third\nparty (including for these purposes a derivative action brought on behalf of Semnur or Denali) and arising out of or resulting from (I)\nthe execution, delivery, performance or enforcement of the Transaction Documents or any other certificate, instrument or document contemplated\nhereby or thereby, or (II) the status of such Buyer or holder of the Common Shares as an investor in Semnur pursuant to the transactions\ncontemplated by the Transaction Documents. To the extent that the foregoing undertaking by Semnur may be unenforceable for any reason,\nSemnur shall make the maximum contribution to the payment and satisfaction of each of the Indemnified Liabilities that is permissible\nunder applicable law.\n\n \n\n(ii) In\nconsideration of each Buyer’s execution and delivery of the Transaction Documents and acquiring the Common Shares thereunder and\nin addition to all of Denali’s other",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 79,
+    "total_chunks": 86,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_80",
+    "text": "licable law.\n\n \n\n(ii) In\nconsideration of each Buyer’s execution and delivery of the Transaction Documents and acquiring the Common Shares thereunder and\nin addition to all of Denali’s other obligations under the Transaction Documents, Denali shall defend, protect, indemnify and hold\nharmless the Indemnitees from and against any and all Indemnified Liabilities incurred by any Indemnitee as a result of, or arising out\nof, or relating to (A) any misrepresentation or breach of any representation or warranty made by Denali in the Transaction Documents\nor any other certificate, instrument or document contemplated hereby or thereby, (B) any breach of any covenant, agreement or obligation\nof Denali contained in the Transaction Documents or any other certificate, instrument or document contemplated hereby or thereby or (C)\nany cause of action, suit or claim brought or made against such Indemnitee by a third party (including for these purposes a derivative\naction brought on behalf of Semnur or Denali) and arising out of or resulting from (I) the execution, delivery, performance or enforcement\nof the Transaction Documents or any other certificate, instrument or document contemplated hereby or thereby, or (II) the status of such\nBuyer or holder of the Common Shares as an investor in Denali pursuant to the transactions contemplated by the Transaction Documents.\nTo the extent that the foregoing undertaking by Denali may be unenforceable for any reason, Denali shall make the maximum",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 80,
+    "total_chunks": 86,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_81",
+    "text": "pursuant to the transactions contemplated by the Transaction Documents.\nTo the extent that the foregoing undertaking by Denali may be unenforceable for any reason, Denali shall make the maximum contribution\nto the payment and satisfaction of each of the Indemnified Liabilities that is permissible under applicable law.\n\n \n\n25\n\n \n\n(l) \nNo\nStrict Construction\n. The language used in this Agreement will be deemed to be the language chosen by the parties to express their\nmutual intent, and no rules of strict construction will be applied against any party.\n\n \n\n(m) \nRemedies\n.\nEach Buyer and each holder of the Common Shares shall have all rights and remedies set forth in the Transaction Documents and all rights\nand remedies which such holders have been granted at any time under any other agreement or contract and all of the rights which such\nholders have under any law. Any Person having any rights under any provision of this Agreement shall be entitled to enforce such rights\nspecifically (without posting a bond or other security), to recover damages by reason of any breach of any provision of this Agreement\nand to exercise all other rights granted by law. Furthermore, each of Semnur and Denali recognizes that in the event that it fails to\nperform, observe, or discharge any or all of its obligations under the Transaction Documents, any remedy at law may prove to be inadequate\nrelief to the Buyers. Each of Semnur and Denali therefore agrees that the Buyers shall be entitled to seek",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 81,
+    "total_chunks": 86,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_82",
+    "text": "obligations under the Transaction Documents, any remedy at law may prove to be inadequate\nrelief to the Buyers. Each of Semnur and Denali therefore agrees that the Buyers shall be entitled to seek temporary and permanent injunctive\nrelief in any such case without the necessity of proving actual damages and without posting a bond or other security.\n\n \n\n(n) \nIndependent\nNature of Buyers’ Obligations and Rights\n. The obligations of each Buyer under each Transaction Document are several and not\njoint with the obligations of any other Buyer, and no Buyer shall be responsible in any way for the performance of the obligations of\nany other Buyer under any Transaction Document. Nothing contained herein or in any other Transaction Document, and no action taken by\nany Buyer pursuant hereto or thereto, shall be deemed to constitute the Buyers as, and each of Semnur and Denali acknowledges that the\nBuyers do not so constitute, a partnership, an association, a joint venture or any other kind of entity, or create a presumption that\nthe Buyers are in any way acting in concert or as a group, and neither Semnur nor Denali shall assert any such claim with respect to\nsuch obligations or the transactions contemplated by the Transaction Documents and each of Semnur and Denali acknowledges that the Buyers\nare not acting in concert or as a group with respect to such obligations or the transactions contemplated by the Transaction Documents.\nEach of Semnur and Denali acknowledges and each Buyer",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 82,
+    "total_chunks": 86,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_83",
+    "text": "ers\nare not acting in concert or as a group with respect to such obligations or the transactions contemplated by the Transaction Documents.\nEach of Semnur and Denali acknowledges and each Buyer confirms that it has independently participated in the negotiation of the transaction\ncontemplated hereby with the advice of its own counsel and advisors. Each Buyer shall be entitled to independently protect and enforce\nits rights, including, without limitation, the rights arising out of this Agreement or out of any other Transaction Documents, and it\nshall not be necessary for any other Buyer to be joined as an additional party in any proceeding for such purpose.\n\n \n\n[Signature\nPage Follows]\n\n \n\n26\n\n \n\nIN\nWITNESS WHEREOF,\n each Buyer, Semnur and Denali have caused their respective signature page to this Securities Purchase Agreement\nto be duly executed as of the date first written above.\n\n \n\n \n\nSEMNUR PHARMACEUTICALS, INC.\n\n \n\n \n\n \n\nBy:\n\n/s/ Jaisim Shah\n\n \n\n \n\nName:\n\nJaisim\n Shah\n\n \n\n \n\nTitle:\n\nChief\n Executive Officer\n\n \n\n \n\nDENALI CAPITAL ACQUISITION CORP. \n\n \n\n \n\n \n\nBy:\n\n/s/ Lei Huang\n\n \n\n \n\nName:\n\nLei\n Huang\n\n \n\n \n\nTitle:\n\nChief\n Executive Officer\n\n \n\n[Signature Page to Securities Purchase Agreement]\n\n \n\n \n\nIN\nWITNESS WHEREOF,\n each Buyer, Semnur and Denali have caused their respective signature page to this Securities Purchase Agreement\nto be duly executed as of the date first written above.\n\n \n\n \n\nBUYERS:\n\n \n\n \n\n \n\nJW Capital Securities Limited\n\n \n\n \n\n \n\n \n\nBy:\n\n/s/ Liu",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 83,
+    "total_chunks": 86,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_84",
+    "text": "ve signature page to this Securities Purchase Agreement\nto be duly executed as of the date first written above.\n\n \n\n \n\nBUYERS:\n\n \n\n \n\n \n\nJW Capital Securities Limited\n\n \n\n \n\n \n\n \n\nBy:\n\n/s/ Liu Ying\n\n \n\nName:\n\nLiu\n Ying\n\n \n\n \n\nTitle:\n\nDirector\n\n \n\n[Signature\nPage to Securities Purchase Agreement]",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "MISCELLANEOUS",
+    "chunk_index": 84,
+    "total_chunks": 86,
+    "char_count": 296
+  },
+  {
+    "chunk_id": "1913577_0001213900_25_079504_ea025423601ex10-1_denali_85",
+    "text": "OF BUYERS\n\n \n\n(1)\n \n\n(2)\n \n\n \n(3)\n \n\n \n(4)\n \n\n \n(5)\n\nBuyer\n \n \n\nAddress and E-mail\n \n\n \nNumber of Common Shares\n \n \n\n \nPurchase Price\n \n \n\n \nLegal\n\n Representative’s\n\n Address and\n\n E-mail\n \n\nJW Capital Securities Limited\n \n \n\nUnit 75, 43/F, AIA Tower, \n183 Electric Road, North Point, Hong Kong, China \n \nEmail: yoyo.liu.jwcs.com.hk\n \n\n \n1,250,000\n \n \n\n$\n20,000,000",
+    "source": "SEC_EDGAR",
+    "document_name": "1913577_0001213900_25_079504_ea025423601ex10-1_denali",
+    "section": "SCHEDULE",
+    "chunk_index": 85,
+    "total_chunks": 86,
+    "char_count": 366
+  }
+]

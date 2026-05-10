@@ -1,0 +1,372 @@
+[
+  {
+    "chunk_id": "2024_16197_0",
+    "text": "TITLE: Quality Control Standards for Automated Valuation Models\nDOCUMENT NUMBER: 2024-16197\nTYPE: Rule\nAGENCY: Treasury Department, Comptroller of the Currency, Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Consumer Financial Protection Bureau, Federal Housing Finance Agency\nPUBLISHED: 2024-08-07\nEFFECTIVE: 2025-10-01\nCITATION: 89 FR 64538\nACTION: Final rule.\n============================================================\n\nABSTRACT:\nThe OCC, Board, FDIC, NCUA, CFPB, and FHFA (collectively, the agencies) are adopting a final rule to implement the quality control standards mandated by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) for the use of automated valuation models (AVMs) by mortgage originators and secondary market issuers in determining the collateral worth of a mortgage secured by a consumer's principal dwelling. Under the final rule, institutions that engage in certain credit decisions or securitization determinations must adopt policies, practices, procedures, and control systems to ensure that AVMs used in these transactions to determine the value of mortgage collateral adhere to quality control standards designed to ensure a high level of confidence in the estimates produced by AVMs; protect against the manipulation of data; seek to avoid conflicts of interest; require random sample testing and reviews; and comply with applicable nondiscrimination laws.\n\nFULL TEXT:\n\n <div",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 37,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "2024_16197_1",
+    "text": "rotect against the manipulation of data; seek to avoid conflicts of interest; require random sample testing and reviews; and comply with applicable nondiscrimination laws.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 37,
+    "char_count": 1101
+  },
+  {
+    "chunk_id": "2024_16197_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of the Treasury</h6>\n<h6 class=\"sub-agency\">Office of the Comptroller of the Currency</h6>\n<ol>\n<li>12 CFR Part 34</li>\n<li>[Docket No. OCC-2023-0002]</li>\n<li>RIN 1557-AD87</li>\n</ol>\n<h6 class=\"agency\">Federal Reserve System</h6>\n<ol>\n<li>12 CFR Part 225</li>\n<li>[Docket No. R-1807]</li>\n<li>RIN 7100-AG60</li>\n</ol>\n<h6 class=\"agency\">Federal Deposit Insurance Corporation</h6>\n<ol>\n<li>12 CFR Part 323</li>\n<li>RIN 3064-AE68</li>\n</ol>\n<h6 class=\"agency\">National Credit Union Administration</h6>\n<ol>\n<li>12 CFR Parts 722 and 741</li>\n<li>[Docket No. NCUA-2023-0019]</li>\n<li>RIN 3133-AE23</li>\n</ol>\n<h6 class=\"agency\">Consumer Financial Protection Bureau</h6>\n<ol>\n<li>12 CFR Part 1026</li>\n<li>[Docket No. CFPB-2023-0025]</li>\n<li>RIN 3170-AA57</li>\n</ol>\n<h6 class=\"agency\">Federal Housing Finance Agency</h6>\n<ol>\n<li>12 CFR Part 1222</li>\n<li>RIN 2590-AA62</li>\n</ol>\n</div>\n</div></div>\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64538\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64538)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64538\" data-page=\"64538\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 37,
+    "char_count": 1478
+  },
+  {
+    "chunk_id": "2024_16197_3",
+    "text": "-markup\" id=\"page-64538\" data-page=\"64538\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"64538\">Office of the Comptroller of the Currency (OCC), Treasury; Board of Governors of the Federal Reserve System (Board); Federal Deposit Insurance Corporation (FDIC); National Credit Union Administration (NCUA); Consumer Financial Protection Bureau (CFPB); and Federal Housing Finance Agency (FHFA).</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"64538\">Final rule.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"64538\">The OCC, Board, FDIC, NCUA, CFPB, and FHFA (collectively, the agencies) are adopting a final rule to implement the quality control standards mandated by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) for the use of automated valuation models (AVMs) by mortgage originators and secondary market issuers in determining the collateral worth of a mortgage secured by a consumer's principal dwelling. Under the final rule, institutions that engage in certain credit decisions or securitization determinations must adopt policies, practices, procedures, and control systems to ensure that AVMs used in these transactions to determine the value of mortgage collateral adhere to quality control standards designed to ensure a high level of confidence in the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_16197_4",
+    "text": "d control systems to ensure that AVMs used in these transactions to determine the value of mortgage collateral adhere to quality control standards designed to ensure a high level of confidence in the estimates produced by AVMs; protect against the manipulation of data; seek to avoid conflicts of interest; require random sample testing and reviews; and comply with applicable nondiscrimination laws.</p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"64538\">This final rule is effective October 1, 2025.</p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-5\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-5\" data-page=\"64538\"></p>\n <p id=\"p-6\" data-page=\"64538\">\n <em>OCC:</em>\n G. Kevin Lawton, Appraiser (Real Estate Specialist), (202) 649-7152; Mitchell Plave, Special Counsel, Joanne Phillips, Counsel, or Marta Stewart-Bates, Counsel, Chief Counsel's Office, (202) 649-5490; Office of the Comptroller of the Currency, 400 7th Street SW, Washington, DC 20219. If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.\n </p>\n <p id=\"p-7\" data-page=\"64538\">\n <em>Board:</em>\n Andrew Willis, Manager, Policy Development Section, (202) 912-4323; Matthew McQueeney, Senior Financial Institution Policy Analyst, (202) 452-2942; Devyn Jeffereis, Senior Financial Institution Policy Analyst, (202) 365-2467, Division of Supervision and Regulation; Jay Schwarz, Assistant General Counsel,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_5",
+    "text": "tution Policy Analyst, (202) 452-2942; Devyn Jeffereis, Senior Financial Institution Policy Analyst, (202) 365-2467, Division of Supervision and Regulation; Jay Schwarz, Assistant General Counsel, (202) 452-2970; Matthew Suntag, Senior Counsel, (202) 452-3694; Derald Seid, Senior Counsel, (202) 452-2246; Trevor Feigleson, Senior Counsel, (202) 452-3274, David Imhoff, Senior Attorney (202) 452-2249, Legal Division, Board of Governors of the Federal Reserve System, 20th and C Streets NW, Washington, DC 20551. For users of telephone systems via text telephone (TTY) or any TTY-based Telecommunications Relay Services, please call 711 from any telephone, anywhere in the United States.\n </p>\n <p id=\"p-8\" data-page=\"64538\">\n <em>FDIC:</em>\n Patrick J. Mancoske, Senior Examination Specialist, Division of Risk Management Supervision, (202) 898-7032; Navid K. Choudhury, Counsel, Legal Division, (202) 898-6526; Mark Mellon, Counsel, Legal Division, (202) 898-3884; Lauren A. Whitaker, Counsel, Legal Division, (202) 898-3872; or Stuart Hoff, Senior Policy Analyst, Division of Depositor and Consumer Protection, (202) 898-3852; or \n <em><a href=\"mailto:supervision@fdic.gov\" class=\"email\">supervision@fdic.gov</a>,</em>\n Federal Deposit Insurance Corporation, 550 17th Street NW, Washington, DC 20429. For the hearing impaired only, TDD users may contact (202) 925-4618.\n </p>\n <p id=\"p-9\" data-page=\"64538\">\n <em>NCUA: Policy and Accounting:</em>\n Victoria Nahrwold, Associate Director; Naghi H.",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 5,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_16197_6",
+    "text": "29. For the hearing impaired only, TDD users may contact (202) 925-4618.\n </p>\n <p id=\"p-9\" data-page=\"64538\">\n <em>NCUA: Policy and Accounting:</em>\n Victoria Nahrwold, Associate Director; Naghi H. Khaled, Director of Credit Markets; or Simon Hermann, Senior Credit Specialist; Office of Examination and Insurance at (703) 518-6360; \n <em>Legal:</em>\n Ian Marenna, Associate General Counsel for Regulations and Legislation; John H. Brolin, Senior Staff Attorney; or Ariel Pereira, Senior Staff Attorney; Office of General Counsel at (703) 518-6540, National Credit Union Administration, 1775 Duke Street, Alexandria, Virginia 22314.\n </p>\n <p id=\"p-10\" data-page=\"64538\">\n <em>CFPB:</em>\n George Karithanom, Regulatory Implementation &amp; Guidance Program Analyst, Office of Regulations at (202) 435-7700 or at \n <em><a href=\"https://reginquiries.consumerfinance.gov/\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://reginquiries.consumerfinance.gov/&#8203;</a>.</em>\n If you require this document in an alternative electronic format, please contact \n <em><a href=\"mailto:CFPB_Accessibility@cfpb.gov\" class=\"email\">CFPB_Accessibility@cfpb.gov</a>.</em></p>\n <p id=\"p-11\" data-page=\"64538\">\n <em>FHFA:</em>\n Julie Giesbrecht, Senior Policy Analyst, Office of Housing and Regulatory Policy, (202) 557-9866, \n <em><a href=\"mailto:Julie.Giesbrecht@fhfa.gov\" class=\"email\">Julie.Giesbrecht@fhfa.gov</a>;</em>\n or Karen Heidel, Assistant General Counsel, Office of General Counsel,",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 6,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_7",
+    "text": "y Policy, (202) 557-9866, \n <em><a href=\"mailto:Julie.Giesbrecht@fhfa.gov\" class=\"email\">Julie.Giesbrecht@fhfa.gov</a>;</em>\n or Karen Heidel, Assistant General Counsel, Office of General Counsel, (202) 738-7753, \n <em><a href=\"mailto:Karen.Heidel@fhfa.gov\" class=\"email\">Karen.Heidel@fhfa.gov</a>.</em>\n For TTY/TRS users with hearing and speech disabilities, dial 711 and ask to be connected to any of the contact numbers above.\n </p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-6\">SUPPLEMENTARY INFORMATION:</h1>\n <h2 id=\"h-7\">I. Background</h2>\n <p id=\"p-12\" data-page=\"64538\">\n Section 1473(q) of the Dodd-Frank Act amended title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA or title XI)&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-1-p64538\" id=\"citation-1-p64538\">1</a>] </sup>\n \n to add a new section 1125 relating to quality control standards for AVMs used in valuing real estate collateral securing mortgage loans (section 1125).<sup>[<a class=\"footnote-reference\" href=\"#footnote-2-p64538\" id=\"citation-2-p64538\">2</a>] </sup>\n \n In June 2023, the agencies invited comment on a notice of proposed rulemaking (proposal or proposed rule) to implement these quality control standards.<sup>[<a class=\"footnote-reference\" href=\"#footnote-3-p64538\" id=\"citation-3-p64538\">3</a>] </sup>\n \n The agencies received approximately 50 comments concerning the proposed rule.\n </p>\n \n \n \n <p id=\"p-16\" data-page=\"64538\">\n The term",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 7,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_16197_8",
+    "text": "ref=\"#footnote-3-p64538\" id=\"citation-3-p64538\">3</a>] </sup>\n \n The agencies received approximately 50 comments concerning the proposed rule.\n </p>\n \n \n \n <p id=\"p-16\" data-page=\"64538\">\n The term &ldquo;automated valuation model&rdquo; is commonly used to describe computer programs that estimate a property's value and are used for a variety of purposes, including loan underwriting and portfolio monitoring.<sup>[<a class=\"footnote-reference\" href=\"#footnote-4-p64538\" id=\"citation-4-p64538\">4</a>] </sup>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 8,
+    "total_chunks": 37,
+    "char_count": 509
+  },
+  {
+    "chunk_id": "2024_16197_9",
+    "text": "<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64539\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64539)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64539\" data-page=\"64539\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n originators and secondary market issuers to determine the collateral worth of a mortgage secured by a consumer's principal dwelling.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-5-p64539\" id=\"citation-5-p64539\">5</a>] </sup>\n \n </p>\n \n \n <p id=\"p-19\" data-page=\"64539\">\n Section 1125 directs the agencies to promulgate regulations to implement quality control standards regarding AVMs.<sup>[<a class=\"footnote-reference\" href=\"#footnote-6-p64539\" id=\"citation-6-p64539\">6</a>] </sup>\n \n Section 1125 requires that AVMs, as defined in the statute, adhere to quality control standards designed to &ldquo;(1) ensure a high level of confidence in the estimates produced by automated valuation models; (2) protect against the manipulation of data; (3) seek to avoid conflicts of interest; (4) require random sample testing and reviews; and (5) account for any other such factor that the agencies. . . determine to be appropriate.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p64539\" id=\"citation-7-p64539\">7</a>]",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 9,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_16197_10",
+    "text": "5) account for any other such factor that the agencies. . . determine to be appropriate.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-7-p64539\" id=\"citation-7-p64539\">7</a>] </sup>\n \n As required by section 1125, the agencies consulted with the staff of the Appraisal Subcommittee and the Appraisal Standards Board of the Appraisal Foundation as part of promulgating this rule.<sup>[<a class=\"footnote-reference\" href=\"#footnote-8-p64539\" id=\"citation-8-p64539\">8</a>] </sup>\n \n </p>\n \n \n \n <p id=\"p-23\" data-page=\"64539\">Driven in part by advances in database and modeling technology and the availability of larger property datasets, the mortgage industry has begun to use AVMs with increasing frequency as part of the real estate valuation process. For example, the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) (collectively, the Government Sponsored Enterprises or GSEs) use proprietary AVMs in their collateral valuation processes. While advances in AVM technology and data availability have the potential to contribute to lower costs and shorten turnaround times in the performance of property valuations, it is important that institutions using such tools take appropriate steps, as required by section 1125, to ensure the credibility and integrity of the valuations produced by AVMs.</p>\n <h3 id=\"h-8\">Existing Guidance Relating to the Use of AVMs and Enforcement of the Final Rule</h3>\n <p id=\"p-24\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 10,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_16197_11",
+    "text": "5, to ensure the credibility and integrity of the valuations produced by AVMs.</p>\n <h3 id=\"h-8\">Existing Guidance Relating to the Use of AVMs and Enforcement of the Final Rule</h3>\n <p id=\"p-24\" data-page=\"64539\">\n Since 2010, the OCC, Board, FDIC, and NCUA have provided supervisory guidance on the use of AVMs by the institutions they regulate in Appendix B to the Interagency Appraisal and Evaluation Guidelines (Appraisal Guidelines).<sup>[<a class=\"footnote-reference\" href=\"#footnote-9-p64539\" id=\"citation-9-p64539\">9</a>] </sup>\n \n The Appraisal Guidelines recognize that an institution may use a variety of analytical methods and technological tools in developing real estate valuations, provided the institution can demonstrate that the valuation method is consistent with safe and sound banking practices. The Appraisal Guidelines recognize that the establishment of policies and procedures governing the selection, use, and validation of AVMs, including steps to ensure the accuracy, reliability, and independence of an AVM, is a sound banking practice.<sup>[<a class=\"footnote-reference\" href=\"#footnote-10-p64539\" id=\"citation-10-p64539\">10</a>] </sup>\n \n </p>\n \n \n <p id=\"p-27\" data-page=\"64539\">\n In addition to Appendix B of the Appraisal Guidelines, the OCC, Board, and FDIC have issued guidance on model risk management practices (Model Risk Management Guidance) that provides comprehensive supervisory guidance on validation and testing of models.<sup>[<a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 11,
+    "total_chunks": 37,
+    "char_count": 1476
+  },
+  {
+    "chunk_id": "2024_16197_12",
+    "text": "ssued guidance on model risk management practices (Model Risk Management Guidance) that provides comprehensive supervisory guidance on validation and testing of models.<sup>[<a class=\"footnote-reference\" href=\"#footnote-11-p64539\" id=\"citation-11-p64539\">11</a>] </sup>\n \n While the NCUA is not a party to the Model Risk Management Guidance, the NCUA monitors the model risk management efforts of federally insured credit unions through its supervisory approach by confirming that the governance and controls over AVMs are appropriate based on the size and complexity of the transactions, the risk the transactions pose to the credit union, and the capabilities and resources of the credit union.\n </p>\n \n <p id=\"p-29\" data-page=\"64539\">\n The CFPB and FHFA are also not parties to the Appraisal Guidelines or the Model Risk Management Guidance. The FHFA has separately issued model risk management guidance that provides the FHFA's supervisory expectations for its regulated entities in the development, validation, and use of models.<sup>[<a class=\"footnote-reference\" href=\"#footnote-12-p64539\" id=\"citation-12-p64539\">12</a>] </sup>\n \n </p>\n \n <p id=\"p-31\" data-page=\"64539\">\n The OCC, Board, FDIC, NCUA, CFPB, and FHFA have also provided guidance on managing the risk inherent in the use of third-party service providers, such as outside entities that provide AVMs and AVM services.<sup>[<a class=\"footnote-reference\" href=\"#footnote-13-p64539\" id=\"citation-13-p64539\">13</a>] </sup>\n \n For",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 12,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_16197_13",
+    "text": "-party service providers, such as outside entities that provide AVMs and AVM services.<sup>[<a class=\"footnote-reference\" href=\"#footnote-13-p64539\" id=\"citation-13-p64539\">13</a>] </sup>\n \n For example, under the guidance issued by the Federal banking agencies, regardless of whether activities are performed internally or using a third party, banking organizations are required to operate in a safe and sound manner and in compliance with applicable laws and regulations. A banking organization's use of third parties does not diminish its responsibility to meet these requirements to the same extent as if its activities were performed by the banking organization in-house. To operate in a safe and sound manner, a banking organization establishes risk management practices to effectively manage the risks arising from its activities, including from third-party relationships. These guidance documents address the characteristics, governance, and operational effectiveness of a banking organization's risk management program for outsourced activities.\n </p>\n \n <p id=\"p-33\" data-page=\"64539\">\n Institutions that are not regulated by the agency or agencies providing the guidance may still look to the guidance for assistance with compliance. The OCC, FDIC, Federal Reserve, NCUA, CFPB, FHFA, FTC, and State attorneys general each have an important role in enforcing this rule as to their respective regulated entities or covered market participants.<sup>[<a class=\"footnote-reference\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 13,
+    "total_chunks": 37,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "2024_16197_14",
+    "text": "and State attorneys general each have an important role in enforcing this rule as to their respective regulated entities or covered market participants.<sup>[<a class=\"footnote-reference\" href=\"#footnote-14-p64539\" id=\"citation-14-p64539\">14</a>] </sup>\n \n </p>\n \n <h2 id=\"h-9\">II. Brief Summary of the Proposed Rule, Comments, and the Final Rule</h2>\n <p id=\"p-35\" data-page=\"64539\">\n The proposed rule would have required that mortgage originators and secondary market issuers adopt policies, practices, procedures, and control systems to ensure that AVMs used in certain credit decisions or covered securitization determinations (as defined below) adhere to quality control standards designed to (1) ensure a high level of confidence in the estimates produced; (2) protect against the manipulation of data; (3) avoid conflicts of interest; (4) require random sample testing and reviews; and (5) comply with applicable nondiscrimination laws. The proposed rule would not have set specific requirements for how institutions are to structure these policies, practices, procedures, and \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64540\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64540)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64540\" data-page=\"64540\"><svg class=\"svg-icon svg-icon-doc-generic\"><use",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 14,
+    "total_chunks": 37,
+    "char_count": 1462
+  },
+  {
+    "chunk_id": "2024_16197_15",
+    "text": "40)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64540\" data-page=\"64540\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n control systems. The proposed rule stated that this approach would provide institutions with the flexibility to set quality controls for AVMs as appropriate based on the size, complexity, and risk profile of the institution and the transactions for which they would use AVMs covered by the proposed rule. The proposed rule further stated that, as modeling technology continues to evolve, this flexible approach would allow institutions to refine their policies, practices, procedures, and control systems as appropriate and that the agencies' existing guidance related to AVMs would remain applicable.\n </p>\n <p id=\"p-36\" data-page=\"64540\">The agencies received approximately 50 comments on the proposed rule to implement the quality control standards for AVMs in title XI, including comments from financial institutions, financial institution trade associations, real estate trade associations, mortgage insurance trade associations, appraiser trade associations, nonprofit advocacy organizations, AVM developers, and appraisers. Most commenters recognized that quality control standards for AVMs are required by title XI and are important to the safety and soundness of mortgage lending and securitizations involving mortgages. Most commenters also expressed support",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 15,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_16197_16",
+    "text": "control standards for AVMs are required by title XI and are important to the safety and soundness of mortgage lending and securitizations involving mortgages. Most commenters also expressed support for the flexibility in the proposed rule for institutions to set quality controls for AVMs as appropriate based on the size, complexity, and risk profile of the institution and the transactions for which they would use AVMs covered by the proposed rule.</p>\n <p id=\"p-37\" data-page=\"64540\">While most commenters recognized the importance of ensuring that AVMs used by mortgage originators and secondary market issuers do not violate fair lending laws, some commenters expressed concern about how to implement the proposed quality control standards, particularly the fifth quality control factor on nondiscrimination, and suggested that additional guidance from the agencies may be needed in the future. Some commenters suggested that the rule should apply to AVM developers and vendors, rather than lending institutions, given that mortgage originators have no control over how AVMs are created. A number of commenters recommended that the agencies work with the private sector to develop a standard setting organization (SSO) for AVMs and an independent third-party entity responsible for testing AVMs for compliance with the proposed quality control standards.</p>\n <p id=\"p-38\" data-page=\"64540\">\n The agencies are finalizing the proposed rule largely as proposed. The agencies are also making",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 16,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_16197_17",
+    "text": "s for compliance with the proposed quality control standards.</p>\n <p id=\"p-38\" data-page=\"64540\">\n The agencies are finalizing the proposed rule largely as proposed. The agencies are also making clarifying edits to the definition of the term &ldquo;mortgage originator,&rdquo; adding a definition of &ldquo;person&rdquo; in response to comments received, and inserting the words &ldquo;seek to&rdquo; into the third quality control factor in order to match the language of section 1125, as discussed in the preamble to the proposed rule. The flexible approach to implementing the quality control standards provided by the final rule will allow the implementation of the standards to evolve along with changes in AVM technology and minimize compliance costs. Regarding the fifth quality control factor, the agencies note that existing nondiscrimination laws apply to appraisals and AVMs and that institutions have a preexisting obligation to comply with all Federal laws, including Federal nondiscrimination laws. Institutions will have flexibility to adopt approaches to implement this quality control factor in ways that reflect the risks and complexities of their individual business models. In addition, there is existing guidance on fair lending considerations to inform compliance with the nondiscrimination factor.<sup>[<a class=\"footnote-reference\" href=\"#footnote-15-p64540\" id=\"citation-15-p64540\">15</a>] </sup>\n \n </p>\n \n <p id=\"p-40\" data-page=\"64540\">Regarding commenters' suggestion",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 17,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_16197_18",
+    "text": "iscrimination factor.<sup>[<a class=\"footnote-reference\" href=\"#footnote-15-p64540\" id=\"citation-15-p64540\">15</a>] </sup>\n \n </p>\n \n <p id=\"p-40\" data-page=\"64540\">Regarding commenters' suggestion to apply the rule to AVM developers and vendors, the agencies note that, while section 1125 applies to mortgage originators and secondary market issuers, financial institutions should be able to work with AVM developers and vendors to assist them with their compliance obligations under the rule, as they do with other third-party vendors in order to comply with relevant regulatory requirements. The agencies recognize that one or more SSOs and third-party AVM testing entities could be beneficial to effective compliance with the AVM rule. As long as financial institutions meet the obligations provided in the final rule, they are free to work with third parties to assist them with their compliance obligations.</p>\n <h2 id=\"h-10\">III. Discussion of the Proposed Rule, Comments Received, and the Final Rule</h2>\n <p id=\"p-41\" data-page=\"64540\">The following is a detailed discussion of the proposed rule, the comments the agencies received, the responses to the comments, and the final rule.</p>\n <h3 id=\"h-11\">A. Scope of the Rule</h3>\n <h4 id=\"h-12\">1. AVMs Used in Connection With Making Credit Decisions</h4>\n <p id=\"p-42\" data-page=\"64540\">The proposed rule would have applied to AVMs used in connection with making a credit decision. The proposed rule would have defined &ldquo;credit",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 18,
+    "total_chunks": 37,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_16197_19",
+    "text": "Decisions</h4>\n <p id=\"p-42\" data-page=\"64540\">The proposed rule would have applied to AVMs used in connection with making a credit decision. The proposed rule would have defined &ldquo;credit decision,&rdquo; in part, to include a decision regarding whether and under what terms to originate, modify, terminate, or make other changes to a mortgage. The proposed rule would have expressly excluded the use of AVMs in monitoring the quality or performance of mortgages or mortgage-backed securities. The use of AVMs solely to monitor a creditor's mortgage portfolio would not have been a credit decision under the proposed rule because the lending institution has already made the credit decision. The scope of the proposed rule included, for example, decisions regarding originating a mortgage; modifying the terms of an existing loan; and renewing, increasing, or terminating a home equity line of credit (HELOC). The proposed rule used the term &ldquo;credit decision&rdquo; to help clarify that the proposed rule would have covered these various types of decisions.</p>\n <p id=\"p-43\" data-page=\"64540\">\n The proposal to limit the scope of the rule to credit decisions (or, as discussed below, covered securitization determinations) reflected the statutory definition of AVM, which focuses on the use of an AVM &ldquo;by mortgage originators and secondary market issuers to \n <em>determine</em>\n the collateral worth of a mortgage secured by a consumer's principal dwelling.&rdquo;&thinsp;<sup>[<a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 19,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_16197_20",
+    "text": "se of an AVM &ldquo;by mortgage originators and secondary market issuers to \n <em>determine</em>\n the collateral worth of a mortgage secured by a consumer's principal dwelling.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-16-p64540\" id=\"citation-16-p64540\">16</a>] </sup>\n \n The proposed rule distinguished between using AVMs to determine the value of collateral securing a mortgage and using AVMs to monitor, verify, or validate a previous determination of value (\n <em>e.g.,</em>\n the proposed rule would not have covered a computerized tax assessment model used to verify the valuation made during the origination process).<sup>[<a class=\"footnote-reference\" href=\"#footnote-17-p64540\" id=\"citation-17-p64540\">17</a>] </sup>\n \n The proposed rule focused on those aspects of mortgage and securitization transactions where the value of collateral is typically determined.\n </p>\n \n \n <p id=\"p-46\" data-page=\"64540\">\n Most commenters expressed support for limiting the scope of the rule to AVMs used in connection with making credit decisions (or, as discussed below, \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64541\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64541)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64541\" data-page=\"64541\"><svg class=\"svg-icon svg-icon-doc-generic\"><use",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 20,
+    "total_chunks": 37,
+    "char_count": 1465
+  },
+  {
+    "chunk_id": "2024_16197_21",
+    "text": "64541)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64541\" data-page=\"64541\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n covered securitization determinations) and excluding use of AVMs for portfolio monitoring, which does not involve credit decision-making. The commenters also stated that excluding portfolio monitoring would reduce some burdens and costs that may otherwise be passed on to borrowers. One commenter stated that these exclusions would permit lenders more certainty in using AVMs for purposes such as portfolio monitoring.\n </p>\n <p id=\"p-47\" data-page=\"64541\">Some commenters argued that the rule should apply to the use of AVMs to value a consumer's principal dwelling for any purpose. For example, one commenter argued that the statutory definition of &ldquo;automated valuation model&rdquo; at section 1125 does not limit applicability only to AVMs used during underwriting.</p>\n <p id=\"p-48\" data-page=\"64541\">The final rule limits the scope of the rule to credit decisions and, as discussed below, covered securitization determinations. This scope is consistent with the statutory language in section 1125, which focuses on determinations of value. The focus on determinations of value made in connection with credit decisions or covered securitization determinations, and the exclusion of AVM use for portfolio monitoring, will also reduce the compliance costs",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 21,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_22",
+    "text": "erminations of value made in connection with credit decisions or covered securitization determinations, and the exclusion of AVM use for portfolio monitoring, will also reduce the compliance costs associated with a broader application of the quality control standards.</p>\n <p id=\"p-49\" data-page=\"64541\">\n <em>Loan modifications and other changes to existing loans.</em>\n The proposed rule would have defined a credit decision broadly to include, among other things, a decision regarding whether and under what circumstances to modify or to make other changes to a mortgage. As a result, the proposed rule would have covered AVMs used to determine the value of an existing mortgage secured by a consumer's principal dwelling in conjunction with a decision to modify or change the terms of that mortgage when such decision is made by a &ldquo;mortgage originator,&rdquo; &ldquo;secondary market issuer,&rdquo; or servicer working on behalf of a mortgage originator or secondary market issuer. For example, the proposed rule would have covered AVMs used by a &ldquo;mortgage originator&rdquo; or &ldquo;secondary market issuer,&rdquo; or servicer working on behalf of a mortgage originator or secondary market issuer to deny a loan modification or to confirm the value of collateral in response to a request to change or release collateral.\n </p>\n <p id=\"p-50\" data-page=\"64541\">The agencies received several comments on this topic. Two commenters asked the agencies to clarify how the rule would",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 22,
+    "total_chunks": 37,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "2024_16197_23",
+    "text": "equest to change or release collateral.\n </p>\n <p id=\"p-50\" data-page=\"64541\">The agencies received several comments on this topic. Two commenters asked the agencies to clarify how the rule would apply to certain credit decisions. The first of these commenters expressed support for treating a decision to modify a loan as a credit decision because, like an initial credit decision, when a mortgage originator assesses collateral value for a loan modification, the mortgage originator is assessing whether the value of the collateral is sufficient to support the decision to engage in the transaction. However, the commenter asked the agencies to strike the reference to &ldquo;other changes&rdquo; from the definition of &ldquo;credit decision.&rdquo; The commenter believed that this change would reduce ambiguity regarding the type of conduct covered by the definition of credit decision. The other commenter suggested that the agencies make clear that assumptions are a credit event and would fall under the rule. This commenter added that the use of assumptions may rise in the future, so the market would benefit from that clarity.</p>\n <p id=\"p-51\" data-page=\"64541\">\n As discussed further below, the agencies have considered these two comments, but do not find it necessary to provide any additional clarification regarding how the rule applies to credit decisions. Section 1125 of FIRREA defines an AVM as &ldquo;any computerized model used by mortgage originators and secondary market",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 23,
+    "total_chunks": 37,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_16197_24",
+    "text": "itional clarification regarding how the rule applies to credit decisions. Section 1125 of FIRREA defines an AVM as &ldquo;any computerized model used by mortgage originators and secondary market issuers \n <em>to determine the collateral worth</em>\n of a mortgage secured by a consumer's principal dwelling.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-18-p64541\" id=\"citation-18-p64541\">18</a>] </sup>\n \n As explained in the proposed rule, the agencies interpret the scope of section 1125 as covering the use of an AVM to make a credit decision, but not the use of an AVM to monitor, to verify, or to validate a prior determination of value. The proposed rule further provided that a &ldquo;credit decision&rdquo; is &ldquo;a decision regarding whether and under what terms to originate, modify, terminate, or make other changes to a mortgage, including a decision on whether to extend new or additional credit or change the credit limit on a line of credit.&rdquo; Striking the reference to &ldquo;other changes&rdquo; from the definition of credit decision, as suggested by the first commenter, would be inconsistent with the agencies' interpretation of the scope of section 1125 because it would narrow the scope of the rule to apply only to origination, modification, and termination decisions. The agencies also find it unnecessary to clarify that assumptions are credit events that fall under the rule, as suggested by the second commenter, because the proposed definition",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 24,
+    "total_chunks": 37,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "2024_16197_25",
+    "text": "mination decisions. The agencies also find it unnecessary to clarify that assumptions are credit events that fall under the rule, as suggested by the second commenter, because the proposed definition of &ldquo;credit decision&rdquo; is broad enough to cover assumptions.\n </p>\n \n <p id=\"p-53\" data-page=\"64541\">Several other commenters disagreed with applying the rule to AVMs used to modify or change the terms of an existing loan. One of these commenters suggested that covering loan modifications would present operational challenges and is unsupported by an articulated benefit to consumers. Another commenter stated that covering modifications could discourage the use of AVMs and push lenders to use appraisals for modifications, which are more costly and time-consuming. Two other commenters expressed concern that covering loan modifications could increase costs for borrowers already facing financial distress. One of these commenters further noted that covering loan modifications also could make the loss mitigation process take longer. Finally, another commenter stated that the proposal to include loan modifications should have minimal, if any, impact on the market because the majority of loan modifications do not require a valuation of the property. However, the commenter recommended that the rule align with the traditional practice described in the Truth in lending Act (TILA) of distinguishing the role of servicers from that of originators in cases where there is no new",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 25,
+    "total_chunks": 37,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_16197_26",
+    "text": "d that the rule align with the traditional practice described in the Truth in lending Act (TILA) of distinguishing the role of servicers from that of originators in cases where there is no new extension of credit. The commenter argued that, unless this rule's definition of credit decision excludes loan modifications that are not a new extension of credit, the regulatory framework for this rule could be misapplied to other regulations.</p>\n <p id=\"p-54\" data-page=\"64541\">\n The agencies have considered these comments and are adopting the final rule as proposed. AVMs are often used to determine the value of collateral in connection with loan modifications and other changes to mortgages. Further, the agencies continue to view quality control standards for AVMs used to make credit decisions relating to loan modifications and other changes to mortgages as important both to safety and soundness and to consumer protection. As discussed below, many institutions have already set up quality control systems for AVMs and have third-party risk management programs in place. For those institutions, existing quality control systems and third-party risk management programs should mitigate the burden of implementing additional quality control standards for AVMs used to modify or to change the terms of existing loans as well as any related costs passed on to consumers. In addition, the flexibility the rule provides to institutions to design policies, practices, procedures, and control systems",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 26,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_16197_27",
+    "text": "of existing loans as well as any related costs passed on to consumers. In addition, the flexibility the rule provides to institutions to design policies, practices, procedures, and control systems to implement the quality control standards should reduce the burden of implementing additional quality control standards for AVMs used to modify or to change the terms of existing loans. This flexibility should \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64542\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64542)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64542\" data-page=\"64542\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n reduce any related costs passed on to consumers.\n </p>\n <p id=\"p-55\" data-page=\"64542\">\n Finally, the agencies considered the comment recommending that the rule align with the traditional practice described in TILA of distinguishing the role of servicers from that of mortgage originators in cases where there is no new extension of credit. However, the agencies decline to adopt changes to the proposed rule based on the comment. Although, as discussed in detail in part III.C.7 of this \n <strong class=\"minor-caps\">SUPPLEMENTARY INFORMATION</strong>\n , the rule defines mortgage originator by adopting the full text of the TILA definition of",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 27,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_28",
+    "text": "scussed in detail in part III.C.7 of this \n <strong class=\"minor-caps\">SUPPLEMENTARY INFORMATION</strong>\n , the rule defines mortgage originator by adopting the full text of the TILA definition of the term with technical revisions, this rulemaking is being conducted pursuant to FIRREA and it is consistent with FIRREA for valuation requirements to apply to both new and existing extensions of credit. For example, under the appraisal regulations of the Federal banking agencies and NCUA, loan modifications that are real estate-related financial transactions must, in general, comply with appraisal requirements or obtain an evaluation (for entities regulated by the banking agencies) or a written estimate of market value (for credit unions) that is consistent with safe and sound banking practices. Therefore, it is consistent with the regulatory framework of FIRREA for the agencies to apply AVM requirements to transactions involving both new and existing credit.\n </p>\n <p id=\"p-56\" data-page=\"64542\">\n <em>Home equity line of credit (HELOC) reductions or suspensions.</em>\n The proposed rule would have covered AVMs used in deciding whether or to what extent to reduce or suspend a HELOC. In the proposal, the agencies considered mortgage originators and secondary market issuers to be using AVMs in connection with making a credit decision when they use AVMs to decide whether or to what extent to reduce or suspend a HELOC.\n </p>\n <p id=\"p-57\" data-page=\"64542\">The agencies received",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 28,
+    "total_chunks": 37,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_16197_29",
+    "text": "AVMs in connection with making a credit decision when they use AVMs to decide whether or to what extent to reduce or suspend a HELOC.\n </p>\n <p id=\"p-57\" data-page=\"64542\">The agencies received several comments on this topic. Two commenters generally supported applying the rule to HELOCs, while two commenters opposed this application. These commenters expressed the concern that the burden and expense of compliance would outweigh the consumer protection and safety and soundness benefits. Another commenter requested further clarification regarding how the rule would apply when AVMs are used to make credit decisions relating to HELOC reductions and suspensions.</p>\n <p id=\"p-58\" data-page=\"64542\">The agencies have considered these comments and are adopting the final rule as proposed. The agencies have determined that AVMs used to make credit decisions relating to HELOC reductions and suspensions are important both to safety and soundness and to consumer protection. As discussed below, many institutions have already set up quality control systems for AVMs and have third-party risk management programs in place. These existing quality control systems and third-party risk management programs should mitigate the burden and expense of implementing additional quality control standards for AVMs used to make credit decisions relating to HELOC reductions and suspensions as well as any related costs passed on to consumers. In addition, the flexibility provided to institutions under the",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 29,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_30",
+    "text": "AVMs used to make credit decisions relating to HELOC reductions and suspensions as well as any related costs passed on to consumers. In addition, the flexibility provided to institutions under the final rule to design policies, practices, procedures, and control systems to implement the quality control standards should also reduce both the burden of implementing additional quality controls standards for AVMs used to make credit decisions relating to HELOC reductions and suspensions and any related costs passed on to consumers.</p>\n <h4 id=\"h-13\">2. AVMs Used by Secondary Market Issuers</h4>\n <p id=\"p-59\" data-page=\"64542\">\n The language of section 1125 includes not only mortgage originators, but also secondary market issuers.<sup>[<a class=\"footnote-reference\" href=\"#footnote-19-p64542\" id=\"citation-19-p64542\">19</a>] </sup>\n \n For this reason, the proposed rule would have extended to certain securitization activities, defined as &ldquo;covered securitization determinations.&rdquo;\n </p>\n \n <p id=\"p-61\" data-page=\"64542\">\n <em>Appraisal waivers by secondary market issuers.</em>\n The proposed rule defined &ldquo;covered securitization determination&rdquo; to include determinations regarding, among other things, whether to waive an appraisal requirement for a mortgage origination (appraisal waiver decisions).<sup>[<a class=\"footnote-reference\" href=\"#footnote-20-p64542\" id=\"citation-20-p64542\">20</a>] </sup>\n \n Under the proposed rule, a secondary market issuer that uses AVMs",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 30,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_16197_31",
+    "text": "appraisal waiver decisions).<sup>[<a class=\"footnote-reference\" href=\"#footnote-20-p64542\" id=\"citation-20-p64542\">20</a>] </sup>\n \n Under the proposed rule, a secondary market issuer that uses AVMs in connection with making appraisal waiver decisions would have been required to have policies, practices, procedures, and control systems in place to ensure that the AVM supporting those appraisal waiver decisions adheres to the rule's quality control standards. In contrast, a mortgage originator that requests an appraisal waiver decision from a secondary market issuer would not have needed to ensure that the AVM used to support the waiver meets the rule's quality control standards. This treatment is because the secondary market issuer would be using the AVM to make the appraisal waiver decision in this context, not the mortgage originator. The proposal noted that when mortgage originators submit loans to GSEs for appraisal waiver decisions, the mortgage originators offer an estimated value of the property, but do not make a determination of value.\n </p>\n \n <p id=\"p-63\" data-page=\"64542\">\n Both GSEs have appraisal waiver programs and are the predominant issuers of appraisal waivers in the current mortgage market.<sup>[<a class=\"footnote-reference\" href=\"#footnote-21-p64542\" id=\"citation-21-p64542\">21</a>] </sup>\n \n To determine whether a loan qualifies for an appraisal waiver under any GSE program, a mortgage originator submits the loan casefile to the GSE's automated",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 31,
+    "total_chunks": 37,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "2024_16197_32",
+    "text": "ion-21-p64542\">21</a>] </sup>\n \n To determine whether a loan qualifies for an appraisal waiver under any GSE program, a mortgage originator submits the loan casefile to the GSE's automated underwriting system with an estimated value of the property (for a refinance transaction) or the contract price (for a purchase transaction). The GSE then processes this information through its internal model(s), which may include use of an AVM, to determine the acceptability of the estimated value or the contract price for the property. If the GSE's analysis determines, among other eligibility parameters, that the estimated value or contract price meets its risk thresholds, the GSE offers the lender an appraisal waiver.<sup>[<a class=\"footnote-reference\" href=\"#footnote-22-p64542\" id=\"citation-22-p64542\">22</a>] </sup>\n \n </p>\n \n \n <p id=\"p-66\" data-page=\"64542\">In this example, when the GSEs use AVMs to determine whether the mortgage originator's estimated collateral value or the contract price meets acceptable thresholds for issuing an appraisal waiver offer, the GSEs would be making a &ldquo;covered securitization determination&rdquo; under the proposed rule. As a result, the proposed rule would have required the GSEs, as secondary market issuers, to maintain policies, practices, procedures, and control systems designed to ensure that their use of such AVMs adheres to the rule's quality control standards. On the other hand, the mortgage originator in this context would not be making a",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 32,
+    "total_chunks": 37,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_16197_33",
+    "text": ", and control systems designed to ensure that their use of such AVMs adheres to the rule's quality control standards. On the other hand, the mortgage originator in this context would not be making a &ldquo;covered securitization determination&rdquo; under the proposed rule because the GSE would be using its AVM to make the appraisal waiver decision. As a result, the mortgage originator would not be responsible for ensuring that the GSEs' AVMs comply with the proposed rule's quality control standards.</p>\n <p id=\"p-67\" data-page=\"64542\">\n Most commenters agreed that the GSEs make the valuation decision in connection with appraisal waivers and should be covered by the quality control \n <span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64543\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64543)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64543\" data-page=\"64543\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span>\n standards in the appraisal waiver context. One commenter requested clarification in cases where AVMs are used to determine eligibility for appraisal waivers and recommended that the proposed regulatory text align with the description in the preamble. Another commenter supported an exception for AVMs used to determine whether a loan may be eligible for an",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 33,
+    "total_chunks": 37,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_16197_34",
+    "text": "ommended that the proposed regulatory text align with the description in the preamble. Another commenter supported an exception for AVMs used to determine whether a loan may be eligible for an appraisal waiver. Another commenter stated that the Equal Credit Opportunity Act (ECOA) requires creditors to provide consumers with a copy of any estimate of the value of a dwelling developed in connection with a creditor's decision to provide credit, including those values developed pursuant to a policy of a GSE or by an AVM, a broker price opinion, or other methodology or mechanism. The commenter further stated that the GSEs should be obligated to provide a consumer with any valuation on which the waiver is based.\n </p>\n <p id=\"p-68\" data-page=\"64543\">Many commenters stated that it would be very difficult for lenders to conduct quality control of the GSEs' AVMs for reasons including that the GSEs have treated their data, analytics, and testing as proprietary and have not shared information with the industry. Commenters also suggested that requiring lenders to conduct quality control of secondary market issuers' AVMs would be redundant because the secondary market issuers are already covered by the proposed rule and are better positioned to implement quality controls on their AVMs.</p>\n <p id=\"p-69\" data-page=\"64543\">The agencies have determined that secondary market issuers are best positioned to conduct quality control for the AVMs they use in appraisal waiver decisions. This is",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 34,
+    "total_chunks": 37,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "2024_16197_35",
+    "text": "p id=\"p-69\" data-page=\"64543\">The agencies have determined that secondary market issuers are best positioned to conduct quality control for the AVMs they use in appraisal waiver decisions. This is because the secondary market issuer would be using the AVM to make the appraisal waiver decision in this context, not the mortgage originator. For this reason and after considering the comments, the final rule adopts the proposal to require the secondary market issuers, rather than mortgage originators, to implement the final rule for such AVM use.</p>\n <p id=\"p-70\" data-page=\"64543\">\n Regarding providing to consumers copies of valuations used in connection with appraisal waiver decisions, the comment is on a matter outside the scope of this rulemaking. The agencies also note that the CFPB's rules in Regulation B implementing ECOA&thinsp;generally require creditors to provide applicants for first-lien loans on a dwelling with copies of written valuations developed in connection with an application.<sup>[<a class=\"footnote-reference\" href=\"#footnote-23-p64543\" id=\"citation-23-p64543\">23</a>] </sup>\n \n &ldquo;While some AVMs may use proprietary methods, the [2013 ECOA Valuations Final Rule] does not require the disclosure of these methods \n <em>per se;</em>\n rather, the [2013 ECOA Valuations Final Rule] requires disclosure of the written valuations developed by the AVMs which are provided to the creditors.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-24-p64543\"",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 35,
+    "total_chunks": 37,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "2024_16197_36",
+    "text": "ons Final Rule] requires disclosure of the written valuations developed by the AVMs which are provided to the creditors.&rdquo;&thinsp;<sup>[<a class=\"footnote-reference\" href=\"#footnote-24-p64543\" id=\"citation-24-p64543\">24</a>] </",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_16197",
+    "section": "Section 1125 defines an AVM as &ldquo;any computerized model used by mortgage",
+    "chunk_index": 36,
+    "total_chunks": 37,
+    "char_count": 232
+  }
+]

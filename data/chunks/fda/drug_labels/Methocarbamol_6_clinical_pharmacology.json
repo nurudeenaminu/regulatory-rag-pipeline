@@ -1,0 +1,52 @@
+[
+  {
+    "chunk_id": "Methocarbamol_6_clinical_pharmacology_0",
+    "text": "DRUG: Methocarbamol\n============================================================\n\n## WARNINGS\nWARNINGS Since methocarbamol may possess a general CNS depressant effect, patients receiving Methocarbamol tablets, USP should be cautioned about combined effects with alcohol and other CNS depressants. Safe use of Methocarbamol tablets, USP has not been established with regard to possible adverse effects upon fetal development. There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol. Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see Precautions, Pregnancy ). Use In Activities Requiring Mental Alertness Methocarbamol may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle. Patients should be cautioned about operating machinery, including automobiles, until they are reasonably certain that methocarbamol therapy does not adversely affect their ability to engage in such activities.\n\n## CONTRAINDICATIONS\nCONTRAINDICATIONS Methocarbamol tablets, USP are contraindicated in patients hypersensitive to methocarbamol or to any of the tablet components.\n\n## DRUG_INTERACTIONS\nDrug interactions See Warnings and Precautions for interaction with CNS drugs and alcohol.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Methocarbamol_6_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 5,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "Methocarbamol_6_clinical_pharmacology_1",
+    "text": "tients hypersensitive to methocarbamol or to any of the tablet components.\n\n## DRUG_INTERACTIONS\nDrug interactions See Warnings and Precautions for interaction with CNS drugs and alcohol. Methocarbamol may inhibit the effect of pyridostigmine bromide. Therefore, methocarbamol should be used with caution in patients with myasthenia gravis receiving anticholinesterase agents.\n\n## DOSAGE_AND_ADMINISTRATION\nDOSAGE AND ADMINISTRATION Methocarbamol tablets, USP, 500 mg – Adults: Initial dosage: 3 tablets q.i.d. Maintenance dosage: 2 tablets q.i.d. Methocarbamol tablets, USP: 750 mg – Adults: Initial dosage: 2 tablets q.i.d. Maintenance dosage: 1 tablet q.4h. or 2 tablets t.i.d. Six grams a day are recommended for the first 48 to 72 hours of treatment. (For severe conditions 8 grams a day may be administered). Thereafter, the dosage can usually be reduced to approximately 4 grams a day.\n\n## INDICATIONS_AND_USAGE\nINDICATIONS AND USAGE Methocarbamol tablets, USP are indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions. The mode of action of methocarbamol has not been clearly identified, but may be related to its sedative properties. Methocarbamol does not directly relax tense skeletal muscles in man.\n\n## CLINICAL_PHARMACOLOGY\nCLINICAL PHARMACOLOGY The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Methocarbamol_6_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 5,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "Methocarbamol_6_clinical_pharmacology_2",
+    "text": "uscles in man.\n\n## CLINICAL_PHARMACOLOGY\nCLINICAL PHARMACOLOGY The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS) depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber.\n\n## ADVERSE_REACTIONS\nADVERSE REACTIONS Adverse reactions reported coincident with the administration of methocarbamol include: Body as a whole: Anaphylactic reaction, angioneurotic edema, fever, headache Cardiovascular system: Bradycardia, flushing, hypotension, syncope, thrombophlebitis Digestive system: Dyspepsia, jaundice (including cholestatic jaundice), nausea and vomiting Hemic and lymphatic system: Leukopenia Immune system: Hypersensitivity reactions Nervous system: Amnesia, confusion, diplopia, dizziness or lightheadedness, drowsiness, insomnia, mild muscular incoordination, nystagmus, sedation, seizures (including grand mal), vertigo Skin and special senses: Blurred vision, conjunctivitis, nasal congestion, metallic taste, pruritus, rash, urticaria\n\n## PRECAUTIONS\nPRECAUTIONS Information for patients Patients should be cautioned that methocarbamol may cause drowsiness or dizziness, which may impair their ability to operate motor vehicles or machinery. Because methocarbamol may possess a general CNS-depressant effect, patients should be cautioned about combined effects with alcohol and other CNS depressants. Drug interactions See Warnings and",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Methocarbamol_6_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 5,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "Methocarbamol_6_clinical_pharmacology_3",
+    "text": "use methocarbamol may possess a general CNS-depressant effect, patients should be cautioned about combined effects with alcohol and other CNS depressants. Drug interactions See Warnings and Precautions for interaction with CNS drugs and alcohol. Methocarbamol may inhibit the effect of pyridostigmine bromide. Therefore, methocarbamol should be used with caution in patients with myasthenia gravis receiving anticholinesterase agents. Drug/laboratory test interactions Methocarbamol may cause a color interference in certain screening tests for 5-hydroxyindoleacetic acid (5-HIAA) using nitrosonaphthol reagent and in screening tests for urinary vanillylmandelic acid (VMA) using the Gitlow method. Carcinogenesis, mutagenesis, impairment of fertility Long-term studies to evaluate the carcinogenic potential of methocarbamol have not been performed. No studies have been conducted to assess the effect of methocarbamol on mutagenesis or its potential to impair fertility. Pregnancy Teratogenic effects Pregnancy Category C Animal reproduction studies have not been conducted with methocarbamol. It is also not known whether methocarbamol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Methocarbamol tablets, USP should be given to a pregnant woman only if clearly needed. Safe use of Methocarbamol tablets, USP has not been established with regard to possible adverse effects upon fetal development. There have been reports of fetal and congenital",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Methocarbamol_6_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 3,
+    "total_chunks": 5,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "Methocarbamol_6_clinical_pharmacology_4",
+    "text": "ly if clearly needed. Safe use of Methocarbamol tablets, USP has not been established with regard to possible adverse effects upon fetal development. There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol. Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see Warnings ). Nursing mothers Methocarbamol and/or its metabolites are excreted in the milk of dogs; however, it is not known whether methocarbamol or its metabolites are excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Methocarbamol tablets, USP are administered to a nursing woman. Pediatric use Safety and effectiveness of Methocarbamol tablets, USP in pediatric patients below the age of 16 have not been established.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "Methocarbamol_6_clinical_pharmacology",
+    "section": "General",
+    "chunk_index": 4,
+    "total_chunks": 5,
+    "char_count": 967
+  }
+]

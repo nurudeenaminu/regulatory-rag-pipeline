@@ -1,0 +1,632 @@
+[
+  {
+    "chunk_id": "unknown_7_dosage_administration_0",
+    "text": "DRUG: unknown\n============================================================\n\n## WARNINGS\nWARNINGS Use In Pregnancy CLARITHROMYCIN SHOULD NOT BE USED IN PREGNANT WOMEN EXCEPT IN CLINICAL CIRCUMSTANCES WHERE NO ALTERNATIVE THERAPY IS APPROPRIATE. IF PREGNANCY OCCURS WHILE TAKING THIS DRUG, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS. CLARITHROMYCIN HAS DEMONSTRATED ADVERSE EFFECTS OF PREGNANCY OUTCOME AND/OR EMBRYO-FETAL DEVELOPMENT IN MONKEYS, RATS, MICE, AND RABBITS AT DOSES THAT PRODUCED PLASMA LEVELS 2 TO 17 TIMES THE SERUM LEVELS ACHIEVED IN HUMANS TREATED AT THE MAXIMUM RECOMMENDED HUMAN DOSES. (See PRECAUTIONS: Pregnancy .) Hepatotoxicity Hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, has been reported with clarithromycin. This hepatic dysfunction may be severe and is usually reversible. In some instances, hepatic failure with fatal outcome has been reported and generally has been associated with serious underlying diseases and/or concomitant medications. Discontinue clarithromycin immediately if signs and symptoms of hepatitis occur. QT Prolongation Clarithromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia. Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving clarithromycin. Fatalities have been reported. Clarithromycin should be avoided in patients",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_1",
+    "text": "ades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving clarithromycin. Fatalities have been reported. Clarithromycin should be avoided in patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia (see CONTRAINDICATIONS ) and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents. Elderly patients may be more susceptible to drug-associated effects on the QT interval. Drug Interactions Serious adverse reactions have been reported in patients taking clarithromycin concomitantly with CYP3A4 substrates. These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS: Drug Interactions ). Life-threatening and fatal drug interactions have been reported in patients treated with clarithromycin and colchicine. Clarithromycin is a strong CYP3A4 inhibitor and this interaction may occur while using both drugs at their recommended doses. If co-administration of clarithromycin and colchicine is necessary in patients with normal renal and hepatic function, the dose of colchicine should be reduced. Patients should be monitored for clinical symptoms of colchicine toxicity. Concomitant administration of clarithromycin and",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 63,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_2",
+    "text": "enal and hepatic function, the dose of colchicine should be reduced. Patients should be monitored for clinical symptoms of colchicine toxicity. Concomitant administration of clarithromycin and colchicine is contraindicated in patients with renal or hepatic impairment (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions ). Clostridium difficile Associated Diarrhea Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clarithromycin, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. For information about",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 2,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_3",
+    "text": "ropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. For information about warnings of other drugs indicated in combination with clarithromycin, refer to the WARNINGS section of their package inserts. Acute Hypersensitivity Reactions In the event of severe acute hypersensitivity reactions, such as anaphylaxis, Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), and Henoch-Schonlein purpura clarithromycin therapy should be discontinued immediately and appropriate treatment should be urgently initiated. Oral Hypoglycemic Agents/Insulin The concomitant use of clarithromycin and oral hypoglycemic agents and/or insulin can result in significant hypoglycemia. With certain hypoglycemic drugs such as nateglinide, pioglitazone, repaglinide and rosiglitazone, inhibition of CYP3A enzyme by clarithromycin may be involved and could cause hypolgycemia when used concomitantly. Careful monitoring of glucose is recommended. Oral Anticoagulants There is a risk of serious hemorrhage and significant elevations in INR and prothrombin time when clarithromycin is co-administered with warfarin. INR and prothrombin times should be frequently monitored while patients are receiving clarithromycin and oral anticoagulants concurrently. HMG-CoA Reductase Inhibitors (statins) Concomitant use of clarithromycin with",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 3,
+    "total_chunks": 63,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_4",
+    "text": "hould be frequently monitored while patients are receiving clarithromycin and oral anticoagulants concurrently. HMG-CoA Reductase Inhibitors (statins) Concomitant use of clarithromycin with lovastatin or simvastatin is contraindicated (see CONTRAINDICATIONS ) as these statins are extensively metabolized by CYP3A4, and concomitant treatment with clarithromycin increases their plasma concentration, which increases the risk of myopathy, including rhabdomyolysis. Cases of rhabdomyolysis have been reported in patients taking clarithromycin concomitantly with these statins. If treatment with clarithromycin cannot be avoided, therapy with lovastatin or simvastatin must be suspended during the course of treatment. Caution should be exercised when prescribing clarithromycin with statins. In situations where the concomitant use of clarithromycin with atorvastatin or pravastatin cannot be avoided, atorvastatin dose should not exceed 20 mg daily and pravastatin dose should not exceed 40 mg daily. Use of a statin that is not dependent on CYP3A metabolism (e.g.fluvastatin) can be considered. It is recommended to prescribe the lowest registered dose if concomitant use cannot be avoided.\n\n## CONTRAINDICATIONS\nCONTRAINDICATIONS Clarithromycin is contraindicated in patients with a known hypersensitivity to clarithromycin or any of its excipients, erythromycin, or any of the macrolide antibiotics. Clarithromycin is contraindicated in patients with a history of cholestatic jaundice/hepatic",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 4,
+    "total_chunks": 63,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_5",
+    "text": "tivity to clarithromycin or any of its excipients, erythromycin, or any of the macrolide antibiotics. Clarithromycin is contraindicated in patients with a history of cholestatic jaundice/hepatic dysfunction associated with prior use of clarithromycin. Concomitant administration of clarithromycin and any of the following drugs is contraindicated: cisapride, pimozide, astemizole, terfenadine, and ergotamine or dihydroergotamine (see Drug Interactions ). There have been post-marketing reports of drug interactions when clarithromycin and/or erythromycin are co-administered with cisapride, pimozide, astemizole, or terfenadine resulting in cardiac arrhythmias (QT prolongation, ventricular tachycardia, ventricular fibrillation, and torsades de pointes) most likely due to inhibition of metabolism of these drugs by erythromycin and clarithromycin. Fatalities have been reported. Concomitant administration of clarithromycin and colchicine is contraindicated in patients with renal or hepatic impairment. Clarithromycin should not be given to patients with history of QT prolongation or ventricular cardiac arrhythmia, including torsades de pointes . Clarithromycin should not be used concomitantly with HMG-CoA reductase inhibitors (statins) that are extensively metabolized by CYP3A4 (lovastatin or simvastatin), due to the increased risk of myopathy, including rhabdomyolysis. (see WARNINGS ). For information about contraindications of other drugs indicated in combination with clarithromycin,",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 5,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_6",
+    "text": "or simvastatin), due to the increased risk of myopathy, including rhabdomyolysis. (see WARNINGS ). For information about contraindications of other drugs indicated in combination with clarithromycin, refer to the CONTRAINDICATIONS section of their package inserts.\n\n## DRUG_INTERACTIONS\nDrug Interactions Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations. Monitoring of serum theophylline concentrations should be considered for patients receiving high doses of theophylline or with baseline concentrations in the upper therapeutic range. In two studies in which theophylline was administered with clarithromycin (a theophylline sustained-release formulation was dosed at either 6.5 mg/kg or 12 mg/kg together with 250 or 500 mg q12h clarithromycin), the steady-state levels of C max , C min , and the area under the serum concentration time curve (AUC) of theophylline increased about 20%. Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class. Concomitant administration of single doses of clarithromycin and carbamazepine has been shown to result in increased plasma concentrations of carbamazepine. Blood level monitoring of carbamazepine may be considered. When clarithromycin and terfenadine were coadministered, plasma concentrations of the active acid metabolite of terfenadine were threefold",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 6,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_7",
+    "text": "Blood level monitoring of carbamazepine may be considered. When clarithromycin and terfenadine were coadministered, plasma concentrations of the active acid metabolite of terfenadine were threefold higher, on average, than the values observed when terfenadine was administered alone. The pharmacokinetics of clarithromycin and the 14-hydroxy-clarithromycin were not significantly affected by coadministration of terfenadine once clarithromycin reached steady-state conditions. Concomitant administration of clarithromycin with terfenadine is contraindicated. (See CONTRAINDICATIONS .) Clarithromycin 500 mg every 8 hours was given in combination with omeprazole 40 mg daily to healthy adult subjects. The steady-state plasma concentrations of omeprazole were increased (C max , AUC 0-24 , and T 1/2 increases of 30%, 89%, and 34%, respectively), by the concomitant administration of clarithromycin. The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin. Co-administration of clarithromycin with ranitidine bismuth citrate resulted in increased plasma ranitidine concentrations (57%), increased plasma bismuth trough concentrations (48%), and increased 14-hydroxy-clarithromycin plasma concentrations (31%). These effects are clinically insignificant. Simultaneous oral administration of clarithromycin tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 7,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_8",
+    "text": "clinically insignificant. Simultaneous oral administration of clarithromycin tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations. Following administration of clarithromycin 500 mg tablets twice daily with zidovudine 100 mg every 4 hours, the steady-state zidovudine AUC decreased 12% compared to administration of zidovudine alone (n=4). Individual values ranged from a decrease of 34% to an increase of 14%. When clarithromycin tablets were administered two to four hours prior to zidovudine, the steady-state zidovudine C max increased 100% whereas the AUC was unaffected (n=24). Administration of clarithromycin and zidovudine should be separated by at least two hours. The impact of co-administration of clarithromycin extended-release tablets and zidovudine has not been evaluated. Simultaneous administration of clarithromycin tablets and didanosine to 12 HIV-infected adult patients resulted in no statistically significant change in didanosine pharmacokinetics. Following administration of fluconazole 200 mg daily and clarithromycin 500 mg twice daily to 21 healthy volunteers, the steady-state clarithromycin C min and AUC increased 33% and 18%, respectively. Steady-state concentrations of 14-OH clarithromycin were not significantly affected by concomitant administration of fluconazole. No dosage adjustment of clarithromycin is necessary when co-administered with fluconazole. Ritonavir Concomitant administration of",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 8,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_9",
+    "text": "nificantly affected by concomitant administration of fluconazole. No dosage adjustment of clarithromycin is necessary when co-administered with fluconazole. Ritonavir Concomitant administration of clarithromycin and ritonavir (n=22) resulted in a 77% increase in clarithromycin AUC and a 100% decrease in the AUC of 14-OH clarithromycin. Clarithromycin may be administered without dosage adjustment to patients with normal renal function taking ritonavir. Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with ritonavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium complex (see PRECAUTIONS: Drug Interactions ). Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Spontaneous reports in the post-marketing period suggest that concomitant administration of clarithromycin and oral anticoagulants may potentiate the effects of the oral anticoagulants. Prothrombin times should be carefully monitored while patients are receiving clarithromycin and oral anticoagulants simultaneously. Digoxin is a substrate for P-glycoprotein (Pgp) and clarithromycin is known to inhibit Pgp. When clarithromycin and digoxin are co-administered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin. Elevated digoxin serum concentrations in patients receiving clarithromycin and digoxin",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 9,
+    "total_chunks": 63,
+    "char_count": 1486
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_10",
+    "text": "are co-administered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin. Elevated digoxin serum concentrations in patients receiving clarithromycin and digoxin concomitantly have been reported in post-marketing surveillance. Some patients have shown clinical signs consistent with digoxin toxicity, including potentially fatal arrhythmias. Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper therapeutic range. Co-administration of clarithromycin, known to inhibit CYP3A, and a drug primarily metabolized by CYP3A may be associated with elevations in drug concentrations that could increase or prolong both therapeutic and adverse effects of the concomitant drug. Clarithromycin should be used with caution in patients receiving treatment with other drugs known to be CYP3A enzyme substrates, especially if the CYP3A substrate has a narrow safety margin (e.g., carbamazepine) and/or the substrate is extensively metabolized by this enzyme. Dosage adjustments may be considered, and when possible, serum concentrations of drugs primarily metabolized by CYP3A should be monitored closely in patients concurrently receiving clarithromycin. The following are examples of some clinically significant CYP3A based drug interactions. Interactions with other drugs metabolized by the CYP3A isoform are also possible. Carbamazepine and Terfenadine Increased serum concentrations of carbamazepine and the",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 10,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_11",
+    "text": "CYP3A based drug interactions. Interactions with other drugs metabolized by the CYP3A isoform are also possible. Carbamazepine and Terfenadine Increased serum concentrations of carbamazepine and the active acid metabolite of terfenadine were observed in clinical trials with clarithromycin. Colchicine Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp). Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp. When a single dose of colchicine 0.6 mg was administered with clarithromycin 250 mg BID for 7 days, the colchicine C max increased 197% and the AUC0-∞ increased 239% compared to administration of colchicine alone. The dose of colchicine should be reduced when co-administered with clarithromycin in patients with normal renal and hepatic function. Concomitant use of clarithromycin and colchicine is contraindicated in patients with renal or hepatic impairment. (See WARNINGS ). Efavirenz, Nevirapine, Rifampicin, Rifabutin, and Rifapentine Inducers of CYP3A enzymes, such as efavirenz, nevirapine, rifampicin, rifabutin, and rifapentine will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin, while increasing those of 14-OH-clarithromycin. Since the microbiological activities of clarithromycin and 14-OHclarithromycin are different for different bacteria, the intended therapeutic effect could be impaired during concomitant administration of clarithromycin and enzyme inducers.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 11,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_12",
+    "text": "ithromycin and 14-OHclarithromycin are different for different bacteria, the intended therapeutic effect could be impaired during concomitant administration of clarithromycin and enzyme inducers. Alternative antibacterial treatment should be considered when treating patients receiving inducers of CYP3A. Sildenafil, Tadalafil, and Vardenafil Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin. Co-administration of clarithromycin with sildenafil, tadalafil, or vardenafil will result in increased exposure of these phosphodiesterase inhibitors. Coadministration of these phosphodiesterase inhibitors with clarithromycin is not recommended. Tolterodine The primary route of metabolism for tolterodine is via CYP2D6. However, in a subset of the population devoid of CYP2D6, the identified pathway of metabolism is via CYP3A. In this population subset, inhibition of CYP3A results in significantly higher serum concentrations of tolterodine. Tolterodine 1 mg twice daily is recommended in patients deficient in CYP2D6 activity (poor metabolizers) when co-administered with clarithromycin. Triazolobenzodiazepines (e.g., alprazolam, midazolam, triazolam) When a single dose of midazolam was co-administered with clarithromycin tablets (500 mg twice daily for 7 days), midazolam AUC increased 174% after intravenous administration of midazolam and 600% after oral administration. When oral midazolam",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 12,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_13",
+    "text": "stered with clarithromycin tablets (500 mg twice daily for 7 days), midazolam AUC increased 174% after intravenous administration of midazolam and 600% after oral administration. When oral midazolam is co-administered with clarithromycin, dose adjustments may be necessary and possible prolongation and intensity of effect should be anticipated. Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is co-administered with clarithromycin. For benzodiazepines which are not metabolized by CYP3A (e.g., temazepam, nitrazepam, lorazepam), a clinically important interaction with clarithromycin is unlikely. There have been post-marketing reports of drug interactions and central nervous system (CNS) effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam. Monitoring the patient for increased CNS pharmacological effects is suggested. Atazanavir Both clarithromycin and atazanavir are substrates and inhibitors of CYP3A, and there is evidence of a bidirectional drug interaction. Following administration of clarithromycin (500 mg twice daily) with atazanavir (400 mg once daily), the clarithromycin AUC increased 94%, the 14-OH clarithromycin AUC decreased 70% and the atazanavir AUC increased 28%. When clarithromycin is co-administered with atazanavir, the dose of clarithromycin should be decreased by 50%. Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 13,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_14",
+    "text": "co-administered with atazanavir, the dose of clarithromycin should be decreased by 50%. Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with atazanavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium complex (see PRECAUTIONS: Drug Interactions ). Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Itraconazole Both clarithromycin and itraconazole are substrates and inhibitors of CYP3A, potentially leading to a bidirectional drug interaction when administered concomitantly. Clarithromycin may increase the plasma concentrations of itraconazole, while itraconazole may increase the plasma concentrations of clarithromycin. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions. Saquinavir Both clarithromycin and saquinavir are substrates and inhibitors of CYP3A and there is evidence of a bidirectional drug interaction. Following administration of clarithromycin (500 mg bid) and saquinavir (soft gelatin capsules, 1200 mg tid) to 12 healthy volunteers, the steady-state saquinavir AUC and C max increased 177% and 187% respectively compared to administration of saquinavir alone. Clarithromycin AUC and C max increased 45% and 39% respectively, whereas the 14–OH clarithromycin AUC and C max",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 14,
+    "total_chunks": 63,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_15",
+    "text": "eased 177% and 187% respectively compared to administration of saquinavir alone. Clarithromycin AUC and C max increased 45% and 39% respectively, whereas the 14–OH clarithromycin AUC and C max decreased 24% and 34% respectively, compared to administration with clarithromycin alone. No dose adjustment of clarithromycin is necessary when clarithromycin is co-administered with saquinavir in patients with normal renal function. When saquinavir is co-administered with ritonavir, consideration should be given to the potential effects of ritonavir on clarithromycin (refer to interaction between clarithromycin and ritonavir) (see PRECAUTIONS: Drug Interactions ). The following CYP3A based drug interactions have been observed with erythromycin products and/or with clarithromycin in post-marketing experience: Antiarrhythmics There have been postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and quinidine or disopyramide. Electrocardiograms should be monitored for QTc prolongation during coadministration of clarithromycin with these drugs. Serum concentrations of these medications should also be monitored. Ergotamine/Dihydroergotamine Post-marketing reports indicate that coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. Concomitant administration of clarithromycin",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 15,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_16",
+    "text": "n associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. Concomitant administration of clarithromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS ). Triazolobenzodiazepines (such as Triazolam and Alprazolam) and Related Benzodiazepines (such as Midazolam) Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines. There have been post-marketing reports of drug interactions and CNS effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam. Sildenafil (Viagra) Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil. A similar interaction may occur with clarithromycin; reduction of sildenafil dosage should be considered. (See Viagra package insert.) There have been spontaneous or published reports of CYP3A based interactions of erythromycin and/or clarithromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, bromocriptine and vinblastine. Concomitant administration of clarithromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated (see CONTRAINDICATIONS ). In addition, there have been reports of interactions of erythromycin or clarithromycin with drugs not thought to be metabolized",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 16,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_17",
+    "text": "temizole, or terfenadine is contraindicated (see CONTRAINDICATIONS ). In addition, there have been reports of interactions of erythromycin or clarithromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.\n\n## DOSAGE_AND_ADMINISTRATION\nDOSAGE AND ADMINISTRATION Clarithromycin tablets may be given with or without food. Clarithromycin may be administered without dosage adjustment in the presence of hepatic impairment if there is normal renal function. In patients with severe renal impairment (CLCR < 30 mL/min), the dose of clarithromycin should be reduced by 50%. However, when patients with moderate or severe renal impairment are taking clarithromycin concomitantly with atazanavir or ritonavir, the dose of clarithromycin should be reduced by 50% or 75% for patients with CLCR of 30 to 60 mL/min or < 30 mL/min, respectively. ADULT DOSAGE GUIDELINES Clarithromycin Tablets Infection Dosage (q12h) Duration (days) Pharyngitis/Tonsillitis due to S. pyogenes 250 mg 10 Acute maxillary sinusitis due to H. influenzae M. catarrhalis S. pneumoniae 500 mg 14 Acute exacerbation of chronic bronchitis due to H. influenzae 500 mg 7-14 H. parainfluenzae 500 mg 7 M. catarrhalis 250 mg 7-14 S. pneumoniae 250 mg 7-14 Community-Acquired Pneumonia due to H. influenzae 250 mg 7 H. parainfluenzae -- -- M. catarrhalis -- -- S. pneumoniae 250 mg 7-14 C. pneumoniae 250 mg 7-14 M. pneumoniae 250 mg 7-14 Uncomplicated skin and skin structure S. aureus S.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 17,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_18",
+    "text": "H. influenzae 250 mg 7 H. parainfluenzae -- -- M. catarrhalis -- -- S. pneumoniae 250 mg 7-14 C. pneumoniae 250 mg 7-14 M. pneumoniae 250 mg 7-14 Uncomplicated skin and skin structure S. aureus S. pyogenes 250 mg 7-14 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence Triple Therapy: Clarithromycin/Lansoprazole/Amoxicillin The recommended adult dose is 500 mg clarithromycin, 30 mg lansoprazole, and 1 gram amoxicillin, all given twice daily (q12h) for 10 or 14 days. (See INDICATIONS AND USAGE and CLINICAL STUDIES sections.) Triple Therapy: Clarithromycin/Omeprazole/Amoxicillin The recommended adult dose is 500 mg clarithromycin, 20 mg omeprazole, and 1 gram amoxicillin, all given twice daily (q12h) for 10 days. (See INDICATIONS AND USAGE and CLINICAL STUDIES sections.) In patients with an ulcer present at the time of initiation of therapy, an additional 18 days of omeprazole 20 mg once daily is recommended for ulcer healing and symptom relief. Dual Therapy: Clarithromycin/Omeprazole The recommended adult dose is 500 mg clarithromycin given three times daily (q8h) and 40 mg omeprazole given once daily (qAM) for 14 days. (See INDICATIONS AND USAGE and CLINICAL STUDIES sections.) An additional 14 days of omeprazole 20 mg once daily is recommended for ulcer healing and symptom relief. Dual Therapy: Clarithromycin/Ranitidine Bismuth Citrate The recommended adult dose is 500 mg clarithromycin given twice daily (q12h) or three times daily (q8h) and 400 mg",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 18,
+    "total_chunks": 63,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_19",
+    "text": "and symptom relief. Dual Therapy: Clarithromycin/Ranitidine Bismuth Citrate The recommended adult dose is 500 mg clarithromycin given twice daily (q12h) or three times daily (q8h) and 400 mg ranitidine bismuth citrate given twice daily (q12h) for 14 days. An additional 14 days of 400 mg twice daily is recommended for ulcer healing and symptom relief. Clarithromycin and ranitidine bismuth citrate combination therapy is not recommended in patients with creatinine clearance less than 25 mL/min. (See INDICATIONS AND USAGE and CLINICAL STUDIES sections.) Children The usual recommended daily dosage is 15 mg/kg/day divided q12h for 10 days. PEDIATRIC DOSAGE GUIDELINES Based on Body Weight Dosing Calculated on 7.5 mg/kg q12h Weight Dose (q12h) kg lbs 9 20 62.5 mg 17 37 125 mg 25 55 187.5 mg 33 73 250 mg Mycobacterial Infections Prophylaxis The recommended dose of clarithromycin for the prevention of disseminated Mycobacterium avium disease is 500 mg b.i.d. In children, the recommended dose is 7.5 mg/kg b.i.d. up to 500 mg b.i.d. No studies of clarithromycin for MAC prophylaxis have been performed in pediatric populations and the doses recommended for prophylaxis are derived from MAC treatment studies in children. Dosing recommendations for children are in the table above. Treatment Clarithromycin is recommended as the primary agent for the treatment of disseminated infection due to Mycobacterium avium complex. Clarithromycin should be used in combination with other",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 19,
+    "total_chunks": 63,
+    "char_count": 1481
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_20",
+    "text": "ithromycin is recommended as the primary agent for the treatment of disseminated infection due to Mycobacterium avium complex. Clarithromycin should be used in combination with other antimycobacterial drugs that have shown in vitro activity against MAC or clinical benefit in MAC treatment. (See CLINICAL STUDIES .) The recommended dose for mycobacterial infections in adults is 500 mg b.i.d. In children, the recommended dose is 7.5 mg/kg b.i.d. up to 500 mg b.i.d. Dosing recommendations for children are in the table above. Clarithromycin therapy should continue for life if clinical and mycobacterial improvements are observed.\n\n## INDICATIONS_AND_USAGE\nINDICATIONS AND USAGE Clarithromycin tablets are indicated for the treatment of mild to moderate infections caused by susceptible isolates of the designated bacteria in the conditions as listed below: Adults Pharyngitis/Tonsillitis due to Streptococcus pyogenes (The usual drug of choice in the treatment and prevention of streptococcal infections and the prophylaxis of rheumatic fever is penicillin administered by either the intramuscular or the oral route. Clarithromycin is generally effective in the eradication of S. pyogenes from the nasopharynx; however, data establishing the efficacy of clarithromycin in the subsequent prevention of rheumatic fever are not available at present.) Acute maxillary sinusitis due to Haemophilusinfluenzae, Moraxella catarrhalis , or Streptococcus pneumoniae Acute bacterial exacerbation of chronic",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 20,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_21",
+    "text": "of rheumatic fever are not available at present.) Acute maxillary sinusitis due to Haemophilusinfluenzae, Moraxella catarrhalis , or Streptococcus pneumoniae Acute bacterial exacerbation of chronic bronchitis due to Haemophilusinfluenzae, Haemophilusparainfluenzae, Moraxella catarrhalis, or Streptococcus pneumoniae Community-Acquired Pneumonia due to Haemophilusinfluenzae, Mycoplasma pneumoniae, Streptococcus pneumoniae, or Chlamydia pneumoniae (TWAR) Uncomplicated skin and skin structure infections due to Staphylococcus aureus, or Streptococcus pyogenes (Abscesses usually require surgical drainage.) Disseminated mycobacterial infections due to Mycobacterium avium, or Mycobacterium intracellulare Clarithromycin tablets in combination with amoxicillin and lansoprazole or omeprazole delayed-release capsules, as triple therapy, are indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or five-year history of duodenal ulcer) to eradicate H. pylori. Clarithromycin tablets in combination with omeprazole capsules or ranitidine bismuth citrate tablets are also indicated for the treatment of patients with an active duodenal ulcer associated with H. pylori infection. However, regimens which contain clarithromycin as the single antimicrobial agent are more likely to be associated with the development of clarithromycin resistance among patients who fail therapy. Clarithromycin-containing regimens should not be used in patients with known or",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 21,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_22",
+    "text": "nt are more likely to be associated with the development of clarithromycin resistance among patients who fail therapy. Clarithromycin-containing regimens should not be used in patients with known or suspected clarithromycin resistant isolates because the efficacy of treatment is reduced in this setting. In patients who fail therapy, susceptibility testing should be done if possible. If resistance to clarithromycin is demonstrated, a non-clarithromycin-containing therapy is recommended. (For information on development of resistance see Microbiology section.) The eradication of H. pylori has been demonstrated to reduce the risk of duodenal ulcer recurrence. Children Pharyngitis/Tonsillitis due to Streptococcus pyogenes Community-Acquired Pneumonia due to Mycoplasma pneumoniae, Streptococcus pneumoniae, or Chlamydia pneumoniae (TWAR) Acute maxillary sinusitis due to Haemophilusinfluenzae, Moraxella catarrhalis, or Streptococcus pneumoniae Acute otitis media due to Haemophilusinfluenzae, Moraxella catarrhalis ,or Streptococcus pneumoniae NOTE: For information on otitis media, see CLINICAL STUDIES: Otitis Media . Uncomplicated skin and skin structure infections due to Staphylococcus aureus, or Streptococcus pyogenes (Abscesses usually require surgical drainage.) Disseminated mycobacterial infections due to Mycobacterium avium, or Mycobacterium intracellulare Prophylaxis Clarithromycin tablets are indicated for the prevention of disseminated Mycobacterium avium complex (MAC)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 22,
+    "total_chunks": 63,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_23",
+    "text": "rial infections due to Mycobacterium avium, or Mycobacterium intracellulare Prophylaxis Clarithromycin tablets are indicated for the prevention of disseminated Mycobacterium avium complex (MAC) disease in patients with advanced HIV infection. To reduce the development of drug-resistant bacteria and maintain the effectiveness of clarithromycin tablets and other antibacterial drugs, clarithromycin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.\n\n## CLINICAL_PHARMACOLOGY\nCLINICAL PHARMACOLOGY Pharmacokinetics Clarithromycin is rapidly absorbed from the gastrointestinal tract after oral administration. The absolute bioavailability of 250 mg clarithromycin tablets was approximately 50%. For a single 500 mg dose of clarithromycin, food slightly delays the onset of clarithromycin absorption, increasing the peak time from approximately 2 to 2.5 hours. Food also increases the clarithromycin peak plasma concentration by about 24%, but does not affect the extent of clarithromycin bioavailability. Food does not affect the onset of formation of the antimicrobially active metabolite, 14-OH clarithromycin or its peak plasma concentration but does",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 23,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_24",
+    "text": "ect the extent of clarithromycin bioavailability. Food does not affect the onset of formation of the antimicrobially active metabolite, 14-OH clarithromycin or its peak plasma concentration but does slightly decrease the extent of metabolite formation, indicated by an 11% decrease in area under the plasma concentration-time curve (AUC). Therefore, clarithromycin tablets may be given without regard to food. In nonfasting healthy human subjects (males and females), peak plasma concentrations were attained within 2 to 3 hours after oral dosing. Steady-state peak plasma clarithromycin concentrations were attained within 3 days and were approximately 1 to 2 mcg/mL with a 250 mg dose administered every 12 hours and 3 to 4 mcg/mL with a 500 mg dose administered every 8 to 12 hours. The elimination half-life of clarithromycin was about 3 to 4 hours with 250 mg administered every 12 hours but increased to 5 to 7 hours with 500 mg administered every 8 to 12 hours. The nonlinearity of clarithromycin pharmacokinetics is slight at the recommended doses of 250 mg and 500 mg administered every 8 to 12 hours. With a 250 mg every 12 hours dosing, the principal metabolite, 14-OH clarithromycin, attains a peak steady-state concentration of about 0.6 mcg/mL and has an elimination half-life of 5 to 6 hours. With a 500 mg every 8 to 12 hours dosing, the peak steady-state concentration of 14-OH clarithromycin is slightly higher (up to 1 mcg/mL), and its elimination half-life is about 7 to 9 hours.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 24,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_25",
+    "text": "hours. With a 500 mg every 8 to 12 hours dosing, the peak steady-state concentration of 14-OH clarithromycin is slightly higher (up to 1 mcg/mL), and its elimination half-life is about 7 to 9 hours. With any of these dosing regimens, the steady-state concentration of this metabolite is generally attained within 3 to 4 days. After a 250 mg tablet every 12 hours, approximately 20% of the dose is excreted in the urine as clarithromycin, while after a 500 mg tablet every 12 hours, the urinary excretion of clarithromycin is somewhat greater, approximately 30%. In comparison, after an oral dose of 250 mg (125 mg/5 mL) suspension every 12 hours, approximately 40% is excreted in urine as clarithromycin. The renal clearance of clarithromycin is, however, relatively independent of the dose size and approximates the normal glomerular filtration rate. The major metabolite found in urine is 14-OH clarithromycin, which accounts for an additional 10% to 15% of the dose with either a 250 mg or a 500 mg tablet administered every 12 hours. Steady-state concentrations of clarithromycin and 14-OH clarithromycin observed following administration of 500 mg doses of clarithromycin every 12 hours to adult patients with HIV infection were similar to those observed in healthy volunteers. In adult HIV-infected patients taking 500 mg or 1000 mg doses of clarithromycin every 12 hours, steady-state clarithromycin C max values ranged from 2 to 4 mcg/mL and 5 to 10 mcg/mL, respectively. The steady-state",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 25,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_26",
+    "text": "ected patients taking 500 mg or 1000 mg doses of clarithromycin every 12 hours, steady-state clarithromycin C max values ranged from 2 to 4 mcg/mL and 5 to 10 mcg/mL, respectively. The steady-state concentrations of clarithromycin in subjects with impaired hepatic function did not differ from those in normal subjects; however, the 14-OH clarithromycin concentrations were lower in the hepatically impaired subjects. The decreased formation of 14-OH clarithromycin was at least partially offset by an increase in renal clearance of clarithromycin in the subjects with impaired hepatic function when compared to healthy subjects. The pharmacokinetics of clarithromycin was also altered in subjects with impaired renal function. (See PRECAUTIONS and DOSAGE AND ADMINISTRATION .) Clarithromycin and the 14-OH clarithromycin metabolite distribute readily into body tissues and fluids. There are no data available on cerebrospinal fluid penetration. Because of high intracellular concentrations, tissue concentrations are higher than serum concentrations. Examples of tissue and serum concentrations are presented below. Concentration (after 250 mg q12h) Tissue Type Tissue (mcg/g) Serum (mcg/mL) Tonsil 1.6 0.8 Lung 8.8 1.7 Clarithromycin 500 mg every 8 hours was given in combination with omeprazole 40 mg daily to healthy adult males. The plasma levels of clarithromycin and 14-hydroxy-clarithromycin were increased by the concomitant administration of omeprazole. For clarithromycin, the mean C max",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 26,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_27",
+    "text": "mg daily to healthy adult males. The plasma levels of clarithromycin and 14-hydroxy-clarithromycin were increased by the concomitant administration of omeprazole. For clarithromycin, the mean C max was 10% greater, the mean C min was 27% greater, and the mean AUC 0-8 was 15% greater when clarithromycin was administered with omeprazole than when clarithromycin was administered alone. Similar results were seen for 14-hydroxy-clarithromycin, the mean C max was 45% greater, the mean C min was 57% greater, and the mean AUC 0-8 was 45% greater. Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole. Clarithromycin Tissue Concentrations 2 hours after Dose (mcg/mL)/(mcg/g) Treatment N antrum fundus N mucus Clarithromycin 5 10.48 ± 2.01 20.81 ± 7.64 4 4.15 ± 7.74 Clarithromycin + Omeprazole 5 19.96 ± 4.71 24.25 ± 6.37 4 39.29 ± 32.79 For information about other drugs indicated in combination with clarithromycin, refer to the CLINICAL PHARMACOLOGY section of their package inserts. Microbiology Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis. Clarithromycin is active in vitro against a variety of aerobic and anaerobic Gram-positive and Gram-negative bacteria as well as most Mycobacterium avium complex (MAC) bacteria. Additionally, the 14-OH clarithromycin metabolite also has clinically significant",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 27,
+    "total_chunks": 63,
+    "char_count": 1486
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_28",
+    "text": "obic Gram-positive and Gram-negative bacteria as well as most Mycobacterium avium complex (MAC) bacteria. Additionally, the 14-OH clarithromycin metabolite also has clinically significant antimicrobial activity. The 14-OH clarithromycin is twice as active against Haemophilusinfluenzae microorganisms as the parent compound. However, for Mycobacterium avium complex (MAC) isolates the 14-OH metabolite is 4 to 7 times less active than clarithromycin. The clinical significance of this activity against Mycobacterium avium complex is unknown. Clarithromycin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section: Gram-positive Microorganisms Staphylococcus aureus Streptococcus pneumoniae Streptococcus pyogenes Gram-negative Microorganisms Haemophilusinfluenzae Haemophilusparainfluenzae Moraxellacatarrhalis Other Microorganisms Mycoplasmapneumoniae Chlamydia pneumoniae (TWAR) Mycobacteria Mycobacterium avium complex (MAC) consisting of: Mycobacterium avium Mycobacterium intracellulare Beta-lactamase production should have no effect on clarithromycin activity. NOTE: Most isolates of methicillin-resistant and oxacillin-resistant staphylococci are resistant to clarithromycin. Omeprazole/clarithromycin dual therapy; ranitidine bismuth citrate/clarithromycin dual therapy; omeprazole/clarithromycin/amoxicillin triple therapy; and lansoprazole/clarithromycin/amoxicillin",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 28,
+    "total_chunks": 63,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_29",
+    "text": "Omeprazole/clarithromycin dual therapy; ranitidine bismuth citrate/clarithromycin dual therapy; omeprazole/clarithromycin/amoxicillin triple therapy; and lansoprazole/clarithromycin/amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the INDICATIONS AND USAGE section. Helicobacter Helicobacter pylori Pretreatment Resistance Clarithromycin pretreatment resistance rates were 3.5% (4/113) in the omeprazole/clarithromycin dual-therapy studies (M93-067, M93-100) and 9.3% (41/439) in the omeprazole/clarithromycin/amoxicillin triple-therapy studies (126, 127, M96-446). Clarithromycin pretreatment resistance was 12.6% (44/348) in the ranitidine bismuth citrate/clarithromycin b.i.d. versus t.i.d. clinical study (H2BA3001). Clarithromycin pretreatment resistance rates were 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the lansoprazole/clarithromycin/amoxicillin triple-therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399). Amoxicillin pretreatment susceptible isolates (<0.25 mcg/mL) were found in 99.3% (436/439) of the patients in the omeprazole/clarithromycin/amoxicillin clinical studies (126, 127, M96-446). Amoxicillin pretreatment minimum inhibitory concentrations (MICs) >0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin/amoxicillin study arm. Amoxicillin pretreatment susceptible isolates (<0.25 mcg/mL)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 29,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_30",
+    "text": "centrations (MICs) >0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin/amoxicillin study arm. Amoxicillin pretreatment susceptible isolates (<0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the lansoprazole/clarithromycin/amoxicillin triple-therapy clinical trials by E-test and agar dilution, respectively. Twenty-one of the 957 patients (2.2%) by E-test and 2 of 100 patients (2.0%) by agar dilution had amoxicillin pretreatment MICs of >0.25 mcg/mL. Two patients had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of >256 mcg/mL by E-test. Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility tests Clarithromycin Post-treatment Results Clarithromycin H. pylori negative – H. pylori positive – not eradicated Post-treatment susceptibility results Pretreatment Results eradicated S Breakpoints for antimicrobial susceptibility testing at the time of studies were: Susceptible (S) MIC < 0.25 mcg/mL, Intermediate (I) MIC 0.5-1.0 mcg/mL, Resistant (R) MIC > 2 mcg/mL. For current antimicrobial susceptibility testing guidelines see reference 4. For current susceptibility test interpretive criteria, see Susceptibility Test for Helicobacter pylori below. I R No MIC Omeprazole 40 mg q.d./clarithromycin 500 mg t.i.d. for 14 days followed by omeprazole 20 mg q.d. for another 14 days (M93-067,",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 30,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_31",
+    "text": "ia, see Susceptibility Test for Helicobacter pylori below. I R No MIC Omeprazole 40 mg q.d./clarithromycin 500 mg t.i.d. for 14 days followed by omeprazole 20 mg q.d. for another 14 days (M93-067, M93-100) Susceptible 108 72 1 26 9 Intermediate 1 1 Resistant 4 4 Ranitidine bismuth citrate 400 mg b.i.d./clarithromycin 500 mg t.i.d. for 14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days (H2BA3001) Susceptible 124 98 4 14 8 Intermediate 3 2 1 Resistant 17 1 15 1 Ranitidine bismuth citrate 400 mg b.i.d./clarithromycin 500 mg b.i.d. for 14 days followed by ranitidine bismuth citrate 400 mg b.i.d. for another 14 days (H2BA3001) Susceptible 125 106 1 1 12 5 Intermediate 2 2 Resistant 20 1 19 Omeprazole 20 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 10 days (126, 127, M96-446) Susceptible 171 153 7 3 8 Intermediate Resistant 14 4 1 6 3 Lansoprazole 30 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 14 days (M95-399, M93-131, M95-392) Susceptible 112 105 7 Intermediate 3 3 Resistant 17 6 7 4 Lansoprazole 30 mg b.i.d./clarithromycin 500 mg b.i.d./amoxicillin 1 g b.i.d. for 10 days (M95-399) Susceptible 42 40 1 1 Intermediate Resistant 4 1 3 Patients not eradicated of H. pylori following omeprazole/clarithromycin, ranitidine bismuth citrate/clarithromycin, omeprazole/clarithromycin/amoxicillin, or lansoprazole/clarithromycin/amoxicillin therapy would likely have clarithromycin resistant H. pylori isolates. Therefore,",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 31,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_32",
+    "text": "ine bismuth citrate/clarithromycin, omeprazole/clarithromycin/amoxicillin, or lansoprazole/clarithromycin/amoxicillin therapy would likely have clarithromycin resistant H. pylori isolates. Therefore, for patients who fail therapy, clarithromycin susceptibility testing should be done, if possible. Patients with clarithromycin resistant H. pylori should not be treated with any of the following: omeprazole/clarithromycin dual therapy; ranitidine bismuth citrate/clarithromycin dual therapy; omeprazole/clarithromycin/amoxicillin triple therapy; lansoprazole/clarithromycin/amoxicillin triple therapy; or other regimens which include clarithromycin as the sole antimicrobial agent. Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes In the omeprazole/clarithromycin/amoxicillin triple-therapy clinical trials, 84.9% (157/185) of the patients who had pretreatment amoxicillin susceptible MICs (<0.25 mcg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy. Of the 28 patients who failed triple therapy, 11 had no post-treatment susceptibility test results, and 17 had post-treatment H. pylori isolates with amoxicillin susceptible MICs. Eleven of the patients who failed triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs. In the lansoprazole/clarithromycin/amoxicillin triple-therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (<0.25 mcg/mL) were eradicated",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 32,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_33",
+    "text": "MICs. In the lansoprazole/clarithromycin/amoxicillin triple-therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (<0.25 mcg/mL) were eradicated of H. pylori. Of those with pretreatment amoxicillin MICs of >0.25 mcg/mL, three of six had the H. pylori eradicated. A total of 12.8% (22/172) of the patients failed the 10-and 14-day triple-therapy regimens. Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy. Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple-therapy regimen also had clarithromycin resistant H. pylori isolates. The following in vitro data are available, but their clinical significance is unknown . Clarithromycin exhibits in vitro activity against most isolates of the following bacteria; however, the safety and effectiveness of clarithromycin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials. Gram-positive Bacteria Streptococcus agalactiae Streptococci (Groups C, F, G) Viridans group streptococci Gram-negative Bacteria Bordetella pertussis Legionella pneumophila Pasteurella multocida Gram-positive Bacteria Clostridium perfringens Peptococcus niger Propionibacterium acnes Gram-negative Anaerobic Bacteria Prevotella melaninogenica (formerly Bacteriodes melaninogenicus ) Susceptibility Testing Methods (Excluding Mycobacteria and Helicobacter) Dilution",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 33,
+    "total_chunks": 63,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_34",
+    "text": "um acnes Gram-negative Anaerobic Bacteria Prevotella melaninogenica (formerly Bacteriodes melaninogenicus ) Susceptibility Testing Methods (Excluding Mycobacteria and Helicobacter) Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs). These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds. The MICs should be determined using a standardized procedure. Standardized procedures are based on a dilution method 1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of clarithromycin powder. The MIC values should be interpreted according to the following criteria: Susceptibility Test Interpretive Criteria for Staphylococcus aureus MIC (mcg/mL) Interpretation ≤2.0 Susceptible (S) 4.0 Intermediate (I) ≥8.0 Resistant (R) Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. MIC (mcg/mL) Interpretation ≤0.25 Susceptible (S) 0.5 Intermediate (I) ≥1.0 Resistant (R) For testing Haemophilus spp. These interpretive standards are applicable only to broth microdilution susceptibility tests with Haemophilus spp. using Haemophilus Testing Medium (HTM). 1 MIC (mcg/mL) Interpretation ≤8.0 Susceptible (S) 16.0 Intermediate (I) ≥32.0 Resistant",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 34,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_35",
+    "text": "only to broth microdilution susceptibility tests with Haemophilus spp. using Haemophilus Testing Medium (HTM). 1 MIC (mcg/mL) Interpretation ≤8.0 Susceptible (S) 16.0 Intermediate (I) ≥32.0 Resistant (R) Note: When testing Streptococcus pyogenes and Streptococcus pneumoniae , susceptibility and resistance to clarithromycin can be predicted using erythromycin. A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable. A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated. This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used. This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation. A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected. Quality Control Standardized susceptibility test procedures require the use of laboratory control bacteria to monitor and ensure the accuracy and precision of supplies and reagents in the assay, and the techniques of the individual",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 35,
+    "total_chunks": 63,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_36",
+    "text": "bility test procedures require the use of laboratory control bacteria to monitor and ensure the accuracy and precision of supplies and reagents in the assay, and the techniques of the individual performing the test. 1,2 Standard clarithromycin powder should provide the following MIC ranges. QC Strain MIC (mcg/mL) S. aureus ATCC 29213 ATCC is a registered trademark of the American Type Culture Collection. 0.12 to 0.5 S. pneumoniae This quality control range is applicable only to S. pneumoniae ATCC 49619 tested by a microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. ATCC 49619 0.03 to 0.12 Haemophilus influenzae This quality control range is applicable only to H. influenzae ATCC 49247 tested by a microdilution procedure using HTM 1. ATCC 49247 4 to 16 Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds. The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds. The zone size should be determined using a standardized method. 2,3 The procedure uses paper disks impregnated with 15 mcg of clarithromycin to test the susceptibility of bacteria. The disk diffusion interpretive criteria are provided below. Susceptibility Test Interpretive Criteria for Staphylococcus aureus Zone diameter (mm) Interpretation ≥18 Susceptible (S) 14 to 17 Intermediate (I) ≤13 Resistant (R)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 36,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_37",
+    "text": "criteria are provided below. Susceptibility Test Interpretive Criteria for Staphylococcus aureus Zone diameter (mm) Interpretation ≥18 Susceptible (S) 14 to 17 Intermediate (I) ≤13 Resistant (R) Susceptibility Test Interpretive Criteria for Streptococcus pyogenes and Streptococcus pneumoniae These zone diameter standards only apply to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO 2. Zone diameter (mm) Interpretation ≥21 Susceptible (S) 17 to 20 Intermediate (I) ≤16 Resistant (R) Susceptibility Test Interpretive Criteria for Haemophilus spp. These zone diameter standards are applicable only to tests with Haemophilusspp. using HTM 2. Zone diameter (mm) Interpretation ≥13 Susceptible (S) 11 to 12 Intermediate (I) ≤10 Resistant (R) Note: When testing Streptococcus pyogenes and Streptococcus pneumoniae , susceptibility and resistance to clarithromycin can be predicted using erythromycin. Quality Control Standardized susceptibility test procedures require the use of laboratory control bacteria to monitor and ensure the accuracy and precision of supplies and reagents in the assay, and the techniques of the individual performing the test. 2,3 For the diffusion technique using the 15 mcg disk, the criteria in the following table should be achieved. Acceptable Quality Control Ranges for Clarithromycin QC Strain Zone diameter (mm) S. aureus ATCC 25923 26 to 32 S. pneumoniae This quality control range is applicable only to tests performed",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 37,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_38",
+    "text": "chieved. Acceptable Quality Control Ranges for Clarithromycin QC Strain Zone diameter (mm) S. aureus ATCC 25923 26 to 32 S. pneumoniae This quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood. ATCC 49619 25 to 31 Haemophilus influenzae This quality control limit applies to tests conducted with Haemophilus influenzae ATCC 49247 using HTM 2. ATCC 49247 11 to 17 In vitro Activity of Clarithromycin against Mycobacteria Clarithromycin has demonstrated in vitro activity against Mycobacterium avium complex (MAC) microorganisms isolated from both AIDS and non-AIDS patients. While gene probe techniques may be used to distinguish M. avium species from M. intracellulare, many studies only reported results on M. avium complex (MAC) isolates. Various in vitro methodologies employing broth or solid media at different pH’s, with and without oleic acid-albumin-dextrose-catalase (OADC), have been used to determine clarithromycin MIC values for mycobacterial species. In general, MIC values decrease more than 16-fold as the pH of Middlebrook 7H12 broth media increases from 5.0 to 7.4. At pH 7.4, MIC values determined with Mueller-Hinton agar were 4- to 8-fold higher than those observed with Middlebrook 7H12 media. Utilization of oleic acid-albumin-dextrose-catalase (OADC) in these assays has been shown to further alter MIC values. Clarithromycin activity against 80 MAC isolates from AIDS patients",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 38,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_39",
+    "text": "7H12 media. Utilization of oleic acid-albumin-dextrose-catalase (OADC) in these assays has been shown to further alter MIC values. Clarithromycin activity against 80 MAC isolates from AIDS patients and 211 MAC isolates from non-AIDS patients was evaluated using a micro-dilution method with Middlebrook 7H9 broth. Results showed an MIC value of ≤4.0 mcg/mL in 81% and 89% of the AIDS and non-AIDS MAC isolates, respectively. Twelve percent of the non-AIDS isolates had an MIC value ≤0.5 mcg/mL. Clarithromycin was also shown to be active against phagocytized M. avium complex (MAC) in mouse and human macrophage cell cultures as well as in the beige mouse infection model. Clarithromycin activity was evaluated against Mycobacterium tuberculosis microorganisms. In one study utilizing the agar dilution method with Middlebrook 7H10 media, 3 of 30 clinical isolates had an MIC of 2.5 mcg/mL. Clarithromycin inhibited all isolates at >10.0 mcg/mL. Susceptibility Testing for Mycobacterium avium Complex (MAC) The disk diffusion and dilution techniques for susceptibility testing against gram-positive and gram-negative bacteria should not be used for determining clarithromycin MIC values against mycobacteria. In vitro susceptibility testing methods and diagnostic products currently available for determining minimum inhibitory concentration (MIC) values against Mycobacterium avium complex (MAC) organisms have not been standardized or validated. Clarithromycin MIC values will vary depending on",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 39,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_40",
+    "text": "termining minimum inhibitory concentration (MIC) values against Mycobacterium avium complex (MAC) organisms have not been standardized or validated. Clarithromycin MIC values will vary depending on the susceptibility testing method employed, composition and pH of the media, and the utilization of nutritional supplements. Breakpoints to determine whether clinical isolates of M. avium or M. intracellulare are susceptible or resistant to clarithromycin have not been established. Susceptibility Test for Helicobacter pylori The reference methodology for susceptibility testing of H. pylori is agar dilution MICs 4 One to three micro-liters of an inoculum equivalent to a No. 2 McFarland standard (1 x 10 7 -1 x 10 8 CFU/mL for H. pylori ) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (>2-weeks old). The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for Campylobacter species. After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism. The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria: Susceptibility Test Interpretive Criteria H. pylori Clarithromycin MIC (mcg/mL) These are tentative breakpoints for the agar dilution methodology, and should not be used to interpret results obtained using",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 40,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_41",
+    "text": "ility Test Interpretive Criteria H. pylori Clarithromycin MIC (mcg/mL) These are tentative breakpoints for the agar dilution methodology, and should not be used to interpret results obtained using alternative methods. Interpretation <0.25 Susceptible (S) 0.5 Intermediate (I) >1.0 Resistant (R) Amoxicillin MIC (mcg/mL) There were not enough organisms with MICs >0.25 mcg/mL to determine a resistance breakpoint. Interpretation <0.25 Susceptible (S) Standardized susceptibility test procedures require the use of laboratory control bacteria to monitor and ensure the accuracy and precision of supplies and reagents in the assay, and the techniques of the individual performing the test. Standard clarithromycin or amoxicillin powder should provide the following MIC ranges. Acceptable Quality Control Ranges Antimicrobial Agent MIC (mcg/mL) These are quality control ranges for the agar dilution methodology and should not be used to control test results obtained using alternative methods. H. pylori ATCC 43504 Clarithromycin 0.015 - 0.12 mcg/mL H. pylori ATCC 43504 Amoxicillin 0.015 - 0.12 mcg/mL\n\n## ADVERSE_REACTIONS\nADVERSE REACTIONS The majority of side effects observed in clinical trials were of a mild and transient nature. Fewer than 3% of adult patients without mycobacterial infections and fewer than 2% of pediatric patients without mycobacterial infections discontinued therapy because of drug-related side effects. The most frequently reported events in adults taking clarithromycin",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 41,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_42",
+    "text": "nd fewer than 2% of pediatric patients without mycobacterial infections discontinued therapy because of drug-related side effects. The most frequently reported events in adults taking clarithromycin tablets, USP were diarrhea (3%), nausea (3%), abnormal taste (3%), dyspepsia (2%), abdominal pain/discomfort (2%), and headache (2%). In pediatric patients, the most frequently reported events were diarrhea (6%), vomiting (6%), abdominal pain (3%), rash (3%), and headache (2%). Most of these events were described as mild or moderate in severity. Of the reported adverse events, only 1% was described as severe. In the acute exacerbation of chronic bronchitis and acute maxillary sinusitis studies overall gastrointestinal adverse events were reported by a similar proportion of patients taking either clarithromycin tablets or clarithromycin extended-release tablets; however, patients taking clarithromycin extended-release tablets reported significantly less severe gastrointestinal symptoms compared to patients taking clarithromycin tablets. In addition, patients taking clarithromycin extended-release tablets had significantly fewer premature discontinuations for drug-related gastrointestinal or abnormal taste adverse events compared to clarithromycin tablets. In community-acquired pneumonia studies conducted in adults comparing clarithromycin to erythromycin base or erythromycin stearate, there were fewer adverse events involving the digestive system in clarithromycin-treated patients",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 42,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_43",
+    "text": "a studies conducted in adults comparing clarithromycin to erythromycin base or erythromycin stearate, there were fewer adverse events involving the digestive system in clarithromycin-treated patients compared to erythromycin-treated patients (13% vs 32%; p<0.01). Twenty percent of erythromycin-treated patients discontinued therapy due to adverse events compared to 4% of clarithromycin-treated patients. In two U.S. studies of acute otitis media comparing clarithromycin to amoxicillin/potassium clavulanate in pediatric patients, there were fewer adverse events involving the digestive system in clarithromycin-treated patients compared to amoxicillin/potassium clavulanate-treated patients (21% vs 40%, p<0.001). One-third as many clarithromycin-treated patients reported diarrhea as did amoxicillin/potassium clavulanate-treated patients. Post-Marketing Experience Allergic reactions ranging from urticaria and mild skin eruptions to rare cases of anaphylaxis, Stevens-Johnson syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), Henoch-Schonlein Purpura and toxic epidermal necrolysis have occurred. Other spontaneously reported adverse events include glossitis, stomatitis, oral moniliasis, anorexia, vomiting, pancreatitis, tongue discoloration, thrombocytopenia, leukopenia, neutropenia, dizziness, myalgia and hemorrhage. There have been reports of tooth discoloration in patients treated with clarithromycin. Tooth discoloration is usually reversible with professional",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 43,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_44",
+    "text": "neutropenia, dizziness, myalgia and hemorrhage. There have been reports of tooth discoloration in patients treated with clarithromycin. Tooth discoloration is usually reversible with professional dental cleaning. There have been isolated reports of hearing loss, which is usually reversible, occurring chiefly in elderly women. Reports of alterations of the sense of smell including smell loss, usually in conjunction with taste perversion or taste loss, have also been reported. Transient CNS events including anxiety, behavioral changes, confusional states, convulsions, depersonalization, disorientation, hallucinations, insomnia, depression, manic behavior, nightmares, psychosis, tinnitus, tremor, and vertigo have been reported during post-marketing surveillance. Events usually resolve with discontinuation of the drug. Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with clarithromycin. (See WARNINGS: Hepatotoxicity .) There have been rare reports of hypoglycemia, some of which have occurred in patients taking oral hypoglycemic agents or insulin. There have been post-marketing reports of clarithromycin tablets in the stool, many of which have occurred in patients with anatomic (including ileostomy or colostomy) or functional gastrointestinal disorders with shortened GI transit times. As with other macrolides, clarithromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 44,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_45",
+    "text": "tinal disorders with shortened GI transit times. As with other macrolides, clarithromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes. There have been reports of interstitial nephritis coincident with clarithromycin use. There have been post-marketing reports of colchicine toxicity with concomitant use of clarithromycin and colchicine, especially in the elderly, some of which occurred in patients with renal insufficiency. Deaths have been reported in some such patients. (See WARNINGS and PRECAUTIONS .) There have been cases of rhabdomyolysis reported with clarithromycin use. In some cases, clarithromycin was administered concomitantly with other drugs known to be associated with rhabdomyolysis (such as statins, fibrates, colchicine or allopurinol). Changes in Laboratory Values Changes in laboratory values with possible clinical significance were as follows: Hepatic – elevated SGPT (ALT) <1%; SGOT (AST) <1%; GGT <1%; alkaline phosphatase <1%; LDH <1%; total bilirubin <1% Hematologic – decreased WBC <1%; elevated prothrombin time 1% Renal – elevated BUN 4%; elevated serum creatinine <1% GGT, alkaline phosphatase, and prothrombin time data are from adult studies only.\n\n## PRECAUTIONS\nPRECAUTIONS General Prescribing clarithromycin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 45,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_46",
+    "text": "ral Prescribing clarithromycin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Clarithromycin is principally excreted via the liver and kidney. Clarithromycin may be administered without dosage adjustment to patients with hepatic impairment and normal renal function. However, in the presence of severe renal impairment with or without coexisting hepatic impairment, decreased dosage or prolonged dosing intervals may be appropriate. Clarithromycin in combination with ranitidine bismuth citrate therapy is not recommended in patients with creatinine clearance less than 25 mL/min. (See DOSAGE AND ADMINISTRATION .) Clarithromycin in combination with ranitidine bismuth citrate should not be used in patients with a history of acute porphyria. Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome has been reported in patients receiving clarithromycin therapy. For information about precautions of other drugs indicated in combination with clarithromycin, refer to the PRECAUTIONS section of their package inserts. Information to Patients Patients should be counseled that antibacterial drugs including clarithromycin should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When clarithromycin is prescribed to treat a bacterial",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 46,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_47",
+    "text": "al drugs including clarithromycin should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When clarithromycin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by clarithromycin or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. Clarithromycin tablets may interact with some drugs; therefore patients should be advised to report to their doctor the use of any other medications. Clarithromycin tablets can be taken with or without food and can be taken with milk. Drug Interactions Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations. Monitoring of serum theophylline concentrations should be",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 47,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_48",
+    "text": "ctions Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations. Monitoring of serum theophylline concentrations should be considered for patients receiving high doses of theophylline or with baseline concentrations in the upper therapeutic range. In two studies in which theophylline was administered with clarithromycin (a theophylline sustained-release formulation was dosed at either 6.5 mg/kg or 12 mg/kg together with 250 or 500 mg q12h clarithromycin), the steady-state levels of C max , C min , and the area under the serum concentration time curve (AUC) of theophylline increased about 20%. Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class. Concomitant administration of single doses of clarithromycin and carbamazepine has been shown to result in increased plasma concentrations of carbamazepine. Blood level monitoring of carbamazepine may be considered. When clarithromycin and terfenadine were coadministered, plasma concentrations of the active acid metabolite of terfenadine were threefold higher, on average, than the values observed when terfenadine was administered alone. The pharmacokinetics of clarithromycin and the 14-hydroxy-clarithromycin were not significantly affected by coadministration of terfenadine once clarithromycin reached steady-state conditions. Concomitant",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 48,
+    "total_chunks": 63,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_49",
+    "text": "netics of clarithromycin and the 14-hydroxy-clarithromycin were not significantly affected by coadministration of terfenadine once clarithromycin reached steady-state conditions. Concomitant administration of clarithromycin with terfenadine is contraindicated. (See CONTRAINDICATIONS .) Clarithromycin 500 mg every 8 hours was given in combination with omeprazole 40 mg daily to healthy adult subjects. The steady-state plasma concentrations of omeprazole were increased (C max , AUC 0-24 , and T 1/2 increases of 30%, 89%, and 34%, respectively), by the concomitant administration of clarithromycin. The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin. Co-administration of clarithromycin with ranitidine bismuth citrate resulted in increased plasma ranitidine concentrations (57%), increased plasma bismuth trough concentrations (48%), and increased 14-hydroxy-clarithromycin plasma concentrations (31%). These effects are clinically insignificant. Simultaneous oral administration of clarithromycin tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations. Following administration of clarithromycin 500 mg tablets twice daily with zidovudine 100 mg every 4 hours, the steady-state zidovudine AUC decreased 12% compared to administration of zidovudine alone (n=4). Individual values ranged from a decrease of 34% to an increase of 14%. When clarithromycin",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 49,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_50",
+    "text": "ours, the steady-state zidovudine AUC decreased 12% compared to administration of zidovudine alone (n=4). Individual values ranged from a decrease of 34% to an increase of 14%. When clarithromycin tablets were administered two to four hours prior to zidovudine, the steady-state zidovudine C max increased 100% whereas the AUC was unaffected (n=24). Administration of clarithromycin and zidovudine should be separated by at least two hours. The impact of co-administration of clarithromycin extended-release tablets and zidovudine has not been evaluated. Simultaneous administration of clarithromycin tablets and didanosine to 12 HIV-infected adult patients resulted in no statistically significant change in didanosine pharmacokinetics. Following administration of fluconazole 200 mg daily and clarithromycin 500 mg twice daily to 21 healthy volunteers, the steady-state clarithromycin C min and AUC increased 33% and 18%, respectively. Steady-state concentrations of 14-OH clarithromycin were not significantly affected by concomitant administration of fluconazole. No dosage adjustment of clarithromycin is necessary when co-administered with fluconazole. Ritonavir Concomitant administration of clarithromycin and ritonavir (n=22) resulted in a 77% increase in clarithromycin AUC and a 100% decrease in the AUC of 14-OH clarithromycin. Clarithromycin may be administered without dosage adjustment to patients with normal renal function taking ritonavir. Since concentrations of 14-OH",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 50,
+    "total_chunks": 63,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_51",
+    "text": "ase in the AUC of 14-OH clarithromycin. Clarithromycin may be administered without dosage adjustment to patients with normal renal function taking ritonavir. Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with ritonavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium complex (see PRECAUTIONS: Drug Interactions ). Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Spontaneous reports in the post-marketing period suggest that concomitant administration of clarithromycin and oral anticoagulants may potentiate the effects of the oral anticoagulants. Prothrombin times should be carefully monitored while patients are receiving clarithromycin and oral anticoagulants simultaneously. Digoxin is a substrate for P-glycoprotein (Pgp) and clarithromycin is known to inhibit Pgp. When clarithromycin and digoxin are co-administered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin. Elevated digoxin serum concentrations in patients receiving clarithromycin and digoxin concomitantly have been reported in post-marketing surveillance. Some patients have shown clinical signs consistent with digoxin toxicity, including potentially fatal arrhythmias. Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 51,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_52",
+    "text": "tent with digoxin toxicity, including potentially fatal arrhythmias. Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper therapeutic range. Co-administration of clarithromycin, known to inhibit CYP3A, and a drug primarily metabolized by CYP3A may be associated with elevations in drug concentrations that could increase or prolong both therapeutic and adverse effects of the concomitant drug. Clarithromycin should be used with caution in patients receiving treatment with other drugs known to be CYP3A enzyme substrates, especially if the CYP3A substrate has a narrow safety margin (e.g., carbamazepine) and/or the substrate is extensively metabolized by this enzyme. Dosage adjustments may be considered, and when possible, serum concentrations of drugs primarily metabolized by CYP3A should be monitored closely in patients concurrently receiving clarithromycin. The following are examples of some clinically significant CYP3A based drug interactions. Interactions with other drugs metabolized by the CYP3A isoform are also possible. Carbamazepine and Terfenadine Increased serum concentrations of carbamazepine and the active acid metabolite of terfenadine were observed in clinical trials with clarithromycin. Colchicine Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp). Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp. When a single dose of colchicine",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 52,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_53",
+    "text": "ine Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp). Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp. When a single dose of colchicine 0.6 mg was administered with clarithromycin 250 mg BID for 7 days, the colchicine C max increased 197% and the AUC0-∞ increased 239% compared to administration of colchicine alone. The dose of colchicine should be reduced when co-administered with clarithromycin in patients with normal renal and hepatic function. Concomitant use of clarithromycin and colchicine is contraindicated in patients with renal or hepatic impairment. (See WARNINGS ). Efavirenz, Nevirapine, Rifampicin, Rifabutin, and Rifapentine Inducers of CYP3A enzymes, such as efavirenz, nevirapine, rifampicin, rifabutin, and rifapentine will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin, while increasing those of 14-OH-clarithromycin. Since the microbiological activities of clarithromycin and 14-OHclarithromycin are different for different bacteria, the intended therapeutic effect could be impaired during concomitant administration of clarithromycin and enzyme inducers. Alternative antibacterial treatment should be considered when treating patients receiving inducers of CYP3A. Sildenafil, Tadalafil, and Vardenafil Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 53,
+    "total_chunks": 63,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_54",
+    "text": "CYP3A. Sildenafil, Tadalafil, and Vardenafil Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin. Co-administration of clarithromycin with sildenafil, tadalafil, or vardenafil will result in increased exposure of these phosphodiesterase inhibitors. Coadministration of these phosphodiesterase inhibitors with clarithromycin is not recommended. Tolterodine The primary route of metabolism for tolterodine is via CYP2D6. However, in a subset of the population devoid of CYP2D6, the identified pathway of metabolism is via CYP3A. In this population subset, inhibition of CYP3A results in significantly higher serum concentrations of tolterodine. Tolterodine 1 mg twice daily is recommended in patients deficient in CYP2D6 activity (poor metabolizers) when co-administered with clarithromycin. Triazolobenzodiazepines (e.g., alprazolam, midazolam, triazolam) When a single dose of midazolam was co-administered with clarithromycin tablets (500 mg twice daily for 7 days), midazolam AUC increased 174% after intravenous administration of midazolam and 600% after oral administration. When oral midazolam is co-administered with clarithromycin, dose adjustments may be necessary and possible prolongation and intensity of effect should be anticipated. Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is co-administered with clarithromycin. For benzodiazepines",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 54,
+    "total_chunks": 63,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_55",
+    "text": "and intensity of effect should be anticipated. Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is co-administered with clarithromycin. For benzodiazepines which are not metabolized by CYP3A (e.g., temazepam, nitrazepam, lorazepam), a clinically important interaction with clarithromycin is unlikely. There have been post-marketing reports of drug interactions and central nervous system (CNS) effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam. Monitoring the patient for increased CNS pharmacological effects is suggested. Atazanavir Both clarithromycin and atazanavir are substrates and inhibitors of CYP3A, and there is evidence of a bidirectional drug interaction. Following administration of clarithromycin (500 mg twice daily) with atazanavir (400 mg once daily), the clarithromycin AUC increased 94%, the 14-OH clarithromycin AUC decreased 70% and the atazanavir AUC increased 28%. When clarithromycin is co-administered with atazanavir, the dose of clarithromycin should be decreased by 50%. Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with atazanavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium complex (see PRECAUTIONS: Drug Interactions ). Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 55,
+    "total_chunks": 63,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_56",
+    "text": "infections due to Mycobacterium avium complex (see PRECAUTIONS: Drug Interactions ). Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Itraconazole Both clarithromycin and itraconazole are substrates and inhibitors of CYP3A, potentially leading to a bidirectional drug interaction when administered concomitantly. Clarithromycin may increase the plasma concentrations of itraconazole, while itraconazole may increase the plasma concentrations of clarithromycin. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions. Saquinavir Both clarithromycin and saquinavir are substrates and inhibitors of CYP3A and there is evidence of a bidirectional drug interaction. Following administration of clarithromycin (500 mg bid) and saquinavir (soft gelatin capsules, 1200 mg tid) to 12 healthy volunteers, the steady-state saquinavir AUC and C max increased 177% and 187% respectively compared to administration of saquinavir alone. Clarithromycin AUC and C max increased 45% and 39% respectively, whereas the 14–OH clarithromycin AUC and C max decreased 24% and 34% respectively, compared to administration with clarithromycin alone. No dose adjustment of clarithromycin is necessary when clarithromycin is co-administered with saquinavir in patients with normal renal function. When saquinavir is co-administered with ritonavir, consideration",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 56,
+    "total_chunks": 63,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_57",
+    "text": "ent of clarithromycin is necessary when clarithromycin is co-administered with saquinavir in patients with normal renal function. When saquinavir is co-administered with ritonavir, consideration should be given to the potential effects of ritonavir on clarithromycin (refer to interaction between clarithromycin and ritonavir) (see PRECAUTIONS: Drug Interactions ). The following CYP3A based drug interactions have been observed with erythromycin products and/or with clarithromycin in post-marketing experience: Antiarrhythmics There have been postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and quinidine or disopyramide. Electrocardiograms should be monitored for QTc prolongation during coadministration of clarithromycin with these drugs. Serum concentrations of these medications should also be monitored. Ergotamine/Dihydroergotamine Post-marketing reports indicate that coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. Concomitant administration of clarithromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS ). Triazolobenzodiazepines (such as Triazolam and Alprazolam) and Related Benzodiazepines (such as Midazolam) Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 57,
+    "total_chunks": 63,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_58",
+    "text": "epines (such as Triazolam and Alprazolam) and Related Benzodiazepines (such as Midazolam) Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines. There have been post-marketing reports of drug interactions and CNS effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam. Sildenafil (Viagra) Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil. A similar interaction may occur with clarithromycin; reduction of sildenafil dosage should be considered. (See Viagra package insert.) There have been spontaneous or published reports of CYP3A based interactions of erythromycin and/or clarithromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, bromocriptine and vinblastine. Concomitant administration of clarithromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated (see CONTRAINDICATIONS ). In addition, there have been reports of interactions of erythromycin or clarithromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate. Carcinogenesis, Mutagenesis, Impairment of Fertility The following in vitro mutagenicity tests have been conducted with clarithromycin: Salmonella /Mammalian Microsomes Test Bacterial Induced Mutation Frequency Test In Vitro Chromosome",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 58,
+    "total_chunks": 63,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_59",
+    "text": "of Fertility The following in vitro mutagenicity tests have been conducted with clarithromycin: Salmonella /Mammalian Microsomes Test Bacterial Induced Mutation Frequency Test In Vitro Chromosome Aberration Test Rat Hepatocyte DNA Synthesis Assay Mouse Lymphoma Assay Mouse Dominant Lethal Study Mouse Micronucleus Test All tests had negative results except the In Vitro Chromosome Aberration Test which was weakly positive in one test and negative in another. In addition, a Bacterial Reverse-Mutation Test (Ames Test) has been performed on clarithromycin metabolites with negative results. Fertility and reproduction studies have shown that daily doses of up to 160 mg/kg/day (1.3 times the recommended maximum human dose based on mg/m 2 ) to male and female rats caused no adverse effects on the estrous cycle, fertility, parturition, or number and viability of offspring. Plasma levels in rats after 150 mg/kg/day were 2 times the human serum levels. In the 150 mg/kg/day monkey studies, plasma levels were 3 times the human serum levels. When given orally at 150 mg/kg/day (2.4 times the recommended maximum human dose based on mg/m 2 ), clarithromycin was shown to produce embryonic loss in monkeys. This effect has been attributed to marked maternal toxicity of the drug at this high dose. In rabbits, in utero fetal loss occurred at an intravenous dose of 33 mg/m 2 , which is 17 times less than the maximum proposed human oral daily dose of 618 mg/m 2 . Long-term studies in animals have",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 59,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_60",
+    "text": "rabbits, in utero fetal loss occurred at an intravenous dose of 33 mg/m 2 , which is 17 times less than the maximum proposed human oral daily dose of 618 mg/m 2 . Long-term studies in animals have not been performed to evaluate the carcinogenic potential of clarithromycin. Pregnancy Teratogenic Effects Pregnancy Category C Four teratogenicity studies in rats (three with oral doses and one with intravenous doses up to 160 mg/kg/day administered during the period of major organogenesis) and two in rabbits at oral doses up to 125 mg/kg/day (approximately 2 times the recommended maximum human dose based on mg/m 2 ) or intravenous doses of 30 mg/kg/day administered during gestation days 6 to 18 failed to demonstrate any teratogenicity from clarithromycin. Two additional oral studies in a different rat strain at similar doses and similar conditions demonstrated a low incidence of cardiovascular anomalies at doses of 150 mg/kg/day administered during gestation days 6 to 15. Plasma levels after 150 mg/kg/day were 2 times the human serum levels. Four studies in mice revealed a variable incidence of cleft palate following oral doses of 1000 mg/kg/day (2 and 4 times the recommended maximum human dose based on mg/m 2 , respectively) during gestation days 6 to 15. Cleft palate was also seen at 500 mg/kg/day. The 1000 mg/kg/day exposure resulted in plasma levels 17 times the human serum levels. In monkeys, an oral dose of 70 mg/kg/day (an approximate equidose of the recommended maximum",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 60,
+    "total_chunks": 63,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_61",
+    "text": "t 500 mg/kg/day. The 1000 mg/kg/day exposure resulted in plasma levels 17 times the human serum levels. In monkeys, an oral dose of 70 mg/kg/day (an approximate equidose of the recommended maximum human dose based on mg/m 2 ) produced fetal growth retardation at plasma levels that were 2 times the human serum levels. There are no adequate and well-controlled studies in pregnant women. Clarithromycin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. (See WARNINGS .) Nursing Mothers It is not known whether clarithromycin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when clarithromycin is administered to a nursing woman. It is known that clarithromycin is excreted in the milk of lactating animals and that other drugs of this class are excreted in human milk. Preweaned rats, exposed indirectly via consumption of milk from dams treated with 150 mg/kg/day for 3 weeks, were not adversely affected, despite data indicating higher drug levels in milk than in plasma. Pediatric Use Safety and effectiveness of clarithromycin in pediatric patients under 6 months of age have not been established. The safety of clarithromycin has not been studied in MAC patients under the age of 20 months. Neonatal and juvenile animals tolerated clarithromycin in a manner similar to adult animals. Young animals were slightly more intolerant to acute overdosage and to subtle reductions in",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 61,
+    "total_chunks": 63,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "unknown_7_dosage_administration_62",
+    "text": "ths. Neonatal and juvenile animals tolerated clarithromycin in a manner similar to adult animals. Young animals were slightly more intolerant to acute overdosage and to subtle reductions in erythrocytes, platelets and leukocytes but were less sensitive to toxicity in the liver, kidney, thymus, and genitalia. Geriatric Use In a steady-state study in which healthy elderly subjects (age 65 to 81 years old) were given 500 mg every 12 hours, the maximum serum concentrations and area under the curves of clarithromycin and 14-OH clarithromycin were increased compared to those achieved in healthy young adults. These changes in pharmacokinetics parallel known age-related decreases in renal function. In clinical trials, elderly patients did not have an increased incidence of adverse events when compared to younger patients. Dosage adjustment should be considered in elderly patients with severe renal impairment. Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients. (See WARNINGS and PRECAUTIONS .)",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_dosage_administration",
+    "section": "General",
+    "chunk_index": 62,
+    "total_chunks": 63,
+    "char_count": 1061
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "chunk_id": "unknown_7_warnings_0",
+    "text": "DRUG: unknown\n============================================================\n\n## WARNINGS\nWarnings: For external use only. Do not use if you have sensitive skin and/or are sensitive to [active ingredient] When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time avoid unnecessary sun exposure and use sun screen, Acne Clearing Moisture with SPF 45 skin irritation may occur, characterized by redness, burning, itching, peeling, and possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration Stop use and ask a doctor if irritation becomes severe\n\n## DOSAGE_AND_ADMINISTRATION\nThree Bottles Acne Clearing Cleanser 240 mL Acne Clearing Tonic 120 mL Acne Clearing Treatment 101 60 mL\n\n## INDICATIONS_AND_USAGE\nDirections: Acne Clearing Cleanser Acne Clearing Tonic Acne Clearing Treatment 101",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_7_warnings",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "char_count": 987
+  }
+]

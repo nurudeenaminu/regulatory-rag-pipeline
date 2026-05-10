@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "2024_17614_0",
+    "text": "TITLE: Request for Comments on the U.S. Artificial Intelligence Safety Institute's Draft Document: Managing Misuse Risk for Dual-Use Foundation Models\nDOCUMENT NUMBER: 2024-17614\nTYPE: Notice\nAGENCY: Commerce Department, National Institute of Standards and Technology\nPUBLISHED: 2024-08-08\nEFFECTIVE: None\nCITATION: 89 FR 64878\nACTION: Notice; request for comments.\n============================================================\n\nABSTRACT:\nThe U.S. Artificial Intelligence Safety Institute (AISI), housed within NIST at the Department of Commerce, requests comments on a draft document responsive to an Executive order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (AI) issued on October 30, 2023: NIST AI 800-1, Managing Misuse Risk for Dual-Use Foundation Models, found at https://nvlpubs.nist.gov/nistpubs/ai/ NIST.AI.800-1.ipd.pdf.\n\nFULL TEXT:\n\n <div class=\"preamble\">\n<div class=\"document-headings\"><div class=\"fr-box fr-box-published-alt no-footer\">\n<div class=\"fr-seal-block fr-seal-block-header with-hover\"><div class=\"fr-seal-content\">\n<span class=\"h6\">Document Headings</span><div class=\"fr-seal-meta\"><div class=\"fr-seal-desc\">\n<p>\n Document headings vary by document type but may contain\n the following:\n </p>\n<ol class=\"bullets\">\n<li>\n the agency or agencies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 9,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "2024_17614_1",
+    "text": "ies that issued and signed a document\n </li>\n<li>\n the number of the CFR title and the number of each part\n the document amends, proposes to amend, or is directly\n related to\n </li>\n<li>\n the agency docket number / agency internal file number\n </li>\n<li>\n the RIN which identifies each regulatory action listed in\n the Unified Agenda of Federal Regulatory and Deregulatory\n Actions\n </li>\n</ol>\n<p>\n See the\n <a href=\"https://www.archives.gov/files/federal-register/write/handbook/ddh.pdf#page=9\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "General",
+    "chunk_index": 1,
+    "total_chunks": 9,
+    "char_count": 497
+  },
+  {
+    "chunk_id": "2024_17614_2",
+    "text": "</a>\n for more details.\n </p>\n</div></div>\n</div></div>\n<div class=\"content-block \">\n<h6 class=\"agency\">Department of Commerce</h6>\n<h6 class=\"sub-agency\">National Institute of Standards and Technology</h6>\n<ol><li>XRIN 0693-XC137</li></ol>\n</div>\n</div></div>\n<span class=\"printed-page-inline unprinted-element document-markup\" data-page=\"64878\">\n\n (<svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg> printed page 64878)\n </span><span class=\"printed-page-details unprinted-element document-markup\" id=\"page-64878\" data-page=\"64878\"><svg class=\"svg-icon svg-icon-doc-generic\"><use xlink:href=\"/assets/fr-icons.svg#doc-generic\"></use></svg></span><div id=\"agency\">\n <h1 id=\"h-1\">AGENCY:</h1>\n <p id=\"p-1\" data-page=\"64878\">U.S. Artificial Intelligence Safety Institute (AISI), National Institute of Standards and Technology (NIST), U.S. Department of Commerce.</p>\n </div>\n<div id=\"action\">\n <h1 id=\"h-2\">ACTION:</h1>\n <p id=\"p-2\" data-page=\"64878\">Notice; request for comments.</p>\n </div>\n<div id=\"summary\">\n <h1 id=\"h-3\">SUMMARY:</h1>\n <p id=\"p-3\" data-page=\"64878\">\n The U.S. Artificial Intelligence Safety Institute (AISI), housed within NIST at the Department of Commerce, requests comments on a draft document responsive to an Executive order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (AI) issued on October 30, 2023: NIST AI 800-1, Managing Misuse Risk for Dual-Use Foundation Models, found at",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 2,
+    "total_chunks": 9,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_17614_3",
+    "text": "rder on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (AI) issued on October 30, 2023: NIST AI 800-1, Managing Misuse Risk for Dual-Use Foundation Models, found at \n <em><a href=\"https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd.pdf\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://nvlpubs.nist.gov/&#8203;nistpubs/&#8203;ai/&#8203;NIST.AI.800-1.ipd.pdf</a>.</em></p>\n </div>\n<div id=\"dates\">\n <h1 id=\"h-4\">DATES:</h1>\n <p id=\"p-4\" data-page=\"64878\">Comments containing information in response to this notice must be received on or before September 9, 2024, at 11:59 p.m. eastern time. Submissions received after that date may not be considered.</p>\n </div>\n<div id=\"addresses\">\n <h1 id=\"h-5\">ADDRESSES:</h1>\n <p id=\"p-5\" data-page=\"64878\">\n The draft of NIST AI 800-1, Managing Misuse Risk for Dual-Use Foundation Models is available for review and comment on the U.S. AI Safety Institute website at \n <em><a href=\"https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd.pdf\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://nvlpubs.nist.gov/&#8203;nistpubs/&#8203;ai/&#8203;NIST.AI.800-1.ipd.pdf</a></em>\n and at \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a></em>\n under docket number 240802-0209.\n </p>\n <p id=\"p-6\" data-page=\"64878\">\n <em>Comments may be submitted:</em></p>\n <p id=\"p-7\" data-page=\"64878\">\n <em>By email:</em></p>\n \n <ul",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 3,
+    "total_chunks": 9,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "2024_17614_4",
+    "text": "ions.gov</a></em>\n under docket number 240802-0209.\n </p>\n <p id=\"p-6\" data-page=\"64878\">\n <em>Comments may be submitted:</em></p>\n <p id=\"p-7\" data-page=\"64878\">\n <em>By email:</em></p>\n \n <ul class=\"bullets\" >\n <li id=\"p-8\" data-page=\"64878\">Comments on NIST AI 800-1 may be sent electronically to<em><a href=\"mailto:NISTAI800-1@nist.gov\" class=\"email\">NISTAI800-1@nist.gov</a></em>\n with &ldquo;NIST AI 800-1, Managing the Risk of Misuse for Dual-Use Foundation Models&rdquo; in the subject line. Electronic submissions may be sent as an attachment in any of the following unlocked formats: HTML; ASCII; Word; RTF; or PDF.\n </li>\n </ul>\n \n <p id=\"p-9\" data-page=\"64878\">\n Via \n <em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a>:</em></p>\n \n <ul class=\"bullets\" >\n <li id=\"p-10\" data-page=\"64878\">To submit electronic public comments via the Federal eRulemaking Portal.</li>\n </ul>\n \n <p id=\"p-11\" data-page=\"64878\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "Document Drafting Handbook",
+    "chunk_index": 4,
+    "total_chunks": 9,
+    "char_count": 992
+  },
+  {
+    "chunk_id": "2024_17614_5",
+    "text": "<em><a href=\"http://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">www.regulations.gov</a></em>\n and enter 240802-0209 in the search field,\n </p>\n <p id=\"p-12\" data-page=\"64878\">2. Click the &ldquo;Comment Now!&rdquo; icon, complete the required fields, including the relevant document number and title in the subject field, and</p>\n <p id=\"p-13\" data-page=\"64878\">3. Enter or attach your comments.</p>\n \n <ul class=\"bullets\" >\n <li id=\"p-14\" data-page=\"64878\">Written comments may also be submitted by mail to Information Technology Laboratory, ATTN: AI EO Document Comments, National Institute of Standards and Technology, 100 Bureau Drive, Mail Stop 8900, Gaithersburg, MD 20899-8900.</li>\n </ul>\n \n <p id=\"p-15\" data-page=\"64878\">Comments containing references, studies, research, and other empirical data that are not widely published should include copies of the referenced materials. All submissions, including attachments and other supporting materials, will become part of the public record and subject to public disclosure.</p>\n <p id=\"p-16\" data-page=\"64878\">AISI will not accept comments accompanied by a request that part or all of the material be treated confidentially because of its business proprietary nature or for any other reason. Therefore, do not submit confidential business information or otherwise sensitive, protected, or personal information, such as account numbers, Social Security numbers, or names of other individuals.</p>\n <p",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "1. Go to",
+    "chunk_index": 5,
+    "total_chunks": 9,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "2024_17614_6",
+    "text": "ot submit confidential business information or otherwise sensitive, protected, or personal information, such as account numbers, Social Security numbers, or names of other individuals.</p>\n <p id=\"p-17\" data-page=\"64878\">\n All relevant comments received by the deadline will be posted at \n <em><a href=\"https://www.regulations.gov\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.regulations.gov</a></em>\n under docket number 240802-0209 and at \n <em><a href=\"https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence\" class=\"external\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nist.gov/&#8203;artificial-intelligence/&#8203;executive-order-safe-secure-and-trustworthy-artificial-intelligence</a>.</em>\n Attachments and other supporting materials may become part of the public record and may be subject to public disclosure.\n </p>\n </div>\n<div id=\"for-further-information-contact\">\n <h1 id=\"h-6\">FOR FURTHER INFORMATION CONTACT:</h1>\n <p id=\"p-18\" data-page=\"64878\">\n For questions about this request for comments contact: \n <em><a href=\"mailto:christina.knight@nist.gov\" class=\"email\">christina.knight@nist.gov</a></em>\n or Christina Knight, U.S. Department of Commerce, 1401 Constitution Ave. NW, Washington, DC ((240) 961-8688). Direct media inquiries to NIST's Office of Public Affairs at (301) 975-2762. Users of telecommunication devices for the deaf, or a text telephone may call the Federal Relay",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "1. Go to",
+    "chunk_index": 6,
+    "total_chunks": 9,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "2024_17614_7",
+    "text": "DC ((240) 961-8688). Direct media inquiries to NIST's Office of Public Affairs at (301) 975-2762. Users of telecommunication devices for the deaf, or a text telephone may call the Federal Relay Service toll free at 1-800-877-8339. Accessible Format: NIST will make the request for comments available in alternate formats, such as Braille or large print, upon request by persons with disabilities.\n </p>\n </div>\n</div>\n <div class=\"supplemental-info\">\n <h1 id=\"h-7\">SUPPLEMENTARY INFORMATION:</h1>\n <p id=\"p-19\" data-page=\"64878\">AISI requests comments on the draft of Managing Misuse Risk for Dual-Use Foundation Models.</p>\n <p id=\"p-20\" data-page=\"64878\">AISI welcomes input on all aspects of the draft guidance, such as modifications to the included objectives, practices, and recommendations; suggestions for additions or deletions; and areas where further empirical evidence is needed. The questions below are optional and intended to prompt feedback:</p>\n <p id=\"p-21\" data-page=\"64878\">1. What practical challenges exist to meeting the objectives outlined in the guidance?</p>\n <p id=\"p-22\" data-page=\"64878\">",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "1. Go to",
+    "chunk_index": 7,
+    "total_chunks": 9,
+    "char_count": 1116
+  },
+  {
+    "chunk_id": "2024_17614_8",
+    "text": "<em>e.g.,</em>\n how a foundation model is released) and modality (text, image, audio, multimodal, and others)?\n </p>\n <p id=\"p-23\" data-page=\"64878\">3. How can the guidance better reflect the important role for real-world monitoring in making risk assessments?</p>\n <p id=\"p-24\" data-page=\"64878\">4. How can the guidance's examples of documentation better support communication of practically useful information while adequately addressing confidentiality concerns, such as protecting proprietary information?</p>\n <p id=\"p-25\" data-page=\"64878\">5. How can the guidance better enable collaboration among actors across the AI supply chain, such as addressing the role of both developers and their third-party partners in managing misuse risk?</p>\n <p id=\"p-26\" data-page=\"64878\">\n <em>Authority:</em>\n Sections 4.1(a)(ii) and 4.1(a)(ii)(A) of <a href=\"/executive-order/14110\" class=\"eo\">Executive Order 14110</a> of Oct. 30, 2023; <a href=\"https://www.govinfo.gov/link/uscode/15/272\" class=\"usc external\" target=\"_blank\" rel=\"noopener noreferrer\">15 U.S.C. 272</a>.\n </p>\n <div class=\"signature\">\n <p class=\"signature-name\">Alicia Chambers,</p>\n <p class=\"signature-title\">NIST Executive Secretariat.</p>\n </div>\n </div>\n \n \n <div class=\"end-matter\">\n<p class=\"frdoc\">[<a href=\"/d/2024-17614\">FR Doc. 2024-17614</a> Filed 8-7-24; 8:45 am]</p>\n<p class=\"billing-code\">BILLING CODE 3510-13-P</p>\n</div>",
+    "source": "FEDERAL_REGISTER",
+    "document_name": "2024_17614",
+    "section": "2. How can the guidance better address the ways in which misuse risks differ based on deployment (",
+    "chunk_index": 8,
+    "total_chunks": 9,
+    "char_count": 1399
+  }
+]

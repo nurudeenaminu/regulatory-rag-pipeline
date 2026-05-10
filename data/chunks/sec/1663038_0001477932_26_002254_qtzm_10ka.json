@@ -1,0 +1,842 @@
+[
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_0",
+    "text": "WASHINGTON, D.C. 20549\n \n \n \nFORM 10-K/A\n \n \nAmendment No. 2 \n \n  \n \n \n \n \n \n \n \n☒\n \nANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n \n \n \n \n \n \n \n \n \n \n \n \n \nFor the fiscal year ended July 31, 2025\n \n \n \n \n \n \n \n \n \n \n \n \n \nor\n \n \n \n \n \n \n \n \n \n \n☐\n \nTRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n \n \n \n \n \n \n \n \n \n \n \n \n \nFor the transition period from ________ to _________\n \n \n \n \n \n \n  \n \n \n \n \n \n \n \nQuantumzyme Corp.\n \n \n \n(Exact name of registrant as specified in its charter)\n \n \n \n \n \n \n  \n \n \n \n \n \n \n \nNevada\n \n \n \n \n \n000-56725\n \n \n \n \n \nN/A\n \n \n \n(State or other jurisdiction \n \n \n \n \n \n(Commission File Number)\n \n \n \n \n \n(IRS Employer \n \n \n \nof Incorporation) \n \n \n \n \n \n \n \n \n \n \n \nIdentification Number) \n \n \n \n \n \n \n \n \n15656 Bernardo Center Drive Suite 801\n \nSan Diego, CA 92127\n \nTel.: 858-216-7676 \n \n \n \n \n \n \n \n (Address, including zip code, and telephone number, including area code, of registrant's principal executive offices)\n \n \n \n \n \n \n \n \nSecurities registered pursuant to Section 12(b) of the Act: None\n \n \n \nSecurities registered pursuant to Section 12(g) of the Act: Common Stock, $0.00001 Par Value\n \n \n \nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.\n \n \n \nYes ☐     No ☒\n \n \n \nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.\n \n \n \nYes ☐",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "SECURITIES AND EXCHANGE COMMISSION",
+    "chunk_index": 0,
+    "total_chunks": 84,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_1",
+    "text": "ned in Rule 405 of the Securities Act.\n \n \n \nYes ☐     No ☒\n \n \n \nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.\n \n \n \nYes ☐     No ☒\n \n \n \nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.\n \n \n \nYes ☒     No ☐\n \n \n \nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒     No ☐\n \n \n \nIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "SECURITIES AND EXCHANGE COMMISSION",
+    "chunk_index": 1,
+    "total_chunks": 84,
+    "char_count": 1230
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_2",
+    "text": "☒\n \n \n \n \n \n \n \n \n \nEmerging growth company\n \n \n☒\n \n \n \n \n \n \n \n \nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐\n \n \n \nIndicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☐\n \n \n \nIf securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐\n \n \n \nIndicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐\n \n \n \nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐     No ☒\n \n \n \nThe aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Smaller Reporting Company",
+    "chunk_index": 2,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_3",
+    "text": "No ☒\n \n \n \nThe aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter was approximately $4,327,050. Shares of common stock held by each executive officer and director and by each person who owns 10% or more of the outstanding common stock of the registrant have been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes. Without acknowledging that any individual director of registrant is an affiliate, all directors have been included as affiliates with respect to shares owned by them.\n \n \n \nAs of November 10, 2025, there were 38,962,050 of the registrant’s common stock outstanding.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nQUANTUMZYME CORP. \n \nReport on Form 10-K",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Smaller Reporting Company",
+    "chunk_index": 3,
+    "total_chunks": 84,
+    "char_count": 1077
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_4",
+    "text": "Item 13.\n \n \nCertain Relationships and Related Transactions, and Director Independence\n \n \n \n \n \n23\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2\n \n \n \n \nTable of Contents",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "PART III.",
+    "chunk_index": 4,
+    "total_chunks": 84,
+    "char_count": 197
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_5",
+    "text": "Quantumzyme Corp. (the “Company”) is filing this Amendment No. 2 to its Annual Report on Form 10-K for the fiscal year ended July 31, 2025 (the “Original Filing”), which was filed with the Securities and Exchange Commission on November 13, 2025. \n \n   \n \n Amendment No. 1 to the Original Filing was filed to include an updated report of the Company’s independent registered public accounting firm, Fruci & Associates II, PLLC (“Fruci”), and the related consent. The updated audit report replaced the version that was included in the Original Filing, which was submitted before Fruci had granted its final authorization. Amendment No. 1 also reflected the inclusion of $54,500 of stock-based compensation for Mr. Naveen Krishnarao Kulkarni for fiscal year 2024 in the Executive Compensation table presented in Item 11. \n \n   \n \n This Amendment No. 2 is being filed solely to amend and supplement disclosure contained in Item 1 – Business, Item 1A – Risk Factors, and Item 13 – Certain Relationships and Related Transactions, and Director Independence, in each case to update and clarify certain disclosures relating to the Company’s intellectual property. \n \n   \n \n As previously disclosed, the Company acquired certain intellectual property rights pursuant to an Asset Purchase Agreement dated February 21, 2023. Such intellectual property includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, titled “Modified Polypeptides for Enzymatic Synthesis of Ibuprofen,”",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "EXPLANATORY NOTE",
+    "chunk_index": 5,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_6",
+    "text": "ry 21, 2023. Such intellectual property includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, titled “Modified Polypeptides for Enzymatic Synthesis of Ibuprofen,” which was filed on November 2, 2023. \n \n   \n \n The Company believes that the subject matter of the patent application is derived from and based upon the intellectual property acquired pursuant to the Asset Purchase Agreement. However, the patent application was filed in the name of the Company’s Chief Executive Officer in his individual capacity, and legal title has not yet been formally assigned to the Company. \n \n   \n \n The Company has not recorded such intellectual property as an asset in its financial statements due to the absence of a formal valuation. \n \n   \n \n The Company has since entered into a confirmatory assignment agreement with its Chief Executive Officer to formally assign such intellectual property to the Company, effective as of the date of issuance of the patent, and intends to reflect such ownership in its public disclosures going forward. \n \n   \n \n Accordingly, this Amendment No. 2 amends only Item 1, Item 1A, and Item 13 of the Original Filing. \n \n   \n \n No other Items or disclosures are being amended, modified, or updated by this Amendment No. 2. \n \n   \n \n This Amendment No. 2 does not modify, restate, or update any of the Company’s audited financial statements, notes to financial statements, or any other financial information contained in the Original Filing,",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "EXPLANATORY NOTE",
+    "chunk_index": 6,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_7",
+    "text": "ndment No. 2 does not modify, restate, or update any of the Company’s audited financial statements, notes to financial statements, or any other financial information contained in the Original Filing, and no changes have been made to Part II, Item 7 (Management’s Discussion and Analysis of Financial Condition and Results of Operations), Item 8 (Financial Statements and Supplementary Data), or any other financial disclosures. \n \n   \n \n Except as expressly set forth herein with respect to Item 1, Item 1A, and Item 13, this Amendment No. 2 does not reflect events occurring after the filing date of the Original Filing, and no other changes have been made to the Original Filing. \n \n   \n \n This Amendment No. 2 should be read in conjunction with the Original Filing and Amendment No. 1. \n \n \n \n \n \n \n \n \n \n \n \n3\n \n \n \n \nTable of Contents",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "EXPLANATORY NOTE",
+    "chunk_index": 7,
+    "total_chunks": 84,
+    "char_count": 839
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_8",
+    "text": "Except for statements of historical fact, certain information described in this Annual Report on Form 10-K (“\nAnnual Report\n”) contains “forward-looking statements” that involve substantial risks and uncertainties. You can identify these statements by forward-looking words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “should,” “will,” “would” or similar words. The statements that contain these or similar words should be read carefully because these statements discuss the Company’s future expectations, including its expectations of its future results of operations or financial position, or state other “forward-looking” information. Quantumzyme Corp.  believes that it is important to communicate its future expectations to its investors. However, there may be events in the future that the Company is not able to accurately predict or to control. Further, the Company urges you to be cautious of the forward-looking statements which are contained in this Annual Report because they involve risks, uncertainties and other factors affecting its operations, market growth, service, products, and licenses. The risk factors in the section captioned “Risk Factors” in Item 1A of the Company’s Annual Report, as well as other cautionary language in this Annual Report, describe such risks, uncertainties and events that may cause the Company’s actual results and achievements, whether expressed or implied, to differ materially from the expectations the Company",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "FORWARD LOOKING STATEMENTS",
+    "chunk_index": 8,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_9",
+    "text": "port, describe such risks, uncertainties and events that may cause the Company’s actual results and achievements, whether expressed or implied, to differ materially from the expectations the Company describes in its forward-looking statements. The occurrence of any of the events described as risk factors could have a material adverse effect on the Company’s business, results of operations and financial position.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "FORWARD LOOKING STATEMENTS",
+    "chunk_index": 9,
+    "total_chunks": 84,
+    "char_count": 415
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_10",
+    "text": "Company Overview\n \n \n \n Quantumzyme Corp. is a biotransformation company focused on clean and green chemistry. Specifically, Quantumzyme is in the business of developing engineered enzymes for application in the production of active pharmaceutical ingredients (“API”). As we move forward, we intend to expand beyond the API marketplace and engineer enzymes for use in other sectors, including fragrances and flavors, as well as climate-focused applications such as sustainable materials, plastic degradation, and carbon capture. In the development and engineering of enzymes, we conduct research to enhance enzyme activity, selectivity, and specificity by applying novel quantum mechanics, molecular modelling, and engineering approaches. Our goal is to foster a clean, healthy, and well-protected environment supporting a sustainable society and economy. Ultimately, we aim to simplify complex chemistry and reduce the number of required steps in chemical processes by applying scientific principles such as quantum mechanics to biological systems. As we continue to develop and implement our plan of operation, we intend to establish ourselves as industry leaders by solving complex chemistry problems in the pharmaceutical, fragrances, and flavors sectors. \n \n \n \n As of the date hereof, we have engineered our first product, which is an enzyme for use in pharmaceutical API production of ibuprofen. Specifically, our initial product is targeted at select pharmaceutical companies that produce",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 10,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_11",
+    "text": "ngineered our first product, which is an enzyme for use in pharmaceutical API production of ibuprofen. Specifically, our initial product is targeted at select pharmaceutical companies that produce generic drugs. We are in the process of identifying third-party manufacturers and distributors capable of manufacturing the enzyme at scale and distributing the product within the relevant markets. \n \n \n \n The Company’s intellectual property includes proprietary enzyme design technologies, computational methodologies, and related know-how acquired pursuant to that certain Asset Purchase Agreement dated February 21, 2023. Such intellectual property includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, titled “Modified Polypeptides for Enzymatic Synthesis of Ibuprofen,” which was filed on November 2, 2023 and published on May 8, 2025. The patent application is currently pending and has not yet been issued as a patent. \n \n \n \n The Company believes that the subject matter of the patent application is derived from and based upon the intellectual property acquired pursuant to the Asset Purchase Agreement. However, the patent application was filed in the name of the Company’s Chief Executive Officer in his individual capacity, and legal title has not yet been formally assigned to the Company. The Company has not recorded such intellectual property as an asset in its financial statements due to the absence of a formal valuation. \n \n  \n \nIndustry Overview",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 11,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_12",
+    "text": "formally assigned to the Company. The Company has not recorded such intellectual property as an asset in its financial statements due to the absence of a formal valuation. \n \n  \n \nIndustry Overview\n \n \n \nEnzyme engineering is a dynamic and evolving field within the broader biotechnology sector, focusing on the modification and optimization of enzymes for various industrial, medical, and environmental applications. Enzyme engineering plays a pivotal role in advancing industrial processes, healthcare solutions, and environmental technologies. The industry's success is driven by continuous innovation, interdisciplinary collaboration, and the ability to address challenges associated with enzyme specificity, stability, and regulatory compliance.\n \n \n \nEnzymes are proteins that act as catalysts, facilitating and accelerating chemical reactions in living organisms. Enzyme engineering involves modifying these proteins to enhance their performance, stability, and specificity for targeted applications. Enzyme engineering contributes to advancements in sustainable and green technologies, improving the efficiency of industrial processes while minimizing environmental impact. Companies in this field often collaborate with industries such as biotechnology, pharmaceuticals, agriculture, and environmental science to address specific challenges and develop innovative solutions.\n \n \n \n \n \n \n \n \n \n \n \n4\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nKey factors contributing to the industry’s growth",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 12,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_13",
+    "text": "ironmental science to address specific challenges and develop innovative solutions.\n \n \n \n \n \n \n \n \n \n \n \n4\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nKey factors contributing to the industry’s growth include the expansion of biotechnological capabilities, the increasing demand for sustainable solutions, and the versatility of enzymes across various applications. As the enzyme engineering field continues to evolve, it holds promise for addressing complex global challenges and driving advancements in biotechnology, offering a wide array of opportunities for research, development, and commercialization.\n \n \n \nHere's an overview and summary of the enzyme engineering industry:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nEnzyme engineering leverages advances in genetic engineering, protein design, and computational biology to enhance the performance of enzymes;\n \n \n \n \n \n \n·\n \n \nEnzymes find applications across diverse industries, including food and beverage, pharmaceuticals, biofuels, textiles, agriculture, and environmental remediation;\n \n \n \n \n \n \n·\n \n \nOngoing R&D efforts focus on discovering new enzymes, optimizing existing ones, and addressing challenges such as substrate specificity, stability, and scalability;\n \n \n \n \n \n \n·\n \n \nEnzyme engineering companies typically operate globally, catering to international markets and collaborating with industries worldwide to address specific needs;\n \n \n \n \n \n \n·\n \n \nThe industry aligns with sustainability goals, contributing to the development of",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 13,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_14",
+    "text": "g to international markets and collaborating with industries worldwide to address specific needs;\n \n \n \n \n \n \n·\n \n \nThe industry aligns with sustainability goals, contributing to the development of green technologies by improving efficiency, reducing environmental impact, and promoting sustainable practices;\n \n \n \n \n \n \n·\n \n \nRegulatory considerations are paramount, especially in industries like pharmaceuticals and food, where safety and compliance standards play a crucial role in market entry; and,\n \n \n \n \n \n \n·\n \n \nCompanies invest in securing intellectual property rights through patents to protect innovations, creating a competitive edge in the market.\n \n \n \n \n \n \n \n \nEngineering enzymes involves leveraging biotechnological techniques to modify and optimize enzymes for various industrial applications, including the following applications:\n \n \n \nIndustrial Applications\n: Enzymes play a crucial role in industrial processes such as food and beverage production, biofuel manufacturing, textiles, and more. Enzyme engineering companies focus on developing enzymes that enhance efficiency, reduce costs, and improve overall performance in these processes.\n \n \n \nBiopharmaceuticals: \nEnzymes are utilized in the production of biopharmaceuticals. Companies in this sector engage in enzyme engineering to create enzymes that are better suited for the production of therapeutic proteins and drugs, contributing to advancements in the pharmaceutical industry.\n \n \n \nDiagnostic and Research",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 14,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_15",
+    "text": "gineering to create enzymes that are better suited for the production of therapeutic proteins and drugs, contributing to advancements in the pharmaceutical industry.\n \n \n \nDiagnostic and Research Tools: \nEnzymes are essential components of diagnostic tests and research tools in various fields. Enzyme engineering companies work on creating enzymes with improved sensitivity and specificity for diagnostic applications, catering to the healthcare and research sectors.\n \n \n \nBioremediation and Environmental Solutions: \nEnzymes can be employed for environmental purposes, such as bioremediation to clean up pollutants. Enzyme engineering is used to design enzymes that are more effective in breaking down specific contaminants, addressing environmental challenges and creating sustainable solutions.\n \n \n \nAgricultural Innovations: \nEnzymes find applications in agriculture for soil improvement, crop protection, and more. Enzyme engineering companies may develop enzymes that enhance nutrient availability, promote plant growth, or provide protection against pests, contributing to advancements in agricultural practices.\n \n \n \nResearch and Development: \nEnzyme engineering involves continuous research and development efforts to discover novel enzymes and optimize existing ones. This ongoing innovation is crucial for staying competitive in the biotechnology sector and addressing emerging challenges.\n \n \n \n \n \n \n \n \n \n \n \n5\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nCollaboration and",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 15,
+    "total_chunks": 84,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_16",
+    "text": "ation is crucial for staying competitive in the biotechnology sector and addressing emerging challenges.\n \n \n \n \n \n \n \n \n \n \n \n5\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nCollaboration and Partnerships: \nCompanies in enzyme engineering often collaborate with industries such as biotechnology, pharmaceuticals, agriculture, and environmental science. Collaborations and partnerships help address specific challenges, pool resources, and bring innovative enzyme solutions to market.\n \n \n \nCommercialization of Intellectual Property: \nEnzyme engineering companies invest in intellectual property protection for their innovations. They generate revenue by commercializing patented enzymes, licensing technologies, and offering specialized enzyme solutions to industries.\n \n \n \nGlobal Market Presence: \nMany enzyme engineering companies operate globally, catering to diverse markets and industries. This global presence allows them to tap into different economic environments, expand market reach, and diversify revenue streams.\n \n \n \nAdaptation to Market Trends: \nEnzyme engineering companies need to stay adaptive to market trends and technological advancements. This includes embracing sustainable and green technologies, aligning with consumer preferences, and addressing evolving industry needs.\n \n \n \nEngineering enzymes for profit involves a multidimensional approach, including innovation, collaboration, and strategic market positioning. As we move our plan of operation forward, we intend to",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 16,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_17",
+    "text": "Engineering enzymes for profit involves a multidimensional approach, including innovation, collaboration, and strategic market positioning. As we move our plan of operation forward, we intend to contribute to sustainable industrial practices, advancements in healthcare, and environmental solutions while seeking financial success through the commercialization of enzyme-based products and services.\n \n \n \nWhile enzyme engineering has made significant progress, there are still challenges and limitations associated with the field. Some common problems in engineering enzymes include:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nAchieving high substrate specificity and selectivity can be challenging. Designing enzymes that only catalyze a specific reaction without side reactions can be complex;\n \n \n \n \n \n \n·\n \n \nEnzymes may undergo denaturation or lose activity under certain conditions, such as extremes of pH, temperature, or in the presence of organic solvents. Improving stability is crucial for industrial applications;\n \n \n \n \n \n \n·\n \n \nSome enzymes require cofactors for their activity. Designing enzymes that function effectively without specific cofactors or finding cost-effective ways to provide cofactors can be challenging;\n \n \n \n \n \n \n·\n \n \nImmobilizing enzymes for industrial use can be problematic. Issues may include maintaining high catalytic efficiency, avoiding mass transfer limitations, and preserving the structural integrity of the immobilized enzyme;\n \n \n \n \n \n \n·\n \n \nTransitioning",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 17,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_18",
+    "text": "matic. Issues may include maintaining high catalytic efficiency, avoiding mass transfer limitations, and preserving the structural integrity of the immobilized enzyme;\n \n \n \n \n \n \n·\n \n \nTransitioning from laboratory-scale experiments to large-scale industrial production can be challenging. Factors such as cost, scalability, and maintaining enzyme activity at scale need careful consideration;\n \n \n \n \n \n \n·\n \n \nProducing engineered enzymes on a large scale can be expensive. Finding cost-effective methods for enzyme production, purification, and recovery is crucial for commercial viability;\n \n \n \n \n \n \n·\n \n \nEnzymes used in various applications, particularly in the food and pharmaceutical industries, may face regulatory hurdles. Compliance with safety and regulatory standards can pose challenges;\n \n \n \n \n \n \n·\n \n \nAchieving the correct three-dimensional structure is essential for enzyme activity. Issues related to protein folding and misfolding can impact the efficiency of engineered enzymes;\n \n \n \n \n \n \n·\n \n \nDespite advances in structural biology, understanding the intricate relationships between enzyme structure and function remains a complex task. Predicting the effects of specific mutations on enzyme activity can be challenging;\n \n \n \n \n \n \n·\n \n \nEnzymes may be susceptible to inhibition by various factors, including competitive inhibitors or changes in environmental conditions. Overcoming inhibition challenges is essential for maintaining consistent enzyme performance;",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 18,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_19",
+    "text": "nhibition by various factors, including competitive inhibitors or changes in environmental conditions. Overcoming inhibition challenges is essential for maintaining consistent enzyme performance;\n \n \n \n \n \n \n·\n \n \nEnzymes often need to function under diverse conditions in different industrial processes. Designing enzymes that are versatile and effective across a range of conditions can be challenging; and,\n \n \n \n \n \n \n·\n \n \nAs enzyme engineering advances, ethical considerations related to the potential misuse of engineered enzymes or unintended environmental impacts may arise.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nWe will continually work to address these challenges through innovative genetic engineering, protein design, and bioprocessing techniques. Overcoming these problems is crucial for unlocking the full potential of engineered enzymes in various industrial, medical, and environmental applications.\n \n \n \nGlossary\n \n \n \nThe following terms shall have the meanings set forth below:\n \n \n \nAPI\n means an Active Pharmaceutical Ingredient (API), also known as a drug substance, is a specific chemical or biological substance that is responsible for the therapeutic effect of a pharmaceutical drug. It is the biologically active component of a medication that produces the desired pharmacological activity in the body.\n \n \n \nBiotransformation\n refers to the chemical alteration of compounds or substances by using enzymes. It involves the enzymatic",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 19,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_20",
+    "text": "tion that produces the desired pharmacological activity in the body.\n \n \n \nBiotransformation\n refers to the chemical alteration of compounds or substances by using enzymes. It involves the enzymatic process(es) that occur in various biological systems, such as microorganisms, plants, animals, and humans. Biotransformation can occur through a single or a series of enzymatic reactions, resulting in the conversion of one compound into another. Biotransformation can also be utilized for the production of valuable compounds, such as pharmaceuticals, flavors, and fragrances, through the use of Biocatalysts.\n \n \n \nBiocatalysis\n refers to the use of natural catalysts, primarily enzymes, to facilitate chemical reactions. Enzymes are highly efficient biocatalysts that accelerate the rate of chemical reactions without being consumed in the process. Biocatalysis offers several advantages over traditional chemical catalysts, including milder reaction conditions, greater selectivity, and reduced environmental impact. Enzymes can catalyze a wide range of reactions, including oxidation, reduction, hydrolysis, and synthesis of complex molecules. Biocatalysis finds applications in various industries, including pharmaceuticals, biotechnology, food and beverage, and environmental sectors. It plays a crucial role in the production of pharmaceutical intermediates, biofuels, fine chemicals, and other valuable products.\n \n \n \nInsilico\n refers to processes or experiments that are conducted or",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 20,
+    "total_chunks": 84,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_21",
+    "text": "crucial role in the production of pharmaceutical intermediates, biofuels, fine chemicals, and other valuable products.\n \n \n \nInsilico\n refers to processes or experiments that are conducted or simulated using computer models rather than in a traditional laboratory setting such as \nin vitro\n (in glass) experiments done in a lab and \nin vivo\n (in living organisms) experiments. As used herein, insilico methods involve using computational techniques to analyze chemical compounds, predict their properties, and simulate their interactions.\n \n \n \nLegacy reactions\n refer to a chemical reaction or process that has been used historically or traditionally for a particular purpose but is now considered outdated or less commonly employed due to advancements in technology, efficiency, or sustainability. Legacy chemical reactions include older, conventional, or less environmentally friendly methods that have been replaced or improved upon by newer, more efficient, and greener alternatives. These legacy reactions might have been widely used in the past but are no longer favored due to factors such as low yields, hazardous reagents, high energy requirements, or significant waste generation.\n \n \n \nThe Quantumzyme Solution.\n \n \n \nOur Solution is \nBiocatalysis \nthrough engineered enzymes. Engineering enzymes involves the application of scientific principles and techniques to modify and optimize the structure and function of enzymes for specific purposes. Historically, engineering enzymes using",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 21,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_22",
+    "text": "g enzymes involves the application of scientific principles and techniques to modify and optimize the structure and function of enzymes for specific purposes. Historically, engineering enzymes using legacy reactions and traditional processes that involves hazardous chemicals, high pressure, high temperature, which leads to lot of waste generation. Not only do traditional methods cause significant pollution and are highly inefficient, but traditional processes also yield poor results and many inefficiencies, multiple impurities, metal catalysts, and hazardous waste. Quantumzyme addresses this problem by leveraging biology and evolution.\n \n \n \nAs environmental, social, and governance (ESG) investing becomes a factor used by socially conscious investors to screen potential investments and sustainability become key focus areas, our solution is perfect for progressive and accountable organizations and industry leaders. Our solution offers following advantages:\n \n \n \n \n \n \n \n \n \nTraditional Process\n \n \nThe Quantumzyme Solution - Biocatalysis\n \n \n \n \n \n \n· \nHazardous chemicals\n \n·",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 1. BUSINESS.",
+    "chunk_index": 22,
+    "total_chunks": 84,
+    "char_count": 1090
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_23",
+    "text": "· \nLow Pressure -Lower Temp\n \n· \nMinimal Waste\n \n \n \nDisadvantages\n \n \nAdvantages\n \n \n \n \n \n \n· \nHigh costs\n \n· \nLow potential for increasing yield\n \n· \nHigh Impurities\n \n· \nHazardous waste is concern\n \n \n \n \n \n \n \n· \nLow cost\n \n· \nImproved yield & manufacturing efficiency\n \n· \nSizable reduction in impurities\n \n· \nReduced hazardous waste\n \n· \nESG compliance benefits\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n7\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nSolution Delivery:\n \n \n \nWe believe that the solution is delivered through IP development processes covering 5 steps as detailed below:\n \n \n \n \n \n \n \n \n \nPhase 1 – Enzyme Discovery.\n \n \n \n \n \nThis is where the reaction of interest is studied to identify appropriate enzyme(s) Wild Type (WT).\n \n \n \n \n \n \n \n \n \n \n \n \n \nPhase 2 – Lab Validation (WT).\n \n \n \n \n \nIn this phase the WT enzyme(s) are validated for various parameters.\n \n \n \n \n \n \n \n \n \n \n \n \n \nPhase 3 – Enzyme Engineering.\n \n \n \n \n \nIn this phase the WT enzyme is engineered for desired objective.\n \n \n \n \n \n \n \n \n \n \n \n \n \nPhase 4 – Lab Validation (ET).\n \n \n \n \n \nIn this phase the Engineered enzyme (ET) is further validated & optimized for the desired objective.\n \n \n \n \n \n \n \n \n \n \n \n \n \nPhase 5 – Scale-up.\n \n \n \n \n \nIn this phase we look forward for Partnership with potential end users to perform activities such as (but not limited to) Scale-up optimization, Performing fermentation batch & Post scale-up optimization.\n \n \n \n \n \n \n \n \nAs we move forward with the implementation and",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 23,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_24",
+    "text": "o perform activities such as (but not limited to) Scale-up optimization, Performing fermentation batch & Post scale-up optimization.\n \n \n \n \n \n \n \n \nAs we move forward with the implementation and deployment of our plan of operation, our first, and currently only, developed biocatalyst is for use and license in the manufacturing of Ibuprofen. Ibuprofen is one of the most produced drugs by volume globally. However, a major issue with the production of Ibuprofen and the legacy reaction of Ibuprofen, although cost effective, is the utilization of a carcinogenic agent as a catalyst which creates effluent and can cause harm to the environment. This has resulted in the production and manufacturing of Ibuprofen being moved offshore to reduce production costs which are directly passed on the consumer. Our goal is to bring back manufacturing capabilities in the USA by making the manufacturing of Ibuprofen greener, cost effective and more environmentally friendly. Currently we are in the process of understanding the market needs, demand supply relationships, technical feasibility, commercial viability, business cases and discussions with potential end users on the impact of benefits that can be derived from the proposed solution. The uniqueness of our approach is a framework that utilizes distinct techniques with a combination of insilico and invitro techniques catering to specific biocatalysts requirements. We intend to help to foster a clean, healthy, and well protected environment",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 24,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_25",
+    "text": "istinct techniques with a combination of insilico and invitro techniques catering to specific biocatalysts requirements. We intend to help to foster a clean, healthy, and well protected environment supporting a sustainable society and economy. \n \n \n \nWe intend to license our engineered enzyme to major API manufacturers and Pharma companies. With large scale manufacturing of Ibuprofen API and use of said APIs in manufacturing of drugs by Pharma Companies, we intend to generate revenue from technology transfer and through royalties. \n \n \n \nSince the commercialization of our enzymes will be by and through third party manufacturers, who will ultimately supply the product to the consumer, such manufacturers will be required to comply with required all governmental regulatory issues, including the FDA and similar governmental agencies. As such Quantumzyme, at least initially, will not subject to any regulatory or compliance issues. Commercialization of our enzyme, thus, simply entails our licensing the rights to use our developed enzyme to large scale manufacturers and other Pharma Companies. \n \n \n \n \n \n \n \n \n \n \n \n8\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nSpecifically, Quantumzyme itself will not be directly responsible for obtaining regulatory approvals, at least initially, this burden will fall to the third-party manufacturers commercializing our enzymes. Those manufacturers will be required to comply with all applicable regulatory requirements, including those set forth by",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 25,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_26",
+    "text": "rden will fall to the third-party manufacturers commercializing our enzymes. Those manufacturers will be required to comply with all applicable regulatory requirements, including those set forth by the U.S. Food and Drug Administration (FDA) and similar regulatory bodies in other jurisdictions. The necessity for regulatory approval depends on the intended application of our enzyme. If used in biopharmaceutical applications, the enzyme may be subject to review and approval under the FDA’s regulatory framework. This could include an evaluation under the Food, Drug, and Cosmetic Act, particularly if the enzyme is classified as an active pharmaceutical ingredient (API) or is incorporated into a regulated drug or biologic product. The approval process may involve pre-market review, safety and efficacy assessments, and adherence to current Good Manufacturing Practices (cGMP). Additionally, any manufacturer supplying enzymes for pharmaceutical use would need to comply with the FDA’s Drug Master File (DMF) requirements, if applicable. For non-pharmaceutical applications, regulatory oversight may vary depending on the specific use case and jurisdiction, with potential requirements from agencies such as the Environmental Protection Agency (EPA) or the European Medicines Agency (EMA), among others. We will continue to work with our third-party manufacturing partners to ensure compliance with all relevant regulatory requirements before commercialization.\n \n \n \n Ultimately, we want to",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 26,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_27",
+    "text": "others. We will continue to work with our third-party manufacturing partners to ensure compliance with all relevant regulatory requirements before commercialization.\n \n \n \n Ultimately, we want to fulfil our vision by developing a focused approach to aid all chemical companies to harness the power of technology by simplifying complex chemistry and reducing the number of steps by implementing scientific rationale like quantum mechanics in biology. \n \n \n \nAs a biotransformation company we will constantly focus and seek to implement our learning in the following selected areas to continually drive and advance the growth of Quantumzyme:\n \n \n \nUnderstanding Enzymes: \nEnzymes are biological catalysts, typically proteins, that facilitate and accelerate chemical reactions, they have specific active sites where substrates bind, and reactions take place. Enzymes are highly specific to their substrates, and their activity can be influenced by various factors.\n \n \n \nGenetic & Protein Engineerin\ng: The process often begins with identifying and isolating genes that encode for the target enzyme. Genetic engineering involves modifying the DNA sequence of these genes using techniques like recombinant DNA technology. Protein engineering focuses on modifying the amino acid sequence of the enzyme to achieve desired properties. Techniques include site-directed mutagenesis, where specific amino acids are altered to influence enzyme activity or stability.\n \n \n \nDirected Evolution: \nThis method",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 27,
+    "total_chunks": 84,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_28",
+    "text": "achieve desired properties. Techniques include site-directed mutagenesis, where specific amino acids are altered to influence enzyme activity or stability.\n \n \n \nDirected Evolution: \nThis method mimics natural selection in a controlled laboratory setting and our enzymes are subjected to iterative rounds of mutation and selection to evolve desired traits, such as improved substrate specificity or increased stability.\n \n \n \nStructural Biology: \nUnderstanding the three-dimensional structure of enzymes is crucial for rational enzyme design, techniques like X-ray crystallography and nuclear magnetic resonance (NMR) spectroscopy are used to determine enzyme structures.\n \n \n \nComputational Biology and Bioinformatics: \nComputational methods play a significant role in predicting and modelling enzyme structures and interactions. Bioinformatics tools analyze vast biological data sets to identify potential target genes and predict enzyme functions.\n \n \n \nImmobilization Techniques: \nEnzymes can be immobilized on various supports, enhancing their stability and reusability. Immobilization techniques include adsorption, covalent binding, and encapsulation.\n \n \n \nHigh-Throughput Screening: \nAutomation and robotics enable the screening of large libraries of enzymes for desired properties, which accelerates the identification of enzyme variants with improved characteristics.\n \n \n \n \n \n \n \n \n \n \n \n9\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nSynthetic Biology: \nSynthetic biology approaches",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 28,
+    "total_chunks": 84,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_29",
+    "text": "ccelerates the identification of enzyme variants with improved characteristics.\n \n \n \n \n \n \n \n \n \n \n \n9\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nSynthetic Biology: \nSynthetic biology approaches involve designing and constructing new biological components or systems, including enzymes, which allows for the creation of tailor-made enzymes with specific functions.\n \n \n \nApplication-Specific Modifications: \nEnzyme engineering is tailored to the intended application, whether it's industrial processes, biopharmaceutical production, diagnostics, or environmental applications. Modifications aim to enhance efficiency, specificity, stability, or other desired traits.\n \n \n \nEnzyme engineering is a multidisciplinary field that combines principles from biochemistry, molecular biology, protein engineering, and computational biology to modify and optimize enzymes for specific applications. It involves the design, creation, and improvement of enzymes to enhance their catalytic activity, stability, specificity, and other properties.\n \n \n \nOur current efforts in enzyme engineering focus on establishing a solid understanding and developing skills and resources in several key areas:\n \n \n \nComputational Approaches: \nComputational methods, including machine learning, molecular docking, and molecular dynamics simulations, are used to study enzyme structure-function relationships, predict enzyme properties, and guide the design of improved variants.\n \n \n \nRational Design: \nRational design",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 29,
+    "total_chunks": 84,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_30",
+    "text": "dynamics simulations, are used to study enzyme structure-function relationships, predict enzyme properties, and guide the design of improved variants.\n \n \n \nRational Design: \nRational design strategies utilize computational methods, such as molecular modeling and simulation, to predict and engineer enzyme properties. By analyzing enzyme structures and their active sites, researchers can make targeted modifications to enhance catalytic activity, substrate specificity, or stability.\n \n \n \nProtein Engineering Tools: \nThe use of novel protein engineering tools, such as DNA shuffling, site-directed mutagenesis, and high-throughput screening methods, will accelerate the process of enzyme optimization and discovery.\n \n \n \nDirected Evolution: \nDirected evolution techniques involve generating genetic diversity in enzyme libraries and screening or selecting for variants with improved properties. This approach allows us to explore vast sequence space and identify enzymes with desired traits.\n \n \n \nEnzyme Immobilization: \nImmobilization techniques involve attaching enzymes to solid supports or matrices, allowing for their reuse and stabilization. Efforts are being made to optimize immobilization methods and explore novel supports to enhance enzyme performance and increase their industrial applicability.\n \n \n \nIt's important to note that the field of enzyme engineering is dynamic, and ongoing research continues to expand our understanding of enzyme structure, function, and engineering",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 30,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_31",
+    "text": "plicability.\n \n \n \nIt's important to note that the field of enzyme engineering is dynamic, and ongoing research continues to expand our understanding of enzyme structure, function, and engineering principles. New discoveries and techniques are continually emerging, shaping the future of enzyme engineering and its applications in various industries. Our effort to gain understanding involves in interaction with experts in the field through conferences, symposia and plan to build academic collaborations to identify novel approaches and convert them into business opportunities.\n \n \n \nIn summary, enzyme engineering combines genetic, protein, and structural engineering with computational biology and high-throughput screening to design and optimize enzymes for specific industrial, medical, or environmental applications. The field continues to evolve with advancements in biotechnology, providing innovative solutions to various challenges. \n \n \n \nQuantumzyme Current Properties, Assets & Equipment\n \n \n \nAs of the date hereof, we do not own any real property. Our office is located in a shared office space which presently is sufficient for our needs, and we pay approximately $500.00 a month. As we continue to advance our plan of operation, it is our intention to seek larger space to accommodate our needs as necessary. Additionally, the Company currently has assets that consist of solely Intellectual Property, Know-How, and previously developed and cultivated relationships that we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 31,
+    "total_chunks": 84,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_32",
+    "text": "ate our needs as necessary. Additionally, the Company currently has assets that consist of solely Intellectual Property, Know-How, and previously developed and cultivated relationships that we believe will facilitate our plan of operations as we move forward. Lastly, we do not presently own any equipment as all our research and development activities are conducted at an off-site laboratory that is fully equipped to meet our present needs.\n \n \n \n \n \n \n \n \n \n \n \n10\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nRegulatory and Legal Compliance\n \n \n \nOur business operations are subject to various governmental regulations and laws that govern the manufacture, distribution, and use of engineered enzyme products. These regulations are designed to ensure product safety, environmental protection, and workplace health and safety. Key regulatory authorities and legal frameworks applicable to our business include:\n \n \n \n \n \n \n \n \n \n \n \n \n1. \n \n \nEnvironmental Protection Agency (EPA):\n If our engineered enzymes involve biotechnological applications that may impact the environment, compliance with the Toxic Substances Control Act (TSCA) and other EPA regulations is required.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2. \n \n \nOccupational Safety and Health Administration (OSHA):\n Governs workplace safety requirements related to the handling, storage, and manufacturing of enzyme-based products.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. \n \n \nOther Global Regulatory Bodies:\n Depending on our operational markets, we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 32,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_33",
+    "text": "rements related to the handling, storage, and manufacturing of enzyme-based products.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. \n \n \nOther Global Regulatory Bodies:\n Depending on our operational markets, we may also comply with similar regulatory agencies in Canada (Health Canada), China (National Medical Products Administration), and other jurisdictions where we operate.\n \n \n \n \n \n \n \n \nUSA and EUROPE\n \n \n \nRegulations regarding companies that bioengineer enzymes vary depending on the country and the specific nature of the enzymes being produced. However, some common regulatory frameworks to which we may become subject to include:\n \n \n \n1. \nFood and Drug Administration (FDA) in the United States\n: Enzymes used in food production are subject to regulation by the FDA. The FDA evaluates the safety of these enzymes through its Generally Recognized as Safe (GRAS) program. Enzymes that have been determined to be GRAS can be used in food production without further regulatory oversight.\n \n \n \n2. \nEuropean Food Safety Authority (EFSA)\n: In the European Union, enzymes used in food production are regulated by the EFSA. Similar to the FDA's GRAS program, enzymes that are considered safe for use in food are included in the EFSA's list of authorized food enzymes.\n \n \n \n3. \nEuropean Chemicals Agency (ECHA)\n: Enzymes used in industrial processes may be subject to regulation under the Registration, Evaluation, Authorization, and Restriction of Chemicals (REACH) regulation in the European Union.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 33,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_34",
+    "text": "(ECHA)\n: Enzymes used in industrial processes may be subject to regulation under the Registration, Evaluation, Authorization, and Restriction of Chemicals (REACH) regulation in the European Union. This regulation requires companies to register and obtain authorization for the use of certain substances, including enzymes, in industrial applications.\n \n \n \n4.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Engineered Enzyme Catalyst",
+    "chunk_index": 34,
+    "total_chunks": 84,
+    "char_count": 359
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_35",
+    "text": ": This international food standards organization, jointly run by the Food and Agriculture Organization (FAO) and the World Health Organization (WHO), provides guidelines and recommendations for food safety, including the use of enzymes in food production. While Codex standards are not legally binding, they are often adopted by countries as part of their regulatory frameworks.\n \n \n \n5. \nBiosafety Regulations\n: In many countries, including the United States and various European countries, there may be specific regulations governing the use of genetically modified organisms (GMOs) or genetically engineered enzymes. These regulations typically address environmental and health concerns associated with the release of GMOs into the environment or their use in food production.\n \n \n \n \n \n \n \n \n \n \n \n11\n \n \n \n \nTable of Contents",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Codex Alimentarius Commission",
+    "chunk_index": 35,
+    "total_chunks": 84,
+    "char_count": 830
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_36",
+    "text": "Regulations regarding bioengineering and enzyme production in the United Arab Emirates (UAE) might not be as extensively documented or publicly available as in some other countries. However, we believe that the existing regulations and oversight mechanisms in place to ensure the safety of bioengineered products and their compliance with international standards are as follows:",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "UNITED ARAB EMIRATES",
+    "chunk_index": 36,
+    "total_chunks": 84,
+    "char_count": 378
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_37",
+    "text": ": The MOCCAE in the UAE is responsible for overseeing environmental regulations and may have a role in regulating bioengineering activities that could impact the environment, such as the release of genetically modified organisms (GMOs) or genetically engineered enzymes into the environment.\n \n \n \n2.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "1. Ministry of Climate Change and Environment (MOCCAE)",
+    "chunk_index": 37,
+    "total_chunks": 84,
+    "char_count": 300
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_38",
+    "text": ": The UAE has a regulatory framework specifically addressing biotechnology and genetically modified organisms (GMOs). This framework includes regulations governing the research, development, production, and commercialization of bioengineered products, including enzymes.\n \n \n \n3. \nImport and Export Regulations\n: The UAE has import and export regulations governing the movement of bioengineered products, including enzymes, across its borders. These regulations may include requirements for labeling, documentation, and permits.\n \n \n \n4. \nInternational Standards and Agreements\n: The UAE may align its regulations with international standards and agreements related to bioengineering and biotechnology. This alignment could include adherence to guidelines established by organizations such as the Codex Alimentarius Commission or international treaties addressing biosafety and environmental protection.\n \n \n \n5. \nResearch Ethics and Biosafety\n: Institutions and companies involved in bioengineering activities in the UAE may be required to adhere to research ethics guidelines and biosafety protocols to ensure the responsible conduct of research and the protection of human health and the environment.\n \n \n \nIn short, Management believes that it is essential for any company involved in bioengineering activities, including enzyme production, to consult with relevant government agencies and legal experts to ensure compliance with applicable regulations and standards in both the U.S.A. and the",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Biotechnology Regulatory Framework",
+    "chunk_index": 38,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_39",
+    "text": "ing activities, including enzyme production, to consult with relevant government agencies and legal experts to ensure compliance with applicable regulations and standards in both the U.S.A. and the U.A.E. Additionally, regulatory requirements may evolve over time, we intend to stay informed about updates and changes to regulations that may affect our current and future operations.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Biotechnology Regulatory Framework",
+    "chunk_index": 39,
+    "total_chunks": 84,
+    "char_count": 383
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_40",
+    "text": "As a company involved in the manufacture of engineered enzyme products, we adhere to several safety considerations to protect employees, consumers, and the environment. Here are key safety aspects:\n \n \n \n \n \n \n \n \n \n \n \n \n1.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Key Safety Considerations",
+    "chunk_index": 40,
+    "total_chunks": 84,
+    "char_count": 224
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_41",
+    "text": "2.\n \n \nOccupational Health\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nPersonal Protective Equipment (PPE):\n Employees must wear appropriate PPE (gloves, lab coats, respirators, etc.) when handling enzyme products, especially powdered or aerosolized forms that may cause respiratory sensitization.\n \n \n \n \n \n \n·\n \n \nVentilation & Air Quality Control:\n Adequate air filtration and ventilation systems should be in place to prevent inhalation of enzyme dust and aerosols.\n \n \n \n \n \n \n·\n \n \nHazard Communication (HazCom):\n Proper labeling and Safety Data Sheets (SDS) must be maintained and provided to employees regarding enzyme handling and potential hazards.\n \n \n \n \n \n \n·\n \n \nTraining & Emergency Preparedness:\n Workers must be trained on safe handling, spill response, and emergency procedures, including first aid measures for accidental exposure.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n12\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3.\n \n \nProduct Safety & Consumer Protection\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nGRAS (Generally Recognized as Safe) Compliance:\n If enzymes are used in food, they must comply with FDA or equivalent international GRAS standards.\n \n \n \n \n \n \n·\n \n \nAllergen & Toxicity Testing:\n Companies must conduct rigorous testing to ensure that enzyme products do not pose allergenic, toxic, or other health risks.\n \n \n \n \n \n \n·\n \n \nPurity & Contamination Control:\n Manufacturing processes must prevent microbial or chemical contamination to ensure product safety and",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 41,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_42",
+    "text": "pose allergenic, toxic, or other health risks.\n \n \n \n \n \n \n·\n \n \nPurity & Contamination Control:\n Manufacturing processes must prevent microbial or chemical contamination to ensure product safety and integrity.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n4.\n \n \nEnvironmental Safety & Waste Management\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nBiodegradability & Environmental Impact Assessments:\n Companies must assess the potential impact of engineered enzymes on ecosystems, including biodegradability and persistence in the environment.\n \n \n \n \n \n \n·\n \n \nWaste Disposal Compliance:\n Enzyme waste, byproducts, and expired materials must be disposed of according to hazardous waste regulations (e.g., EPA’s Resource Conservation and Recovery Act, EU Waste Framework Directive).\n \n \n \n \n \n \n·\n \n \nSpill Prevention & Containment:\n Protocols should be in place to prevent accidental releases, including secondary containment systems and spill response plans.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n5.\n \n \nBiosecurity & Genetic Engineering Compliance\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nBiosafety Levels (BSL):\n If working with genetically modified enzymes, facilities must comply with appropriate biosafety level classifications (BSL-1 to BSL-3) depending on risk factors.\n \n \n \n \n \n \n·\n \n \nGene Editing & GMO Regulations:\n Compliance with laws such as the USDA’s Biotechnology Regulations, the Cartagena Protocol on Biosafety, and EU GMO Directives is required when modifying organisms for enzyme production.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 42,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_43",
+    "text": "lations:\n Compliance with laws such as the USDA’s Biotechnology Regulations, the Cartagena Protocol on Biosafety, and EU GMO Directives is required when modifying organisms for enzyme production.\n \n \n \n \n \n \n·\n \n \nContainment & Cross-Contamination Prevention:\n Procedures should be in place to prevent unintended release of genetically engineered microorganisms or enzymes.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6.\n \n \nFire & Chemical Safety\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nFlammability & Chemical Handling:\n Some enzymes may require careful handling due to their reaction with other chemicals or potential combustion risk. Compliance with NFPA (National Fire Protection Association) standards.\n \n \n \n \n \n \n·\n \n \nStorage & Labeling:\n Enzymes and related chemicals must be stored safely, with clear hazard identification and adherence to local and international chemical safety regulations (e.g., OSHA’s Hazard Communication Standard, GHS labeling).\n \n \n \n \n \n \n \n \nOur Competition.\n \n \n \nThe bioengineering of enzymes sector encompasses a wide range of players, including companies, research institutions, and academic organizations. As we are in the initial rollout of our plan of operation, we believe that the major players in our industry will generally be better funded and will have the ability to attract and hire qualified candidates in all facets of our business. The following is an overview of the key players in this field: \n \n \n \nBiotech:\n Numerous biotechnology companies",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 43,
+    "total_chunks": 84,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_44",
+    "text": "lity to attract and hire qualified candidates in all facets of our business. The following is an overview of the key players in this field: \n \n \n \nBiotech:\n Numerous biotechnology companies specialize in the bioengineering of enzymes for various industrial applications. These companies often develop proprietary technologies and enzyme products tailored to specific industrial processes. Some prominent players include:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nNovozymes\n: One of the largest and most well-known enzyme manufacturers globally, offering enzymes for applications in industries such as agriculture, bioenergy, food and beverages, household care, and more.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nDuPont Industrial Biosciences\n: Known for its expertise in enzyme production and bio-based solutions for industries like food and beverage, animal nutrition, textiles, and biofuels.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nBASF\n: Offers a wide range of enzyme products for applications in detergents, food processing, animal nutrition, and more.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nCodexis\n: Specializes in enzyme engineering for pharmaceuticals, biofuels, and industrial chemicals.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nGenencor\n: Known for its innovations in enzyme technology for various industrial applications, including biofuels, textiles, and detergents.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n13\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nResearch Institutions and Universities\n: Academic institutions",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 44,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_45",
+    "text": "plications, including biofuels, textiles, and detergents.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n13\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nResearch Institutions and Universities\n: Academic institutions play a crucial role in advancing the field of enzyme bioengineering through fundamental research and technology development. Some notable institutions with active research programs in this area include MIT, Harvard University, University of California, Berkeley, ETH Zurich, and the University of Cambridge.\n \n \n \nGovernment Agencies and Funding Bodies\n: Government agencies and funding bodies provide support for research and development in enzyme bioengineering through grants, funding programs, and regulatory oversight. Examples include the National Institutes of Health (NIH) in the United States, the European Commission's Horizon 2020 program, and various national research councils.\n \n \n \nContract Research Organizations (CROs)\n: Contract research organizations provide services related to enzyme bioengineering, including enzyme discovery, optimization, and production. These organizations collaborate with industry partners to develop custom enzyme solutions for specific applications.\n \n \n \nWhile we believe that our methods, approach, and plan of operation will allow us to offer similar services at competitive pricing, we are aware that competitors are likely in a position to dedicate vast resources, in both research and development, and in enzyme engineering that we may be put at a",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 45,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_46",
+    "text": "rvices at competitive pricing, we are aware that competitors are likely in a position to dedicate vast resources, in both research and development, and in enzyme engineering that we may be put at a significant disadvantage in landing large customer accounts. However, as we intend to keep operations minimal and offer extremely competitive solutions, while offering access to our entire team as we grow, we believe our success will be in our dedication to our business and scientific principals which will be our key differentiator as we ramp up operations. \n \n \n \nUnderstanding the landscape of industry players in the bioengineering of enzymes sector involves recognizing the diverse range of organizations contributing to research, development, production, and commercialization efforts in this field.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "General Workplace Safety",
+    "chunk_index": 46,
+    "total_chunks": 84,
+    "char_count": 804
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_47",
+    "text": "While our management has extensive experience in both corporate management and business operations, they also have experience in the pursuit of various scientific endeavors(see Management’s Biographies below). In addition to their personal experience, they will set up a Scientific Advisory Board to continue to move the Company’s pursuit of engineering novel enzymes forward. The goal is to set up a Scientific Advisory Board with accomplished scientists in the fields of Chemical and Biochemical Engineering and Chemistry.\n \n \n \nEmployees\n \n \n \nWe have one employee which is our President and member of the Company’s Board of Directors, Mr. Kulkarni. Currently, Mr. Kulkarni has the flexibility to work on our business up to 40 hours per week but is prepared to devote more time if necessary. We do not presently have pension, health, annuity, insurance, stock options, profit sharing, or similar benefit plans; however, we may adopt plans in the future.\n \n \n \nThere are presently no personal benefits available to our employee, Officer and/or Director.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Scientific Advisory Board",
+    "chunk_index": 47,
+    "total_chunks": 84,
+    "char_count": 1055
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_48",
+    "text": "Quantumzyme Corp. was incorporated in the State of Nevada on March 20, 2015, originally under the name Reliant Service Inc.\n \n \n \nIn April 2023, the Company changed its corporate name to Quantumzyme Corp. and its trading symbol to QTZM following the acquisition of assets from Quantumzyme Inc., a Delaware corporation.\n \n \n \n \n \n \n \n \n \n \n \n14\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nPursuant to that Asset Purchase Agreement, Quantumzyme Corp. acquired proprietary enzyme-engineering technology focused on clean and green chemistry applications that enhance enzyme activity, selectivity, and specificity through quantum mechanics and molecular modeling. In exchange, the Company issued 150 million restricted shares of common stock to Mr. Naveen Krishnarao Kulkarni, who became the Company’s Chief Executive Officer and controlling shareholder.\n \n \n \nQuantumzyme Corp. is an early-stage, emerging growth company headquartered in San Diego, California, engaged in the research, development, and planned commercialization of engineered enzymes for use in biotransformation and sustainable chemical manufacturing.\n \nOur principal executive office is located at 15656 Bernardo Center Drive, Suite 801, San Diego, CA 92127, and our telephone number is (858)-216-7676. Additional information is available at www.quantumzymecorp.com (the website is not incorporated by reference into this report).\n \n \n \nThe Company is currently in the development stage and has not yet generated revenue. Future",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "CORPORATE HISTORY",
+    "chunk_index": 48,
+    "total_chunks": 84,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_49",
+    "text": "e at www.quantumzymecorp.com (the website is not incorporated by reference into this report).\n \n \n \nThe Company is currently in the development stage and has not yet generated revenue. Future operations will depend on the successful execution of its business plan and the ability to obtain additional financing. Given its limited operating history, investors should consider the Company’s business and prospects as highly speculative.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "CORPORATE HISTORY",
+    "chunk_index": 49,
+    "total_chunks": 84,
+    "char_count": 434
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_50",
+    "text": "The Company prepares and files annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and certain other information with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "AVAILABLE INFORMATION",
+    "chunk_index": 50,
+    "total_chunks": 84,
+    "char_count": 356
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_51",
+    "text": "Please consider the following risk factors and other information in this Registration Statement relating to our business and prospects before deciding to invest in our Shares. This Registration Statement and any investment in our Shares involve a high degree of risk. You should carefully consider the risks described below and all of the information contained in this Registration Statement before deciding whether to purchase our Shares. If any of the following risks actually occur, our business, financial condition and results of operations could be harmed, and you may lose all or part of your investment. The Company should be viewed as a high-risk investment and speculative in nature. An investment in our Shares may result in a complete loss of the invested amount. Please consider the following risk factors before deciding to invest in our Shares.\n \n \n \nFinancial Projections.\n \n \n \nAny financial projections are based upon what the Company believes to be reasonable assumptions concerning certain factors affecting probable future operations of the Company. Despite these future projections, no assurances can be made that these projections will prove to be accurate, and potential investors are cautioned against placing excessive reliance on such projections in deciding whether to invest in the Company. \n \n \n \nWe may fail to establish and maintain strategic relationships.\n \n \n \nWe believe that the establishment of strategic partnerships will greatly benefit the growth of our",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 51,
+    "total_chunks": 84,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_52",
+    "text": "est in the Company. \n \n \n \nWe may fail to establish and maintain strategic relationships.\n \n \n \nWe believe that the establishment of strategic partnerships will greatly benefit the growth of our business, and we intend to seek out and enter into strategic alliances. We may not be able to enter these strategic partnerships on commercially reasonable terms, or at all. Even if we enter strategic alliances, our partners may not attract significant numbers of clients or otherwise prove advantageous to our business. Our inability to enter new strategic alliances could have a material and adverse effect on our business.\n \n \n \n \n \n \n \n \n \n \n \n15\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nIf we were to lose the services of Mr. Kulkarni, we may not be able to execute our business strategy.\n \n \n \nWe currently depend on the continued services and performance of the key member of our management team, comprised solely of Mr. Kulkarni. His leadership has played an integral role in our company. The loss of the key member of our management team could disrupt our operations and have an adverse effect on our ability to grow our business. In addition, competition for senior executives and key personnel in our industry is intense, and we may be unable to retain our senior executives and key personnel or attract and retain new senior executives and key personnel in the future, in which case our business may be severely disrupted.\n \n \n \nIf we are unable to hire qualified personnel and retain or",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 52,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_53",
+    "text": "or attract and retain new senior executives and key personnel in the future, in which case our business may be severely disrupted.\n \n \n \nIf we are unable to hire qualified personnel and retain or motivate key personnel, we may not be able to grow effectively.\n \n \n \nOur future success depends on our continuing ability to identify, hire, develop, motivate, and retain skilled personnel for all areas of our organization. Competition in our industry for qualified employees is very competitive. Our continued ability to compete effectively depends on our ability to attract new employees and to retain and motivate our existing employee.\n \n \n \nOur Limited Workforce May Hinder Our Ability to Execute Our Business Objectives\n \n \n \nAs of the date of this filing, we have only one employee, our ability to achieve our business objectives depends on the efforts and capabilities of this sole employee, who is responsible for overseeing all aspects of our operations. The absence of additional employees may limit our capacity to effectively manage product development, regulatory compliance, business development, and other critical functions. While we engage independent contractors or consultants to support our operations, there is no guarantee that we will be able to secure qualified personnel on favorable terms. Additionally, reliance on a single employee increases our exposure to risks associated with workload constraints, potential turnover, and the loss of key knowledge or expertise. While",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 53,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_54",
+    "text": "orable terms. Additionally, reliance on a single employee increases our exposure to risks associated with workload constraints, potential turnover, and the loss of key knowledge or expertise. While we do not anticipate difficulties in acquiring qualified employees as needed in the future, if we are unable to expand our workforce as needed, our ability to execute our business plan, meet key milestones, and achieve commercial success could be adversely affected.\n \n \n \nA decline in general economic conditions could have a material adverse effect on our business, financial condition, and results of operations.\n \n \n \nOur operating and financial performance may be adversely affected by a variety of factors that influence the general economy. It is our opinion that in the event of an economic slowdown, spending habits of both consumers and businesses could be adversely affected and we could experience lower net sales than expected on a quarterly or annual basis which could have a material adverse effect on our business, financial condition, and results of operations.\n \n \n \nOur sole officer and director have little experience managing a public company.\n \n \n \nMr. Kulkarni, our sole officer, and director has limited experience managing a public company which is required to establish and maintain disclosure controls and procedures and internal control over financial reporting. As a result, we may not be able to operate successfully as a public company, even if our operations are",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 54,
+    "total_chunks": 84,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_55",
+    "text": "intain disclosure controls and procedures and internal control over financial reporting. As a result, we may not be able to operate successfully as a public company, even if our operations are successful. We plan to comply with all of the various rules and regulations, which are required for a public company that is reporting company with the Securities and Exchange Commission. However, if we cannot operate successfully as a public company, your investment may be materially adversely affected.\n \n \n \nWe may need additional capital in the future in order to expand our business.\n \n \n \nOur future capital requirements may be substantial, particularly as we continue to develop our business. Although we believe that, based on our current level of operations, our existing cash, cash equivalents and equity securities will provide adequate funds for ongoing operations, planned capital expenditures and working capital requirements for at least the next 12 months, we may need additional capital if our current plans and assumptions change. Our need for additional capital will depend on many factors, including the financial success of our performance enzyme business, our spending to develop and commercialize new and existing products and the amount of collaboration funding we may receive to help cover the cost of such expenditures, the effect of any acquisitions of other businesses, technologies or facilities that we may make or develop in the future, our spending on new market",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 55,
+    "total_chunks": 84,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_56",
+    "text": "lp cover the cost of such expenditures, the effect of any acquisitions of other businesses, technologies or facilities that we may make or develop in the future, our spending on new market opportunities, and the filing, prosecution, enforcement, and defense of patent claims. If our capital resources are insufficient to meet our capital requirements, and we are unable to enter into or maintain collaborations with partners that are able or willing to fund our development efforts or commercialize any products that we develop or enable, we will have to raise additional funds to continue the development of our technology and products and complete the commercialization of products, if any, resulting from our technologies.\n \n \n \n \n \n \n \n \n \n \n \n16\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nIn addition, we may choose to raise additional capital due to market conditions or strategic considerations, even if we believe we have sufficient funds for our current or future operating plans. We may seek to obtain such additional capital through equity offerings, debt financings, credit facilities and/or strategic collaborations. If future financings involve the issuance of equity securities, our existing stockholders will suffer dilution. If we raise debt financing or enter into credit facilities, we may be subject to restrictive covenants that limit our ability to conduct our business. We may not be able to raise sufficient additional funds on terms that are favorable to us, if at all. If we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 56,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_57",
+    "text": "we may be subject to restrictive covenants that limit our ability to conduct our business. We may not be able to raise sufficient additional funds on terms that are favorable to us, if at all. If we fail to raise sufficient funds and fail to generate sufficient revenues to achieve planned gross margins and to control operating costs, our ability to fund our operations, take advantage of strategic opportunities, develop products or technologies, or otherwise respond to competitive pressures could be significantly limited. If this happens, we may be forced to delay or terminate research or development programs or the commercialization of products resulting from our technologies, curtail or cease operations. If adequate funds are not available, we will not be able to successfully execute our business plan or continue our business.\n \n \n \nWith respect to customers purchasing our products for the manufacture of active pharmaceutical ingredients (“API”) for which they have exclusivity due to patent protection, the termination or expiration of such patent protection and any resulting generic competition may materially and adversely affect our revenues, financial condition, or results of operations.\n \n \n \nWith respect to customers purchasing our products for the manufacture of API, or lead to the manufacture of API, for which exclusivity due to patent protection has or is about to expire, we can expect that the quantity of our products sold to such customers for such products may",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 57,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_58",
+    "text": "ad to the manufacture of API, for which exclusivity due to patent protection has or is about to expire, we can expect that the quantity of our products sold to such customers for such products may decline as generic competition for the API increases. While we anticipate that we may, in some cases, also be able to sell products to these generic competitors for the manufacture of these APIs, or lead to the manufacture of these APIs, the overall effect on our revenues, financial condition and results of operations could be materially adverse.\n \n \n \nWe are dependent on a limited number of contract manufacturers for large scale production of substantially all of our enzymes.\n \n \n \nWe have limited internal capacity to manufacture enzymes. As a result, we are dependent upon the performance and capacity of third-party manufacturers for the larger scale manufacturing of the enzymes used in our business. Accordingly, we face risks of difficulties with, and interruptions in, performance by third party manufacturers, the occurrence of which could adversely impact the availability, launch and/or sales of our enzymes in the future. Enzyme manufacturing capacity limitations at our third-party manufacturers and manufacturing delays could negatively affect our business, reputation, results of operations and financial condition. We may be forced to secure alternative sources of supply, which may be unavailable on commercially acceptable terms, and could cause delays in our ability to deliver",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 58,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_59",
+    "text": "rations and financial condition. We may be forced to secure alternative sources of supply, which may be unavailable on commercially acceptable terms, and could cause delays in our ability to deliver products to our customers, increase our costs and decrease our profit margins.\n \n \n \nThe Lack of Formal Agreements for Off-Site Testing Facilities May Disrupt Our Operations and Increase Costs\n \n \n \nWe rely on third-party testing facilities, which we use on an as-needed basis without formal written agreements. The absence of binding agreements poses several risks, including potential limitations on facility availability, increased costs, and disruptions to our testing schedule. If these facilities become unavailable or impose unfavorable terms, we may experience delays in product development, increased expenses, or the need to secure alternative facilities, which could be costly and time-consuming. Any such disruptions could adversely affect our ability to advance our products and achieve commercialization in a timely manner.\n \n \n \n \n \n \n \n \n \n \n \n17\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nCompetitors and potential competitors who have greater resources and experience than we do may develop products and technologies that make ours obsolete or may use their greater resources to gain market share at our expense.\n \n \n \nOur future success will depend on our ability to maintain a competitive position with respect to technological advances. In addition, as we enter new markets, we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 59,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_60",
+    "text": "market share at our expense.\n \n \n \nOur future success will depend on our ability to maintain a competitive position with respect to technological advances. In addition, as we enter new markets, we will face new competition and will need to adapt to competitive factors that may be different from those we face today. Our primary competitors in the performance enzymes for pharmaceutical products are companies marketing either conventional, non-enzymatic processes or biocatalytic enzymes to manufacturers of pharmaceutical intermediates and APIs, and also existing in-house technologies (both biocatalysts and conventional catalysts) within our client and potential client companies. The principal methods of competition and competitive differentiation in this market are price, product quality and performance, including manufacturing yield, safety and environmental benefits, and speed of delivery of product. Additionally, the market for the manufacture and supply of APIs is large with many established companies.\n \n \n \nUltimately, our ability to compete successfully in any of these markets will depend on our ability to develop proprietary products that reach the market in a timely manner and are technologically superior to and/or are less expensive than other products on the market. Many of our competitors have substantially greater production, financial, research and development, personnel, and marketing resources than we do. They also started developing products earlier than we did,",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 60,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_61",
+    "text": "f our competitors have substantially greater production, financial, research and development, personnel, and marketing resources than we do. They also started developing products earlier than we did, which may allow them to establish blocking intellectual property positions or bring products to market before we can.\n \n \n \nOur competitors may be able to develop competing and/or superior technologies and processes and compete more aggressively and sustain that competition over a longer period of time than we could. Our technologies and products may be rendered obsolete or uneconomical by technological advances or entirely different approaches developed by one or more of our competitors. We cannot be certain that any products we develop in the future will compare favorably to products offered by our competitors or that our existing or future products will compare favorably to any new products that are developed by our competitors. As more companies develop new intellectual property in our markets, the possibility of a competitor acquiring patent or other rights that may limit our products or potential products increases, which could lead to litigation.\n \n \n \nOur limited resources relative to many of our competitors may cause us to fail to anticipate or respond adequately to new developments and other competitive pressures. This failure could reduce our competitiveness and market share, adversely affect our results of operations and financial position, and prevent us from",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 61,
+    "total_chunks": 84,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_62",
+    "text": "lopments and other competitive pressures. This failure could reduce our competitiveness and market share, adversely affect our results of operations and financial position, and prevent us from obtaining or maintaining profitability.\n \n \n \nEthical, legal, and social concerns about genetically engineered products and processes could limit or prevent the use of our technology, products and processes and limit our revenues.\n \n \n \nWe anticipate that some of our future technology, products, and services may be genetically engineered or involve the use of genetically engineered products or genetic engineering technologies. If we and/or our collaborators are not able to overcome the ethical, legal, and social concerns relating to genetic engineering, our technology, products, and services may not be accepted. Any of the risks discussed below could result in increased expenses, delays, or other impediments to our programs or the public acceptance and commercialization of products and processes dependent on our technologies or inventions.\n \n \n \n Our efforts to prosecute, maintain, protect and/or defend our intellectual property rights may not be successful. \n \n \n \n The Company’s business relies in part on proprietary technologies, including intellectual property acquired pursuant to that certain Asset Purchase Agreement dated February 21, 2023. Such intellectual property includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, which is currently pending",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 62,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_63",
+    "text": "ertain Asset Purchase Agreement dated February 21, 2023. Such intellectual property includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, which is currently pending and has not yet been issued as a patent. \n \n \n \n There can be no assurance that any patent will ultimately be issued from this or any future patent application. Even if a patent is issued, it may be successfully challenged, invalidated, or circumvented by third parties. In addition, the Company may not be able to obtain additional patents or other forms of intellectual property protection in the future. \n \n   \n \n The Company’s ability to protect its intellectual property may be limited by, among other things, the scope of any issued patents, the availability of alternative technologies, and the costs associated with enforcement. Patent applications may be rejected, and the Company may determine to abandon certain applications if the costs of prosecution outweigh the anticipated benefits. \n \n \n \n The Company may also rely on trade secrets, know-how, and other proprietary information that may not be adequately protected. Unauthorized use or disclosure of such information could materially harm the Company’s business. \n \n \n \n Further, litigation may be necessary to enforce the Company’s intellectual property rights, to protect its trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or misappropriation.",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 63,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_64",
+    "text": "ntellectual property rights, to protect its trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement or misappropriation. Any such litigation could result in substantial costs, diversion of management resources, and potential liability. An adverse outcome in any such proceeding could limit or prohibit the Company’s ability to use its technology or require the Company to obtain licenses on unfavorable terms, if at all. \n \n \n \n \n \n \n \n \n \n \n \n18\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nThird parties may claim that we are infringing, violating, or misappropriating their intellectual property rights, which may subject us to costly and time-consuming litigation and prevent us from developing or commercializing our technology, products, or services\n.\n \n \n \nOur commercial success also depends in part on our ability to operate without infringing, violating or misappropriating patents and other intellectual property rights of third parties, and without breaching any licenses or other agreements that we have entered into with regard to our technologies, products or services. We cannot ensure that patents have not been issued, or will not be issued, to third parties that could block our ability to obtain patents or to operate as we would like. There may be patents in some countries that, if valid, may block our ability to make, use, sell, or offer for sale our technology, products, or services in those",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 64,
+    "total_chunks": 84,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_65",
+    "text": "to operate as we would like. There may be patents in some countries that, if valid, may block our ability to make, use, sell, or offer for sale our technology, products, or services in those countries, or import our products into those countries, if we are unsuccessful in circumventing or acquiring rights to these patents. There also may be claims in patent applications filed in some countries that, if granted and valid, may also block our ability to commercialize technology, products, services, or processes in these countries if we are unable to circumvent or obtain rights to them.\n \n  \n \nOur investors may lose their entire investment because our financial status creates a doubt whether we will continue as a going concern.\n \n  \n \nWe do not have sufficient cash nor do we have a significant source of revenues to cover our operational costs and allow us to continue as a going concern.  The Company anticipates generating revenues from our future technology, products, and services and if that is not sufficient we may seek to raise additional operating capital to implement our business plan in an offering of our common stock or debt.  Our plan requires capital to operate for the next twelve months. However, there can be no assurance that the revenues generated or that such an offering will be successful. You may lose your entire investment\n \n \n \nWe may not be able to enforce our intellectual property rights throughout the world.\n \n  \n \nThe laws of some foreign countries where we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 65,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_66",
+    "text": "will be successful. You may lose your entire investment\n \n \n \nWe may not be able to enforce our intellectual property rights throughout the world.\n \n  \n \nThe laws of some foreign countries where we do business do not protect intellectual property rights to the same extent as the laws of the United States. Many companies have encountered significant problems in protecting and enforcing intellectual property rights in certain foreign jurisdictions. The legal systems of certain countries, particularly certain developing countries, do not favor the enforcement of patents and other intellectual property rights. Accordingly, our efforts to protect and enforce our intellectual property rights in such countries may be inadequate. This could make it difficult for us to stop the infringement, violation or misappropriation of our patents, or other intellectual property rights. Additionally, proceedings to enforce our patent rights in foreign jurisdictions could result in substantial costs and divert our efforts and attention from other aspects of our business.\n \n \n \nConfidentiality and non-use agreements with employees, consultants, advisors and other third parties may not adequately prevent disclosures and non-use of trade secrets and other proprietary information.\n \n \n \nIn addition to patent protection, we also rely on other intellectual property rights, including protection of copyright, trade secrets, know-how and/or other proprietary information that is not patentable or that we",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 66,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_67",
+    "text": "tent protection, we also rely on other intellectual property rights, including protection of copyright, trade secrets, know-how and/or other proprietary information that is not patentable or that we elect not to patent. However, trade secrets can be difficult to protect, and some courts are less willing or unwilling to protect trade secrets. To maintain the confidentiality of our trade secrets and proprietary information, we rely in part on trade secret law and contractual agreements to protect our confidential and proprietary information and processes. We will generally enter into confidentiality and invention assignment agreements with our employees, consultants, and third parties working on our behalf upon their commencement of a relationship with us. However, trade secrets and confidential information are difficult to protect, and we cannot guarantee that we have entered into such agreements with each party that may have or have had access to our trade secrets or proprietary technology and processes, and we may not enter into such agreements with all employees, consultants and third parties who have been involved in the development of our intellectual property rights. Nevertheless, without our permission or awareness, our confidential and proprietary information may be disclosed to third parties, used by the respective individuals for purposes other than for the Company’s business, or obtained through illegal means, such that third parties could reverse engineer our",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 67,
+    "total_chunks": 84,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_68",
+    "text": "sed to third parties, used by the respective individuals for purposes other than for the Company’s business, or obtained through illegal means, such that third parties could reverse engineer our biocatalysts, product candidates, and processes, to attempt to develop the same technology or develop substantially equivalent technology. Costly and time-consuming litigation could be necessary to enforce and determine the scope of our confidential and proprietary rights, and failure to protect our trade secrets could adversely affect our competitive business position. If any of our trade secrets were lawfully obtained, we may be unable to prevent them, or those to whom they communicate it, from using that technology or information to compete with us or disclosing it publicly. Therefore, these events could have a material adverse effect of our business, financial condition, and results of operations. Any failure to protect our proprietary rights may allow competitors to copy our technology, which could adversely affect our pricing and market share.\n \n \n \n \n \n \n \n \n \n \n \n19\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nWe expect our quarterly financial results to fluctuate.\n \n \n \nWe expect our revenue and operating results to vary significantly from quarter to quarter due to a number of factors, including changes in:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nGeneral economic conditions;\n \n \n \n \n \n \n·\n \n \nThe number of clients for our business consulting services;\n \n \n \n \n \n \n·\n \n \nOur ability to",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 68,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_69",
+    "text": "rs, including changes in:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \nGeneral economic conditions;\n \n \n \n \n \n \n·\n \n \nThe number of clients for our business consulting services;\n \n \n \n \n \n \n·\n \n \nOur ability to retain, grow our business and attract new clients;\n \n \n \n \n \n \n·\n \n \nAdministrative costs; and,\n \n \n \n \n \n \n·\n \n \nAdvertising and other marketing costs.\n \n \n \n \n \n \n \n \nAs a result of the variability of these and other factors, our operating results in future quarters may be below the expectations of public market analysts and investors.\n \n \n \nDual-Class Capital Structure Limits the Ability of Other Shareholders to Influence Corporate Decisions\n \n \n \nWe have a dual-class capital structure consisting of Series A and Series B Preferred Stock, our Series A Preferred Stock carries 100 votes per share of Series A Preferred Stock and our Series B Preferred Stock carries 500 votes per share of Series B Preferred Stock. Accordingly, holders of the Series A Preferred Stock and Series B Preferred Stock will, for the foreseeable future, have voting control over such matters requiring approval by shareholders, including, but not limited to, the election of directors and the approval of mergers or other business combination transactions, even if they hold a minority of the total outstanding shares. \n \n \n \nConcentrated Voting Power May Result in Decisions That Do Not Align with Minority Shareholders’ Interests\n \n \n \nHolders of our preferred stock have the ability to unilaterally approve corporate",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 69,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_70",
+    "text": "Concentrated Voting Power May Result in Decisions That Do Not Align with Minority Shareholders’ Interests\n \n \n \nHolders of our preferred stock have the ability to unilaterally approve corporate actions without requiring the consent of other shareholders. This could lead to corporate policies, strategic decisions, or transactions that disproportionately benefit controlling shareholders, even if they are not in the best interests of our common shareholders. Additionally, our dual-class capital structure may discourage potential merger, acquisition, or takeover attempts that could be beneficial to our shareholders. Because our preferred stock shareholders hold superior voting rights, they have the power to block transactions that may otherwise provide a premium to our common stockholders. This could result in missed opportunities for shareholder value maximization.\n \n \n \nRisk of  Unexpected Conversion or Dilution of Voting Power\n \n \n \nIn the event of a issuances, conversions, or transfer of shares of our Series  A and Series B Preferred Shares, our voting structure may change, impacting governance and control. Additionally, if we issue new shares of Series  A or Series B Preferred Shares in the future, it could further dilute the voting power of our common stockholders.\n \n \n \nOur Shares are “Penny Stock,” which impairs trading liquidity.\n \n \n \nDisclosure requirements pertaining to penny stocks may reduce the level of trading activity in the market for our Shares and",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 70,
+    "total_chunks": 84,
+    "char_count": 1487
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_71",
+    "text": "Our Shares are “Penny Stock,” which impairs trading liquidity.\n \n \n \nDisclosure requirements pertaining to penny stocks may reduce the level of trading activity in the market for our Shares and investors may find it difficult to sell their Shares. The SEC has rules that regulate broker/dealer practices in connection with transactions in “penny stocks”. Penny stocks generally are equity securities with a price of less than $5.00 (other than securities registered on certain national securities exchanges or quoted on the NASDAQ system, provided that current price and volume information with respect to transactions in that security is provided by the exchange or system). The penny stock rules require a broker/dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document prepared by the SEC that provides information about penny stocks and the nature and level of risks in the penny stock market. The broker/dealer also must provide the operator with current bid and offer quotations for the penny stock, the compensation of the broker/dealer and its salesperson in the transaction, and monthly account statements showing the market value of each penny stock held in the operator’s account. The bid and offer quotations, and the broker/dealer and salesperson compensation information, must be given to the operator orally or in writing prior to effecting the transaction and must be given to the operator in writing",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 71,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_72",
+    "text": "and the broker/dealer and salesperson compensation information, must be given to the operator orally or in writing prior to effecting the transaction and must be given to the operator in writing before or with the operator’s confirmation.\n \n \n \n \n \n \n \n \n \n \n \n20\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nAs an “Emerging Growth Company” any decision to comply with the reduced disclosure requirements applicable to emerging growth companies could make our Shares less attractive to investors.\n \n \n \nWe are an “emerging growth company,” as defined in the JOBS Act, and, for as long as we continue to be an “emerging growth company,” we may choose to take advantage of exemptions from various reporting requirements applicable to other public companies but not to “emerging growth companies,” including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved. We could be an “emerging growth company” for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our annual gross revenues exceed $1 billion, (ii) the date that we become a “large accelerated filer” as defined in Rule",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 72,
+    "total_chunks": 84,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_73",
+    "text": ", or until the earliest of (i) the last day of the first fiscal year in which our annual gross revenues exceed $1 billion, (ii) the date that we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our Shares that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter, or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three-year period.\n \n \n \nIn addition, Section 107 of the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an “emerging growth company” can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to opt into the extended transition period for complying with the revised accounting standards.\n \n \n \nWe May Continue to Take Advantage of Reduced Reporting Requirements Even If We No Longer Qualify as an Emerging Growth Company\n \n \n \nOnce we no longer qualify as an EGC, we may still be classified as a Smaller Reporting Company (“SRC”) under SEC rules if our public float is less than $250 million or, in certain cases, if our annual revenue is less than $100 million. As an SRC, we would continue to be eligible for",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 73,
+    "total_chunks": 84,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_74",
+    "text": "ng Company (“SRC”) under SEC rules if our public float is less than $250 million or, in certain cases, if our annual revenue is less than $100 million. As an SRC, we would continue to be eligible for scaled disclosure requirements, including reduced financial reporting obligations and less extensive executive compensation disclosures. While these accommodations allow us to reduce compliance costs, they may also limit the amount of publicly available information about our business, which could impact investor confidence or reduce analyst coverage of our stock. Additionally, there is no guarantee that we will remain an SRC indefinitely, and if we no longer qualify for this status, we will be required to comply with more extensive disclosure and compliance obligations, which could increase our legal, accounting, and administrative expenses.\n \n \n \nOur status as an “Emerging Growth Company” under the JOBS Act of 2012 may make it more difficult to raise capital.\n \n \n \nBecause of the exemptions from various reporting requirements provided to us as an “emerging growth company” and because we will have an extended transition period for complying with new or revised financial accounting standards, we may be less attractive to investors, and it may be difficult for us to raise additional capital as and when we need it. Investors may be unable to compare our business with other companies in our industry if they believe that our financial accounting is not as transparent as other",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 74,
+    "total_chunks": 84,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_75",
+    "text": "pital as and when we need it. Investors may be unable to compare our business with other companies in our industry if they believe that our financial accounting is not as transparent as other companies in our industry. If we are unable to raise additional capital as and when we need it, our financial condition and results of operations may be materially and adversely affected.\n \n \n \n \n \n \n \n \n \n \n \n21\n \n \n \n \nTable of Contents\n \n \n \n \n \n \n \n \nSPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS\n \n \n \nCertain information contained in this Registration Statement includes forward-looking statements. The statements herein which are not historical reflect our current expectations and projections about the Company’s future results, performance, liquidity, financial condition, prospects, and opportunities and are based upon information currently available to the Company and its management and management’s interpretation of what is believed to be significant factors affecting the business, including many assumptions regarding future events. Such forward-looking statements include statements regarding, among other things:\n \n \n \n \n \n \n \n \n \n \n \n \n·\n \n \npotential governmental regulations relating to or that may impact our industry segments;\n \n \n \n \n \n \n·\n \n \nincreased costs or exposure to liability as a result of changes in laws or regulations applicable to the biotransformation industry;\n \n \n \n \n \n \n·\n \n \ngeneral volatility of the capital and credit markets and the market price of our",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 75,
+    "total_chunks": 84,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_76",
+    "text": "ility as a result of changes in laws or regulations applicable to the biotransformation industry;\n \n \n \n \n \n \n·\n \n \ngeneral volatility of the capital and credit markets and the market price of our Shares;\n \n \n \n \n \n \n·\n \n \nexposure to litigation or other claims;\n \n \n \n \n \n \n·\n \n \nloss of key personnel;\n \n \n \n \n \n \n·\n \n \nthe risk that we may experience future net losses;\n \n \n \n \n \n \n·\n \n \nrisks associated with breaches of our security;\n \n \n \n \n \n \n·\n \n \nfailure to obtain necessary outside financing on favorable terms, or at all;\n \n \n \n \n \n \n·\n \n \nrisks associated with future sales of our Shares by existing shareholders or the perception that they intend to sell substantially all of the Shares of our Company that they hold;\n \n \n \n \n \n \n·\n \n \nrisks associated with the market for our Shares; or\n \n \n \n \n \n \n·\n \n \nany of the other risks included herein, including those set forth under the headings “Risk Factors,” “Board of Directors’ Discussion and Analysis of Financial Condition and Results of Operations” and “Our Business.”\n \n \n \n \n \n \n \n \nForward-looking statements, which involve assumptions and describe our future plans, strategies, and expectations, are generally identifiable by use of the words “will,” “shall,” “may,” “should,” “expect,” “anticipate,” “estimate,” “believe,” “intend,” “plan,” or “project” or the negative of these words or other variations on these words or comparable terminology. Actual results, performance, liquidity, financial condition, prospects, and",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 76,
+    "total_chunks": 84,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_77",
+    "text": "nd,” “plan,” or “project” or the negative of these words or other variations on these words or comparable terminology. Actual results, performance, liquidity, financial condition, prospects, and opportunities could differ materially from those expressed in, or implied by, these forward-looking statements as a result of various risks, uncertainties, and other factors, including the ability to raise sufficient capital to continue the Company’s operations. Actual events or results may differ materially from those discussed in forward-looking statements as a result of various factors, including, without limitation, the risks outlined under “Risk Factors” and matters described in this Registration Statement generally. In light of these risks and uncertainties, there can be no assurance that the forward- looking statements contained in this Registration Statement will in fact occur.\n \n \n \nAccordingly, prospective investors should not place undue reliance on any forward-looking statements. Except as expressly required by the federal securities laws, there is no undertaking to publicly update or revise any forward- looking statements, whether as a result of new information, future events, changed circumstances or any other reason.\n \n \n \nThe specific discussions herein about the Company include financial projections and future estimates and expectations about the Company’s business. The projections, estimates and expectations are presented in this Registration Statement only as a",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 77,
+    "total_chunks": 84,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_78",
+    "text": "nclude financial projections and future estimates and expectations about the Company’s business. The projections, estimates and expectations are presented in this Registration Statement only as a guide about future possibilities and do not represent actual amounts or assured events. All the projections and estimates are based exclusively on the officers of the Company’s own assessment of its business, the industry in which it works and the economy at large and other operational factors, including capital resources and liquidity, financial condition, fulfillment of contracts, and opportunities. The actual results may differ significantly from the projections.\n \n \n \nLitigation\n \n \n \nIn the ordinary course of its business, the Company may be subject to litigation from time to time. The outcome of such proceedings may materially adversely affect the value of the Company and may continue without resolution for long periods of time. Any litigation may consume substantial amounts of the Board of Directors' time and attention, and such time and resources devoted to such litigation may, at times, be disproportionate to the amounts at stake in such litigation.\n \n \n \n \n \n \n \n \n \n \n \n22\n \n \n \n \nTable of Contents",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "RISK FACTORS",
+    "chunk_index": 78,
+    "total_chunks": 84,
+    "char_count": 1219
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_79",
+    "text": "Intellectual Property Assignment – Related Party Transaction \n \n \n \n As previously disclosed, the Company entered into an Asset Purchase Agreement dated February 21, 2023, pursuant to which it acquired certain intellectual property, including proprietary enzyme engineering technologies, know-how, and related developments (the “Acquired IP”). \n \n \n \n The Acquired IP includes the subject matter of U.S. Patent Application Publication No. US20250146029A1, titled “Modified Polypeptides for Enzymatic Synthesis of Ibuprofen,” which was filed on November 2, 2023. The patent application was filed in the name of the Company’s Chief Executive Officer, Naveen Krishnarao Kulkarni, in his individual capacity. \n \n \n \n In order to formalize legal title consistent with the Company’s rights under the Asset Purchase Agreement, the Company and Mr. Kulkarni have entered into a confirmatory assignment agreement pursuant to which Mr. Kulkarni has assigned all right, title, and interest in and to such intellectual property to the Company. \n \n \n \n The assignment is intended to confirm the Company’s ownership of the intellectual property as originally contemplated under the Asset Purchase Agreement, and no additional consideration was paid in connection with the assignment. \n \n \n \n The Company has not historically recorded such intellectual property as an asset in its financial statements due to the absence of a formal valuation. \n \n \n \n Board Independence \n \n \n \n The Board of Directors is currently",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.",
+    "chunk_index": 79,
+    "total_chunks": 84,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_80",
+    "text": "torically recorded such intellectual property as an asset in its financial statements due to the absence of a formal valuation. \n \n \n \n Board Independence \n \n \n \n The Board of Directors is currently composed of three member and we have two independent directors at this time. \n \n \n \n \n \n \n \n \n \n \n \n23\n \n \n \n \nTable of Contents",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.",
+    "chunk_index": 80,
+    "total_chunks": 84,
+    "char_count": 327
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_81",
+    "text": "Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.\n \n \n \n \n \n \n \n \n \n \n \n \nQuantumzyme Corp. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nDate: April 15, 2026 \n \n \nBy:\n \n \n/s/ Naveen Krishnarao Kulkarni\n \n \n \n \n \n \n \n \n \nName:",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "SIGNATURES",
+    "chunk_index": 81,
+    "total_chunks": 84,
+    "char_count": 378
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_82",
+    "text": "Title:\n \n \nChief Executive Officer & Chief Financial Officer\n \n \n \n \n \n \n \n \n \n \n \nPursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.\n \n \n \n \n \n \n \n \n \nDate:  April 15, 2026 \n \n \nBy:\n \n \n/s/ Naveen Krishnarao Kulkarni\n \n \n \n \n \n \n \n \n \nName:",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Naveen Krishnarao Kulkarni",
+    "chunk_index": 82,
+    "total_chunks": 84,
+    "char_count": 396
+  },
+  {
+    "chunk_id": "1663038_0001477932_26_002254_qtzm_10ka_83",
+    "text": "Title:\n \n \nChief Executive Officer & Chief Financial Officer\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n24",
+    "source": "SEC_EDGAR",
+    "document_name": "1663038_0001477932_26_002254_qtzm_10ka",
+    "section": "Naveen Krishnarao Kulkarni",
+    "chunk_index": 83,
+    "total_chunks": 84,
+    "char_count": 101
+  }
+]

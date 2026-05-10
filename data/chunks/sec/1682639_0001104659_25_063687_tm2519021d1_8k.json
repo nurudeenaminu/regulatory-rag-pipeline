@@ -1,0 +1,442 @@
+[
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_0",
+    "text": "false\n\n0001682639\n\n0001682639\n\n2025-06-25\n\n2025-06-25\n\niso4217:USD\n\nxbrli:shares\n\niso4217:USD\n\nxbrli:shares",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 44,
+    "char_count": 107
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_1",
+    "text": "Pursuant to Section 13\nor 15(d)\n\nof the Securities Exchange\nAct of 1934\n\n \n\nDate of Report (Date\nof earliest event reported): \nJune 25, 2025\n\n \n\n \n\nEYENOVIA, INC.\n\n(Exact Name of Registrant\nas Specified in its Charter)\n\n \n\n \n\nDelaware\n\n \n\n001-38365\n\n \n\n47-1178401\n\n(State or other jurisdiction\n \n\nof incorporation)\n \n\n \n\n(Commission\n\n \nFile Number)\n \n\n \n\n(IRS Employer\n\n \nIdentification No.)\n \n\n \n\n23461 South Pointe Drive\n, \nSuite 390\n\nLaguna Hills\n, \nCA\n\n92653\n\n(Address of Principal Executive Offices, and\nZip Code)\n\n \n\n(\n833\n)\n\n393-6684\n\nRegistrant’s Telephone Number, Including\nArea Code\n \n\n \n\n \n\nCheck the appropriate box below if the Form 8-K\nfiling is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:\n\n \n\n \n¨\n \nWritten\ncommunications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)\n\n¨\n \nSoliciting\nmaterial pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)\n\n¨\n \nPre-commencement\ncommunications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))\n\n \n¨\n \nPre-commencement communications pursuant to Rule 13e-4(c) under\nthe Exchange Act (17 CFR 240.13e-4(c))\n\n \n\nSecurities registered pursuant to Section\n12(b) of the Act:\n\n \n\n(Title of each class)\n\n \n\n(Trading\n \n\nSymbol)\n \n\n \n\n(Name of each exchange\n \n\non which registered)\n \n\nCommon stock, par value $0.0001 per share\n\n \n\nEYEN",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "CURRENT REPORT",
+    "chunk_index": 1,
+    "total_chunks": 44,
+    "char_count": 1400
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_2",
+    "text": "(Nasdaq Capital Market)\n\n \n\nIndicate by check mark whether the registrant\nis an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities\nExchange Act of 1934 (17 CFR §240.12b-2).\n\n \n\nEmerging\ngrowth company \n¨\n\n \n\nIf\nan emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying\nwith any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \n¨\n\n \n\n \n\n \n\n \n\n \n\n \n\nItem 7.01.\n Regulation FD Disclosure\n\n \n\nOn June\n25, 2025, Eyenovia, Inc. (“Eyenovia” or the “Company”) issued a press release announcing a co-branded Hyperliquid\nvalidator with Kinetiq, a leading liquid staking protocol built natively for the Hyperliquid ecosystem. A copy of the press release is\nfurnished as Exhibit 99.1 to this Form 8-K.\n\n \n\nThe information\nin Item 7.01 of this Form 8-K, including Exhibit 99.1 attached hereto, shall not be deemed “filed” for purposes of Section\n18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that\nsection, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange\nAct, except as expressly set forth by specific reference in such a filing.\n\n \n\nItem\n8.01. Other Events\n\n \n\nIn connection with the Company’s launch\nof its new cryptocurrency treasury strategy,",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 2,
+    "total_chunks": 44,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_3",
+    "text": "Act, except as expressly set forth by specific reference in such a filing.\n\n \n\nItem\n8.01. Other Events\n\n \n\nIn connection with the Company’s launch\nof its new cryptocurrency treasury strategy, including its intention to implement a HYPE staking program, the Company is supplementing\nthe business description and risk factors previously disclosed in its Annual Report on Form 10-K for the year ended December 31, 2024,\nas amended, and as supplemented by the Company’s subsequent periodic filings, with the following:\n\n \n\nBusiness Overview\n\n \n\nEyenovia, Inc. is a pioneering digital ophthalmic\ntechnology company and the first U.S. publicly listed company building a long-term strategic treasury of Hyperliquid’s native token,\nHYPE. With this dual focus, Eyenovia continues to aim to execute on its vision to revolutionize topical eye treatment while providing\nits shareholders with simplified exposure to the Hyperliquid ecosystem, one of the fastest-growing, highest revenue-generating blockchains\nin the world. Eyenovia’s new strategy is designed to allow shareholders to benefit from a gradually compounding exposure to HYPE,\nboth from its native staking yield and additional revenues generated from its unique on-chain utility.\n\n \n\nHYPE Treasury \n\n \n\nHyperliquid is a layer one (L1) blockchain engineered\nfor transparent high-frequency finance. The blockchain hosts fully onchain perpetual futures and spot order books, with every order, cancel,\ntrade and liquidation occurring within 70",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 3,
+    "total_chunks": 44,
+    "char_count": 1489
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_4",
+    "text": "neered\nfor transparent high-frequency finance. The blockchain hosts fully onchain perpetual futures and spot order books, with every order, cancel,\ntrade and liquidation occurring within 70 millisecond block times and offering up to 200,000 transactions per second (“TPS”),\nresulting in near-instant trade settlement. The Hyperliquid blockchain also hosts the HyperEVM, a general-purpose smart contract platform\nthat, like Ethereum, supports permissionless decentralized financial applications.\n\n \n\nHyperliquid supports non-custodial trading via\nits performant HyperCore order books, with perpetual futures trading for a range of digital assets including Bitcoin (BTC), Ether (ETH),\nRipple (XRP), Solana (SOL) and Sui (SUI) driving its utilization. Perpetual futures are a type of cryptocurrency derivative contract\nthat allows traders to speculate on the price of an asset without owning the underlying asset itself. Unlike traditional futures contracts,\nperpetual futures have no expiration date, allowing traders to hold positions indefinitely as long as they meet margin requirements. Hyperliquid\nutilizes a traditional order book system. This approach allows traders to place bids and asks for various assets, more akin to a centralized\ncryptocurrency exchange than other decentralized exchanges that rely on automated market makers to fulfill orders. The Hyperliquid blockchain\nis available to any potential user with a compatible cryptocurrency wallet such as MetaMask, Phantom, and Coinbase",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 4,
+    "total_chunks": 44,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_5",
+    "text": "that rely on automated market makers to fulfill orders. The Hyperliquid blockchain\nis available to any potential user with a compatible cryptocurrency wallet such as MetaMask, Phantom, and Coinbase Wallet. However, Hyperliquid\ninterface operators can choose to block persons in certain jurisdictions or sanctioned wallets as required via solutions such as geoblocking and address screening.\n\n \n\nHYPE is the native token of Hyperliquid. The total\nsupply of HYPE is 1 billion, with 31% of the supply being issued in November 2024. 38.88% of the total supply was reserved for future\ncommunity emissions. HYPE serves multiple purposes: users can stake HYPE to reduce their trading fees, use it to conduct transactions\non the HyperEVM, and even use it as collateral on various DeFi applications. In addition, Hyperliquid has a unique network mechanism that\nautonomously purchases and removes HYPE tokens from circulation. This is done by using the trading fees generated on the network’s\norder books to buy back available HYPE: approximately 97% of daily fees are allocated to this mechanism, which serves as a consistent\n“marginal buyer” for the token. As of June 2025, more than 25 million HYPE has been removed from circulation and the\ntoken has become the 12th-largest cryptocurrency by market capitalization.\n\n \n\n \n\n \n\n \n\n \n\nAdditionally, HYPE has certain governance rights\nwith respect to the Hyperliquid blockchain. The Hyperliquid L1 is a proof-of-stake blockchain, wherein validators\nthat have",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 5,
+    "total_chunks": 44,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_6",
+    "text": "lization.\n\n \n\n \n\n \n\n \n\n \n\nAdditionally, HYPE has certain governance rights\nwith respect to the Hyperliquid blockchain. The Hyperliquid L1 is a proof-of-stake blockchain, wherein validators\nthat have staked the threshold number of HYPE are selected to produce blocks and will receive rewards when they successfully validate\nblocks. Holders of HYPE can delegate to validators who then are able to vote on certain decisions regarding the platform, such as the\nlisting and de-listing of new markets. Any holder of HYPE can delegate HYPE to a validator to earn staking rewards, should the validator\nsuccessfully participate in network consensus. Staked HYPE is locked until un-staked, subject to a seven day un-staking queue before HYPE\nis released back to the user.\n\n \n\nAs part of its broader onchain engagement strategy,\nthe Company recently announced a co-branded Hyperliquid validator with Kinetiq, a liquid staking protocol built natively for the Hyperliquid\necosystem. Validator operations are further supported by infrastructure provided by Pier Two, an institutional staking services provider.\nBy running its own validator, the Company can directly access HYPE staking yield in addition to supporting Hyperliquid’s network\nstability and security. Staked HYPE can be delegated to user accounts which reduces their trading fees or increases the revenue share\nfrom referring new users, both of which could serve as revenue opportunities for the Company. Specifically, the validator potentially",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 6,
+    "total_chunks": 44,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_7",
+    "text": "h reduces their trading fees or increases the revenue share\nfrom referring new users, both of which could serve as revenue opportunities for the Company. Specifically, the validator potentially enables the\nCompany to create unique financial products built around the demand for these network benefits from those who do not have access to HYPE.\n\n \n\nHYPE can also be deployed into the HyperEVM for\nvarious strategies such as lending and liquidity provisioning. This is expected to enable the Company to support various applications\nbuilt on Hyperliquid and in return, potentially earn yield that can be compounded into its overall HYPE acquisition strategy.\n\n \n\nBy prudently building and deploying a treasury\nof HYPE, the Company believes that it can rapidly accelerate the growth of the Hyperliquid ecosystem and further its adoption, potentially\ncreating a powerful flywheel effect that may drive platform usage, increase protocol value and strengthen the long-term position of both\nthe Hyperliquid ecosystem and the Company.\n\n \n\nThe Optejet\n\n \n\nEyenovia is also developing the proprietary Optejet\nUser Filled Device (“UFD”) that is designed to work with a variety of topical ophthalmic liquids, including artificial tears\nand lens rewetting products. The Optejet is especially useful in chronic front-of-the-eye diseases due to its ease of use, enhanced safety\nand tolerability, and potential for superior compliance versus standard eye drops. Together, these benefits may result in higher",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 7,
+    "total_chunks": 44,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_8",
+    "text": "t-of-the-eye diseases due to its ease of use, enhanced safety\nand tolerability, and potential for superior compliance versus standard eye drops. Together, these benefits may result in higher treatment\ncompliance and better outcomes for patients and providers.\n\n \n\nThe ergonomic and functional design of the Optejet\nallows for horizontal drug delivery and eliminates the need to tilt the head back or the manual dexterity to squeeze a bottle to administer\nmedications. Drug is delivered in a microscopic array of droplets that is comfortable and matches the amount of fluid that the front of\nthe eye can hold. The precise delivery of a low-volume columnar spray by the Optejet device helps ensure instillation success while minimizing\ncontamination risk with a non-protruding nozzle and self-closing shutter. In clinical trials, the Optejet has demonstrated that its targeted\ndelivery achieves a high rate of successful administration, with 98% of sprays being accurately delivered upon first attempt compared\nto the established rate reported with traditional eye drops of approximately 50%.\n\n \n\nA more physiologically appropriate volume of medication\nin the range of seven to ten microliters is delivered by the Optejet, which is approximately one-fifth of the 35 to 50 microliter dose\ntypically delivered in a single eye drop. Lower volume of medication exposes the ocular surface to less active ingredients and preservatives,\npotentially reducing ocular stress and surface damage and improving",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 8,
+    "total_chunks": 44,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_9",
+    "text": "vered in a single eye drop. Lower volume of medication exposes the ocular surface to less active ingredients and preservatives,\npotentially reducing ocular stress and surface damage and improving tolerability. The lower volume also minimizes the potential for drug\nto enter systemic circulation, with the goal of avoiding some common side effects that are related to overdosing of the eye.\n\n \n\nWe anticipate registering the second generation\nof the Optejet UFD as a liquid drug delivery device, based on our experience with MydCombi®. MydCombi was the only Food and Drug\nAdministration-approved fixed combination of the two leading mydriatic agents, tropicamide and phenylephrine, in the United States delivered\nwith technology that is nearly identical to the first generation of the Optejet UFD.\n\n \n\n \n\n \n\n \n\nRisk Factors\n\n \n\nHYPE is a highly volatile asset, and fluctuations\nin the price of HYPE may influence our financial results and the market price of our listed securities. \n\n \n\nOur financial results and the market price of\nour listed securities would be adversely affected, and our business and financial condition would be negatively impacted, if the price\nof HYPE decreased substantially, including as a result of:\n\n \n\n·\ndecreased user and investor confidence in HYPE, including due to the various factors described herein;\n\n \n\n·\ninvestment and trading activities such as (i) trading activities of highly active retail and institutional\nusers, speculators and investors or (ii) actual or",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 9,
+    "total_chunks": 44,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_10",
+    "text": "various factors described herein;\n\n \n\n·\ninvestment and trading activities such as (i) trading activities of highly active retail and institutional\nusers, speculators and investors or (ii) actual or expected significant dispositions of HYPE by large holders, including the expected\nliquidation of digital assets seized by governments or associated with entities that have filed for bankruptcy protection, or associated\nwith tokens vested by the Hyperliquid core team;\n\n \n\n·\nnegative publicity, media or social media coverage, or sentiment due to events in or relating to, or perception\nof, HYPE, Hyperliquid or the broader digital assets industry;\n\n \n\n·\nchanges in consumer preferences and the perceived value or prospects of HYPE or the utility of Hyperliquid;\n\n \n\n·\ncompetition from other decentralized exchanges or digital assets that exhibit comparable or better speed,\nsecurity, scalability or energy efficiency, that feature other more favored characteristics, that are backed by governments, including\nthe U.S. government, or reserves of fiat currencies, or that represent ownership or security interests in physical assets;\n\n \n\n·\na decrease in the price of other digital assets, to the extent the decrease in the price of such other\ndigital assets may cause a decrease in the price of HYPE or adversely affect investor confidence in digital assets generally;\n\n \n\n·\ndevelopments relating to the Hyperliquid blockchain, including (i) changes to the Hyperliquid blockchain\nthat impact its",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 10,
+    "total_chunks": 44,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_11",
+    "text": "adversely affect investor confidence in digital assets generally;\n\n \n\n·\ndevelopments relating to the Hyperliquid blockchain, including (i) changes to the Hyperliquid blockchain\nthat impact its security, speed, scalability, usability or value, such as changes to the cryptographic security protocol underpinning\nthe Hyperliquid blockchain, changes to the maximum number of HYPE outstanding, changes to the mutability of transactions, changes relating\nto the size of blockchain blocks, and similar changes; (ii) failures to make upgrades to the Hyperliquid blockchain and the Hyperliquid\ninterface to adapt to security, technological, legal or other challenges; and (iii) changes to the Hyperliquid blockchain that introduce\nsoftware bugs, security risks or other elements that adversely affect HYPE;\n\n \n\n·\ndisruptions, failures, unavailability, or interruptions in services of trading venues for HYPE;\n\n \n\n·\nthe filing for bankruptcy protection by, liquidation of, or market concerns about the financial viability\nof digital asset custodians, trading venues, lending platforms, investment funds, or other digital asset industry participants;\n\n \n\n·\nregulatory, legislative, enforcement and judicial actions that adversely affect access to, functionality\nof or performance of Hyperliquid and its associated products such as cryptocurrency perpetual futures, the price, ownership, transferability,\ntrading volumes, legality or public perception of, HYPE or other L1 blockchains, or that adversely",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 11,
+    "total_chunks": 44,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_12",
+    "text": "ated products such as cryptocurrency perpetual futures, the price, ownership, transferability,\ntrading volumes, legality or public perception of, HYPE or other L1 blockchains, or that adversely affect the operations of or otherwise\nprevent digital asset custodians, trading venues, lending platforms or other digital assets industry participants from accessing the Hyperliquid\ndecentralized exchange and its associated products or operating in a manner that allows them to continue to deliver services to the digital\nassets industry;\n\n \n\n·\ntransaction congestion and fees associated with processing transactions on the Hyperliquid network;\n\n  \n\n \n\n \n\n \n\n·\nmacroeconomic changes, such as changes in the level of interest rates and inflation, fiscal and monetary\npolicies of governments, trade restrictions and fiat currency devaluations;\n\n  \n\n·\ndevelopments in mathematics or technology, including in digital computing, algebraic geometry and quantum\ncomputing, that could result in the cryptography used by the Hyperliquid blockchain becoming insecure or ineffective; and\n\n  \n\n·\nchanges in national and international economic and political conditions, including, without limitation,\nfederal government policies, trade tariffs and trade disputes, and the adverse impacts attributable to global conflicts, including those\nbetween Russia and Ukraine and in the Middle East.\n\n  \n\nMoreover, the price of our listed securities has\nbeen and is likely to continue to be volatile, and with the adoption of",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 12,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_13",
+    "text": "ts, including those\nbetween Russia and Ukraine and in the Middle East.\n\n  \n\nMoreover, the price of our listed securities has\nbeen and is likely to continue to be volatile, and with the adoption of our new cryptocurrency treasury strategy, we expect to see additional\nvolatility in our stock price. In addition, if investors view the value of our listed securities as dependent upon or linked to the value\nor change in the value of our HYPE holdings, the price of HYPE may significantly influence the market price of our listed securities.\nThe price of HYPE has historically been, and is likely to continue to be, volatile.\n\n \n\nHYPE and other digital assets are novel\nassets and are subject to significant legal and regulatory uncertainty. \n\n \n\nHYPE and other digital assets are relatively novel\nand are subject to significant uncertainty, which could adversely impact their price. The application of state and federal securities\nlaws and other laws and regulations to digital assets is unclear in certain respects, and it is possible that regulators in the United\nStates or foreign countries may interpret or apply existing laws and regulations in a manner that adversely affects the price of HYPE\nor the ability of individuals or institutions such as us to own or transfer HYPE.\n\n \n\nThe U.S. federal government, states, regulatory\nagencies, and foreign countries may also enact new laws and regulations, or pursue regulatory, legislative, enforcement or judicial actions,\nthat could materially",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 13,
+    "total_chunks": 44,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_14",
+    "text": "government, states, regulatory\nagencies, and foreign countries may also enact new laws and regulations, or pursue regulatory, legislative, enforcement or judicial actions,\nthat could materially impact the price of HYPE or the ability of individuals or institutions such as us to own or transfer HYPE. For example,\nwithin the past several years:\n\n \n\n·\nPresident Trump signed an Executive Order instructing a working group comprised of representatives from\nkey federal agencies to evaluate measures that can be taken to provide regulatory clarity and certainty built on technology-neutral regulations\nfor individuals and firms involved in digital assets, including through well-defined jurisdictional regulatory boundaries, and this working\ngroup is required to submit a report with regulatory and legislative proposals on or before July 22, 2025;\n\n \n\n·\nin January 2025, the SEC announced the formation of a “Crypto Task Force,” which was created\nto provide clarity on the application of the federal securities laws to the crypto asset market and to recommend policy measures with\nrespect to digital asset security status, registration and listing of digital asset-based investment vehicles, and digital asset custody,\nlending and staking;\n\n \n\n·\nin November 2023, Binance Holdings Ltd. (“Binance”) and its then chief executive officer reached\na settlement with the U.S. Department of Justice, the Commodity Futures Trading Commission, the U.S. Department of Treasury’s Office\nof Foreign Asset",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 14,
+    "total_chunks": 44,
+    "char_count": 1490
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_15",
+    "text": "its then chief executive officer reached\na settlement with the U.S. Department of Justice, the Commodity Futures Trading Commission, the U.S. Department of Treasury’s Office\nof Foreign Asset Control, and the Financial Crimes Enforcement Network to resolve a multi-year investigation by the agencies and a civil\nsuit brought by the Commodity Futures Trading Commission, pursuant to which Binance agreed to, among other things, pay $4.3 billion in\npenalties across the four agencies and to discontinue its operations in the United States;\n\n \n\n·\nin November 2023, the SEC filed a complaint against Payward Inc. and Payward Ventures Inc., together known\nas Kraken, alleging, among other claims, that Kraken’s crypto trading platform was operating as an unregistered securities exchange,\nbroker, dealer and clearing agency;\n\n \n\n \n\n \n\n \n\n·\nin June 2023, the SEC filed complaints against Binance and Coinbase, Inc. (“Coinbase”), and\ntheir respective affiliated entities, relating to, among other claims, assertions that each party was operating as an unregistered securities\nexchange, broker, dealer and clearing agency;\n\n \n\n·\nthe European Union adopted Markets in Crypto Assets Regulation, a comprehensive digital asset regulatory\nframework for the issuance and use of digital assets, like bitcoin;\n\n \n\n·\nin June 2023, the United Kingdom adopted and implemented the Financial Services and Markets Act 2023,\nwhich regulates market activities in “cryptoassets;” and\n\n \n\n·\nin China, the People’s Bank of",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 15,
+    "total_chunks": 44,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_16",
+    "text": "in June 2023, the United Kingdom adopted and implemented the Financial Services and Markets Act 2023,\nwhich regulates market activities in “cryptoassets;” and\n\n \n\n·\nin China, the People’s Bank of China and the National Development and Reform Commission have outlawed\ncryptocurrency mining and declared all cryptocurrency transactions illegal within the country.\n\n \n\nWhile the complaint against Coinbase was dismissed\nin February 2025, the complaint against Payward Inc. and Payward Ventures Inc. was dismissed with prejudice in March 2025, and the complaint\nagainst Binance was dismissed on May 29, 2025, the SEC or other regulatory agencies may initiate similar actions in the future, which\ncould materially impact the price of HYPE and our ability to own or transfer HYPE.\n\n \n\nIt is not possible to predict whether or when\nnew laws will be enacted that change the legal framework governing digital assets or provide additional authorities to the SEC or other\nregulators, or whether or when any other federal, state or foreign legislative bodies will take any similar actions. It is also not possible\nto predict the nature of any such additional laws or authorities, how additional legislation or regulatory oversight might impact the\nability of digital asset markets to function, the willingness of financial and other institutions to continue to provide services to the\ndigital assets industry, or how any new laws or regulations, or changes to existing laws or regulations, might impact the",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 16,
+    "total_chunks": 44,
+    "char_count": 1494
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_17",
+    "text": "financial and other institutions to continue to provide services to the\ndigital assets industry, or how any new laws or regulations, or changes to existing laws or regulations, might impact the value of digital\nassets generally and HYPE specifically. The consequences of any new law or regulation relating to digital assets and digital asset activities\ncould adversely affect the market price of HYPE, as well as our ability to hold or transact in HYPE, and in turn adversely affect the\nmarket price of our listed securities.\n\n \n\nOur HYPE treasury strategy subjects us to\nenhanced regulatory oversight. \n\n \n\nThere has been increasing focus on the extent\nto which digital assets can be used to launder the proceeds of illegal activities, fund criminal or terrorist activities, or circumvent\nsanctions regimes, including those sanctions imposed in response to the ongoing conflict between Russia and Ukraine. While we have implemented\nand maintain policies and procedures reasonably designed to promote compliance with applicable anti-money laundering and sanctions laws\nand regulations and take care to only acquire our HYPE through entities subject to anti-money laundering regulation and related compliance\nrules in the United States, and are in the process of onboarding a chief compliance officer, if we are found to have purchased any of\nour HYPE from bad actors that have used HYPE to launder money or persons subject to sanctions, we may be subject to regulatory proceedings\nand any further",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 17,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_18",
+    "text": ", if we are found to have purchased any of\nour HYPE from bad actors that have used HYPE to launder money or persons subject to sanctions, we may be subject to regulatory proceedings\nand any further transactions or dealings in HYPE by us may be restricted or prohibited.\n\n \n\nA portion of our HYPE holdings may serve as collateral\nsecuring our outstanding indebtedness, and we may incur additional indebtedness or enter into other financial instruments in the future\nthat may be collateralized by our HYPE holdings. We may also consider pursuing strategies to create income streams or otherwise generate\nfunds using our HYPE holdings. These types of HYPE-related transactions are the subject of enhanced regulatory oversight. These and any\nother HYPE-related transactions we may enter into, beyond simply acquiring and holding HYPE, may subject us to additional regulatory compliance\nrequirements and scrutiny, including under federal and state money services regulations, money transmitter licensing requirements and\nvarious commodity and securities laws and regulations.\n\n \n\nAdditional laws, guidance and policies may be\nissued by domestic and foreign regulators following the filing for Chapter 11 bankruptcy protection by FTX, one of the world’s largest\ncryptocurrency exchanges, in November 2022. The FTX collapse may have increased regulatory focus on the digital assets industry. Increased\nenforcement activity and changes in the regulatory environment, including changing interpretations and",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 18,
+    "total_chunks": 44,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_19",
+    "text": "The FTX collapse may have increased regulatory focus on the digital assets industry. Increased\nenforcement activity and changes in the regulatory environment, including changing interpretations and the implementation of new or varying\nregulatory requirements by the government or any new legislation affecting HYPE, as well as enforcement actions involving or impacting\nour trading venues, counterparties and custodians, may impose significant costs or significantly limit our ability to hold and transact\nin HYPE.\n\n \n\n \n\n \n\n \n\nIn addition, private actors that are wary of HYPE\nor the regulatory concerns associated with HYPE have in the past taken and may in the future take further actions that may have an adverse\neffect on our business or the market price of our listed securities. For example, it is possible that a financial institution could restrict\ncustomers from buying our securities if it were to determine that the value of our securities is closely tied to the performance of HYPE,\nsignaling a reluctance to facilitate exposure to virtual currencies.\n\n \n\nWe plan to use a portion of our capital\nraised that is not required to provide working capital for our ongoing operations to invest in HYPE, which may adversely affect our financial\nresults and the market price of our securities.\n\n \n\nWe plan to use a portion of our capital raised\nthat is not required to provide working capital for our ongoing operations to invest in HYPE. The price of HYPE has been subject to dramatic\nprice",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 19,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_20",
+    "text": "We plan to use a portion of our capital raised\nthat is not required to provide working capital for our ongoing operations to invest in HYPE. The price of HYPE has been subject to dramatic\nprice fluctuations and is highly volatile. Moreover, digital assets are relatively novel, and the application of securities laws and other\nregulations to such assets is unclear in many respects. It is possible that regulators may interpret laws in a manner that adversely affects\nthe liquidity or value of our HYPE holdings.\n\n \n\nAny decrease in the fair value of HYPE below our\ncarrying value for such assets could require us to incur an impairment charge, and such a charge could be material to our financial results\nfor the applicable reporting period, which may create significant volatility in our reported earnings. Any decrease in reported earnings\nor increased volatility of such earnings could have a material adverse effect on the market price of our securities. In addition, the\napplication of generally accepted accounting principles in the United States with respect to digital assets remains uncertain in some\nrespects, and any future changes in the manner in which we account for our HYPE holdings could have a material adverse effect on our financial\nresults and the market price of our securities.\n\n \n\nIn addition, if investors view the value of our\nsecurities as dependent upon or linked to the value or change in the value of our HYPE holdings, the price of such digital assets",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 20,
+    "total_chunks": 44,
+    "char_count": 1483
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_21",
+    "text": "ies.\n\n \n\nIn addition, if investors view the value of our\nsecurities as dependent upon or linked to the value or change in the value of our HYPE holdings, the price of such digital assets may\nsignificantly influence the market price of our securities.\n\n \n\nAbsent federal regulations, there is a possibility\nthat HYPE may be classified as a “security.” Any classification of HYPE as a “security” would subject us to additional\nregulation and could materially impact the operation of our business.\n\n \n\nNeither the SEC nor any other U.S. federal or\nstate regulator has publicly stated whether they believe that HYPE is a “security.” Despite the Executive Order titled “Strengthening\nAmerican Leadership in Digital Financial Technology,” which includes as an objective, “protecting and promoting the ability\nof individual citizens and private sector entities alike to access and … to maintain self-custody of digital assets,” HYPE\nhas not yet been classified with respect to U.S. federal securities laws. Therefore, while (for the reasons discussed below) we believe\nthat HYPE is not a “security” within the meaning of the U.S. federal securities laws, and registration of the Company under\nthe Investment Company Act of 1940, as amended (the “Investment Company Act”) is therefore not required under the applicable\nsecurities laws, we acknowledge that a regulatory body or federal court may determine otherwise. Our belief, even if reasonable under\nthe circumstances, would not preclude legal or",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 21,
+    "total_chunks": 44,
+    "char_count": 1491
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_22",
+    "text": "applicable\nsecurities laws, we acknowledge that a regulatory body or federal court may determine otherwise. Our belief, even if reasonable under\nthe circumstances, would not preclude legal or regulatory action based on such a finding that HYPE is a “security” which would\nrequire us to register as an investment company under the Investment Company Act.\n\n \n\nWe have also implemented a process for analyzing\nthe U.S. federal securities law status of HYPE and other cryptocurrencies as guidance and case law evolve. As part of our U.S. federal\nsecurities law analytical process, we take into account a number of factors, including the various definitions of “security”\nunder U.S. federal securities laws and federal court decisions interpreting the elements of these definitions, such as the U.S. Supreme\nCourt’s decisions in the \nHowey\n and \nReves\n cases, as well as court rulings, reports, orders, press releases, public\nstatements, and speeches by the SEC Commissioners and SEC Staff providing guidance on when a digital asset or a transaction to which a\ndigital asset may relate may be a security for purposes of U.S. federal securities laws. Our position that HYPE is not a “security”\nis premised, among other reasons, on our conclusion that HYPE does not meet the elements of the \nHowey\n test. Among the reasons for\nour conclusion that HYPE is not a security is that holders of HYPE do not have a reasonable expectation of profits from the efforts of\nHyperliquid, the Hyperliquid Foundation or",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 22,
+    "total_chunks": 44,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_23",
+    "text": "ong the reasons for\nour conclusion that HYPE is not a security is that holders of HYPE do not have a reasonable expectation of profits from the efforts of\nHyperliquid, the Hyperliquid Foundation or any other person, entity or group of persons in respect of their holding of HYPE. Also, HYPE\nownership does not guarantee the right to receive any interest, rewards, or other returns. We believe that HYPE is a commodity due to\nits utility for gas.\n\n \n\n \n\n \n\n \n\nWe acknowledge, however, that the SEC, a federal\ncourt or another relevant entity could take a different view. Application of securities laws to the specific facts and circumstances of\ndigital assets is complex and subject to change. Our conclusion, even if reasonable under the circumstances, would not preclude legal\nor regulatory action based on a finding that HYPE, or any other digital asset we might hold is a “security.” As such, we are\nat risk of enforcement proceedings and lawsuits against us, which could result in potential injunctions, cease-and-desist orders, fines\nand penalties if HYPE was determined to be a security by a regulatory body or a court. Such developments would adversely affect our business,\nresults of operations, financial condition, and prospects.\n\n \n\nIf we were deemed to be an investment company\nunder the Investment Company Act, applicable restrictions likely would make it impractical for us to continue segments of our business\nas currently contemplated.\n\n \n\nUnder Sections 3(a)(1)(A) and (C) of the",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 23,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_24",
+    "text": "Investment Company Act, applicable restrictions likely would make it impractical for us to continue segments of our business\nas currently contemplated.\n\n \n\nUnder Sections 3(a)(1)(A) and (C) of the Investment\nCompany Act, a company generally will be deemed to be an “investment company” if (i) it is or holds itself out as being engaged\nprimarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities or (ii) it engages or\nproposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and it owns or proposes to acquire\ninvestment securities having a value exceeding 40% of the value of its total assets (exclusive of U.S. government securities and cash\nitems) on an unconsolidated basis. Rule 3a-1 under the Investment Company Act generally provides that notwithstanding the test described\nin clause (ii) in the previous sentence, an entity will not be deemed to be an “investment company” for purposes of the Investment\nCompany Act if no more than 45% of the value of its assets (exclusive of U.S. government securities and cash items) consists of, and no\nmore than 45% of its net income after taxes (for the last four fiscal quarters combined) is derived from, securities other than U.S. government\nsecurities, securities issued by employees’ securities companies, securities issued by qualifying majority owned subsidiaries of\nsuch entity, and securities issued by qualifying companies that are controlled",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 24,
+    "total_chunks": 44,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_25",
+    "text": "es, securities issued by employees’ securities companies, securities issued by qualifying majority owned subsidiaries of\nsuch entity, and securities issued by qualifying companies that are controlled primarily by such entity.\n\n \n\nWe do not believe that we are an “investment\ncompany” as such term is defined in either Section 3(a)(1)(A) or Section 3(a)(1)(C) of the Investment Company Act since we believe\nHYPE is not an investment security. With respect to Section 3(a)(1)(A), we do not hold ourselves out as being engaged primarily or propose\nto engage primarily in the business of investing, reinvesting, or trading in securities within the meaning of such section. With respect\nto Section 3(a)(1)(C), we believe we satisfy the elements of Rule 3a-1 and therefore are deemed not to be an investment company under,\nand we intend to conduct our operations such that we will not be deemed an investment company under, Section 3(a)(1)(C).\n\n \n\nHYPE and other digital assets, as well as new\nbusiness models and transactions enabled by blockchain technologies, present novel interpretive questions under the Investment Company\nAct. There is a risk that assets or arrangements that we have concluded are not securities could be deemed to be securities by the SEC\nor another authority for purposes of the Investment Company Act, which would increase the percentage of securities held by us for Investment\nCompany Act purposes. The SEC has requested information from a number of participants in the digital",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 25,
+    "total_chunks": 44,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_26",
+    "text": "nvestment Company Act, which would increase the percentage of securities held by us for Investment\nCompany Act purposes. The SEC has requested information from a number of participants in the digital assets’ ecosystem, regarding\nthe potential application of the Investment Company Act to their businesses. For example, in an action unrelated to the Company, in February\n2022, the SEC issued a cease-and-desist order under the Investment Company Act to BlockFi Lending LLC (“BlockFi”), in which\nthe SEC alleged that BlockFi was operating as an unregistered investment company because it issued securities and also held more than\n40% of its total assets, excluding cash, in investment securities, including the loans of digital assets made by BlockFi to institutional\nborrowers.\n\n \n\nIf we were deemed to be an investment company,\nRule 3a-2 under the Investment Company Act is a safe harbor that provides a one-year grace period for transient investment companies that\nhave a bona fide intent to be engaged primarily, as soon as is reasonably possible (in any event by the termination of such one-year period),\nin a business other than that of investing, reinvesting, owning, holding or trading in securities, with such intent evidenced by the company’s\nbusiness activities and an appropriate resolution of its board of directors. The grace period is available not more than once every three\nyears and runs from the earlier of (i) the date on which the issuer owns securities and/or cash having a value",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 26,
+    "total_chunks": 44,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_27",
+    "text": "of its board of directors. The grace period is available not more than once every three\nyears and runs from the earlier of (i) the date on which the issuer owns securities and/or cash having a value exceeding 50% of the issuer’s\ntotal assets on either a consolidated or unconsolidated basis or (ii) the date on which the issuer owns or proposes to acquire investment\nsecurities having a value exceeding 40% of the value of such issuer’s total assets (exclusive of U.S. government securities and\ncash items) on an unconsolidated basis. Accordingly, the grace period may not be available at the time that we seek to rely on Rule 3a-2;\nhowever, Rule 3a-2 is a safe harbor and we may rely on any exemption or exclusion from investment company status available to us under\nthe Investment Company Act at any given time. Furthermore, reliance on Rule 3a-2, Section 3(a)(1)(C), or Rule 3a-1 could require us to\ntake actions to dispose of securities, limit our ability to make certain investments or enter into joint ventures, or otherwise limit\nor change our service offerings and operations. If we were to be deemed an investment company in the future, restrictions imposed by the\nInvestment Company Act — including limitations on our ability to issue different classes of stock and equity compensation to directors,\nofficers, and employees and restrictions on management, operations, and transactions with affiliated persons — likely would make\nit impractical for us to continue our business as",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 27,
+    "total_chunks": 44,
+    "char_count": 1488
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_28",
+    "text": "directors,\nofficers, and employees and restrictions on management, operations, and transactions with affiliated persons — likely would make\nit impractical for us to continue our business as contemplated, and could have a material adverse effect on our business, results of operations,\nfinancial condition, and prospects.\n\n \n\n \n\n \n\n \n\nHYPE is created and transmitted through\nthe operations of the peer-to-peer Hyperliquid network, a decentralized network of computers running software following the HYPE protocol.\nIf the Hyperliquid network is disrupted or encounters any unanticipated difficulties, the value of HYPE could be negatively impacted.\n\n \n\nIf the Hyperliquid network is disrupted or encounters\nany unanticipated difficulties, then the processing of transactions on the Hyperliquid network may be disrupted, which in turn may prevent\nus from depositing or withdrawing HYPE from our accounts with our custodian or otherwise effecting HYPE transactions. Such disruptions\ncould include, for example: the price volatility of HYPE; the insolvency, business failure, interruption, default, failure to perform,\nsecurity breach, or other problems of participants, custodians or others; the closing of HYPE trading platforms due to fraud, failures,\nsecurity breaches or otherwise; or network outages or congestion, power outages, or other problems or disruptions affecting the Hyperliquid\nnetwork.\n\n \n\nIn addition, digital asset validating operations\ncan consume significant amounts of electricity,",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 28,
+    "total_chunks": 44,
+    "char_count": 1499
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_29",
+    "text": "or congestion, power outages, or other problems or disruptions affecting the Hyperliquid\nnetwork.\n\n \n\nIn addition, digital asset validating operations\ncan consume significant amounts of electricity, which may have a negative environmental impact and give rise to public opinion against\nallowing, or government regulations restricting, the use of electricity for validating operations. Additionally, validators may be forced\nto cease operations during an electricity shortage or power outage.\n\n \n\nWe face risks relating to the custody of\nour HYPE, including the loss or destruction of private keys required to access our HYPE and cyberattacks or other data loss relating to\nour HYPE, including smart contract related losses and vulnerabilities.\n\n \n\nWe will hold our HYPE with regulated custodians\nthat have duties to safeguard our private keys. Our custodial services contracts will not restrict our ability to reallocate our HYPE\namong our custodians, and our HYPE holdings may be concentrated with a single custodian from time to time. In light of the significant\namount of HYPE we anticipate that we will hold, we expect to continually seek to engage additional custodians to achieve a greater degree\nof diversification in the custody of our HYPE as the extent of potential risk of loss is dependent, in part, on the degree of diversification.\nHowever, multiple custodians may utilize similar wallet infrastructure, cloud service providers or software systems, which could increase\nsystemic",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 29,
+    "total_chunks": 44,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_30",
+    "text": "nt, in part, on the degree of diversification.\nHowever, multiple custodians may utilize similar wallet infrastructure, cloud service providers or software systems, which could increase\nsystemic technology risk.\n\n \n\nIf there is a decrease in the availability of\ndigital asset custodians that we believe can safely custody our HYPE, for example, due to regulatory developments or enforcement actions\nthat cause custodians to discontinue or limit their services in the United States, we may need to enter into agreements that are less\nfavorable or take other measures to custody our HYPE, and our ability to seek a greater degree of diversification in the use of custodial\nservices would be materially adversely affected. While we will conduct due diligence on our custodians and any smart contract platforms\nwe may use, there can be no assurance that such diligence will uncover all risks, including operational deficiencies, hidden vulnerabilities\nor legal noncompliance.\n\n \n\nAny insurance that may cover losses of our HYPE\nholdings may cover none or only a small fraction of the value of the entirety of our HYPE holdings, and there can be no guarantee that\nsuch insurance will be maintained as part of the custodial services we have or that such coverage will cover losses with respect to our\nHYPE. Moreover, our use of custodians exposes us to the risk that the HYPE our custodians hold on our behalf could be subject to insolvency\nproceedings and we could be treated as a general unsecured",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 30,
+    "total_chunks": 44,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_31",
+    "text": "Moreover, our use of custodians exposes us to the risk that the HYPE our custodians hold on our behalf could be subject to insolvency\nproceedings and we could be treated as a general unsecured creditor of the custodian, inhibiting our ability to exercise ownership rights\nwith respect to such HYPE. Any loss associated with such insolvency proceedings is unlikely to be covered by any insurance coverage we\nmay maintain related to our HYPE. The legal framework governing digital asset ownership and rights in custodial or insolvency contexts\nremains uncertain and continues to evolve, which could result in unexpected losses, protracted recovery processes or adverse treatment\nin insolvency proceedings.\n\n \n\nHYPE is controllable only by the possessor of\nboth the unique public key and private key(s) relating to the local or online digital wallet in which the HYPE is held. While the L1 blockchain\nledger requires a public key relating to a digital wallet to be published when used in a transaction, private keys must be safeguarded\nand kept private in order to prevent a third party from accessing the HYPE held in such wallet. To the extent the private key(s) for a\ndigital wallet are lost, destroyed, or otherwise compromised and no backup of the private key(s) is accessible, neither we nor our custodians\nwill be able to access the HYPE held in the related digital wallet. Furthermore, we cannot provide assurance that our digital wallets,\nnor the digital wallets of our custodians held on our",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 31,
+    "total_chunks": 44,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_32",
+    "text": "ustodians\nwill be able to access the HYPE held in the related digital wallet. Furthermore, we cannot provide assurance that our digital wallets,\nnor the digital wallets of our custodians held on our behalf, will not be compromised as a result of a cyberattack. The HYPE and blockchain\nledger, as well as other digital assets and blockchain technologies, have been, and may in the future be, subject to security breaches,\ncyberattacks or other malicious activities.\n\n \n\n \n\n \n\n \n\nAs part of our treasury management strategy, we\nmay engage in staking, restaking, or other permitted activities that involve the use of “smart contracts” or decentralized\napplications. The use of smart contracts or decentralized applications entails certain risks including risks stemming from the existence\nof an “admin key” or coding flaws that could be exploited, potentially allowing a bad actor to issue or otherwise compromise\nthe smart contract or decentralized application, potentially leading to a loss of our HYPE. Like all software code, smart contracts are\nexposed to risk that the code contains a bug or other security vulnerability, which can lead to loss of assets that are held on or transacted\nthrough the contract or decentralized application. Smart contracts and decentralized applications may contain bugs, security vulnerabilities\nor poorly designed permission structures that could result in the irreversible loss of HYPE or other digital assets. Exploits, including\nthose stemming from admin key",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 32,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_33",
+    "text": "ugs, security vulnerabilities\nor poorly designed permission structures that could result in the irreversible loss of HYPE or other digital assets. Exploits, including\nthose stemming from admin key misuse, admin key compromise, or protocol flaws, have occurred in the past and may occur in the future.\n\n \n\nOur historical financial statements do not\nreflect the potential variability in earnings that we may experience in the future relating to our HYPE holdings. \n\n \n\nBecause we only recently initiated our HYPE treasury\nstrategy, our historical financial statements do not reflect the potential variability in earnings that we may experience in the future\nfrom holding or selling significant amounts of HYPE. The price of digital assets have historically been subject to dramatic price fluctuations\nand is highly volatile. In December 2023, the Financial Accounting Standards Board issued Accounting Standards Update 2023-08, Intangibles—Goodwill\nand Other—Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets (“ASU 2023-08”), which we\nplan to adopt.\n\n \n\nASU 2023-08 requires us to measure our HYPE holdings\nat fair value in our statement of financial position, and to recognize gains and losses from changes in the fair value of our HYPE in\nnet income each reporting period. ASU 2023-08 also requires us to provide certain interim and annual disclosures with respect to our HYPE\nholdings. As a result, volatility in our earnings may be significantly more than what we",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 33,
+    "total_chunks": 44,
+    "char_count": 1495
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_34",
+    "text": "d. ASU 2023-08 also requires us to provide certain interim and annual disclosures with respect to our HYPE\nholdings. As a result, volatility in our earnings may be significantly more than what we experienced in prior periods.\n\n \n\nUnrealized fair value gains on our HYPE\nholdings could cause us to become subject to the corporate alternative minimum tax under the Inflation Reduction Act of 2022. \n\n \n\nThe United States enacted the Inflation Reduction\nAct of 2022 (“IRA”) in August 2022. Unless an exemption applies, the IRA imposes a 15% corporate alternative minimum tax (“CAMT”)\non a corporation with respect to an initial tax year and subsequent tax years, if the average annual adjusted financial statement income\nfor any consecutive three-tax-year period preceding the initial tax year exceeds $1 billion. On September 12, 2024, the Department of\nTreasury and the Internal Revenue Service issued proposed regulations with respect to the application of the CAMT.\n\n \n\nIn connection with the implementation of our HYPE\ntreasury strategy, we will adopt ASU 2023-08. ASU 2023-08 requires us to measure our HYPE holdings at fair value in our statement of financial\nposition, with gains and losses from changes in the fair value of our HYPE recognized in net income each reporting period. When determining\nwhether we are subject to CAMT and when calculating any related tax liability for an applicable tax year, the proposed regulations provide\nthat, among other adjustments, our adjusted financial",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 34,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_35",
+    "text": "ing\nwhether we are subject to CAMT and when calculating any related tax liability for an applicable tax year, the proposed regulations provide\nthat, among other adjustments, our adjusted financial statement income must include this ratable amount in addition to any unrealized\ngains or losses reported in the applicable tax year.\n\n \n\nAccordingly, as a result of the enactment of the\nIRA and our anticipated adoption of ASU 2023-08, unless the IRA is amended or the proposed regulations with respect to CAMT, when finalized,\nare revised to provide relief (or other interim relief is granted), we could become subject to the CAMT in future tax years. If we become\nsubject to the CAMT, it could result in a material tax obligation that we would need to satisfy in cash, which could materially affect\nour financial results, including our earnings and cash flow, and our financial condition.\n\n \n\n \n\n \n\n \n\nDue to the unregulated nature and lack of\ntransparency surrounding the operations of many HYPE trading venues, HYPE trading venues may experience greater fraud, security failures\nor regulatory or operational problems than trading venues for more established asset classes, which may result in a loss of confidence\nin HYPE trading venues and adversely affect the value of our HYPE. \n\n \n\nHYPE trading venues are relatively new and, in\nmany cases, unregulated. Furthermore, there are many HYPE trading venues which do not provide the public with significant information\nregarding their ownership",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 35,
+    "total_chunks": 44,
+    "char_count": 1492
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_36",
+    "text": "enues are relatively new and, in\nmany cases, unregulated. Furthermore, there are many HYPE trading venues which do not provide the public with significant information\nregarding their ownership structure, management teams, corporate practices and regulatory compliance. As a result, the marketplace may\nlose confidence in HYPE trading venues, including prominent exchanges that handle a significant volume of HYPE trading and/or are subject\nto regulatory oversight, in the event one or more HYPE trading venues cease or pause for a prolonged period the trading of HYPE or other\ndigital assets, or experience fraud, significant volumes of withdrawal, security failures or operational problems.\n\n \n\nThe SEC alleged as part of its June 5, 2023, complaint\nagainst Binance that Binance committed strategic and targeted “wash trading” through its affiliates to artificially inflate\nthe volume of certain digital assets traded on its exchange. The SEC has also brought recent actions against individuals and digital asset\nmarket participants alleging that such persons artificially increased trading volumes in certain digital assets through wash trades, or\nrepeated buying and selling of the same assets in fictitious transactions to manipulate their underlying trading price. Such reports and\nallegations may indicate that the HYPE market is significantly smaller than expected and that the United States makes up a significantly\nlarger percentage of the HYPE market than is commonly understood. Any",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 36,
+    "total_chunks": 44,
+    "char_count": 1493
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_37",
+    "text": "ay indicate that the HYPE market is significantly smaller than expected and that the United States makes up a significantly\nlarger percentage of the HYPE market than is commonly understood. Any actual or perceived wash trading in the HYPE market, and any other\nfraudulent or manipulative acts and practices, could adversely affect the value of our HYPE.\n\n \n\nNegative perception, a lack of stability in the\nbroader digital currency markets and the closure, temporary shutdown or operational disruption of HYPE trading venues, lending institutions,\ninstitutional investors, institutional miners, custodians, or other major participants in the HYPE ecosystem, due to fraud, business failure,\ncybersecurity events, government-mandated regulation, bankruptcy, or for any other reason, may result in a decline in confidence in HYPE\nand the broader digital currency ecosystem and greater volatility in the price of HYPE. For example, in 2022, each of Celsius Network,\nVoyager Digital, Three Arrows Capital, FTX, and BlockFi filed for bankruptcy, following which digital assets significantly declined. In\naddition, in June 2023, the SEC announced enforcement actions against Coinbase and Binance, two providers of large trading venues for\ndigital assets, which similarly was followed by a decrease in the market price of digital assets. These were followed in November 2023,\nby an SEC enforcement action against Payward Inc. and Payward Ventures Inc., together known as Kraken, another large trading venue",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 37,
+    "total_chunks": 44,
+    "char_count": 1497
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_38",
+    "text": "ket price of digital assets. These were followed in November 2023,\nby an SEC enforcement action against Payward Inc. and Payward Ventures Inc., together known as Kraken, another large trading venue for\ndigital assets. While the complaint against Coinbase was dismissed in February 2025, the complaint against Payward Inc. and Payward Ventures\nInc. was dismissed with prejudice in March 2025, and the complaint against Binance was dismissed on May 29, 2025, the SEC or other regulatory\nagencies may initiate similar actions in the future. As the price of our listed securities may be affected by the value of our HYPE holdings,\nthe failure of a major participant in the digital currency ecosystem could have a material adverse effect on the market price of our listed\nsecurities.\n\n \n\nThe concentration of our HYPE holdings could\nenhance the risks inherent in our HYPE treasury strategy. \n\n \n\nThe concentration of our HYPE holdings limits\nthe risk mitigation that we could achieve if we were to purchase a more diversified portfolio of treasury assets, and the absence of diversification\nenhances the risks inherent in our HYPE treasury strategy. Any future significant declines in the price of HYPE would have a more pronounced\nimpact on our financial condition than if we used our cash to purchase a more diverse portfolio of assets.\n\n \n\nThe emergence or growth of other digital\nassets, including those with significant private or public sector backing, could have a negative impact on the price of",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 38,
+    "total_chunks": 44,
+    "char_count": 1498
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_39",
+    "text": "more diverse portfolio of assets.\n\n \n\nThe emergence or growth of other digital\nassets, including those with significant private or public sector backing, could have a negative impact on the price of HYPE and adversely\naffect our business. \n\n \n\nAs a result of our HYPE treasury strategy, our\nassets are concentrated in our HYPE holdings. Accordingly, the emergence or growth of digital assets other than HYPE may have a material\nadverse effect on our financial condition. There are numerous alternative digital assets and many entities, including consortiums and\nfinancial institutions, are researching and investing resources into private or permissioned blockchain platforms or digital assets that\ndo not use proof-of-stake consensus mechanism like the Hyperliquid network. For example, in late 2022, the Ethereum network transitioned\nto a “proof-of-stake” mechanism for validating transactions that requires significantly less computing power than proof-of-work\nmining. The Ethereum network has completed another major upgrade since then and may undertake additional upgrades in the future. If the\nmechanisms for validating transactions in Ethereum and other alternative digital assets are perceived as superior to proof-of-work mining,\nthose digital assets could gain market share relative to HYPE.\n\n \n\n \n\n \n\n \n\nOur HYPE holdings will be less liquid than\nour cash and cash equivalents and may not be able to serve as a source of liquidity for us to the same extent as cash and cash",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 39,
+    "total_chunks": 44,
+    "char_count": 1484
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_40",
+    "text": ".\n\n \n\n \n\n \n\n \n\nOur HYPE holdings will be less liquid than\nour cash and cash equivalents and may not be able to serve as a source of liquidity for us to the same extent as cash and cash equivalents.\n\n \n\nHistorically, the cryptocurrency market has been\ncharacterized by significant volatility in price, limited liquidity and trading volumes compared to sovereign currencies markets, relative\nanonymity, a developing regulatory landscape, potential susceptibility to market abuse and manipulation, compliance and internal control\nfailures at exchanges, and various other risks inherent in its entirely electronic, virtual form and decentralized network. During times\nof market instability, we may not be able to sell our HYPE at favorable prices or at all. As a result, our HYPE holdings may not be able\nto serve as a source of liquidity for us to the same extent as cash and cash equivalents.\n\n \n\nFurther, the HYPE we hold with our custodians\nand transact with our trade execution partners does not enjoy the same protections as are available to cash or securities deposited with\nor transacted by institutions subject to regulation by the Federal Deposit Insurance Corporation or the Securities Investor Protection\nCorporation.\n\n \n\nAdditionally, we may be unable to enter into term\nloans or other capital raising transactions collateralized by our unencumbered HYPE or otherwise generate funds using our HYPE holdings,\nincluding in particular during times of market instability or when the price of",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 40,
+    "total_chunks": 44,
+    "char_count": 1496
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_41",
+    "text": "al raising transactions collateralized by our unencumbered HYPE or otherwise generate funds using our HYPE holdings,\nincluding in particular during times of market instability or when the price of HYPE has declined significantly. If we are unable to sell\nour HYPE, enter into additional capital raising transactions, including capital raising transactions using HYPE as collateral, or otherwise\ngenerate funds using our HYPE holdings, or if we are forced to sell our HYPE at a significant loss, in order to meet our working capital\nrequirements, our business and financial condition could be negatively impacted.\n\n \n\nItem",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "The Nasdaq Stock Market",
+    "chunk_index": 41,
+    "total_chunks": 44,
+    "char_count": 621
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_42",
+    "text": "(d) \nExhibits\n\n \n\nExhibit Number\n\nDescription\n\n99.1 \n\nPress Release, dated June 25, 2025.\n\n104\n\nCover Page Interactive Data File (embedded within the inline XBRL\ndocument).",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "9.01 Financial Statements and Exhibits.",
+    "chunk_index": 42,
+    "total_chunks": 44,
+    "char_count": 172
+  },
+  {
+    "chunk_id": "1682639_0001104659_25_063687_tm2519021d1_8k_43",
+    "text": "Pursuant to the requirements of the Securities\nExchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.\n\n \n\n \n\nEYENOVIA, INC.\n\n \n\n \n\n \n\nDated: June 27, 2025\n\nBy:\n\n/s/ Michael Rowe\n\n \n\n \n\nMichael Rowe",
+    "source": "SEC_EDGAR",
+    "document_name": "1682639_0001104659_25_063687_tm2519021d1_8k",
+    "section": "SIGNATURES",
+    "chunk_index": 43,
+    "total_chunks": 44,
+    "char_count": 279
+  }
+]

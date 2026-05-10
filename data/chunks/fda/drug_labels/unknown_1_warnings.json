@@ -1,0 +1,12 @@
+[
+  {
+    "chunk_id": "unknown_1_warnings_0",
+    "text": "DRUG: unknown\n============================================================\n\n## WARNINGS\nWarnings For external use only.\n\n## DOSAGE_AND_ADMINISTRATION\nDirections Protection Naturelle SPF 46 PA+++ Powder can be used on clean skin or over makeup. Shake lightly to activate the flow of powder. Sweep the brush all over the face to evenly distribute powder for immediate UVA/UVB protection.\n\n## INDICATIONS_AND_USAGE\nUses Multi-purpose mineral powder provides broad-spectrum SPF 46 PA+++ protection. Leaves the skin flawless and protected.",
+    "source": "FDA_DRUG_LABELS",
+    "document_name": "unknown_1_warnings",
+    "section": "General",
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "char_count": 534
+  }
+]
