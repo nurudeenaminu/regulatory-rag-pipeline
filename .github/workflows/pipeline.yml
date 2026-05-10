@@ -1,0 +1,51 @@
+name: Regulatory RAG Pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"  # Every Monday at 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "Reason for manual run"
+        required: false
+        default: "Manual trigger"
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create .env file from secrets
+        run: |
+          echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}" >> .env
+          echo "QDRANT_COLLECTION_NAME=regulatory_docs" >> .env
+          echo "SEC_USER_AGENT=${{ secrets.SEC_USER_AGENT }}" >> .env
+
+      - name: Create data directories
+        run: mkdir -p data/raw data/parsed data/chunks logs
+
+      - name: Run pipeline
+        run: python main.py
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-logs-${{ github.run_number }}
+          path: logs/pipeline.log
+          retention-days: 30
