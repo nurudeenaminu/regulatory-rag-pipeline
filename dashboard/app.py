@@ -51,26 +51,12 @@ EXAMPLE_QUERIES = [
 
 @st.cache_resource(show_spinner=False)
 def initialise_qdrant():
-    """
-    Build local Qdrant vector store from chunks on first run.
-
-    On Streamlit Cloud, the qdrant_local directory does not persist across
-    deployments. This function checks if the store exists and builds it
-    from the committed chunk JSON files if not.
-
-    Cached with st.cache_resource so it only runs once per session.
-
-    Returns:
-        True when the vector store is ready.
-    """
-    qdrant_path = Path("data/qdrant_local")
-
-    if not qdrant_path.exists() or not any(qdrant_path.iterdir()):
-        with st.spinner("Building vector index on first run — this takes a few minutes..."):
-            from embedder.embedder import embed_and_upsert
-            embed_and_upsert()
-
+    """Verify Qdrant connection on startup."""
+    from retriever.retriever import _get_client
+    _get_client()
     return True
+
+initialise_qdrant()
 
 
 # ── Core Pipeline Functions ───────────────────────────────────────────────────

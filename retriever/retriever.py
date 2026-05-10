@@ -21,6 +21,7 @@ from dotenv import load_dotenv
 from qdrant_client import QdrantClient
 from qdrant_client.models import Filter, FieldCondition, MatchValue
 from sentence_transformers import SentenceTransformer
+import os
 
 load_dotenv()
 
@@ -64,16 +65,17 @@ def _get_model() -> SentenceTransformer:
 
 
 def _get_client() -> QdrantClient:
-    """
-    Connect to local Qdrant and cache the client.
-
-    Returns:
-        Connected QdrantClient instance.
-    """
     global _client
     if _client is None:
-        _client = QdrantClient(path="data/qdrant_local")
-        logger.info("Connected to local Qdrant")
+        qdrant_url     = os.getenv("QDRANT_URL")
+        qdrant_api_key = os.getenv("QDRANT_API_KEY")
+
+        if qdrant_url and qdrant_api_key:
+            _client = QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
+            logger.info("Connected to Qdrant Cloud: %s", qdrant_url)
+        else:
+            _client = QdrantClient(path="data/qdrant_local")
+            logger.info("Connected to local Qdrant")
     return _client
 
 

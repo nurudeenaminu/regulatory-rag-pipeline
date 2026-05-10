@@ -126,9 +126,10 @@ def embed_and_upsert() -> int:
     Raises:
         EnvironmentError: If QDRANT_URL or QDRANT_API_KEY are missing.
     """
-    if not QDRANT_URL or not QDRANT_API_KEY:
-        raise EnvironmentError(
-            "QDRANT_URL and QDRANT_API_KEY must be set in .env"
+    if not os.getenv("QDRANT_URL") and not Path("data/qdrant_local").exists():
+        logger.warning(
+            "No QDRANT_URL set and no local Qdrant found — "
+            "will create local store at data/qdrant_local"
         )
 
     # ── Load all chunks ───────────────────────────────────────────────────────
@@ -168,9 +169,15 @@ def embed_and_upsert() -> int:
     logger.info("Model loaded successfully")
 
     # ── Connect to Qdrant ─────────────────────────────────────────────────────
-    client = QdrantClient(path="data/qdrant_local")
-    logger.info("Using local Qdrant storage at data/qdrant_local")
+    qdrant_url     = os.getenv("QDRANT_URL")
+    qdrant_api_key = os.getenv("QDRANT_API_KEY")
 
+    if qdrant_url and qdrant_api_key:
+        client = QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
+        logger.info("Connected to Qdrant Cloud: %s", qdrant_url)
+    else:
+        client = QdrantClient(path="data/qdrant_local")
+        logger.info("Using local Qdrant storage at data/qdrant_local")
     _ensure_collection(client)
 
     # ── Embed and upsert in batches ───────────────────────────────────────────
