@@ -26,7 +26,18 @@ st.set_page_config(
 )
 
 # ── Config ────────────────────────────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY", "")
+try:
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY") or st.secrets["GROQ_API_KEY"]
+except Exception:
+    GROQ_API_KEY = ""
+
+try:
+    QDRANT_URL     = os.getenv("QDRANT_URL") or st.secrets["QDRANT_URL"]
+    QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or st.secrets["QDRANT_API_KEY"]
+except Exception:
+    QDRANT_URL     = ""
+    QDRANT_API_KEY = ""
+    
 GROQ_MODEL   = "llama-3.3-70b-versatile"
 
 SOURCES = {
