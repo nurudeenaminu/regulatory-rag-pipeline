@@ -10,7 +10,7 @@
 
 > An end-to-end RAG pipeline that scrapes, parses, chunks, embeds, and makes queryable 137 regulatory documents across SEC EDGAR, FDA drug labels, OSHA workplace safety standards, and US AI policy — with a FastAPI query endpoint, Streamlit dashboard, Qdrant Cloud vector store, Docker deployment, and fully automated weekly re-indexing via GitHub Actions.
 
-**[Live Dashboard →](regulatory-rag-pipeline.streamlit.app)** &nbsp;|&nbsp; **[API Usage →](#api-usage)**
+**[Live Dashboard →](https://regulatory-rag-pipeline.streamlit.app)** &nbsp;|&nbsp; **[API Usage →](#api-usage)**
 
 ---
 
